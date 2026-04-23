@@ -3,7 +3,7 @@ tipo: plan
 rol: currículum-maestro
 actualizado: 2026-04-23
 eje_principal: paleontología
-progreso: N0-N4 completo en las 5 disciplinas + N5 en química
+progreso: N0-N5 completo en paleontología, geología y biología + N0-N5 en química + N0-N4 en antropología
 ---
 
 # 🧭 Plan de Aprendizaje — Ciencias
@@ -12,7 +12,7 @@ Recorrido de **lo más básico a lo más específico** para cada disciplina del 
 
 ## Estado
 
-✅ **N0 completo** en las 5 disciplinas · ✅ **N1-N4 completo** en las 5 disciplinas · ✅ **N5 completo** en química · **N5 restantes** cubiertos por casos existentes en cada disciplina.
+✅ **N0-N4 completo** en las 5 disciplinas · ✅ **N5 profundo** en paleontología (6 grupos específicos), geología (historia de la Tierra), biología (temas avanzados: virus, biomas, ecología, simbiosis, epigenética, hongos) y química (5 notas de reacciones y termodinámica) · 44 notas de **casos reales** organizadas en subcarpetas temáticas.
 
 ## Metodología
 
@@ -54,8 +54,16 @@ Recorrido de **lo más básico a lo más específico** para cada disciplina del 
 - [x] **Cefalópodos fósiles** (ammonites, nautilos, belemnites) → [[Cefalópodos fósiles]]
 - [x] **Homínidos fósiles** → [[Homínidos fósiles]]
 
-### N5 — Casos específicos
-Todas las notas en `Paleontología/` (casos reales de ScienceDaily), más [[MOC Evolución de la vida en tierra]].
+### N5 — Grupos específicos (profundización)
+- [x] [[Pterosaurios]] — primeros vertebrados voladores.
+- [x] [[Reptiles marinos mesozoicos]] — ictiosaurios, plesiosaurios, mosasaurios.
+- [x] [[Aves - evolución y radiación]] — de terópodos a aves modernas.
+- [x] [[Cetáceos - de terrestres a marinos]] — transición evolutiva documentada.
+- [x] [[Megafauna pleistocena]] — mamuts, perezosos gigantes, Smilodon.
+- [x] [[Lagerstätten famosos]] — Burgess, Solnhofen, Messel, La Brea, Yixian.
+
+### N6 — Casos reales
+Todas las notas en `Paleontología/Casos - */` + [[MOC Evolución de la vida en tierra]].
 
 ---
 
@@ -86,12 +94,18 @@ Todas las notas en `Paleontología/` (casos reales de ScienceDaily), más [[MOC 
 - [x] Filos animales principales → [[Filos animales]]
 - [x] Vertebrados: clases → [[Vertebrados - clases]]
 
-### N5 — Ramas y casos
-Casos reales en `Biología/`:
-- **Herpetología** ↔ [[Pitviper verde China - especie oculta]], [[Pit viper Ayeyarwady - Myanmar]].
-- **Entomología** ↔ [[Trampa para termitas - pineno]].
-- **Ornitología** ↔ [[Aves de Hawái - mito refutado]].
-- **Fotorrecepción / visión** ↔ [[Libélulas - visión de rojo profundo]].
+### N5 — Temas avanzados (profundización)
+- [x] [[Virus y viroides]] — entidades biológicas entre lo vivo y lo no vivo.
+- [x] [[Biomas del mundo]] — 11 biomas terrestres + acuáticos + biogeografía.
+- [x] [[Ecología y cadenas tróficas]] — productores, niveles, pirámides, cascadas.
+- [x] [[Simbiosis]] — mutualismo, comensalismo, parasitismo, coevolución.
+- [x] [[Epigenética]] — metilación, histonas, ARNs no codificantes, herencia.
+- [x] [[Hongos - reino fungi]] — estructura, ecología, usos humanos.
+
+### N6 — Casos
+Casos reales en `Biología/Casos - */`:
+- Herpetología, entomología, ornitología, fotorrecepción (casos originales).
+- Biología celular y molecular, ecología, botánica (nuevas).
 
 ---
 
@@ -123,11 +137,17 @@ Casos reales en `Biología/`:
 - [x] Rocas sedimentarias → [[Rocas sedimentarias]]
 - [x] Rocas metamórficas → [[Rocas metamórficas]]
 
-### N5 — Tiempo geológico
-Compartido con [[Escala del tiempo geológico]] (en Paleontología N2).
+### N5 — Historia de la Tierra (profundización)
+- [x] [[Formación de la Tierra y Hadeico]] — nebulosa, acreción, Theia, primeros océanos.
+- [x] [[Oxigenación atmosférica]] — Gran Evento de Oxigenación, BIFs, cianobacterias.
+- [x] [[Karst y cuevas]] — disolución de calizas, espeleotemas, paleoclima.
+- [x] [[Suelos y edafología]] — factores, perfil, tipos de suelo.
 
-### N6 — Casos
-Todas las notas en `Geología/` + [[MOC Planeta cambiante]].
+### N6 — Tiempo geológico (compartido)
+Ver [[Escala del tiempo geológico]] (Paleontología N2).
+
+### N7 — Casos
+Todas las notas en `Geología/Casos - */` + [[MOC Planeta cambiante]].
 
 ---
 

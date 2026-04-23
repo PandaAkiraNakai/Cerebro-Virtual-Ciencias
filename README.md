@@ -8,9 +8,9 @@ Eje del vault: **paleontología** — las demás disciplinas son ramas que la su
 
 | Disciplina | Notas de fundamentos | Notas de casos |
 |---|---|---|
-| Paleontología (eje) | 15 (N0–N4) | 8 |
-| Biología | 14 (N0–N4) | 5 |
-| Geología | 15 (N0–N4) | 5 |
+| Paleontología (eje) | 21 (N0–N5) | 14 |
+| Biología | 20 (N0–N5) | 11 |
+| Geología | 19 (N0–N5) | 9 |
 | Antropología | 12 (N0–N4) | 5 |
 | Química | 17 (N0–N5) | 5 |
 
@@ -94,7 +94,7 @@ Obsidian Ciencias/
 
 ## Estado actual
 
-**108 notas** · 5 disciplinas con **currículum N0–N4(N5) completo** · eje paleontología · 6 MOCs temáticos transversales · 28 notas de casos reales de [ScienceDaily](https://www.sciencedaily.com/) · catálogo de ~90 fuentes bibliográficas · plan de aprendizaje con checkboxes tachados.
+**137 notas** · paleontología, geología y biología con **currículum N0–N5 completo** (fundamentos + profundización) · química N0–N5 · antropología N0–N4 · eje paleontología · 6 MOCs temáticos transversales · 44 notas de casos reales de [ScienceDaily](https://www.sciencedaily.com/) organizadas en subcarpetas temáticas · catálogo de ~90 fuentes bibliográficas · plan de aprendizaje con checkboxes tachados.
 
 ## Cómo usarlo
 

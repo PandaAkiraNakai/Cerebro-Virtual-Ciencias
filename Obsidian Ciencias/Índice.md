@@ -2,7 +2,7 @@
 tipo: MOC
 rol: índice-maestro
 actualizado: 2026-04-23
-notas_totales: 108
+notas_totales: 137
 fuente_base: ScienceDaily
 eje_principal: paleontología
 ---
@@ -11,7 +11,7 @@ eje_principal: paleontología
 
 > **Punto de entrada del vault.** Siempre consultar aquí primero. Toda nota nueva debe agregarse a este índice.
 
-**Estado actual**: 108 notas · 5 disciplinas con **N0-N4(N5) completos** · eje paleontología con ramas a geología, antropología, biología y química · 6 MOCs temáticos · 1 catálogo de fuentes · 1 plan de aprendizaje · 28 notas de casos reales (ScienceDaily). Currículum en [[Plan de Aprendizaje]]. Catálogo de fuentes en [[Fuentes]].
+**Estado actual**: 137 notas · 5 disciplinas con **N0-N5 completos** en paleontología, geología, biología y química · N0-N4 en antropología · 6 MOCs temáticos · 1 catálogo de fuentes · 1 plan de aprendizaje · 44 notas de casos reales organizadas en subcarpetas temáticas. Currículum en [[Plan de Aprendizaje]]. Catálogo de fuentes en [[Fuentes]].
 
 ## Cómo navegar
 
@@ -54,21 +54,36 @@ eje_principal: paleontología
 - [[Cefalópodos fósiles]] — nautilos, ammonites, belemnites, coleoideos.
 - [[Homínidos fósiles]] — del Mioceno a *H. sapiens*.
 
-### N5 — Casos reales (dinosaurios)
+### N5 — Grupos específicos (profundización)
+- [[Pterosaurios]] — primer vuelo vertebrado.
+- [[Reptiles marinos mesozoicos]] — ictiosaurios, plesiosaurios, mosasaurios.
+- [[Aves - evolución y radiación]] — de terópodos a aves modernas.
+- [[Cetáceos - de terrestres a marinos]] — transición evolutiva mejor documentada.
+- [[Megafauna pleistocena]] — mamuts, Smilodon, perezosos gigantes.
+- [[Lagerstätten famosos]] — Burgess, Solnhofen, Messel, La Brea, Yixian.
+
+### Casos reales — dinosaurios
 - [[Ankylosaurios juveniles - Fósiles diminutos]]
 - [[Nanotyrannus - Especie propia]]
 - [[Dinosaurio carnívoro desconocido - Virginia Tech]]
+- [[Doolysaurus - bebé dinosaurio en Corea]]
+- [[Nido de oviraptor - reconstrucción experimental]]
+- [[Alnashetri cerropoliciensis - alvarezsaurio patagónico]]
 
-### N5 — Casos reales (reptiles pérmico-triásicos)
+### Casos reales — reptiles pérmico-triásicos
 - [[Captorhinus - Reptil momificado respiración]]
 - [[Lystrosaurus - Ancestros de mamíferos ponían huevos]]
 
-### N5 — Casos reales (crocodilomorfos)
+### Casos reales — crocodilomorfos
 - [[Sonselasuchus - Cocodrilo bípedo]]
 - [[Deinosuchus schwimmeri - Cocodrilo terror]]
 
-### N5 — Casos reales (cefalópodos)
+### Casos reales — cefalópodos
 - [[Fósil mal identificado - Nautilus no pulpo]]
+
+### Casos reales — invertebrados y artrópodos
+- [[Garra de 500 millones de años reescribe origen de arañas]]
+- [[Abejas antiguas nidificaron en huesos fósiles]]
 
 ---
 
@@ -99,12 +114,38 @@ eje_principal: paleontología
 - [[Filos animales]] — Porifera a Chordata, explosión cámbrica.
 - [[Vertebrados - clases]] — peces, anfibios, reptiles/aves, mamíferos.
 
-### N5 — Casos reales
+### N5 — Temas avanzados (profundización)
+- [[Virus y viroides]] — entre lo vivo y lo no vivo, clasificación Baltimore.
+- [[Biomas del mundo]] — terrestres y acuáticos + biogeografía.
+- [[Ecología y cadenas tróficas]] — pirámides, ciclos, especies clave.
+- [[Simbiosis]] — mutualismo, parasitismo, coevolución, endosimbiosis.
+- [[Epigenética]] — metilación, histonas, herencia transgeneracional.
+- [[Hongos - reino fungi]] — estructura, ecología, usos humanos.
+
+### Casos reales — herpetología
 - [[Pitviper verde China - especie oculta]]
 - [[Pit viper Ayeyarwady - Myanmar]]
+
+### Casos reales — entomología
 - [[Trampa para termitas - pineno]]
+
+### Casos reales — ornitología
 - [[Aves de Hawái - mito refutado]]
+
+### Casos reales — fotorrecepción
 - [[Libélulas - visión de rojo profundo]]
+
+### Casos reales — biología celular y molecular
+- [[Pearling mitocondrial - organización de ADN]]
+- [[Segundo código en el ADN - silenciamiento selectivo]]
+- [[Cianobacterias reorganizan maquinaria del ADN]]
+
+### Casos reales — ecología
+- [[Microbioma intestinal se transmite por proximidad social]]
+- [[Salmones enlatados revelan recuperación oceánica]]
+
+### Casos reales — botánica
+- [[La luz fortalece pero también frena a las plantas]]
 
 ---
 
@@ -129,6 +170,8 @@ eje_principal: paleontología
 - [[Vulcanismo]] — magmas, erupciones, LIPs.
 - [[Sismos]] — ondas, escalas, tsunamis.
 - [[Glaciaciones]] — ciclos de Milankovitch, LGM, Holoceno.
+- [[Karst y cuevas]] — disolución de carbonatos, espeleotemas.
+- [[Suelos y edafología]] — factores, perfil, tipos.
 
 ### N4 — Minerales y rocas
 - [[Minerales - definición y clasificación]] — Mohs, Strunz, silicatos.
@@ -136,12 +179,31 @@ eje_principal: paleontología
 - [[Rocas sedimentarias]] — clásticas, químicas, biogénicas.
 - [[Rocas metamórficas]] — foliación, grados, facies.
 
-### N5/N6 — Casos reales
+### N5 — Historia de la Tierra
+- [[Formación de la Tierra y Hadeico]] — nebulosa, acreción, Theia.
+- [[Oxigenación atmosférica]] — Gran Evento de Oxigenación, cianobacterias.
+
+### Casos reales — interior de la Tierra
 - [[Deformaciones en el manto profundo]]
+- [[Granito gigante bajo el Glaciar Pine Island]]
+- [[King's Trough - cañón submarino atlántico]]
+
+### Casos reales — superficie y costas
 - [[Deltas fluviales hundimiento]]
 - [[Doggerland - Bosques sumergidos]]
+
+### Casos reales — mineralogía
 - [[Problema de la dolomita resuelto]]
+
+### Casos reales — glaciología
 - [[Groenlandia deshielo hace 7000 años]]
+- [[Glaciar Hektoria - colapso récord]]
+
+### Casos reales — sismos
+- [[Falla de Myanmar filmada en tiempo real]]
+
+### Casos reales — hidrología
+- [[Reservorio de agua dulce bajo Great Salt Lake]]
 
 ---
 
