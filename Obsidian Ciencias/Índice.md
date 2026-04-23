@@ -16,9 +16,9 @@ eje_principal: paleontología
 ## Cómo navegar
 
 - **Carpetas `Nn - Tema/`** dentro de cada disciplina = **fundamentos teóricos** del nivel (N0 básico → N5 especializado).
-- **Carpetas y notas directas** (sin prefijo `Nn`) en cada disciplina = **casos reales** (de ScienceDaily).
-- **`_MOC/`** = índices temáticos transversales.
-- **`_Fuentes/`** = catálogo de repositorios.
+- **Carpetas `Casos - <Tema>/`** dentro de cada disciplina = **notas de casos reales** agrupados por subtema (dinosaurios, homínidos, materiales, etc.), extraídos de [ScienceDaily](https://www.sciencedaily.com/) y otras fuentes.
+- **`_MOC/`** = índices temáticos transversales entre disciplinas.
+- **`_Fuentes/`** = catálogo de repositorios autorizados.
 - **`_Plan/`** = plan de aprendizaje con checkboxes.
 
 ---
