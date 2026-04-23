@@ -1,0 +1,13 @@
+# Claude Code local settings (máquina-específico)
+.claude/
+
+# Estado de workspace de Obsidian (cambia con cada sesión)
+Obsidian Ciencias/.obsidian/workspace.json
+Obsidian Ciencias/.obsidian/workspace-mobile.json
+Obsidian Ciencias/.obsidian/workspaces.json
+
+# Sistema
+.DS_Store
+Thumbs.db
+*.swp
+*~
