@@ -10,7 +10,7 @@ Eje del vault: **paleontología** — las demás disciplinas son ramas que la su
 |---|---|---|
 | Paleontología (eje) | 43 (N0–N5, incluye 18 taxa/eventos icónicos) | 14 |
 | Biología | 21 (N0–N5) | 14 |
-| Geología | 20 (N0–N5) | 14 |
+| Geología | 30 (N0–N5, incluye eras + eones + 4 ciclos profundos) | 14 |
 | Antropología | 12 (N0–N4) | 5 |
 | Química | 17 (N0–N5) | 7 |
 
@@ -101,7 +101,7 @@ Obsidian Ciencias/
 
 ## Estado actual
 
-**176 notas** · paleontología, geología y biología con **currículum N0–N5 completo** (fundamentos + profundización) · química N0–N5 · antropología N0–N4 · eje paleontología · 6 MOCs temáticos transversales · 54 notas de casos reales de [ScienceDaily](https://www.sciencedaily.com/) y otras fuentes, organizadas en subcarpetas temáticas · 18 páginas dedicadas a taxones y eventos paleontológicos icónicos (T. rex, Archaeopteryx, Tiktaalik, Chicxulub, Lucy, etc.) · catálogo de ~130 fuentes bibliográficas con estadísticas verificadas · plan de aprendizaje con checkboxes tachados.
+**186 notas** · paleontología, geología y biología con **currículum N0–N5 completo** (fundamentos + profundización) · química N0–N5 · antropología N0–N4 · eje paleontología · 6 MOCs temáticos transversales · 54 notas de casos reales de [ScienceDaily](https://www.sciencedaily.com/) y otras fuentes, organizadas en subcarpetas temáticas · 18 páginas dedicadas a taxones y eventos paleontológicos icónicos · 10 páginas de historia geológica profunda (eras, eones, ciclos de Wilson/supercontinentes/Milankovitch/carbono) · catálogo de ~130 fuentes bibliográficas con estadísticas verificadas · plan de aprendizaje con checkboxes tachados.
 
 ### Última actualización (2026-04-24)
 

@@ -2,7 +2,7 @@
 tipo: MOC
 rol: índice-maestro
 actualizado: 2026-04-24
-notas_totales: 176
+notas_totales: 186
 fuente_base: ScienceDaily + colecciones museísticas + bases especializadas
 eje_principal: paleontología
 ---
@@ -11,13 +11,15 @@ eje_principal: paleontología
 
 > **Punto de entrada del vault.** Siempre consultar aquí primero. Toda nota nueva debe agregarse a este índice.
 
-**Estado actual**: 176 notas · 5 disciplinas con **N0-N5 completos** en paleontología, geología, biología y química · N0-N4 en antropología · 6 MOCs temáticos · 1 catálogo de fuentes ampliado (museos digitales + agregadores de biocolecciones + bases genómicas/proteómicas + recursos educativos Tier 1/2) · 1 plan de aprendizaje · 54 notas de casos reales + **18 taxones y eventos icónicos** (T. rex, Archaeopteryx, Tiktaalik, Chicxulub, Explosión cámbrica, Trapps Siberianos, Lucy, mamut lanudo, Smilodon, Quetzalcoatlus, Mosasaurus, Anomalocaris, Dimetrodon, Spinosaurus, Velociraptor, titanosaurios, dinosaurios emplumados, Acanthostega/Ichthyostega). Currículum en [[Plan de Aprendizaje]]. Catálogo de fuentes en [[Fuentes]].
+**Estado actual**: 186 notas · 5 disciplinas con **N0-N5 completos** en paleontología, geología, biología y química · N0-N4 en antropología · 6 MOCs temáticos · 1 catálogo de fuentes ampliado (museos digitales + agregadores de biocolecciones + bases genómicas/proteómicas + recursos educativos Tier 1/2) · 1 plan de aprendizaje · 54 notas de casos reales + **18 taxones y eventos icónicos** paleo (T. rex, Archaeopteryx, Tiktaalik, Chicxulub, Lucy…) + **10 páginas de historia geológica profunda** (eras Paleozoico/Mesozoico/Cenozoico + eones Arcaico/Proterozoico + Tierra bola de nieve + ciclos de Wilson, supercontinentes, Milankovitch y carbono geológico). Currículum en [[Plan de Aprendizaje]]. Catálogo de fuentes en [[Fuentes]].
 
 > **Actualización 2026-04-24**: el catálogo [[Fuentes]] ahora incluye colecciones digitales del Smithsonian, NHM Londres, AMNH, UCMP Berkeley, Florida Museum y PRI; agregadores de biocolecciones (GBIF, iDigBio, Arctos, DiSSCo, VertNet); Biodiversity Heritage Library (BHL); y bases genómicas/proteómicas (KEGG, OMA, STRING, InterPro, Bgee, GeneCards) con **estadísticas verificadas** (Macrostrat, KEGG, STRING, Bgee, ITIS, UCSC). Agregadas **5 notas de casos** con contenido extraído de las nuevas fuentes consultadas: esponja sin esqueleto (550 Ma), GOFLOW (corrientes oceánicas con IA), moringa (microplásticos), metano oceánico microbiano, y fonones quirales (control electrónico sin imanes).
 
 > **Actualización 2026-04-24 (tarde-noche)**: 5 nuevos casos desde ScienceDaily (secciones Plants & Animals y Earth/Climate): [[Glaciares surgentes - 3100 identificados]] (glaciología), [[Corriente Circumpolar Antártica - formación compleja]] (oceanografía), [[Abejas híbridas californianas resisten CCD]] (entomología), [[Ballenas grises entran a la Bahía de San Francisco]] (ecología marina), [[Químicos permitidos frenan recuperación del ozono]] (química atmosférica). Sección paleontología de ScienceDaily **verificada completa** (todos los titulares actuales ya estaban en el vault).
 
 > **Actualización 2026-04-24 (expansión paleo)**: análisis sistemático de las N4/N5 de paleontología y creación de **18 notas** para taxones y eventos icónicos que eran solo mencionados en notas mayores: 15 taxa en N5 (*T. rex*, *Spinosaurus*, *Velociraptor*, *Archaeopteryx*, *Tiktaalik*, *Acanthostega/Ichthyostega*, *Dimetrodon*, *Anomalocaris*, *Quetzalcoatlus*, *Mosasaurus*, *Smilodon*, mamut lanudo, Lucy/*A. afarensis*, dinosaurios emplumados de Jehol, titanosaurios patagónicos) + 3 eventos en N2 ([[Explosión cámbrica]], [[Trapps Siberianos - la Gran Mortandad]], [[Impacto de Chicxulub]]).
+
+> **Actualización 2026-04-24 (expansión geológica)**: 10 notas nuevas sobre **historia y ciclos profundos de la Tierra**. En N5 — Historia de la Tierra: [[Arcaico]] (4.000-2.500 Ma, primera vida, komatitas), [[Proterozoico]] (2.500-539 Ma, GEO, Rodinia, Ediacara), [[Tierra bola de nieve]] (Criogénico, feedback runaway), [[Paleozoico]] (Cámbrico-Pérmico), [[Mesozoico]] (Triásico-Cretácico), [[Cenozoico]] (era mamífera). En N3 — Procesos y ciclos: [[Ciclo de Wilson]], [[Ciclo de supercontinentes]], [[Ciclos de Milankovitch]], [[Ciclo del carbono geológico]].
 
 ## Cómo navegar
 
@@ -210,6 +212,10 @@ eje_principal: paleontología
 - [[Glaciaciones]] — ciclos de Milankovitch, LGM, Holoceno.
 - [[Karst y cuevas]] — disolución de carbonatos, espeleotemas.
 - [[Suelos y edafología]] — factores, perfil, tipos.
+- [[Ciclo de Wilson]] — apertura/cierre de una cuenca oceánica (250-500 Ma).
+- [[Ciclo de supercontinentes]] — Vaalbara → Columbia → Rodinia → Pangea → Amasia.
+- [[Ciclos de Milankovitch]] — excentricidad, oblicuidad, precesión; glaciaciones del Pleistoceno.
+- [[Ciclo del carbono geológico]] — termostato silicato-carbonato, Antropoceno.
 
 ### N4 — Minerales y rocas
 - [[Minerales - definición y clasificación]] — Mohs, Strunz, silicatos.
@@ -219,7 +225,13 @@ eje_principal: paleontología
 
 ### N5 — Historia de la Tierra
 - [[Formación de la Tierra y Hadeico]] — nebulosa, acreción, Theia.
+- [[Arcaico]] — vida microbiana, komatitas, primeros cratones (4.000-2.500 Ma).
 - [[Oxigenación atmosférica]] — Gran Evento de Oxigenación, cianobacterias.
+- [[Proterozoico]] — GEO, Rodinia, reproducción sexual, Ediacara (2.500-539 Ma).
+- [[Tierra bola de nieve]] — Criogénico, glaciaciones globales, feedback runaway.
+- [[Paleozoico]] — Cámbrico → Pérmico, colonización terrestre, Pangea (539-252 Ma).
+- [[Mesozoico]] — Triásico → Cretácico, era de reptiles, ruptura de Pangea (252-66 Ma).
+- [[Cenozoico]] — era de mamíferos, enfriamiento secular, glaciaciones (66 Ma-presente).
 
 ### Casos reales — interior de la Tierra
 - [[Deformaciones en el manto profundo]]
