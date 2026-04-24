@@ -24,17 +24,8 @@ COPY quartz.config.ts quartz.layout.ts ./
 RUN rm -rf content
 COPY ["Obsidian Ciencias", "./content"]
 
-# Home page: el vault usa "Índice.md" como punto de entrada.
-# Quartz necesita `content/index.md` para renderizar "/".
-# Creamos un index.md con frontmatter de título + embed del Índice original,
-# así los wikilinks [[Índice]] del vault siguen funcionando.
-RUN printf '%s\n' \
-    '---' \
-    'title: Cerebro Virtual de Ciencias' \
-    '---' \
-    '' \
-    '![[Índice]]' \
-    > content/index.md
+# Home: nginx redirige "/" → "/Índice" (ver nginx.conf). Quartz emite un
+# warning inofensivo por la ausencia de content/index.md; no es fatal.
 
 # Construir sitio estático → /build/public
 RUN npx quartz build
