@@ -2,7 +2,7 @@
 tipo: MOC
 rol: índice-maestro
 actualizado: 2026-04-24
-notas_totales: 186
+notas_totales: 201
 fuente_base: ScienceDaily + colecciones museísticas + bases especializadas
 eje_principal: paleontología
 ---
@@ -11,7 +11,7 @@ eje_principal: paleontología
 
 > **Punto de entrada del vault.** Siempre consultar aquí primero. Toda nota nueva debe agregarse a este índice.
 
-**Estado actual**: 186 notas · 5 disciplinas con **N0-N5 completos** en paleontología, geología, biología y química · N0-N4 en antropología · 6 MOCs temáticos · 1 catálogo de fuentes ampliado (museos digitales + agregadores de biocolecciones + bases genómicas/proteómicas + recursos educativos Tier 1/2) · 1 plan de aprendizaje · 54 notas de casos reales + **18 taxones y eventos icónicos** paleo (T. rex, Archaeopteryx, Tiktaalik, Chicxulub, Lucy…) + **10 páginas de historia geológica profunda** (eras Paleozoico/Mesozoico/Cenozoico + eones Arcaico/Proterozoico + Tierra bola de nieve + ciclos de Wilson, supercontinentes, Milankovitch y carbono geológico). Currículum en [[Plan de Aprendizaje]]. Catálogo de fuentes en [[Fuentes]].
+**Estado actual**: 201 notas · 5 disciplinas con **N0-N5 completos** en paleontología, geología, biología, química **y ahora también antropología** · 6 MOCs temáticos · 1 catálogo de fuentes ampliado (museos digitales + agregadores de biocolecciones + bases genómicas/proteómicas + recursos educativos Tier 1/2) · 1 plan de aprendizaje · 62 notas de casos reales + **18 taxones y eventos icónicos** paleo (T. rex, Archaeopteryx, Tiktaalik, Chicxulub, Lucy…) + **10 páginas de historia geológica profunda** (eras Paleozoico/Mesozoico/Cenozoico + eones Arcaico/Proterozoico + Tierra bola de nieve + ciclos de Wilson, supercontinentes, Milankovitch y carbono geológico). Currículum en [[Plan de Aprendizaje]]. Catálogo de fuentes en [[Fuentes]].
 
 > **Actualización 2026-04-24**: el catálogo [[Fuentes]] ahora incluye colecciones digitales del Smithsonian, NHM Londres, AMNH, UCMP Berkeley, Florida Museum y PRI; agregadores de biocolecciones (GBIF, iDigBio, Arctos, DiSSCo, VertNet); Biodiversity Heritage Library (BHL); y bases genómicas/proteómicas (KEGG, OMA, STRING, InterPro, Bgee, GeneCards) con **estadísticas verificadas** (Macrostrat, KEGG, STRING, Bgee, ITIS, UCSC). Agregadas **5 notas de casos** con contenido extraído de las nuevas fuentes consultadas: esponja sin esqueleto (550 Ma), GOFLOW (corrientes oceánicas con IA), moringa (microplásticos), metano oceánico microbiano, y fonones quirales (control electrónico sin imanes).
 
@@ -20,6 +20,8 @@ eje_principal: paleontología
 > **Actualización 2026-04-24 (expansión paleo)**: análisis sistemático de las N4/N5 de paleontología y creación de **18 notas** para taxones y eventos icónicos que eran solo mencionados en notas mayores: 15 taxa en N5 (*T. rex*, *Spinosaurus*, *Velociraptor*, *Archaeopteryx*, *Tiktaalik*, *Acanthostega/Ichthyostega*, *Dimetrodon*, *Anomalocaris*, *Quetzalcoatlus*, *Mosasaurus*, *Smilodon*, mamut lanudo, Lucy/*A. afarensis*, dinosaurios emplumados de Jehol, titanosaurios patagónicos) + 3 eventos en N2 ([[Explosión cámbrica]], [[Trapps Siberianos - la Gran Mortandad]], [[Impacto de Chicxulub]]).
 
 > **Actualización 2026-04-24 (expansión geológica)**: 10 notas nuevas sobre **historia y ciclos profundos de la Tierra**. En N5 — Historia de la Tierra: [[Arcaico]] (4.000-2.500 Ma, primera vida, komatitas), [[Proterozoico]] (2.500-539 Ma, GEO, Rodinia, Ediacara), [[Tierra bola de nieve]] (Criogénico, feedback runaway), [[Paleozoico]] (Cámbrico-Pérmico), [[Mesozoico]] (Triásico-Cretácico), [[Cenozoico]] (era mamífera). En N3 — Procesos y ciclos: [[Ciclo de Wilson]], [[Ciclo de supercontinentes]], [[Ciclos de Milankovitch]], [[Ciclo del carbono geológico]].
+
+> **Actualización 2026-04-24 (15 notas — nivelado N0→N5 + N5 antro)**: nueva pasada de WebFetch sobre ScienceDaily y reorganización estructural. (1) **Antropología N5 creada** como capa real de profundización con 4 notas: [[Paleogenómica humana]], [[Genética de poblaciones humanas]], [[Origen del lenguaje]], [[Antropología forense]]. (2) **3 fundamentos** que faltaban: [[Edad de la Tierra]] (Geo N1), [[Método científico en biología]] (Bio N0), [[Historia de la química]] (Quím N0). (3) **8 nuevos casos**: [[Fósiles en óxido de hierro - bosque miocénico australiano]] (paleo, Lagerstätte de óxido de hierro en NSW), [[Huellas de dinosaurio 132 Ma - Sudáfrica]] (icnología post-LIP), [[Hielo antártico - misterio climático de 3 millones de años]] (geo, Plio-Pleistoceno), [[Hongo ostra dorada - invasor en Florida]] (bio, bioinvasión fúngica), [[Grafeno - flujo electrónico cuántico sin fricción]] (quím, hidrodinámica electrónica), [[Gen denisovano MUC19 - poblamiento de América]] (antro, introgresión adaptativa), [[Plomo y evolución humana - exposición prehistórica]] (antro, neuroevolución), [[Peste de Justiniano - fosa común en Jordania]] (antro, paleomicrobiología).
 
 ## Cómo navegar
 
@@ -105,6 +107,7 @@ eje_principal: paleontología
 - [[Doolysaurus - bebé dinosaurio en Corea]]
 - [[Nido de oviraptor - reconstrucción experimental]]
 - [[Alnashetri cerropoliciensis - alvarezsaurio patagónico]]
+- [[Huellas de dinosaurio 132 Ma - Sudáfrica]] — icnología post-LIP en Gondwana
 
 ### Casos reales — reptiles pérmico-triásicos
 - [[Captorhinus - Reptil momificado respiración]]
@@ -121,6 +124,7 @@ eje_principal: paleontología
 - [[Garra de 500 millones de años reescribe origen de arañas]]
 - [[Abejas antiguas nidificaron en huesos fósiles]]
 - [[Esponja sin esqueleto - 550 millones de años]]
+- [[Fósiles en óxido de hierro - bosque miocénico australiano]] — selva miocénica preservada en rust
 
 ---
 
@@ -128,6 +132,7 @@ eje_principal: paleontología
 
 ### N0 — Fundamentos
 - [[Qué es la biología]] — definición, características de los seres vivos, ramas.
+- [[Método científico en biología]] — observación, hipótesis, experimento, falsacionismo, replicabilidad.
 
 ### N1 — Organización
 - [[Niveles de organización biológica]] — átomo → biosfera, emergencia.
@@ -186,6 +191,7 @@ eje_principal: paleontología
 
 ### Casos reales — botánica
 - [[La luz fortalece pero también frena a las plantas]]
+- [[Hongo ostra dorada - invasor en Florida]] — bioinvasión fúngica desde mercados gourmet
 
 ---
 
@@ -197,6 +203,7 @@ eje_principal: paleontología
 ### N1 — Estructura de la Tierra
 - [[Estructura interna de la Tierra]] — corteza, manto, núcleo, discontinuidades.
 - [[Campo magnético terrestre]] — dínamo, inversiones, paleomagnetismo.
+- [[Edad de la Tierra]] — 4,54 Ga, Pb-Pb de Patterson, meteoritos primitivos.
 
 ### N2 — Tectónica
 - [[Tectónica de placas]] — Wegener → tectónica moderna.
@@ -250,6 +257,7 @@ eje_principal: paleontología
 - [[Groenlandia deshielo hace 7000 años]]
 - [[Glaciar Hektoria - colapso récord]]
 - [[Glaciares surgentes - 3100 identificados]]
+- [[Hielo antártico - misterio climático de 3 millones de años]] — testigos antárticos del Plio-Pleistoceno
 
 ### Casos reales — sismos
 - [[Falla de Myanmar filmada en tiempo real]]
@@ -285,12 +293,27 @@ eje_principal: paleontología
 - [[Métodos de datación]] — C-14, K-Ar, U-Pb, luminiscencia, ESR.
 - [[ADN antiguo]] — aDNA, paleoproteómica, descubrimientos.
 
-### N5 — Casos reales
+### N5 — Profundización
+- [[Paleogenómica humana]] — métodos aDNA, hitos, limitaciones.
+- [[Genética de poblaciones humanas]] — F<sub>ST</sub>, deriva, mestizaje, eventos demográficos.
+- [[Origen del lenguaje]] — anatomía, arqueología, FOXP2, hipótesis.
+- [[Antropología forense]] — biografía biológica, isótopos, ADN, casos humanitarios.
+
+### Casos reales — evolución de los simios
 - [[Masripithecus - Origen de los simios]]
-- [[Neandertales Polonia - ADN antiguo]]
-- [[Neandertales y Homo sapiens colaboración]]
+
+### Casos reales — homínidos
+- [[Neandertales y Homo sapiens colaboración]] — Tinshemet, 110 ka.
+- [[Peste de Justiniano - fosa común en Jordania]] — paleomicrobiología, *Y. pestis*.
+
+### Casos reales — migraciones
 - [[Humanos en Australia hace 60000 años]]
+- [[Gen denisovano MUC19 - poblamiento de América]] — introgresión adaptativa beringiana.
+
+### Casos reales — cognición y arte
 - [[Arte rupestre más antiguo - 67800 años]]
+- [[Neandertales Polonia - ADN antiguo]]
+- [[Plomo y evolución humana - exposición prehistórica]] — geoquímica del esmalte y neuroevolución.
 
 ---
 
@@ -298,6 +321,7 @@ eje_principal: paleontología
 
 ### N0 — Fundamentos
 - [[Qué es la química]] — ramas, leyes, método.
+- [[Historia de la química]] — alquimia → Lavoisier → Mendeleev → física atómica.
 
 ### N1 — El átomo
 - [[El átomo - partículas subatómicas]] — p, n, e⁻, isótopos, iones, mol.
@@ -325,7 +349,7 @@ eje_principal: paleontología
 - [[Termodinámica química]] — entalpía, entropía, Gibbs.
 - [[Electroquímica]] — celdas, baterías, Nernst, corrosión.
 
-### N6 — Casos reales
+### Casos reales
 - [[Celda de combustible de tierra]]
 - [[Pirita con litio]]
 - [[Células solares de perovskita]]
@@ -333,6 +357,7 @@ eje_principal: paleontología
 - [[Material de carbono para captura de CO2]]
 - [[Fonones quirales - control electrónico sin imanes]]
 - [[Químicos permitidos frenan recuperación del ozono]]
+- [[Grafeno - flujo electrónico cuántico sin fricción]] — hidrodinámica electrónica en grafeno ultralimpio
 
 ---
 

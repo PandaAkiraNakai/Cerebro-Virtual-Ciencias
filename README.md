@@ -8,11 +8,11 @@ Eje del vault: **paleontología** — las demás disciplinas son ramas que la su
 
 | Disciplina | Notas de fundamentos | Notas de casos |
 |---|---|---|
-| Paleontología (eje) | 43 (N0–N5, incluye 18 taxa/eventos icónicos) | 14 |
-| Biología | 21 (N0–N5) | 14 |
-| Geología | 30 (N0–N5, incluye eras + eones + 4 ciclos profundos) | 14 |
-| Antropología | 12 (N0–N4) | 5 |
-| Química | 17 (N0–N5) | 7 |
+| Paleontología (eje) | 43 (N0–N5, incluye 18 taxa/eventos icónicos) | 16 |
+| Biología | 22 (N0–N5) | 15 |
+| Geología | 31 (N0–N5, incluye eras + eones + 4 ciclos profundos) | 15 |
+| Antropología | 16 (N0–N5 ahora completo) | 8 |
+| Química | 18 (N0–N5) | 8 |
 
 ## Estructura del vault
 
@@ -68,6 +68,7 @@ Obsidian Ciencias/
 │   ├── N2 - Migraciones/            salidas de África, poblamiento de América
 │   ├── N3 - Cognición y cultura/    arte simbólico, neolítico
 │   ├── N4 - Métodos/                datación, aDNA
+│   ├── N5 - Profundización/         paleogenómica, genética de poblaciones, lenguaje, forense
 │   ├── Casos - Homínidos/
 │   ├── Casos - Migraciones/
 │   ├── Casos - Evolución de los simios/
@@ -101,7 +102,7 @@ Obsidian Ciencias/
 
 ## Estado actual
 
-**186 notas** · paleontología, geología y biología con **currículum N0–N5 completo** (fundamentos + profundización) · química N0–N5 · antropología N0–N4 · eje paleontología · 6 MOCs temáticos transversales · 54 notas de casos reales de [ScienceDaily](https://www.sciencedaily.com/) y otras fuentes, organizadas en subcarpetas temáticas · 18 páginas dedicadas a taxones y eventos paleontológicos icónicos · 10 páginas de historia geológica profunda (eras, eones, ciclos de Wilson/supercontinentes/Milankovitch/carbono) · catálogo de ~130 fuentes bibliográficas con estadísticas verificadas · plan de aprendizaje con checkboxes tachados.
+**201 notas** · las **5 disciplinas con currículum N0–N5 completo** (paleontología, geología, biología, química y ahora antropología) · eje paleontología · 6 MOCs temáticos transversales · 62 notas de casos reales de [ScienceDaily](https://www.sciencedaily.com/) y otras fuentes, organizadas en subcarpetas temáticas · 18 páginas dedicadas a taxones y eventos paleontológicos icónicos · 10 páginas de historia geológica profunda (eras, eones, ciclos de Wilson/supercontinentes/Milankovitch/carbono) · catálogo de ~130 fuentes bibliográficas con estadísticas verificadas · plan de aprendizaje con checkboxes tachados.
 
 ### Última actualización (2026-04-24)
 
@@ -134,6 +135,31 @@ Obsidian Ciencias/
 - 🔐 Estándares: OpenDOAR (5.983 repositorios FAIR), DiSSCo ERIC.
 
 **Limitaciones de la pasada**: varias fuentes (Smithsonian Open Access, AMNH, Nature News, GBIF, UniProt, InterPro, OMA, NAR Database Issue, BHL, Zenodo) bloquearon el WebFetch (HTTP 403/303 o página de carga). Las URLs quedan registradas; las estadísticas se irán completando manualmente o vía sus APIs/JSON públicos.
+
+### Pasada N0→N5 + cierre de antropología (2026-04-24, segunda tanda)
+
+**+15 notas** distribuidas en N0, N1, N5 y casos:
+
+- 🧍 **Antropología N5 creada** (gap estructural: era la única disciplina sin N5 propio):
+    - [[Paleogenómica humana]] — métodos aDNA, hitos, limitaciones.
+    - [[Genética de poblaciones humanas]] — F<sub>ST</sub>, deriva, eventos demográficos.
+    - [[Origen del lenguaje]] — anatomía, arqueología, FOXP2.
+    - [[Antropología forense]] — biografía biológica, isótopos, ADN.
+- 📐 **Fundamentos faltantes** detectados al revisar N0/N1:
+    - [[Edad de la Tierra]] (Geología N1) — 4,54 Ga, Pb-Pb de Patterson.
+    - [[Método científico en biología]] (Biología N0) — falsacionismo, replicabilidad.
+    - [[Historia de la química]] (Química N0) — alquimia → Lavoisier → Mendeleev.
+- 🦕 **Casos nuevos** (8) extraídos de WebFetch a ScienceDaily:
+    - [[Fósiles en óxido de hierro - bosque miocénico australiano]] — Lagerstätte ferruginoso de NSW.
+    - [[Huellas de dinosaurio 132 Ma - Sudáfrica]] — icnología post-LIP del Karoo.
+    - [[Hielo antártico - misterio climático de 3 millones de años]] — testigos antárticos del Plio-Pleistoceno.
+    - [[Hongo ostra dorada - invasor en Florida]] — bioinvasión fúngica desde mercados gourmet.
+    - [[Grafeno - flujo electrónico cuántico sin fricción]] — hidrodinámica electrónica.
+    - [[Gen denisovano MUC19 - poblamiento de América]] — introgresión adaptativa.
+    - [[Plomo y evolución humana - exposición prehistórica]] — geoquímica del esmalte y neuroevolución.
+    - [[Peste de Justiniano - fosa común en Jordania]] — paleomicrobiología.
+
+**Reorganización en el Índice**: la sección de Antropología ahora separa **N5 — Profundización** (fundamentos teóricos) de los **Casos reales — <subtema>** (homínidos, migraciones, cognición y arte, evolución de los simios), alineándose con la convención usada en las otras 4 disciplinas. La sección N6 de Química se renombra a **Casos reales** por la misma razón.
 
 ## Cómo usarlo
 
