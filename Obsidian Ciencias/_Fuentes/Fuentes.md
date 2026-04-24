@@ -1,7 +1,7 @@
 ---
 tipo: catálogo
 rol: fuentes-referencia
-actualizado: 2026-04-23
+actualizado: 2026-04-24
 ---
 
 # 📚 Fuentes — Catálogo de repositorios
@@ -9,6 +9,7 @@ actualizado: 2026-04-23
 Listado consolidado de **fuentes autorizadas** del vault. Cada nota debe indicar su procedencia en el frontmatter (`fuente:` y `url:`). Las fuentes destacadas con ⭐ son prioridad alta.
 
 > Fuente ya utilizada para la primera recolección: [ScienceDaily](https://www.sciencedaily.com/) (2026-04-23).
+> **Actualización 2026-04-24**: incorporadas colecciones digitales de museos, agregadores de biocolecciones (Arctos, iDigBio, DiSSCo), Biodiversity Heritage Library, y nuevas bases genómicas/proteómicas (KEGG, OMA, STRING, InterPro, Bgee).
 
 ---
 
@@ -50,6 +51,58 @@ Buscan en múltiples bases de datos al mismo tiempo.
 
 ---
 
+## 🏆 Colecciones digitales de museos
+
+Acceso directo a **especímenes catalogados** (millones de items con imagen, metadata y a veces modelos 3D).
+
+### Smithsonian Institution (USA) ⭐
+
+| Recurso | URL | Nota |
+|---|---|---|
+| Smithsonian Collections Search | https://collections.si.edu/search/ | Buscador general de todas las colecciones |
+| NMNH Collections | https://collections.nmnh.si.edu/search/ | Específico del National Museum of Natural History |
+| Smithsonian Open Access ⭐ | https://www.si.edu/openaccess | 5,1 M+ ítems digitales (imágenes, datasets, modelos 3D) |
+
+### Natural History Museum, Londres (UK) ⭐
+
+| Recurso | URL | Nota |
+|---|---|---|
+| NHM Data Portal | https://data.nhm.ac.uk/ | Especímenes y datasets abiertos |
+| NHM Collections (overview) | https://www.nhm.ac.uk/our-science/services/collections.html | 80 M de especímenes en proceso de digitalización (2026) |
+| NHM Dino Directory | https://www.nhm.ac.uk/discover/dino-directory.html | Dinosaurios |
+
+### Otros museos clave
+
+| Museo | URL | Nota |
+|---|---|---|
+| AMNH — Paleontology Database | https://www.amnh.org/research/paleontology/collections/database | 1,5 M de fósiles (~880 K catalogados) |
+| UC Berkeley — Museum of Paleontology | https://www.ucmp.berkeley.edu/ | Imágenes digitalizadas |
+| Florida Museum — Vertebrate Paleontology | https://www.floridamuseum.ufl.edu/vertpaleo/ | Búsqueda online de fósiles vertebrados |
+| Paleontological Research Institution | https://www.priweb.org/ | 7 M de especímenes |
+
+## 🔗 Agregadores de biocolecciones
+
+Federan datos de cientos de museos en un solo portal.
+
+| Fuente | URL | Nota |
+|---|---|---|
+| GBIF ⭐ | https://www.gbif.org/ | Biodiversidad global, federa colecciones de medio mundo |
+| iDigBio (US) ⭐ | https://portal.idigbio.org/ | Portal de biocolecciones digitalizadas de EE.UU. (~1–2 mil M de especímenes estimados). Nuevo front en https://idigbio.gbif.us/ |
+| Arctos ⭐ | https://arctosdb.org/ | Sistema colaborativo usado por 40+ museos; integra con iDigBio, GBIF, VertNet |
+| DiSSCo (Europa) | https://www.dissco.eu/ | Infraestructura europea: 175 museos, 23 países, ~1,5 mil M de especímenes (estatus ERIC esperado 2025) |
+| VertNet | http://vertnet.org/ | Federación de colecciones de vertebrados |
+| iChatBio | https://ichatbio.org/ | Interfaz conversacional con IA sobre datos de iDigBio (experimental) |
+
+## 📖 Bibliotecas especializadas digitales
+
+| Fuente | URL | Nota |
+|---|---|---|
+| Biodiversity Heritage Library (BHL) ⭐⭐ | https://www.biodiversitylibrary.org/ | 60 M+ páginas de literatura de biodiversidad (s. XV–XXI), 16 M de usuarios en 240+ países, API pública |
+| BHL en Flickr | https://www.flickr.com/photos/biodivlibrary/ | 300 K+ imágenes reutilizables |
+| Internet Archive — Scientific texts | https://archive.org/details/texts | Libros antiguos, manuales históricos |
+
+---
+
 ## 🦕 Paleontología
 
 | Fuente | URL | Nota |
@@ -63,29 +116,78 @@ Buscan en múltiples bases de datos al mismo tiempo.
 | Smithsonian — Vertebrate Paleontology | https://library.si.edu/research/paleontology | |
 | UC Berkeley — Museum of Paleontology | https://www.ucmp.berkeley.edu/ | |
 | Natural History Museum London — Dino Directory | https://www.nhm.ac.uk/discover/dino-directory.html | |
-| American Museum of Natural History | https://www.amnh.org/ | |
+| American Museum of Natural History | https://www.amnh.org/ | Ver también AMNH Paleontology Database arriba |
+| Florida Museum — Vertebrate Paleontology | https://www.floridamuseum.ufl.edu/vertpaleo/ | Ver bloque de museos |
+| Paleontological Research Institution (PRI) | https://www.priweb.org/ | 7 M de especímenes |
 | Journal of Paleontology | https://www.cambridge.org/core/journals/journal-of-paleontology | Revista (Cambridge) |
 | Frontiers in Earth Science | https://www.frontiersin.org/journals/earth-science/ | Open access |
 
+> Para el flujo de trabajo paleo, combinar **Paleobiology DB** (occurrencias) + **Macrostrat** (estratigrafía) + **iDigBio/GBIF** (especímenes) + **BHL** (literatura histórica).
+
 ## 🌱 Biología
+
+### Biomedicina y bases generales
 
 | Fuente | URL | Nota |
 |---|---|---|
 | PubMed / MEDLINE (NIH) ⭐ | https://pubmed.ncbi.nlm.nih.gov/ | Biomedicina |
-| NCBI | https://www.ncbi.nlm.nih.gov/ | Centro biotecnología |
-| UniProt | https://www.uniprot.org/ | Proteínas |
-| Ensembl | https://www.ensembl.org/ | Genómica |
+| NCBI | https://www.ncbi.nlm.nih.gov/ | Centro de biotecnología |
 | NCBI Genome | https://www.ncbi.nlm.nih.gov/genome/ | Genomas |
-| GBIF (Global Biodiversity) | https://www.gbif.org/ | Biodiversidad global |
-| eBird | https://ebird.org/ | Aves |
-| Cornell Lab of Ornithology | https://www.birds.cornell.edu/ | |
+
+### Genómica y evolución
+
+| Fuente | URL | Nota |
+|---|---|---|
+| Ensembl 2026 ⭐ | https://www.ensembl.org/ | Alineamientos genómicos, ortólogos, filogenias |
+| Ensembl Genomes | http://ensemblgenomes.org/ | Plantas, invertebrados, hongos, protistas, bacterias |
+| UCSC Genome Browser | https://genome.ucsc.edu/ | Navegación visual de genomas, tracks de conservación |
+| KEGG ⭐ | https://www.genome.jp/kegg/ | Metabolismo, señalización, pathways biológicos (act. abril 2026) |
+| KEGG GENES | https://www.genome.jp/kegg/genes.html | Genes anotados, ortólogos, comparaciones |
+
+### Proteínas y homología
+
+| Fuente | URL | Nota |
+|---|---|---|
+| UniProt ⭐ | https://www.uniprot.org/ | Base unificada de proteínas (actualización continua) |
+| Protein Data Bank (PDB) | https://www.rcsb.org/ | Estructuras 3D |
+| HomoloGene | https://www.ncbi.nlm.nih.gov/homologene | Grupos de homólogos para genomas eucarióticos |
+| OMA (Orthologous Matrix) | https://omabrowser.org/ | Ortólogos precisos a nivel de secuencia |
+| STRING | https://string-db.org/ | Redes de asociación de proteínas (funcionales, físicas, reguladoras) |
+| InterPro ⭐ | https://www.ebi.ac.uk/interpro/ | Dominios, familias y sitios de proteínas |
+| Pfam (en InterPro) | https://www.ebi.ac.uk/interpro/entry/pfam/ | Familias de proteínas con alineamientos y filogenias (migrado desde xfam.org) |
+
+### Expresión génica
+
+| Fuente | URL | Nota |
+|---|---|---|
+| Bgee | https://bgee.org/ | Patrones de expresión génica en animales |
+| GeneCards | https://www.genecards.org/ | Información integrada sobre genes humanos |
+
+### Biodiversidad y taxonomía
+
+| Fuente | URL | Nota |
+|---|---|---|
+| GBIF ⭐ | https://www.gbif.org/ | Biodiversidad global |
 | Encyclopedia of Life (EOL) | https://eol.org/ | Especies |
 | World Flora Online | http://www.worldfloraonline.org/ | Plantas |
 | Wikispecies | https://species.wikimedia.org/ | Taxonomía wiki |
 | Animal Diversity Web (ADW) | https://animaldiversity.org/ | Biología animal |
+| Index Fungorum | https://www.indexfungorum.org/ | Nomenclatura de hongos (incluye fósiles); para nombres de organismos en general usar ITIS o GBIF |
+| ITIS (Integrated Taxonomic Information System) | https://www.itis.gov/ | Taxonomía integrada |
+
+### Disciplinas específicas
+
+| Fuente | URL | Nota |
+|---|---|---|
+| eBird | https://ebird.org/ | Aves |
+| Cornell Lab of Ornithology | https://www.birds.cornell.edu/ | |
 | Understanding Evolution (UC Berkeley) | https://evolution.berkeley.edu/ | Divulgación |
-| Protein Data Bank (PDB) | https://www.rcsb.org/ | Estructuras 3D |
-| Biodiversity Data Journal | https://bdj.pensoft.net/ | Revista open access |
+
+### Revistas
+
+| Fuente | URL | Nota |
+|---|---|---|
+| Biodiversity Data Journal | https://bdj.pensoft.net/ | Open access |
 | ZooKeys | https://zookeys.pensoft.net/ | Zoología open access |
 | PhytoKeys | https://phytokeys.pensoft.net/ | Botánica open access |
 | Nature Research | https://www.nature.com/ | Revista |
@@ -153,6 +255,10 @@ Buscan en múltiples bases de datos al mismo tiempo.
 - Science Advances — https://www.science.org/journal/sciadv
 - eLife — https://elifesciences.org/
 - PeerJ — https://peerj.com/
+
+### Datos y bases de datos como objeto editorial
+- Scientific Data (Nature) ⭐ — https://www.nature.com/sdata/ — descriptores de datasets científicos (act. abril 2026)
+- Nucleic Acids Research — Database Issue (anual) — https://academic.oup.com/nar/issue — catálogo de bases biológicas; edición 2025 sumó 73 nuevas y 101 actualizaciones (EXPRESSO, NAIRDB, ASpdb, BFVD, etc.)
 
 ### Paleontología
 - Palaeontology Online — https://www.palaeontologyonline.com/
@@ -232,15 +338,23 @@ Buscan en múltiples bases de datos al mismo tiempo.
 
 | Necesidad | Combinación recomendada |
 |---|---|
-| Papers recientes en cualquier disciplina | Google Scholar + Unpaywall |
-| Datasets de paleontología | Paleobiology Database + Macrostrat |
-| Biología molecular | NCBI + UniProt |
-| Biología general / biodiversidad | PubMed + GBIF |
-| Antropología | AnthroSource + eHRAF |
-| Todo sin paywall | Zenodo + CORE + BASE |
-| Química molecular | PubChem + ChemSpider |
-| Geoquímica / oceanografía | PANGAEA + EarthChem |
+| Papers recientes en cualquier disciplina | OpenAlex + Semantic Scholar + Unpaywall |
+| Especímenes fósiles digitalizados | iDigBio + GBIF + AMNH Paleontology DB + Smithsonian NMNH |
+| Datos cuantitativos de paleontología | Paleobiology Database + Macrostrat |
+| Literatura histórica de biodiversidad | Biodiversity Heritage Library (BHL) |
+| Biología molecular / genómica | NCBI + UniProt + Ensembl + KEGG |
+| Ortología y homología de proteínas | OMA + HomoloGene + InterPro |
+| Redes de interacción de proteínas | STRING + UniProt |
+| Expresión génica | Bgee + GeneCards |
+| Biología general / biodiversidad | GBIF + iDigBio + EOL |
+| Colecciones europeas | DiSSCo + GBIF |
+| Antropología | AnthroSource + eHRAF + TDAR |
+| Todo sin paywall | Zenodo + CORE + BASE + OpenAIRE |
+| Química molecular | PubChem + ChemSpider + NIST WebBook |
+| Geoquímica / oceanografía | PANGAEA + EarthChem + Marine Geo |
+| Datos de la Tierra (observación) | NASA Earthdata + USGS + OneGeology |
 | Tesis y literatura gris | EThOS + OpenGrey |
+| Descubrir nuevas bases de datos | NAR Database Issue (anual) + re3data |
 
 ---
 
@@ -260,7 +374,23 @@ Al final de la nota, un bloque `## Enlaces` con `[[Índice]]` y las notas relaci
 
 - Al encontrar una nueva fuente relevante, añadirla aquí antes de crear notas que la citen.
 - Marcar con ⭐ las fuentes que se consoliden como referencias principales con el uso.
-- Revisar anualmente las fuentes institucionales (URLs cambian).
+- Revisar anualmente las fuentes institucionales (URLs cambian — ej.: Pfam migró de `pfam.xfam.org` a `ebi.ac.uk/interpro/entry/pfam/`; iDigBio migró su front al portal GBIF).
+
+## 🔐 Estándares y calidad
+
+- **OpenDOAR** (enero 2025) cataloga **5.983 repositorios OA certificados** que cumplen estándares FAIR (Findable, Accessible, Interoperable, Reusable).
+- **DiSSCo** (UK + Europa) está digitalizando ~1,5 mil M de especímenes de 170 instituciones en 23 países, con financiamiento de £155 M hasta 2036.
+- Para citar, preferir DOI > URL persistente > URL directa.
+
+## ⚡ Jerarquía de calidad recomendada
+
+De mejor a aceptable según rigor y permanencia:
+
+1. **Colecciones museísticas + repositorios institucionales** (Smithsonian, BHL, Arctos, iDigBio, DiSSCo, DASH, DSpace@MIT).
+2. **Bases especializadas curadas** (Paleobiology DB, KEGG, Ensembl, UniProt, InterPro, PANGAEA).
+3. **Repositorios abiertos generales** (Zenodo, Dryad, Figshare, Harvard Dataverse).
+4. **Revistas open access peer-reviewed** (Frontiers, PLOS, eLife, Scientific Data).
+5. **Agregadores y buscadores** (OpenAlex, Semantic Scholar, BASE, CORE) — útiles para descubrimiento, pero verificar la fuente original.
 
 ## Volver al índice
 - [[Índice]]

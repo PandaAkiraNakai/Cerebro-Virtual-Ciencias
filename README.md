@@ -94,7 +94,19 @@ Obsidian Ciencias/
 
 ## Estado actual
 
-**137 notas** · paleontología, geología y biología con **currículum N0–N5 completo** (fundamentos + profundización) · química N0–N5 · antropología N0–N4 · eje paleontología · 6 MOCs temáticos transversales · 44 notas de casos reales de [ScienceDaily](https://www.sciencedaily.com/) organizadas en subcarpetas temáticas · catálogo de ~90 fuentes bibliográficas · plan de aprendizaje con checkboxes tachados.
+**148 notas** · paleontología, geología y biología con **currículum N0–N5 completo** (fundamentos + profundización) · química N0–N5 · antropología N0–N4 · eje paleontología · 6 MOCs temáticos transversales · 49 notas de casos reales de [ScienceDaily](https://www.sciencedaily.com/) organizadas en subcarpetas temáticas · catálogo de ~130 fuentes bibliográficas (incluye colecciones digitales de museos, agregadores de biocolecciones y bases genómicas/proteómicas) · plan de aprendizaje con checkboxes tachados.
+
+### Última actualización (2026-04-24)
+
+Catálogo de fuentes [`Obsidian Ciencias/_Fuentes/Fuentes.md`](Obsidian%20Ciencias/_Fuentes/Fuentes.md) ampliado con:
+
+- **🏆 Colecciones digitales de museos**: Smithsonian Open Access (5,1 M ítems), NHM Londres (80 M en digitalización), AMNH Paleontology Database, UCMP Berkeley, Florida Museum Vertebrate Paleontology, Paleontological Research Institution (7 M especímenes).
+- **🔗 Agregadores de biocolecciones**: GBIF, iDigBio (con nuevo front en `idigbio.gbif.us`), Arctos (40+ museos), DiSSCo (175 museos europeos, ~1,5 mil M de especímenes), VertNet, iChatBio (interfaz IA).
+- **📖 Bibliotecas digitales**: Biodiversity Heritage Library (60 M+ páginas, API pública, Flickr con 300 K+ imágenes reutilizables).
+- **🧬 Bases genómicas/proteómicas**: KEGG, KEGG GENES, UCSC Genome Browser, Ensembl Genomes, HomoloGene, OMA, STRING, InterPro, Pfam (ahora dentro de InterPro), Bgee, GeneCards.
+- **📑 Revistas/datos**: Scientific Data (Nature), Nucleic Acids Research Database Issue.
+- **🔐 Estándares**: OpenDOAR (5.983 repositorios FAIR-certificados), DiSSCo ERIC.
+- Correcciones: Pfam migrado de `pfam.xfam.org` a `ebi.ac.uk/interpro/entry/pfam/`; Index Fungorum reetiquetado correctamente como nomenclatura de hongos.
 
 ## Cómo usarlo
 

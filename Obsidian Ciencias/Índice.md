@@ -1,9 +1,9 @@
 ---
 tipo: MOC
 rol: índice-maestro
-actualizado: 2026-04-23
-notas_totales: 137
-fuente_base: ScienceDaily
+actualizado: 2026-04-24
+notas_totales: 148
+fuente_base: ScienceDaily + colecciones museísticas + bases especializadas
 eje_principal: paleontología
 ---
 
@@ -11,7 +11,9 @@ eje_principal: paleontología
 
 > **Punto de entrada del vault.** Siempre consultar aquí primero. Toda nota nueva debe agregarse a este índice.
 
-**Estado actual**: 137 notas · 5 disciplinas con **N0-N5 completos** en paleontología, geología, biología y química · N0-N4 en antropología · 6 MOCs temáticos · 1 catálogo de fuentes · 1 plan de aprendizaje · 44 notas de casos reales organizadas en subcarpetas temáticas. Currículum en [[Plan de Aprendizaje]]. Catálogo de fuentes en [[Fuentes]].
+**Estado actual**: 148 notas · 5 disciplinas con **N0-N5 completos** en paleontología, geología, biología y química · N0-N4 en antropología · 6 MOCs temáticos · 1 catálogo de fuentes ampliado (museos digitales + agregadores de biocolecciones + bases genómicas/proteómicas) · 1 plan de aprendizaje · 49 notas de casos reales organizadas en subcarpetas temáticas. Currículum en [[Plan de Aprendizaje]]. Catálogo de fuentes en [[Fuentes]].
+
+> **Actualización 2026-04-24**: el catálogo [[Fuentes]] ahora incluye colecciones digitales del Smithsonian, NHM Londres, AMNH, UCMP Berkeley, Florida Museum y PRI; agregadores de biocolecciones (GBIF, iDigBio, Arctos, DiSSCo, VertNet); Biodiversity Heritage Library (BHL); y bases genómicas/proteómicas (KEGG, OMA, STRING, InterPro, Bgee, GeneCards).
 
 ## Cómo navegar
 
@@ -291,7 +293,18 @@ eje_principal: paleontología
 
 ## Fuentes y plan
 
-- [[Fuentes]] — catálogo de repositorios por disciplina (BASE, CORE, Zenodo, Paleobiology DB, PubMed, AnthroSource, PubChem, USGS, Macrostrat, DOAJ, Dryad…).
+- [[Fuentes]] — catálogo de repositorios por disciplina. Incluye:
+    - Agregadores: BASE, CORE, OpenAlex, Semantic Scholar, OpenAIRE.
+    - Repositorios abiertos: Zenodo, Dryad, Figshare, Harvard Dataverse, OSF.
+    - **Colecciones digitales de museos**: Smithsonian (5,1 M ítems OA), NHM Londres (80 M en digitalización), AMNH Paleontology DB, UCMP Berkeley, Florida Museum, PRI.
+    - **Agregadores de biocolecciones**: GBIF, iDigBio, Arctos, DiSSCo, VertNet.
+    - **Biblioteca histórica**: Biodiversity Heritage Library (BHL, 60 M+ páginas).
+    - Paleontología: Paleobiology DB, Macrostrat, Geological Time Scale.
+    - Biología/genómica: PubMed, NCBI, UniProt, Ensembl 2026, KEGG, InterPro, Pfam, OMA, STRING, Bgee, GeneCards.
+    - Geología: USGS, OneGeology, PANGAEA, EarthChem, NASA Earthdata, Marine Geo.
+    - Química: PubChem, ChemSpider, NIST WebBook, DrugBank.
+    - Antropología: AnthroSource, eHRAF, TDAR, AnthroBase.
+    - Revistas OA: PLOS, Frontiers, eLife, Scientific Data, NAR Database Issue.
 - [[Plan de Aprendizaje]] — currículum N0 → N5/N6 con mapa de dependencias y orden sugerido.
 
 ---
