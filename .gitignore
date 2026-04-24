@@ -11,3 +11,7 @@ Obsidian Ciencias/.obsidian/workspaces.json
 Thumbs.db
 *.swp
 *~
+
+# Documentación privada (detalles de infra, notas internas)
+*.private.md
+.private/
