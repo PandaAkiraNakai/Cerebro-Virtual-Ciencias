@@ -11,7 +11,7 @@ eje_principal: paleontología
 
 > **Punto de entrada del vault.** Siempre consultar aquí primero. Toda nota nueva debe agregarse a este índice.
 
-**Estado actual**: 153 notas · 5 disciplinas con **N0-N5 completos** en paleontología, geología, biología y química · N0-N4 en antropología · 6 MOCs temáticos · 1 catálogo de fuentes ampliado (museos digitales + agregadores de biocolecciones + bases genómicas/proteómicas) · 1 plan de aprendizaje · 54 notas de casos reales organizadas en subcarpetas temáticas. Currículum en [[Plan de Aprendizaje]]. Catálogo de fuentes en [[Fuentes]].
+**Estado actual**: 153 notas · 5 disciplinas con **N0-N5 completos** en paleontología, geología, biología y química · N0-N4 en antropología · 6 MOCs temáticos · 1 catálogo de fuentes ampliado (museos digitales + agregadores de biocolecciones + bases genómicas/proteómicas + recursos educativos Tier 1/2) · 1 plan de aprendizaje · 49 notas de casos reales organizadas en subcarpetas temáticas. Currículum en [[Plan de Aprendizaje]]. Catálogo de fuentes en [[Fuentes]].
 
 > **Actualización 2026-04-24**: el catálogo [[Fuentes]] ahora incluye colecciones digitales del Smithsonian, NHM Londres, AMNH, UCMP Berkeley, Florida Museum y PRI; agregadores de biocolecciones (GBIF, iDigBio, Arctos, DiSSCo, VertNet); Biodiversity Heritage Library (BHL); y bases genómicas/proteómicas (KEGG, OMA, STRING, InterPro, Bgee, GeneCards) con **estadísticas verificadas** (Macrostrat, KEGG, STRING, Bgee, ITIS, UCSC). Agregadas **5 notas de casos** con contenido extraído de las nuevas fuentes consultadas: esponja sin esqueleto (550 Ma), GOFLOW (corrientes oceánicas con IA), moringa (microplásticos), metano oceánico microbiano, y fonones quirales (control electrónico sin imanes).
 
