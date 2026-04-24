@@ -175,7 +175,7 @@ Ver [`.gitignore`](.gitignore) para el listado completo.
 
 Sitio en vivo: **https://paleo.sergiocubelli.space** (Quartz v4 + nginx, TLS Let's Encrypt vía Coolify/Traefik, auto-deploy por webhook Gitea).
 
-La rama `site/quartz` contiene la configuración para publicar el vault como sitio estático con búsqueda y graph view, generado con [Quartz v4](https://quartz.jzhao.xyz/) y servido por nginx dentro de un contenedor Docker.
+El vault se publica como sitio estático con búsqueda y graph view, generado con [Quartz v4](https://quartz.jzhao.xyz/) y servido por nginx dentro de un contenedor Docker. Todo el stack (Dockerfile, `quartz.config.ts`, `quartz.layout.ts`, `nginx.conf`) vive en `main` — **no hay rama separada**.
 
 ### Infra
 
@@ -185,8 +185,8 @@ La rama `site/quartz` contiene la configuración para publicar el vault como sit
 | Proxy + TLS | Traefik v3.6 (gestionado por Coolify) con Let's Encrypt HTTP-01 |
 | Runtime | nginx:alpine sirviendo `public/` generado por Quartz v4 |
 | Orquestador | Coolify 4.0.0-beta.472, app UUID `f37wqyyprmqleboq0en3itea`, proyecto `Paleo` |
-| Fuente | Repo Gitea `sergio/Obsidian-Ciencias-`, rama `site/quartz`, HTTPS con access token (Gitea tiene `REQUIRE_SIGNIN_VIEW=true`) |
-| Webhook | Gitea → `https://sergiocubelli.space/api/v1/deploy?uuid=f37wqyyprmqleboq0en3itea&force=false`, auth `Bearer <coolify-token>`, branch filter `site/quartz` |
+| Fuente | Repo Gitea `sergio/Obsidian-Ciencias-`, rama `main`, HTTPS con access token (Gitea tiene `REQUIRE_SIGNIN_VIEW=true`) |
+| Webhook | Gitea → `https://sergiocubelli.space/api/v1/deploy?uuid=f37wqyyprmqleboq0en3itea&force=false`, auth `Bearer <coolify-token>`, branch filter `main` |
 | Tiempo de build | ~70 s (clone Quartz + npm ci + build + docker image) |
 | Re-deploy manual | `curl -X POST -H "Authorization: Bearer <coolify-token>" 'https://sergiocubelli.space/api/v1/deploy?uuid=f37wqyyprmqleboq0en3itea&force=true'` |
 
@@ -203,17 +203,17 @@ La rama `site/quartz` contiene la configuración para publicar el vault como sit
 
 ### Cómo se actualiza
 
-Cada push a la rama `site/quartz` dispara un webhook en Coolify → rebuild del contenedor → sitio actualizado en ~70 s. Flujo habitual:
+Cada push a `main` dispara el webhook de Coolify → rebuild del contenedor → sitio actualizado en ~70 s:
 
 ```bash
-# editás en Obsidian y commiteás en main
-git checkout site/quartz
-git merge main
-git push        # ← gatilla el rebuild
-git checkout main
+# editás en Obsidian, commiteás y pusheás
+git commit -am "nueva nota"
+git push        # ← gatilla el rebuild automáticamente
 ```
 
 La página raíz `https://paleo.sergiocubelli.space/` hace 301 a `/Índice`, así el home efectivo es la nota raíz real del vault (no un wrapper sintético). El README y archivos de build **no se publican** en el sitio: el `.dockerignore` y el `COPY ["Obsidian Ciencias", "./content"]` del Dockerfile aseguran que sólo el vault entre al contenedor.
+
+> **Histórico**: antes existía una rama `site/quartz` que había que mergear manualmente desde `main` antes de cada deploy. El 2026-04-24 se unificó todo en `main` cambiando el filtro de rama en Coolify.
 
 ### Build local (opcional, requiere Docker)
 
