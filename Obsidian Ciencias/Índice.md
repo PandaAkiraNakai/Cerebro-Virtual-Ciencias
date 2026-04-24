@@ -2,7 +2,7 @@
 tipo: MOC
 rol: índice-maestro
 actualizado: 2026-04-24
-notas_totales: 158
+notas_totales: 176
 fuente_base: ScienceDaily + colecciones museísticas + bases especializadas
 eje_principal: paleontología
 ---
@@ -11,11 +11,13 @@ eje_principal: paleontología
 
 > **Punto de entrada del vault.** Siempre consultar aquí primero. Toda nota nueva debe agregarse a este índice.
 
-**Estado actual**: 158 notas · 5 disciplinas con **N0-N5 completos** en paleontología, geología, biología y química · N0-N4 en antropología · 6 MOCs temáticos · 1 catálogo de fuentes ampliado (museos digitales + agregadores de biocolecciones + bases genómicas/proteómicas + recursos educativos Tier 1/2) · 1 plan de aprendizaje · 54 notas de casos reales organizadas en subcarpetas temáticas. Currículum en [[Plan de Aprendizaje]]. Catálogo de fuentes en [[Fuentes]].
+**Estado actual**: 176 notas · 5 disciplinas con **N0-N5 completos** en paleontología, geología, biología y química · N0-N4 en antropología · 6 MOCs temáticos · 1 catálogo de fuentes ampliado (museos digitales + agregadores de biocolecciones + bases genómicas/proteómicas + recursos educativos Tier 1/2) · 1 plan de aprendizaje · 54 notas de casos reales + **18 taxones y eventos icónicos** (T. rex, Archaeopteryx, Tiktaalik, Chicxulub, Explosión cámbrica, Trapps Siberianos, Lucy, mamut lanudo, Smilodon, Quetzalcoatlus, Mosasaurus, Anomalocaris, Dimetrodon, Spinosaurus, Velociraptor, titanosaurios, dinosaurios emplumados, Acanthostega/Ichthyostega). Currículum en [[Plan de Aprendizaje]]. Catálogo de fuentes en [[Fuentes]].
 
 > **Actualización 2026-04-24**: el catálogo [[Fuentes]] ahora incluye colecciones digitales del Smithsonian, NHM Londres, AMNH, UCMP Berkeley, Florida Museum y PRI; agregadores de biocolecciones (GBIF, iDigBio, Arctos, DiSSCo, VertNet); Biodiversity Heritage Library (BHL); y bases genómicas/proteómicas (KEGG, OMA, STRING, InterPro, Bgee, GeneCards) con **estadísticas verificadas** (Macrostrat, KEGG, STRING, Bgee, ITIS, UCSC). Agregadas **5 notas de casos** con contenido extraído de las nuevas fuentes consultadas: esponja sin esqueleto (550 Ma), GOFLOW (corrientes oceánicas con IA), moringa (microplásticos), metano oceánico microbiano, y fonones quirales (control electrónico sin imanes).
 
 > **Actualización 2026-04-24 (tarde-noche)**: 5 nuevos casos desde ScienceDaily (secciones Plants & Animals y Earth/Climate): [[Glaciares surgentes - 3100 identificados]] (glaciología), [[Corriente Circumpolar Antártica - formación compleja]] (oceanografía), [[Abejas híbridas californianas resisten CCD]] (entomología), [[Ballenas grises entran a la Bahía de San Francisco]] (ecología marina), [[Químicos permitidos frenan recuperación del ozono]] (química atmosférica). Sección paleontología de ScienceDaily **verificada completa** (todos los titulares actuales ya estaban en el vault).
+
+> **Actualización 2026-04-24 (expansión paleo)**: análisis sistemático de las N4/N5 de paleontología y creación de **18 notas** para taxones y eventos icónicos que eran solo mencionados en notas mayores: 15 taxa en N5 (*T. rex*, *Spinosaurus*, *Velociraptor*, *Archaeopteryx*, *Tiktaalik*, *Acanthostega/Ichthyostega*, *Dimetrodon*, *Anomalocaris*, *Quetzalcoatlus*, *Mosasaurus*, *Smilodon*, mamut lanudo, Lucy/*A. afarensis*, dinosaurios emplumados de Jehol, titanosaurios patagónicos) + 3 eventos en N2 ([[Explosión cámbrica]], [[Trapps Siberianos - la Gran Mortandad]], [[Impacto de Chicxulub]]).
 
 ## Cómo navegar
 
@@ -42,6 +44,9 @@ eje_principal: paleontología
 - [[Tiempo profundo]] — escalas, analogías, por qué el cerebro resiste.
 - [[Escala del tiempo geológico]] — eón/era/período/época/edad, Fanerozoico detallado.
 - [[Extinciones masivas]] — las "Big Five" + sexta en curso.
+- [[Explosión cámbrica]] — radiación de filos animales en 25-40 Ma.
+- [[Trapps Siberianos - la Gran Mortandad]] — causa de la extinción P-T.
+- [[Impacto de Chicxulub]] — asteroide K-Pg, fin de dinosaurios no avianos.
 
 ### N3 — Taxonomía y filogenia
 - [[Taxonomía linneana]] — jerarquía y nomenclatura binomial.
@@ -65,6 +70,31 @@ eje_principal: paleontología
 - [[Cetáceos - de terrestres a marinos]] — transición evolutiva mejor documentada.
 - [[Megafauna pleistocena]] — mamuts, Smilodon, perezosos gigantes.
 - [[Lagerstätten famosos]] — Burgess, Solnhofen, Messel, La Brea, Yixian.
+- [[Dinosaurios emplumados - Jehol y otros]] — Sinosauropteryx, Microraptor, Anchiornis, Yutyrannus.
+
+#### Taxones icónicos — dinosaurios
+- [[Tyrannosaurus rex]] — rey del Cretácico tardío.
+- [[Spinosaurus aegyptiacus]] — terópodo semiacuático, el más largo conocido.
+- [[Velociraptor mongoliensis]] — dromaeosáurido emplumado, no el de *Jurassic Park*.
+- [[Saurópodos gigantes - titanosaurios patagónicos]] — *Argentinosaurus*, *Patagotitan*, *Dreadnoughtus*.
+
+#### Taxones icónicos — transiciones evolutivas
+- [[Tiktaalik roseae]] — "peZapo", predicción fósil validada.
+- [[Acanthostega e Ichthyostega - primeros tetrápodos]] — dedos evolucionaron en el agua.
+- [[Archaeopteryx]] — fósil de transición dinosaurio-ave, Solnhofen 1861.
+- [[Dimetrodon]] — sinápsido pérmico (NO dinosaurio).
+
+#### Taxones icónicos — extremos del Mesozoico
+- [[Quetzalcoatlus northropi]] — mayor animal volador (envergadura 10-11 m).
+- [[Mosasaurus hoffmanni]] — lagarto marino gigante, primer fósil que probó la extinción.
+
+#### Taxones icónicos — megafauna cenozoica
+- [[Smilodon - tigre dientes de sable]] — *S. populator*, el mayor félido conocido.
+- [[Mammuthus primigenius - mamut lanudo]] — adaptación al frío + aDNA + Wrangel.
+- [[Australopithecus afarensis - Lucy]] — bipedismo antes que encefalización.
+
+#### Taxones icónicos — Cámbrico
+- [[Anomalocaris]] — primer superdepredador conocido, Burgess Shale.
 
 ### Casos reales — dinosaurios
 - [[Ankylosaurios juveniles - Fósiles diminutos]]
