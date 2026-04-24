@@ -8,11 +8,11 @@ Eje del vault: **paleontología** — las demás disciplinas son ramas que la su
 
 | Disciplina | Notas de fundamentos | Notas de casos |
 |---|---|---|
-| Paleontología (eje) | 43 (N0–N5, incluye 18 taxa/eventos icónicos) | 16 |
-| Biología | 22 (N0–N5) | 15 |
-| Geología | 31 (N0–N5, incluye eras + eones + 4 ciclos profundos) | 15 |
-| Antropología | 16 (N0–N5 ahora completo) | 8 |
-| Química | 18 (N0–N5) | 8 |
+| Paleontología (eje) | 47 (N0–N5, incluye 18 taxa/eventos icónicos) | 16 |
+| Biología | 23 (N0–N5) | 15 |
+| Geología | 33 (N0–N5, incluye eras + eones + 4 ciclos profundos) | 15 |
+| Antropología | 17 (N0–N5 ahora completo) | 8 |
+| Química | 19 (N0–N5) | 8 |
 
 ## Estructura del vault
 
@@ -102,7 +102,7 @@ Obsidian Ciencias/
 
 ## Estado actual
 
-**201 notas** · las **5 disciplinas con currículum N0–N5 completo** (paleontología, geología, biología, química y ahora antropología) · eje paleontología · 6 MOCs temáticos transversales · 62 notas de casos reales de [ScienceDaily](https://www.sciencedaily.com/) y otras fuentes, organizadas en subcarpetas temáticas · 18 páginas dedicadas a taxones y eventos paleontológicos icónicos · 10 páginas de historia geológica profunda (eras, eones, ciclos de Wilson/supercontinentes/Milankovitch/carbono) · catálogo de ~130 fuentes bibliográficas con estadísticas verificadas · plan de aprendizaje con checkboxes tachados.
+**210 notas** · las **5 disciplinas con currículum N0–N5 completo** (paleontología, geología, biología, química y ahora antropología) · eje paleontología · 6 MOCs temáticos transversales · 62 notas de casos reales de [ScienceDaily](https://www.sciencedaily.com/) y otras fuentes, organizadas en subcarpetas temáticas · 18 páginas dedicadas a taxones y eventos paleontológicos icónicos · 10 páginas de historia geológica profunda (eras, eones, ciclos de Wilson/supercontinentes/Milankovitch/carbono) · catálogo de ~130 fuentes bibliográficas con estadísticas verificadas · plan de aprendizaje con checkboxes tachados.
 
 ### Última actualización (2026-04-24)
 
@@ -160,6 +160,22 @@ Obsidian Ciencias/
     - [[Peste de Justiniano - fosa común en Jordania]] — paleomicrobiología.
 
 **Reorganización en el Índice**: la sección de Antropología ahora separa **N5 — Profundización** (fundamentos teóricos) de los **Casos reales — <subtema>** (homínidos, migraciones, cognición y arte, evolución de los simios), alineándose con la convención usada en las otras 4 disciplinas. La sección N6 de Química se renombra a **Casos reales** por la misma razón.
+
+### Etapa 1 — Cierre N0/N1 parejo (2026-04-24, +9 notas → 210)
+
+Pasada para que las 5 disciplinas tengan **fundamentos al mismo nivel de detalle** en N0 y N1.
+
+- 🦕 **Paleontología N1 — desglose de ramas** (antes solo había una nota agregadora):
+    - [[Paleobotánica]] — fósiles de plantas, palinología, hitos del verdor terrestre.
+    - [[Icnología]] — huellas, madrigueras, coprolitos, icnofacies de Seilacher.
+    - [[Micropaleontología]] — foraminíferos, conodontos, nanofósiles; bioestratigrafía petrolera.
+    - [[Bioestratigrafía]] — fósiles guía, biozonas, GSSPs, integración con magneto/quimio/ciclo.
+- 🪨 **Geología N0** — fundamentos detallados:
+    - [[Principios fundamentales de la geología]] — uniformitarismo, superposición, horizontalidad, continuidad lateral, sucesión faunística, corte transversal, inclusiones, discordancias.
+    - [[Historia de la geología]] — Hutton → Lyell → Smith → Wegener → Hess → Patterson.
+- 🌱 **Biología N0**: [[Historia de la biología]] — Linneo → Darwin → Mendel → Watson-Crick → genómica → CRISPR.
+- ⚗️ **Química N0**: [[Magnitudes y unidades químicas]] — mol, *N*<sub>A</sub>, masa molar, concentración, gas ideal.
+- 🧍 **Antropología N0**: [[Historia de la antropología]] — evolucionismo → Boas → funcionalismo → estructuralismo → posmoderno → Antropoceno.
 
 ## Cómo usarlo
 
