@@ -9,10 +9,10 @@ Eje del vault: **paleontología** — las demás disciplinas son ramas que la su
 | Disciplina | Notas de fundamentos | Notas de casos |
 |---|---|---|
 | Paleontología (eje) | 54 (N0–N5, incluye 20 taxa/eventos icónicos) | 16 |
-| Biología | 31 (N0–N5) | 15 |
-| Geología | 39 (N0–N5, incluye eras + eones + 4 ciclos profundos) | 15 |
-| Antropología | 21 (N0–N5 ahora completo) | 8 |
-| Química | 22 (N0–N5) | 8 |
+| Biología | 31 (N0–N5) | 19 |
+| Geología | 39 (N0–N5, incluye eras + eones + 4 ciclos profundos) | 17 |
+| Antropología | 21 (N0–N5 ahora completo) | 11 |
+| Química | 22 (N0–N5) | 9 |
 
 ## Estructura del vault
 
@@ -102,7 +102,7 @@ Obsidian Ciencias/
 
 ## Estado actual
 
-**238 notas** · las **5 disciplinas con currículum N0–N5 completo** (paleontología, geología, biología, química y ahora antropología) · eje paleontología · 6 MOCs temáticos transversales · 62 notas de casos reales de [ScienceDaily](https://www.sciencedaily.com/) y otras fuentes, organizadas en subcarpetas temáticas · 18 páginas dedicadas a taxones y eventos paleontológicos icónicos · 10 páginas de historia geológica profunda (eras, eones, ciclos de Wilson/supercontinentes/Milankovitch/carbono) · catálogo de ~130 fuentes bibliográficas con estadísticas verificadas · plan de aprendizaje con checkboxes tachados.
+**248 notas** · las **5 disciplinas con currículum N0–N5 completo** (paleontología, geología, biología, química y ahora antropología) · eje paleontología · 6 MOCs temáticos transversales · 62 notas de casos reales de [ScienceDaily](https://www.sciencedaily.com/) y otras fuentes, organizadas en subcarpetas temáticas · 18 páginas dedicadas a taxones y eventos paleontológicos icónicos · 10 páginas de historia geológica profunda (eras, eones, ciclos de Wilson/supercontinentes/Milankovitch/carbono) · catálogo de ~130 fuentes bibliográficas con estadísticas verificadas · plan de aprendizaje con checkboxes tachados.
 
 ### Última actualización (2026-04-24)
 
@@ -204,6 +204,19 @@ Profundización de la **capa avanzada** del currículum.
 - 🪨 **Geología N4**: [[Yacimientos minerales]] — clasificación por proceso geológico, recursos críticos (Li, Co, REE) y geopolítica.
 - 🪨 **Geología N5**: [[Pleistoceno]] (glaciaciones cuaternarias, megafauna, evolución humana) y [[Holoceno y Antropoceno]] (interglacial actual + debate sobre formalización del Antropoceno como época).
 - ⚗️ **Química N5**: [[Química orgánica básica]] (hidrocarburos, grupos funcionales, isomería, aromaticidad) y [[Bioquímica básica]] (biomoléculas, enzimas Michaelis-Menten, metabolismo central).
+
+### Etapa 4 — Casos nuevos desde fuentes adicionales (2026-04-24, +10 notas → 248)
+
+Pasada de WebFetch a **Phys.org**, **Quanta Magazine** y **Science News** (más allá de ScienceDaily ya explotado en pasadas previas).
+
+- 🌱 **Bio celular y molecular** (Quanta): [[Neuroplasticidad por experiencia única]] (mecanismo no-hebbiano de aprendizaje), [[Armas ancestrales en el sistema inmune humano]] (cGAS-STING, viperinas heredadas de procariotas).
+- 🌱 **Bio ecología** (Quanta): [[Redes fúngicas árticas y carbono]] — micorrizas y permafrost.
+- 🌱 **Bio entomología** (Science News): [[Mosquitos pasaron a humanos hace 1 millón de años]] — coevolución vector-hospedador.
+- 🪨 **Geo costas** (Phys.org): [[Doce Apóstoles - formación y edad]] — pilas costeras australianas.
+- 🪨 **Geo interior** (Phys.org): [[Rift africano oriental - Turkana se separa]] — rifting continental + cradle of humankind.
+- 🧍 **Antro homínidos** (Science News): [[Fosa común Edad del Hierro - mujeres y niños en Serbia]] (violencia organizada en la Edad del Hierro), [[Little Foot - reconstrucción facial]] (Sterkfontein, *A. prometheus*, 3.67 Ma).
+- 🧍 **Antro cognición y arte** (Science News): [[Caza de ballenas hace 5000 años en Brasil]] — sambaquíes y caza ballenera precolombina.
+- ⚗️ **Quím materiales** (Phys.org): [[Polímero compostable - alternativa a termoplásticos]] — nueva clase biodegradable competitiva.
 
 ## Cómo usarlo
 

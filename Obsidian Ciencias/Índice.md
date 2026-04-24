@@ -2,7 +2,7 @@
 tipo: MOC
 rol: índice-maestro
 actualizado: 2026-04-24
-notas_totales: 238
+notas_totales: 248
 fuente_base: ScienceDaily + colecciones museísticas + bases especializadas
 eje_principal: paleontología
 ---
@@ -11,7 +11,7 @@ eje_principal: paleontología
 
 > **Punto de entrada del vault.** Siempre consultar aquí primero. Toda nota nueva debe agregarse a este índice.
 
-**Estado actual**: 238 notas · 5 disciplinas con **N0-N5 completos** en paleontología, geología, biología, química **y ahora también antropología** · 6 MOCs temáticos · 1 catálogo de fuentes ampliado (museos digitales + agregadores de biocolecciones + bases genómicas/proteómicas + recursos educativos Tier 1/2) · 1 plan de aprendizaje · 62 notas de casos reales + **18 taxones y eventos icónicos** paleo (T. rex, Archaeopteryx, Tiktaalik, Chicxulub, Lucy…) + **10 páginas de historia geológica profunda** (eras Paleozoico/Mesozoico/Cenozoico + eones Arcaico/Proterozoico + Tierra bola de nieve + ciclos de Wilson, supercontinentes, Milankovitch y carbono geológico). Currículum en [[Plan de Aprendizaje]]. Catálogo de fuentes en [[Fuentes]].
+**Estado actual**: 248 notas · 5 disciplinas con **N0-N5 completos** en paleontología, geología, biología, química **y ahora también antropología** · 6 MOCs temáticos · 1 catálogo de fuentes ampliado (museos digitales + agregadores de biocolecciones + bases genómicas/proteómicas + recursos educativos Tier 1/2) · 1 plan de aprendizaje · 62 notas de casos reales + **18 taxones y eventos icónicos** paleo (T. rex, Archaeopteryx, Tiktaalik, Chicxulub, Lucy…) + **10 páginas de historia geológica profunda** (eras Paleozoico/Mesozoico/Cenozoico + eones Arcaico/Proterozoico + Tierra bola de nieve + ciclos de Wilson, supercontinentes, Milankovitch y carbono geológico). Currículum en [[Plan de Aprendizaje]]. Catálogo de fuentes en [[Fuentes]].
 
 > **Actualización 2026-04-24**: el catálogo [[Fuentes]] ahora incluye colecciones digitales del Smithsonian, NHM Londres, AMNH, UCMP Berkeley, Florida Museum y PRI; agregadores de biocolecciones (GBIF, iDigBio, Arctos, DiSSCo, VertNet); Biodiversity Heritage Library (BHL); y bases genómicas/proteómicas (KEGG, OMA, STRING, InterPro, Bgee, GeneCards) con **estadísticas verificadas** (Macrostrat, KEGG, STRING, Bgee, ITIS, UCSC). Agregadas **5 notas de casos** con contenido extraído de las nuevas fuentes consultadas: esponja sin esqueleto (550 Ma), GOFLOW (corrientes oceánicas con IA), moringa (microplásticos), metano oceánico microbiano, y fonones quirales (control electrónico sin imanes).
 
@@ -20,6 +20,8 @@ eje_principal: paleontología
 > **Actualización 2026-04-24 (expansión paleo)**: análisis sistemático de las N4/N5 de paleontología y creación de **18 notas** para taxones y eventos icónicos que eran solo mencionados en notas mayores: 15 taxa en N5 (*T. rex*, *Spinosaurus*, *Velociraptor*, *Archaeopteryx*, *Tiktaalik*, *Acanthostega/Ichthyostega*, *Dimetrodon*, *Anomalocaris*, *Quetzalcoatlus*, *Mosasaurus*, *Smilodon*, mamut lanudo, Lucy/*A. afarensis*, dinosaurios emplumados de Jehol, titanosaurios patagónicos) + 3 eventos en N2 ([[Explosión cámbrica]], [[Trapps Siberianos - la Gran Mortandad]], [[Impacto de Chicxulub]]).
 
 > **Actualización 2026-04-24 (expansión geológica)**: 10 notas nuevas sobre **historia y ciclos profundos de la Tierra**. En N5 — Historia de la Tierra: [[Arcaico]] (4.000-2.500 Ma, primera vida, komatitas), [[Proterozoico]] (2.500-539 Ma, GEO, Rodinia, Ediacara), [[Tierra bola de nieve]] (Criogénico, feedback runaway), [[Paleozoico]] (Cámbrico-Pérmico), [[Mesozoico]] (Triásico-Cretácico), [[Cenozoico]] (era mamífera). En N3 — Procesos y ciclos: [[Ciclo de Wilson]], [[Ciclo de supercontinentes]], [[Ciclos de Milankovitch]], [[Ciclo del carbono geológico]].
+
+> **Actualización 2026-04-24 (Etapa 4 — Casos vía WebFetch a fuentes nuevas, +10 casos)**: pasada a Phys.org, Quanta Magazine y Science News (más allá de ScienceDaily). Bio celular: [[Neuroplasticidad por experiencia única]] (Quanta), [[Armas ancestrales en el sistema inmune humano]] (Quanta). Bio ecología: [[Redes fúngicas árticas y carbono]] (Quanta). Bio entomología: [[Mosquitos pasaron a humanos hace 1 millón de años]] (Science News). Geo costas: [[Doce Apóstoles - formación y edad]] (Phys.org). Geo interior: [[Rift africano oriental - Turkana se separa]] (Phys.org). Antro homínidos: [[Fosa común Edad del Hierro - mujeres y niños en Serbia]], [[Little Foot - reconstrucción facial]] (Science News). Antro cognición: [[Caza de ballenas hace 5000 años en Brasil]] (Science News). Quím materiales: [[Polímero compostable - alternativa a termoplásticos]] (Phys.org).
 
 > **Actualización 2026-04-24 (Etapa 3 — Expansión N4/N5, +15 notas)**: capa avanzada y de profundización ampliada. Paleo N4: [[Anfibios fósiles]], [[Peces fósiles - gnatóstomos]]. Paleo N5: [[Triceratops horridus]], [[Allosaurus fragilis]]. Bio N4: [[Plantas - briofitos a angiospermas]]. Bio N5: [[Microbioma humano]], [[Inmunología]], [[Biotecnología y CRISPR]]. Antro N1: [[Homo erectus]]. Antro N4: [[Paleopatología]]. Geo N4: [[Yacimientos minerales]]. Geo N5: [[Pleistoceno]], [[Holoceno y Antropoceno]]. Quím N5: [[Química orgánica básica]], [[Bioquímica básica]].
 
@@ -197,6 +199,7 @@ eje_principal: paleontología
 ### Casos reales — entomología
 - [[Trampa para termitas - pineno]]
 - [[Abejas híbridas californianas resisten CCD]]
+- [[Mosquitos pasaron a humanos hace 1 millón de años]] — coevolución vector-hospedador genómica (Science News)
 
 ### Casos reales — ornitología
 - [[Aves de Hawái - mito refutado]]
@@ -208,12 +211,15 @@ eje_principal: paleontología
 - [[Pearling mitocondrial - organización de ADN]]
 - [[Segundo código en el ADN - silenciamiento selectivo]]
 - [[Cianobacterias reorganizan maquinaria del ADN]]
+- [[Neuroplasticidad por experiencia única]] — nuevo mecanismo no-hebbiano de aprendizaje (Quanta)
+- [[Armas ancestrales en el sistema inmune humano]] — cGAS-STING, viperinas heredadas de bacterias (Quanta)
 
 ### Casos reales — ecología
 - [[Microbioma intestinal se transmite por proximidad social]]
 - [[Salmones enlatados revelan recuperación oceánica]]
 - [[Metano oceánico - microbios y calentamiento]]
 - [[Ballenas grises entran a la Bahía de San Francisco]]
+- [[Redes fúngicas árticas y carbono]] — micorrizas y permafrost en pleno deshielo (Quanta)
 
 ### Casos reales — botánica
 - [[La luz fortalece pero también frena a las plantas]]
@@ -278,11 +284,13 @@ eje_principal: paleontología
 - [[Deformaciones en el manto profundo]]
 - [[Granito gigante bajo el Glaciar Pine Island]]
 - [[King's Trough - cañón submarino atlántico]]
+- [[Rift africano oriental - Turkana se separa]] — rifting continental activo + cradle of humankind (Phys.org)
 
 ### Casos reales — superficie y costas
 - [[Deltas fluviales hundimiento]]
 - [[Doggerland - Bosques sumergidos]]
 - [[Corriente Circumpolar Antártica - formación compleja]]
+- [[Doce Apóstoles - formación y edad]] — pilas costeras australianas y retroceso de acantilado (Phys.org)
 
 ### Casos reales — mineralogía
 - [[Problema de la dolomita resuelto]]
@@ -344,6 +352,8 @@ eje_principal: paleontología
 ### Casos reales — homínidos
 - [[Neandertales y Homo sapiens colaboración]] — Tinshemet, 110 ka.
 - [[Peste de Justiniano - fosa común en Jordania]] — paleomicrobiología, *Y. pestis*.
+- [[Fosa común Edad del Hierro - mujeres y niños en Serbia]] — violencia organizada en la Edad del Hierro europea (Science News).
+- [[Little Foot - reconstrucción facial]] — *Australopithecus prometheus*, Sterkfontein 3.67 Ma (Science News).
 
 ### Casos reales — migraciones
 - [[Humanos en Australia hace 60000 años]]
@@ -353,6 +363,7 @@ eje_principal: paleontología
 - [[Arte rupestre más antiguo - 67800 años]]
 - [[Neandertales Polonia - ADN antiguo]]
 - [[Plomo y evolución humana - exposición prehistórica]] — geoquímica del esmalte y neuroevolución.
+- [[Caza de ballenas hace 5000 años en Brasil]] — sambaquíes y caza ballenera precolombina (Science News).
 
 ---
 
@@ -401,6 +412,7 @@ eje_principal: paleontología
 - [[Fonones quirales - control electrónico sin imanes]]
 - [[Químicos permitidos frenan recuperación del ozono]]
 - [[Grafeno - flujo electrónico cuántico sin fricción]] — hidrodinámica electrónica en grafeno ultralimpio
+- [[Polímero compostable - alternativa a termoplásticos]] — nueva clase biodegradable competitiva (Phys.org)
 
 ---
 
