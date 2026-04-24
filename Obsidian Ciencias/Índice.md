@@ -2,7 +2,7 @@
 tipo: MOC
 rol: índice-maestro
 actualizado: 2026-04-24
-notas_totales: 248
+notas_totales: 252
 fuente_base: ScienceDaily + colecciones museísticas + bases especializadas
 eje_principal: paleontología
 ---
@@ -11,7 +11,7 @@ eje_principal: paleontología
 
 > **Punto de entrada del vault.** Siempre consultar aquí primero. Toda nota nueva debe agregarse a este índice.
 
-**Estado actual**: 248 notas · 5 disciplinas con **N0-N5 completos** en paleontología, geología, biología, química **y ahora también antropología** · 6 MOCs temáticos · 1 catálogo de fuentes ampliado (museos digitales + agregadores de biocolecciones + bases genómicas/proteómicas + recursos educativos Tier 1/2) · 1 plan de aprendizaje · 62 notas de casos reales + **18 taxones y eventos icónicos** paleo (T. rex, Archaeopteryx, Tiktaalik, Chicxulub, Lucy…) + **10 páginas de historia geológica profunda** (eras Paleozoico/Mesozoico/Cenozoico + eones Arcaico/Proterozoico + Tierra bola de nieve + ciclos de Wilson, supercontinentes, Milankovitch y carbono geológico). Currículum en [[Plan de Aprendizaje]]. Catálogo de fuentes en [[Fuentes]].
+**Estado actual**: 252 notas · 5 disciplinas con **N0-N5 completos** en paleontología, geología, biología, química **y ahora también antropología** · 10 MOCs temáticos · 1 catálogo de fuentes ampliado (museos digitales + agregadores de biocolecciones + bases genómicas/proteómicas + recursos educativos Tier 1/2) · 1 plan de aprendizaje · 62 notas de casos reales + **18 taxones y eventos icónicos** paleo (T. rex, Archaeopteryx, Tiktaalik, Chicxulub, Lucy…) + **10 páginas de historia geológica profunda** (eras Paleozoico/Mesozoico/Cenozoico + eones Arcaico/Proterozoico + Tierra bola de nieve + ciclos de Wilson, supercontinentes, Milankovitch y carbono geológico). Currículum en [[Plan de Aprendizaje]]. Catálogo de fuentes en [[Fuentes]].
 
 > **Actualización 2026-04-24**: el catálogo [[Fuentes]] ahora incluye colecciones digitales del Smithsonian, NHM Londres, AMNH, UCMP Berkeley, Florida Museum y PRI; agregadores de biocolecciones (GBIF, iDigBio, Arctos, DiSSCo, VertNet); Biodiversity Heritage Library (BHL); y bases genómicas/proteómicas (KEGG, OMA, STRING, InterPro, Bgee, GeneCards) con **estadísticas verificadas** (Macrostrat, KEGG, STRING, Bgee, ITIS, UCSC). Agregadas **5 notas de casos** con contenido extraído de las nuevas fuentes consultadas: esponja sin esqueleto (550 Ma), GOFLOW (corrientes oceánicas con IA), moringa (microplásticos), metano oceánico microbiano, y fonones quirales (control electrónico sin imanes).
 
@@ -20,6 +20,8 @@ eje_principal: paleontología
 > **Actualización 2026-04-24 (expansión paleo)**: análisis sistemático de las N4/N5 de paleontología y creación de **18 notas** para taxones y eventos icónicos que eran solo mencionados en notas mayores: 15 taxa en N5 (*T. rex*, *Spinosaurus*, *Velociraptor*, *Archaeopteryx*, *Tiktaalik*, *Acanthostega/Ichthyostega*, *Dimetrodon*, *Anomalocaris*, *Quetzalcoatlus*, *Mosasaurus*, *Smilodon*, mamut lanudo, Lucy/*A. afarensis*, dinosaurios emplumados de Jehol, titanosaurios patagónicos) + 3 eventos en N2 ([[Explosión cámbrica]], [[Trapps Siberianos - la Gran Mortandad]], [[Impacto de Chicxulub]]).
 
 > **Actualización 2026-04-24 (expansión geológica)**: 10 notas nuevas sobre **historia y ciclos profundos de la Tierra**. En N5 — Historia de la Tierra: [[Arcaico]] (4.000-2.500 Ma, primera vida, komatitas), [[Proterozoico]] (2.500-539 Ma, GEO, Rodinia, Ediacara), [[Tierra bola de nieve]] (Criogénico, feedback runaway), [[Paleozoico]] (Cámbrico-Pérmico), [[Mesozoico]] (Triásico-Cretácico), [[Cenozoico]] (era mamífera). En N3 — Procesos y ciclos: [[Ciclo de Wilson]], [[Ciclo de supercontinentes]], [[Ciclos de Milankovitch]], [[Ciclo del carbono geológico]].
+
+> **Actualización 2026-04-24 (Etapa 5 — MOCs transversales, +4 MOCs)**: 4 nuevos índices temáticos transversales que aprovechan el grafo ya denso. [[MOC Métodos científicos]] (cómo se sabe lo que se sabe — datación, isótopos, aDNA, secuenciación, IA en observación). [[MOC Catástrofes globales]] (impactos, LIPs, glaciaciones, anoxia, cambio climático rápido). [[MOC Materiales y enlaces]] (de la molécula al sólido funcional — grafeno, perovskitas, polímeros, materiales de la vida). [[MOC Vida temprana]] (Hadeico → Cámbrico, transversal Geo+Paleo+Bio).
 
 > **Actualización 2026-04-24 (Etapa 4 — Casos vía WebFetch a fuentes nuevas, +10 casos)**: pasada a Phys.org, Quanta Magazine y Science News (más allá de ScienceDaily). Bio celular: [[Neuroplasticidad por experiencia única]] (Quanta), [[Armas ancestrales en el sistema inmune humano]] (Quanta). Bio ecología: [[Redes fúngicas árticas y carbono]] (Quanta). Bio entomología: [[Mosquitos pasaron a humanos hace 1 millón de años]] (Science News). Geo costas: [[Doce Apóstoles - formación y edad]] (Phys.org). Geo interior: [[Rift africano oriental - Turkana se separa]] (Phys.org). Antro homínidos: [[Fosa común Edad del Hierro - mujeres y niños en Serbia]], [[Little Foot - reconstrucción facial]] (Science News). Antro cognición: [[Caza de ballenas hace 5000 años en Brasil]] (Science News). Quím materiales: [[Polímero compostable - alternativa a termoplásticos]] (Phys.org).
 
@@ -424,6 +426,10 @@ eje_principal: paleontología
 - [[MOC Paleogeografía]] — paisajes perdidos, migraciones humanas.
 - [[MOC Taxonomía e identidad biológica]] — casos donde nombrar es difícil.
 - [[MOC Química al servicio del clima]] — materiales y energía post-fósil.
+- [[MOC Métodos científicos]] — datación, isótopos, aDNA, secuenciación, IA en observación.
+- [[MOC Catástrofes globales]] — impactos, LIPs, glaciaciones, anoxia, cambio climático.
+- [[MOC Materiales y enlaces]] — de la molécula al sólido funcional, química → tecnología.
+- [[MOC Vida temprana]] — Hadeico → Cámbrico, transversal Geo + Paleo + Bio.
 
 ## Fuentes y plan
 

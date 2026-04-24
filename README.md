@@ -102,7 +102,7 @@ Obsidian Ciencias/
 
 ## Estado actual
 
-**248 notas** · las **5 disciplinas con currículum N0–N5 completo** (paleontología, geología, biología, química y ahora antropología) · eje paleontología · 6 MOCs temáticos transversales · 62 notas de casos reales de [ScienceDaily](https://www.sciencedaily.com/) y otras fuentes, organizadas en subcarpetas temáticas · 18 páginas dedicadas a taxones y eventos paleontológicos icónicos · 10 páginas de historia geológica profunda (eras, eones, ciclos de Wilson/supercontinentes/Milankovitch/carbono) · catálogo de ~130 fuentes bibliográficas con estadísticas verificadas · plan de aprendizaje con checkboxes tachados.
+**252 notas** · las **5 disciplinas con currículum N0–N5 completo** (paleontología, geología, biología, química y ahora antropología) · eje paleontología · **10 MOCs temáticos transversales** · 62 notas de casos reales de [ScienceDaily](https://www.sciencedaily.com/) y otras fuentes, organizadas en subcarpetas temáticas · 18 páginas dedicadas a taxones y eventos paleontológicos icónicos · 10 páginas de historia geológica profunda (eras, eones, ciclos de Wilson/supercontinentes/Milankovitch/carbono) · catálogo de ~130 fuentes bibliográficas con estadísticas verificadas · plan de aprendizaje con checkboxes tachados.
 
 ### Última actualización (2026-04-24)
 
@@ -217,6 +217,17 @@ Pasada de WebFetch a **Phys.org**, **Quanta Magazine** y **Science News** (más 
 - 🧍 **Antro homínidos** (Science News): [[Fosa común Edad del Hierro - mujeres y niños en Serbia]] (violencia organizada en la Edad del Hierro), [[Little Foot - reconstrucción facial]] (Sterkfontein, *A. prometheus*, 3.67 Ma).
 - 🧍 **Antro cognición y arte** (Science News): [[Caza de ballenas hace 5000 años en Brasil]] — sambaquíes y caza ballenera precolombina.
 - ⚗️ **Quím materiales** (Phys.org): [[Polímero compostable - alternativa a termoplásticos]] — nueva clase biodegradable competitiva.
+
+### Etapa 5 — MOCs transversales (2026-04-24, +4 MOCs → 252)
+
+Cuatro nuevos índices temáticos que aprovechan la densidad del grafo después de las 4 etapas anteriores. Cada uno cruza varias disciplinas y propone un orden de lectura.
+
+- 🔬 [[MOC Métodos científicos]] — cómo se sabe lo que se sabe: marco general, datación, isótopos, aDNA, paleogenómica, secuenciación, antropología bio-arqueológica, quimiometría e IA en observación.
+- ☄️ [[MOC Catástrofes globales]] — impactos, LIPs, glaciaciones globales, anoxia oceánica, cambio climático abrupto, eventos en curso.
+- 🧪 [[MOC Materiales y enlaces]] — del átomo al sólido funcional: cimientos atómicos → enlaces → estados → materiales avanzados (grafeno, perovskitas, polímeros) → materiales de la vida.
+- 🦠 [[MOC Vida temprana]] — primeros 4 mil millones de años: Hadeico → microbios → GEO → Tierra bola de nieve → multicelularidad → Cámbrico → conquista terrestre. Transversal Geo + Paleo + Bio.
+
+Total: **10 MOCs temáticos** (los 6 originales + 4 nuevos).
 
 ## Cómo usarlo
 
