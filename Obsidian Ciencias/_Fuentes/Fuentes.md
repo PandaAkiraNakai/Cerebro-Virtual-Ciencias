@@ -141,8 +141,9 @@ Federan datos de cientos de museos en un solo portal.
 | Ensembl 2026 ⭐ | https://www.ensembl.org/ | Alineamientos genómicos, ortólogos, filogenias |
 | Ensembl Genomes | http://ensemblgenomes.org/ | Plantas, invertebrados, hongos, protistas, bacterias |
 | UCSC Genome Browser | https://genome.ucsc.edu/ | Navegación visual de genomas, tracks de conservación |
-| KEGG ⭐ | https://www.genome.jp/kegg/ | Metabolismo, señalización, pathways biológicos (act. abril 2026) |
+| KEGG ⭐ | https://www.genome.jp/kegg/ | Última release: **2026-04-01**. Familia de 12 sub-bases: PATHWAY, GENES, COMPOUND, REACTION, ENZYME, BRITE, MODULE, ORTHOLOGY (KO), DISEASE, DRUG, GENOME, GLYCAN |
 | KEGG GENES | https://www.genome.jp/kegg/genes.html | Genes anotados, ortólogos, comparaciones |
+| UCSC Genome Browser | https://genome.ucsc.edu/ | Visualización de genomas. Ensamblajes de referencia: hg38, hg19, T2T-CHM13/hs1; mm39, mm10. Miles más vía GenArk. REST API. Updates 2026: NMD Escape (abr 22), STR tracks (abr 10), heatmap mode (abr 3) |
 
 ### Proteínas y homología
 
@@ -152,7 +153,7 @@ Federan datos de cientos de museos en un solo portal.
 | Protein Data Bank (PDB) | https://www.rcsb.org/ | Estructuras 3D |
 | HomoloGene | https://www.ncbi.nlm.nih.gov/homologene | Grupos de homólogos para genomas eucarióticos |
 | OMA (Orthologous Matrix) | https://omabrowser.org/ | Ortólogos precisos a nivel de secuencia |
-| STRING | https://string-db.org/ | Redes de asociación de proteínas (funcionales, físicas, reguladoras) |
+| STRING | https://string-db.org/ | Redes de asociación de proteínas (funcionales, físicas, reguladoras). **12.535 organismos · 59,3 M proteínas · >20 mil M de interacciones**. Mantenida por SIB + NNF Center + EMBL |
 | InterPro ⭐ | https://www.ebi.ac.uk/interpro/ | Dominios, familias y sitios de proteínas |
 | Pfam (en InterPro) | https://www.ebi.ac.uk/interpro/entry/pfam/ | Familias de proteínas con alineamientos y filogenias (migrado desde xfam.org) |
 
@@ -160,7 +161,7 @@ Federan datos de cientos de museos en un solo portal.
 
 | Fuente | URL | Nota |
 |---|---|---|
-| Bgee | https://bgee.org/ | Patrones de expresión génica en animales |
+| Bgee | https://bgee.org/ | Patrones de expresión génica en animales. **52 especies · 31.467 librerías RNA-Seq (bulk + single-cell) · 55.997 condiciones anotadas**. Versión 15.2.5 |
 | GeneCards | https://www.genecards.org/ | Información integrada sobre genes humanos |
 
 ### Biodiversidad y taxonomía
@@ -173,7 +174,7 @@ Federan datos de cientos de museos en un solo portal.
 | Wikispecies | https://species.wikimedia.org/ | Taxonomía wiki |
 | Animal Diversity Web (ADW) | https://animaldiversity.org/ | Biología animal |
 | Index Fungorum | https://www.indexfungorum.org/ | Nomenclatura de hongos (incluye fósiles); para nombres de organismos en general usar ITIS o GBIF |
-| ITIS (Integrated Taxonomic Information System) | https://www.itis.gov/ | Taxonomía integrada |
+| ITIS (Integrated Taxonomic Information System) | https://www.itis.gov/ | Taxonomía integrada de animales, plantas, hongos, bacterias, protozoos, chromista, archaea. **991.180 nombres científicos · 164.561 nombres comunes**. Asociado a GBIF y Catalogue of Life |
 
 ### Disciplinas específicas
 
@@ -240,7 +241,7 @@ Federan datos de cientos de museos en un solo portal.
 | GeoRef | https://www.americangeosciences.org/ | (acceso parcial) |
 | PANGAEA | https://www.pangaea.de/ | Datos oceánicos y de la Tierra |
 | EarthChem | https://www.earthchem.org/ | Geoquímica |
-| Macrostrat ⭐ | https://macrostrat.org/ | Estratigrafía |
+| Macrostrat ⭐ | https://macrostrat.org/ | Estratigrafía. **1.400 columnas regionales · 33.903 unidades de roca · 2,5 M polígonos en mapa geológico · 51.212 nombres estratigráficos · 225+ mapas globales**. Cobertura: NA, Caribe, NZ, fondo marino. Apps: Sift, Map, Rockd (Android), Mancos (iOS). API CC-BY-4.0. Conectada al xDD digital library |
 | Marine Geoscience Data System | https://www.marine-geo.org/ | |
 | NASA Earthdata | https://www.earthdata.nasa.gov/ | Observación terrestre |
 
