@@ -143,3 +143,32 @@ Catálogo de fuentes [`Obsidian Ciencias/_Fuentes/Fuentes.md`](Obsidian%20Cienci
 - `.DS_Store` y otros archivos de sistema.
 
 Ver [`.gitignore`](.gitignore) para el listado completo.
+
+## Despliegue web (Quartz v4 + Coolify)
+
+La rama [`site/quartz`](../../src/branch/site/quartz) contiene la configuración para publicar el vault en **paleo.sergiocubelli.space** como sitio estático con búsqueda y graph view, generado con [Quartz v4](https://quartz.jzhao.xyz/) y servido por nginx dentro de un contenedor Docker.
+
+### Archivos de despliegue
+
+| Archivo | Rol |
+|---|---|
+| `Dockerfile` | Build multi-stage: clona Quartz v4, copia `Obsidian Ciencias/` a `content/`, genera `public/`, sirve con nginx |
+| `nginx.conf` | Config del servidor: gzip, cache, try_files para wikilinks sin extensión |
+| `docker-compose.yml` | Servicio que Coolify detecta; el dominio se configura en la UI |
+| `quartz.config.ts` | Config de Quartz: baseUrl, locale, plugins, tema |
+| `quartz.layout.ts` | Layout: Explorer a la izquierda, Graph + TOC + Backlinks a la derecha |
+| `.dockerignore` | Excluye `.git`, `.obsidian/workspace*`, etc. del contexto de build |
+
+### Cómo se actualiza
+
+Cada push a la rama `site/quartz` dispara un webhook en Coolify → rebuild del contenedor → sitio actualizado. Para que las notas nuevas aparezcan basta con hacer merge de `main` a `site/quartz` (o trabajar directamente en `site/quartz`).
+
+### Build local (opcional, requiere Docker)
+
+```bash
+docker build -t paleo-site .
+docker run --rm -p 8080:80 paleo-site
+# abrir http://localhost:8080
+```
+
+No se puede hacer `npm install` directamente en este repo porque el código de Quartz vive dentro del Docker build (se clona en tiempo de build, no se commitea). Para trabajar en el tema/plugins hay que clonar Quartz aparte y copiar los archivos `quartz.*.ts` allí.

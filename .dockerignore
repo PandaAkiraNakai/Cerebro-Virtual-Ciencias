@@ -1,0 +1,14 @@
+.git
+.gitignore
+.claude
+.github
+.gitea
+node_modules
+**/.obsidian/workspace.json
+**/.obsidian/workspace-mobile.json
+**/.obsidian/workspaces.json
+**/.DS_Store
+**/Thumbs.db
+*.swp
+*~
+README.md
