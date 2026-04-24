@@ -2,7 +2,7 @@
 tipo: MOC
 rol: índice-maestro
 actualizado: 2026-04-24
-notas_totales: 153
+notas_totales: 158
 fuente_base: ScienceDaily + colecciones museísticas + bases especializadas
 eje_principal: paleontología
 ---
@@ -11,9 +11,11 @@ eje_principal: paleontología
 
 > **Punto de entrada del vault.** Siempre consultar aquí primero. Toda nota nueva debe agregarse a este índice.
 
-**Estado actual**: 153 notas · 5 disciplinas con **N0-N5 completos** en paleontología, geología, biología y química · N0-N4 en antropología · 6 MOCs temáticos · 1 catálogo de fuentes ampliado (museos digitales + agregadores de biocolecciones + bases genómicas/proteómicas + recursos educativos Tier 1/2) · 1 plan de aprendizaje · 49 notas de casos reales organizadas en subcarpetas temáticas. Currículum en [[Plan de Aprendizaje]]. Catálogo de fuentes en [[Fuentes]].
+**Estado actual**: 158 notas · 5 disciplinas con **N0-N5 completos** en paleontología, geología, biología y química · N0-N4 en antropología · 6 MOCs temáticos · 1 catálogo de fuentes ampliado (museos digitales + agregadores de biocolecciones + bases genómicas/proteómicas + recursos educativos Tier 1/2) · 1 plan de aprendizaje · 54 notas de casos reales organizadas en subcarpetas temáticas. Currículum en [[Plan de Aprendizaje]]. Catálogo de fuentes en [[Fuentes]].
 
 > **Actualización 2026-04-24**: el catálogo [[Fuentes]] ahora incluye colecciones digitales del Smithsonian, NHM Londres, AMNH, UCMP Berkeley, Florida Museum y PRI; agregadores de biocolecciones (GBIF, iDigBio, Arctos, DiSSCo, VertNet); Biodiversity Heritage Library (BHL); y bases genómicas/proteómicas (KEGG, OMA, STRING, InterPro, Bgee, GeneCards) con **estadísticas verificadas** (Macrostrat, KEGG, STRING, Bgee, ITIS, UCSC). Agregadas **5 notas de casos** con contenido extraído de las nuevas fuentes consultadas: esponja sin esqueleto (550 Ma), GOFLOW (corrientes oceánicas con IA), moringa (microplásticos), metano oceánico microbiano, y fonones quirales (control electrónico sin imanes).
+
+> **Actualización 2026-04-24 (tarde-noche)**: 5 nuevos casos desde ScienceDaily (secciones Plants & Animals y Earth/Climate): [[Glaciares surgentes - 3100 identificados]] (glaciología), [[Corriente Circumpolar Antártica - formación compleja]] (oceanografía), [[Abejas híbridas californianas resisten CCD]] (entomología), [[Ballenas grises entran a la Bahía de San Francisco]] (ecología marina), [[Químicos permitidos frenan recuperación del ozono]] (química atmosférica). Sección paleontología de ScienceDaily **verificada completa** (todos los titulares actuales ya estaban en el vault).
 
 ## Cómo navegar
 
@@ -131,6 +133,7 @@ eje_principal: paleontología
 
 ### Casos reales — entomología
 - [[Trampa para termitas - pineno]]
+- [[Abejas híbridas californianas resisten CCD]]
 
 ### Casos reales — ornitología
 - [[Aves de Hawái - mito refutado]]
@@ -147,6 +150,7 @@ eje_principal: paleontología
 - [[Microbioma intestinal se transmite por proximidad social]]
 - [[Salmones enlatados revelan recuperación oceánica]]
 - [[Metano oceánico - microbios y calentamiento]]
+- [[Ballenas grises entran a la Bahía de San Francisco]]
 
 ### Casos reales — botánica
 - [[La luz fortalece pero también frena a las plantas]]
@@ -195,6 +199,7 @@ eje_principal: paleontología
 ### Casos reales — superficie y costas
 - [[Deltas fluviales hundimiento]]
 - [[Doggerland - Bosques sumergidos]]
+- [[Corriente Circumpolar Antártica - formación compleja]]
 
 ### Casos reales — mineralogía
 - [[Problema de la dolomita resuelto]]
@@ -202,6 +207,7 @@ eje_principal: paleontología
 ### Casos reales — glaciología
 - [[Groenlandia deshielo hace 7000 años]]
 - [[Glaciar Hektoria - colapso récord]]
+- [[Glaciares surgentes - 3100 identificados]]
 
 ### Casos reales — sismos
 - [[Falla de Myanmar filmada en tiempo real]]
@@ -284,6 +290,7 @@ eje_principal: paleontología
 - [[MXene - conductividad 160x]]
 - [[Material de carbono para captura de CO2]]
 - [[Fonones quirales - control electrónico sin imanes]]
+- [[Químicos permitidos frenan recuperación del ozono]]
 
 ---
 
