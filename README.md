@@ -8,11 +8,11 @@ Eje del vault: **paleontología** — las demás disciplinas son ramas que la su
 
 | Disciplina | Notas de fundamentos | Notas de casos |
 |---|---|---|
-| Paleontología (eje) | 21 (N0–N5) | 14 |
-| Biología | 20 (N0–N5) | 11 |
-| Geología | 19 (N0–N5) | 9 |
+| Paleontología (eje) | 25 (N0–N5) | 14 |
+| Biología | 21 (N0–N5) | 12 |
+| Geología | 20 (N0–N5) | 12 |
 | Antropología | 12 (N0–N4) | 5 |
-| Química | 17 (N0–N5) | 5 |
+| Química | 17 (N0–N5) | 6 |
 
 ## Estructura del vault
 
@@ -28,10 +28,12 @@ Obsidian Ciencias/
 │   ├── N2 - Tiempo geológico/       eones, eras, extinciones masivas
 │   ├── N3 - Taxonomía/              Linneo, cladística
 │   ├── N4 - Grandes grupos/         invertebrados, tetrápodos, dinosaurios…
+│   ├── N5 - Grupos específicos/     aves, cetáceos, pterosaurios, reptiles marinos, megafauna, Lagerstätten
 │   ├── Casos - Dinosaurios/
 │   ├── Casos - Reptiles pérmico-triásicos/
 │   ├── Casos - Crocodilomorfos/
-│   └── Casos - Cefalópodos/
+│   ├── Casos - Cefalópodos/
+│   └── Casos - Invertebrados y artrópodos/
 │
 ├── Biología/
 │   ├── N0 - Fundamentos/            qué es la biología
@@ -42,7 +44,10 @@ Obsidian Ciencias/
 │   ├── Casos - Herpetología/
 │   ├── Casos - Entomología/
 │   ├── Casos - Ornitología/
-│   └── Casos - Fotorrecepción/
+│   ├── Casos - Fotorrecepción/
+│   ├── Casos - Biología celular y molecular/
+│   ├── Casos - Botánica/
+│   └── Casos - Ecología/
 │
 ├── Geología/
 │   ├── N0 - Fundamentos/            qué es, principios (uniformitarismo…)
@@ -53,7 +58,9 @@ Obsidian Ciencias/
 │   ├── Casos - Interior de la Tierra/
 │   ├── Casos - Superficie y costas/
 │   ├── Casos - Mineralogía/
-│   └── Casos - Glaciología/
+│   ├── Casos - Glaciología/
+│   ├── Casos - Hidrología/
+│   └── Casos - Sismos/
 │
 ├── Antropología/
 │   ├── N0 - Fundamentos/            qué es, cuatro ramas
@@ -94,7 +101,7 @@ Obsidian Ciencias/
 
 ## Estado actual
 
-**153 notas** · paleontología, geología y biología con **currículum N0–N5 completo** (fundamentos + profundización) · química N0–N5 · antropología N0–N4 · eje paleontología · 6 MOCs temáticos transversales · 54 notas de casos reales de [ScienceDaily](https://www.sciencedaily.com/) y otras fuentes, organizadas en subcarpetas temáticas · catálogo de ~130 fuentes bibliográficas con estadísticas verificadas · plan de aprendizaje con checkboxes tachados.
+**153 notas** · paleontología, geología y biología con **currículum N0–N5 completo** (fundamentos + profundización) · química N0–N5 · antropología N0–N4 · eje paleontología · 6 MOCs temáticos transversales · 49 notas de casos reales de [ScienceDaily](https://www.sciencedaily.com/) y otras fuentes, organizadas en subcarpetas temáticas · catálogo de ~130 fuentes bibliográficas con estadísticas verificadas · plan de aprendizaje con checkboxes tachados.
 
 ### Última actualización (2026-04-24)
 
@@ -103,9 +110,9 @@ Obsidian Ciencias/
 **5 nuevas notas de casos** (todas extraídas de los WebFetch realizados):
 
 - 🦕 [[Esponja sin esqueleto - 550 millones de años]] — fósil precámbrico que cierra una brecha de 160 M de años.
-- 🪨 [[GOFLOW - corrientes oceánicas con IA]] — método de IA que mapea corrientes invisibles desde satélite.
-- 🪨 [[Moringa contra microplásticos]] — semillas como coagulante natural para potabilización.
-- 🌱 [[Metano oceánico - microbios y calentamiento]] — nueva fuente subestimada de metano marino.
+- 🛰️ [[GOFLOW - corrientes oceánicas con IA]] — método de IA que mapea corrientes invisibles desde satélite.
+- 💧 [[Moringa contra microplásticos]] — semillas como coagulante natural para potabilización.
+- 🦠 [[Metano oceánico - microbios y calentamiento]] — nueva fuente subestimada de metano marino.
 - ⚗️ [[Fonones quirales - control electrónico sin imanes]] — espintrónica fonónica.
 
 **Estadísticas verificadas en `Fuentes.md`**:
@@ -117,7 +124,7 @@ Obsidian Ciencias/
 - **ITIS**: 991.180 nombres científicos · 164.561 nombres comunes.
 - **UCSC Genome Browser**: hg38, hg19, T2T-CHM13, mm39, mm10 + miles vía GenArk; nuevos tracks NMD Escape (abr 22), STR (abr 10), heatmap mode (abr 3).
 
-**Catálogo de fuentes** ampliado en commit anterior con:
+**Catálogo de fuentes** ampliado el mismo día (commit `4ee9360`) con:
 
 - 🏆 Colecciones digitales de museos: Smithsonian Open Access (5,1 M ítems), NHM Londres (80 M en digitalización), AMNH Paleontology Database, UCMP Berkeley, Florida Museum, PRI (7 M especímenes).
 - 🔗 Agregadores de biocolecciones: GBIF, iDigBio (nuevo front `idigbio.gbif.us`), Arctos, DiSSCo (175 museos europeos), VertNet, iChatBio.
