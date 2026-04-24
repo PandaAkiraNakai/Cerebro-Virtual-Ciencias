@@ -8,11 +8,11 @@ Eje del vault: **paleontología** — las demás disciplinas son ramas que la su
 
 | Disciplina | Notas de fundamentos | Notas de casos |
 |---|---|---|
-| Paleontología (eje) | 47 (N0–N5, incluye 18 taxa/eventos icónicos) | 16 |
-| Biología | 23 (N0–N5) | 15 |
-| Geología | 33 (N0–N5, incluye eras + eones + 4 ciclos profundos) | 15 |
-| Antropología | 17 (N0–N5 ahora completo) | 8 |
-| Química | 19 (N0–N5) | 8 |
+| Paleontología (eje) | 50 (N0–N5, incluye 18 taxa/eventos icónicos) | 16 |
+| Biología | 27 (N0–N5) | 15 |
+| Geología | 36 (N0–N5, incluye eras + eones + 4 ciclos profundos) | 15 |
+| Antropología | 19 (N0–N5 ahora completo) | 8 |
+| Química | 20 (N0–N5) | 8 |
 
 ## Estructura del vault
 
@@ -102,7 +102,7 @@ Obsidian Ciencias/
 
 ## Estado actual
 
-**210 notas** · las **5 disciplinas con currículum N0–N5 completo** (paleontología, geología, biología, química y ahora antropología) · eje paleontología · 6 MOCs temáticos transversales · 62 notas de casos reales de [ScienceDaily](https://www.sciencedaily.com/) y otras fuentes, organizadas en subcarpetas temáticas · 18 páginas dedicadas a taxones y eventos paleontológicos icónicos · 10 páginas de historia geológica profunda (eras, eones, ciclos de Wilson/supercontinentes/Milankovitch/carbono) · catálogo de ~130 fuentes bibliográficas con estadísticas verificadas · plan de aprendizaje con checkboxes tachados.
+**223 notas** · las **5 disciplinas con currículum N0–N5 completo** (paleontología, geología, biología, química y ahora antropología) · eje paleontología · 6 MOCs temáticos transversales · 62 notas de casos reales de [ScienceDaily](https://www.sciencedaily.com/) y otras fuentes, organizadas en subcarpetas temáticas · 18 páginas dedicadas a taxones y eventos paleontológicos icónicos · 10 páginas de historia geológica profunda (eras, eones, ciclos de Wilson/supercontinentes/Milankovitch/carbono) · catálogo de ~130 fuentes bibliográficas con estadísticas verificadas · plan de aprendizaje con checkboxes tachados.
 
 ### Última actualización (2026-04-24)
 
@@ -176,6 +176,20 @@ Pasada para que las 5 disciplinas tengan **fundamentos al mismo nivel de detalle
 - 🌱 **Biología N0**: [[Historia de la biología]] — Linneo → Darwin → Mendel → Watson-Crick → genómica → CRISPR.
 - ⚗️ **Química N0**: [[Magnitudes y unidades químicas]] — mol, *N*<sub>A</sub>, masa molar, concentración, gas ideal.
 - 🧍 **Antropología N0**: [[Historia de la antropología]] — evolucionismo → Boas → funcionalismo → estructuralismo → posmoderno → Antropoceno.
+
+### Etapa 2 — Profundización N2/N3 (2026-04-24, +13 notas → 223)
+
+Densificado de la **capa media** del currículum.
+
+- 🦕 **Paleontología N2**: extinciones individuales que faltaban como nota dedicada — [[Extinción Ordovícico-Silúrico]] (Big One #1, glaciación + anoxia), [[Hangenberg - extinción del Devónico tardío]] (vacío de Romer, anoxia + glaciación).
+- 🦕 **Paleontología N3**: [[Filogenética molecular vs morfológica]] — métodos comparados, casos célebres (aves, tortugas, hominini), Total Evidence Dating.
+- 🌱 **Biología N2**: [[Citoesqueleto]] (actina, microtúbulos, intermedios), [[Comunicación celular]] (GPCR, RTK, vías canónicas).
+- 🌱 **Biología N3**: [[Mutación y reparación del ADN]] (MMR/BER/NER/HR/NHEJ, síndromes), [[Equilibrio Hardy-Weinberg]] (modelo nulo de la genética de poblaciones).
+- 🪨 **Geología N2**: [[Hot spots y plumas mantélicas]] (Hawái, Reunión, Yellowstone, conexión con LIPs).
+- 🪨 **Geología N3**: [[Ciclo del agua]] (reservorios, flujos, intervención humana), [[Ciclo del nitrógeno]] (fijación, nitrificación, Haber-Bosch, eutrofización).
+- 🧍 **Antropología N2**: [[Poblamiento de Oceanía]] — Sahul (≥65 ka) + austronesios/Lapita (~3.5–1 ka) + navegación polinesia.
+- 🧍 **Antropología N3**: [[Domesticación de plantas y animales]] — 10 centros mundiales independientes, síndrome de domesticación, coevolución (lactasa, amilasa, ADH).
+- ⚗️ **Química N3**: [[Teoría de orbitales moleculares]] — LCAO, HOMO/LUMO, paramagnetismo del O₂, base de la teoría de bandas y los semiconductores.
 
 ## Cómo usarlo
 

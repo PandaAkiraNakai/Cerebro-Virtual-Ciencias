@@ -2,7 +2,7 @@
 tipo: MOC
 rol: índice-maestro
 actualizado: 2026-04-24
-notas_totales: 210
+notas_totales: 223
 fuente_base: ScienceDaily + colecciones museísticas + bases especializadas
 eje_principal: paleontología
 ---
@@ -11,7 +11,7 @@ eje_principal: paleontología
 
 > **Punto de entrada del vault.** Siempre consultar aquí primero. Toda nota nueva debe agregarse a este índice.
 
-**Estado actual**: 210 notas · 5 disciplinas con **N0-N5 completos** en paleontología, geología, biología, química **y ahora también antropología** · 6 MOCs temáticos · 1 catálogo de fuentes ampliado (museos digitales + agregadores de biocolecciones + bases genómicas/proteómicas + recursos educativos Tier 1/2) · 1 plan de aprendizaje · 62 notas de casos reales + **18 taxones y eventos icónicos** paleo (T. rex, Archaeopteryx, Tiktaalik, Chicxulub, Lucy…) + **10 páginas de historia geológica profunda** (eras Paleozoico/Mesozoico/Cenozoico + eones Arcaico/Proterozoico + Tierra bola de nieve + ciclos de Wilson, supercontinentes, Milankovitch y carbono geológico). Currículum en [[Plan de Aprendizaje]]. Catálogo de fuentes en [[Fuentes]].
+**Estado actual**: 223 notas · 5 disciplinas con **N0-N5 completos** en paleontología, geología, biología, química **y ahora también antropología** · 6 MOCs temáticos · 1 catálogo de fuentes ampliado (museos digitales + agregadores de biocolecciones + bases genómicas/proteómicas + recursos educativos Tier 1/2) · 1 plan de aprendizaje · 62 notas de casos reales + **18 taxones y eventos icónicos** paleo (T. rex, Archaeopteryx, Tiktaalik, Chicxulub, Lucy…) + **10 páginas de historia geológica profunda** (eras Paleozoico/Mesozoico/Cenozoico + eones Arcaico/Proterozoico + Tierra bola de nieve + ciclos de Wilson, supercontinentes, Milankovitch y carbono geológico). Currículum en [[Plan de Aprendizaje]]. Catálogo de fuentes en [[Fuentes]].
 
 > **Actualización 2026-04-24**: el catálogo [[Fuentes]] ahora incluye colecciones digitales del Smithsonian, NHM Londres, AMNH, UCMP Berkeley, Florida Museum y PRI; agregadores de biocolecciones (GBIF, iDigBio, Arctos, DiSSCo, VertNet); Biodiversity Heritage Library (BHL); y bases genómicas/proteómicas (KEGG, OMA, STRING, InterPro, Bgee, GeneCards) con **estadísticas verificadas** (Macrostrat, KEGG, STRING, Bgee, ITIS, UCSC). Agregadas **5 notas de casos** con contenido extraído de las nuevas fuentes consultadas: esponja sin esqueleto (550 Ma), GOFLOW (corrientes oceánicas con IA), moringa (microplásticos), metano oceánico microbiano, y fonones quirales (control electrónico sin imanes).
 
@@ -20,6 +20,8 @@ eje_principal: paleontología
 > **Actualización 2026-04-24 (expansión paleo)**: análisis sistemático de las N4/N5 de paleontología y creación de **18 notas** para taxones y eventos icónicos que eran solo mencionados en notas mayores: 15 taxa en N5 (*T. rex*, *Spinosaurus*, *Velociraptor*, *Archaeopteryx*, *Tiktaalik*, *Acanthostega/Ichthyostega*, *Dimetrodon*, *Anomalocaris*, *Quetzalcoatlus*, *Mosasaurus*, *Smilodon*, mamut lanudo, Lucy/*A. afarensis*, dinosaurios emplumados de Jehol, titanosaurios patagónicos) + 3 eventos en N2 ([[Explosión cámbrica]], [[Trapps Siberianos - la Gran Mortandad]], [[Impacto de Chicxulub]]).
 
 > **Actualización 2026-04-24 (expansión geológica)**: 10 notas nuevas sobre **historia y ciclos profundos de la Tierra**. En N5 — Historia de la Tierra: [[Arcaico]] (4.000-2.500 Ma, primera vida, komatitas), [[Proterozoico]] (2.500-539 Ma, GEO, Rodinia, Ediacara), [[Tierra bola de nieve]] (Criogénico, feedback runaway), [[Paleozoico]] (Cámbrico-Pérmico), [[Mesozoico]] (Triásico-Cretácico), [[Cenozoico]] (era mamífera). En N3 — Procesos y ciclos: [[Ciclo de Wilson]], [[Ciclo de supercontinentes]], [[Ciclos de Milankovitch]], [[Ciclo del carbono geológico]].
+
+> **Actualización 2026-04-24 (Etapa 2 — Profundización N2/N3, +13 notas)**: capa media densificada en las 5 disciplinas. Paleo N2 suma extinciones individuales: [[Extinción Ordovícico-Silúrico]], [[Hangenberg - extinción del Devónico tardío]]. Paleo N3: [[Filogenética molecular vs morfológica]]. Bio N2: [[Citoesqueleto]], [[Comunicación celular]]. Bio N3: [[Mutación y reparación del ADN]], [[Equilibrio Hardy-Weinberg]]. Geo N2: [[Hot spots y plumas mantélicas]]. Geo N3: [[Ciclo del agua]], [[Ciclo del nitrógeno]]. Antro N2: [[Poblamiento de Oceanía]]. Antro N3: [[Domesticación de plantas y animales]]. Quím N3: [[Teoría de orbitales moleculares]] (TOM).
 
 > **Actualización 2026-04-24 (Etapa 1 — N0/N1 parejo, +9 notas)**: cierre de fundamentos en las 5 disciplinas. Paleontología N1 desglosa por fin sus ramas: [[Paleobotánica]], [[Icnología]], [[Micropaleontología]], [[Bioestratigrafía]]. Geología N0 suma [[Principios fundamentales de la geología]] (uniformitarismo, superposición, sucesión faunística…) y [[Historia de la geología]] (Hutton → Lyell → Wegener → Patterson). Biología N0: [[Historia de la biología]] (Linneo → Darwin → Mendel → Watson-Crick → CRISPR). Química N0: [[Magnitudes y unidades químicas]] (mol, *N*<sub>A</sub>, estequiometría base). Antropología N0: [[Historia de la antropología]] (Boas, funcionalismo, estructuralismo, posmoderno, Antropoceno).
 
@@ -55,12 +57,15 @@ eje_principal: paleontología
 - [[Escala del tiempo geológico]] — eón/era/período/época/edad, Fanerozoico detallado.
 - [[Extinciones masivas]] — las "Big Five" + sexta en curso.
 - [[Explosión cámbrica]] — radiación de filos animales en 25-40 Ma.
+- [[Extinción Ordovícico-Silúrico]] — primera de las Big Five (~445 Ma), glaciación + anoxia.
+- [[Hangenberg - extinción del Devónico tardío]] — vacío de Romer, anoxia + glaciación.
 - [[Trapps Siberianos - la Gran Mortandad]] — causa de la extinción P-T.
 - [[Impacto de Chicxulub]] — asteroide K-Pg, fin de dinosaurios no avianos.
 
 ### N3 — Taxonomía y filogenia
 - [[Taxonomía linneana]] — jerarquía y nomenclatura binomial.
 - [[Cladística]] — clados, sinapomorfía, monofilético vs parafilético.
+- [[Filogenética molecular vs morfológica]] — métodos comparados, casos célebres, total evidence dating.
 
 ### N4 — Grandes grupos fósiles
 - [[Invertebrados fósiles]] — trilobites, ammonites, braquiópodos, graptolitos…
@@ -151,12 +156,16 @@ eje_principal: paleontología
 - [[Transporte de membrana]] — difusión, ósmosis, transporte activo, endocitosis.
 - [[Ciclo celular - mitosis y meiosis]] — fases, checkpoints, variabilidad genética.
 - [[Teoría endosimbiótica]] — origen de mitocondrias y cloroplastos.
+- [[Citoesqueleto]] — actina, microtúbulos, filamentos intermedios.
+- [[Comunicación celular]] — receptores, señalización, vías canónicas (MAPK, PI3K, Wnt).
 
 ### N3 — Genética y evolución
 - [[ADN ARN y dogma central]] — replicación, transcripción, traducción.
 - [[Genética mendeliana]] — leyes, alelos, dominancia, ligamiento.
 - [[Selección natural y evolución]] — mecanismos, deriva, evidencias.
 - [[Especiación]] — modos, aislamiento reproductivo, radiación adaptativa.
+- [[Mutación y reparación del ADN]] — fuentes de daño, MMR/BER/NER/HR/NHEJ, síndromes.
+- [[Equilibrio Hardy-Weinberg]] — modelo nulo de la genética de poblaciones.
 
 ### N4 — Taxonomía biológica
 - [[Dominios y reinos]] — Bacteria, Archaea, Eukarya, supergrupos.
@@ -218,6 +227,7 @@ eje_principal: paleontología
 - [[Tectónica de placas]] — Wegener → tectónica moderna.
 - [[Tipos de límites de placas]] — divergente, convergente, transformante.
 - [[Subducción y orogénesis]] — formación de cordilleras, Andes, Himalaya.
+- [[Hot spots y plumas mantélicas]] — vulcanismo intraplaca, cadenas de islas, LIPs.
 
 ### N3 — Procesos y ciclos
 - [[Ciclo de las rocas]] — ígneas, sedimentarias, metamórficas.
@@ -232,6 +242,8 @@ eje_principal: paleontología
 - [[Ciclo de supercontinentes]] — Vaalbara → Columbia → Rodinia → Pangea → Amasia.
 - [[Ciclos de Milankovitch]] — excentricidad, oblicuidad, precesión; glaciaciones del Pleistoceno.
 - [[Ciclo del carbono geológico]] — termostato silicato-carbonato, Antropoceno.
+- [[Ciclo del agua]] — reservorios, flujos, tiempos de residencia, modificación humana.
+- [[Ciclo del nitrógeno]] — fijación, nitrificación, desnitrificación, Haber-Bosch.
 
 ### N4 — Minerales y rocas
 - [[Minerales - definición y clasificación]] — Mohs, Strunz, silicatos.
@@ -294,10 +306,12 @@ eje_principal: paleontología
 ### N2 — Migraciones
 - [[Salidas de África]] — *H. erectus*, *heidelbergensis*, *sapiens*, denisovanos.
 - [[Poblamiento de América]] — Beringia, Clovis, rutas costeras.
+- [[Poblamiento de Oceanía]] — Sahul, austronesios, Lapita, navegación polinesia.
 
 ### N3 — Cognición y cultura
 - [[Arte y cognición simbólica]] — ornamentación, arte rupestre.
 - [[Revolución neolítica]] — agricultura, sedentarismo, consecuencias.
+- [[Domesticación de plantas y animales]] — 10 centros independientes, síndrome de domesticación, coevolución humano-cultivos.
 
 ### N4 — Métodos
 - [[Métodos de datación]] — C-14, K-Ar, U-Pb, luminiscencia, ESR.
@@ -348,6 +362,7 @@ eje_principal: paleontología
 - [[Enlaces químicos]] — iónico, covalente, metálico, Lewis.
 - [[Fuerzas intermoleculares]] — London, dipolo-dipolo, puente de H.
 - [[Geometría molecular]] — VSEPR, hibridación, polaridad.
+- [[Teoría de orbitales moleculares]] — LCAO, HOMO/LUMO, paramagnetismo, teoría de bandas.
 
 ### N4 — Estados de la materia
 - [[Estados de la materia]] — sólido, líquido, gas, plasma, BEC.
