@@ -9,7 +9,8 @@ actualizado: 2026-04-24
 Listado consolidado de **fuentes autorizadas** del vault. Cada nota debe indicar su procedencia en el frontmatter (`fuente:` y `url:`). Las fuentes destacadas con ⭐ son prioridad alta.
 
 > Fuente ya utilizada para la primera recolección: [ScienceDaily](https://www.sciencedaily.com/) (2026-04-23).
-> **Actualización 2026-04-24**: incorporadas colecciones digitales de museos, agregadores de biocolecciones (Arctos, iDigBio, DiSSCo), Biodiversity Heritage Library, y nuevas bases genómicas/proteómicas (KEGG, OMA, STRING, InterPro, Bgee).
+> **Actualización 2026-04-24 (mañana)**: incorporadas colecciones digitales de museos, agregadores de biocolecciones (Arctos, iDigBio, DiSSCo), Biodiversity Heritage Library, y nuevas bases genómicas/proteómicas (KEGG, OMA, STRING, InterPro, Bgee).
+> **Actualización 2026-04-24 (tarde)**: añadida la capa **Recursos educativos y de divulgación** (cursos online, OER, laboratorios virtuales, canales de YouTube, podcasts, documentales, comunidades). Sólo fuentes **Tier 1** (peer-review / respaldo institucional) y **Tier 2 verificadas** (autor con credenciales comprobables). **Tier 3 excluido por completo**: criptozoología, cursos sin filtro académico (Udemy), canales sin autor verificable, Discord sin moderación, "científicos independientes" sin afiliación.
 
 ---
 
@@ -141,8 +142,9 @@ Federan datos de cientos de museos en un solo portal.
 | Ensembl 2026 ⭐ | https://www.ensembl.org/ | Alineamientos genómicos, ortólogos, filogenias |
 | Ensembl Genomes | http://ensemblgenomes.org/ | Plantas, invertebrados, hongos, protistas, bacterias |
 | UCSC Genome Browser | https://genome.ucsc.edu/ | Navegación visual de genomas, tracks de conservación |
-| KEGG ⭐ | https://www.genome.jp/kegg/ | Metabolismo, señalización, pathways biológicos (act. abril 2026) |
+| KEGG ⭐ | https://www.genome.jp/kegg/ | Última release: **2026-04-01**. Familia de 12 sub-bases: PATHWAY, GENES, COMPOUND, REACTION, ENZYME, BRITE, MODULE, ORTHOLOGY (KO), DISEASE, DRUG, GENOME, GLYCAN |
 | KEGG GENES | https://www.genome.jp/kegg/genes.html | Genes anotados, ortólogos, comparaciones |
+| UCSC Genome Browser | https://genome.ucsc.edu/ | Visualización de genomas. Ensamblajes de referencia: hg38, hg19, T2T-CHM13/hs1; mm39, mm10. Miles más vía GenArk. REST API. Updates 2026: NMD Escape (abr 22), STR tracks (abr 10), heatmap mode (abr 3) |
 
 ### Proteínas y homología
 
@@ -152,7 +154,7 @@ Federan datos de cientos de museos en un solo portal.
 | Protein Data Bank (PDB) | https://www.rcsb.org/ | Estructuras 3D |
 | HomoloGene | https://www.ncbi.nlm.nih.gov/homologene | Grupos de homólogos para genomas eucarióticos |
 | OMA (Orthologous Matrix) | https://omabrowser.org/ | Ortólogos precisos a nivel de secuencia |
-| STRING | https://string-db.org/ | Redes de asociación de proteínas (funcionales, físicas, reguladoras) |
+| STRING | https://string-db.org/ | Redes de asociación de proteínas (funcionales, físicas, reguladoras). **12.535 organismos · 59,3 M proteínas · >20 mil M de interacciones**. Mantenida por SIB + NNF Center + EMBL |
 | InterPro ⭐ | https://www.ebi.ac.uk/interpro/ | Dominios, familias y sitios de proteínas |
 | Pfam (en InterPro) | https://www.ebi.ac.uk/interpro/entry/pfam/ | Familias de proteínas con alineamientos y filogenias (migrado desde xfam.org) |
 
@@ -160,7 +162,7 @@ Federan datos de cientos de museos en un solo portal.
 
 | Fuente | URL | Nota |
 |---|---|---|
-| Bgee | https://bgee.org/ | Patrones de expresión génica en animales |
+| Bgee | https://bgee.org/ | Patrones de expresión génica en animales. **52 especies · 31.467 librerías RNA-Seq (bulk + single-cell) · 55.997 condiciones anotadas**. Versión 15.2.5 |
 | GeneCards | https://www.genecards.org/ | Información integrada sobre genes humanos |
 
 ### Biodiversidad y taxonomía
@@ -173,7 +175,7 @@ Federan datos de cientos de museos en un solo portal.
 | Wikispecies | https://species.wikimedia.org/ | Taxonomía wiki |
 | Animal Diversity Web (ADW) | https://animaldiversity.org/ | Biología animal |
 | Index Fungorum | https://www.indexfungorum.org/ | Nomenclatura de hongos (incluye fósiles); para nombres de organismos en general usar ITIS o GBIF |
-| ITIS (Integrated Taxonomic Information System) | https://www.itis.gov/ | Taxonomía integrada |
+| ITIS (Integrated Taxonomic Information System) | https://www.itis.gov/ | Taxonomía integrada de animales, plantas, hongos, bacterias, protozoos, chromista, archaea. **991.180 nombres científicos · 164.561 nombres comunes**. Asociado a GBIF y Catalogue of Life |
 
 ### Disciplinas específicas
 
@@ -240,7 +242,7 @@ Federan datos de cientos de museos en un solo portal.
 | GeoRef | https://www.americangeosciences.org/ | (acceso parcial) |
 | PANGAEA | https://www.pangaea.de/ | Datos oceánicos y de la Tierra |
 | EarthChem | https://www.earthchem.org/ | Geoquímica |
-| Macrostrat ⭐ | https://macrostrat.org/ | Estratigrafía |
+| Macrostrat ⭐ | https://macrostrat.org/ | Estratigrafía. **1.400 columnas regionales · 33.903 unidades de roca · 2,5 M polígonos en mapa geológico · 51.212 nombres estratigráficos · 225+ mapas globales**. Cobertura: NA, Caribe, NZ, fondo marino. Apps: Sift, Map, Rockd (Android), Mancos (iOS). API CC-BY-4.0. Conectada al xDD digital library |
 | Marine Geoscience Data System | https://www.marine-geo.org/ | |
 | NASA Earthdata | https://www.earthdata.nasa.gov/ | Observación terrestre |
 
@@ -334,6 +336,221 @@ Federan datos de cientos de museos en un solo portal.
 
 ---
 
+# 🎓 Recursos educativos y de divulgación
+
+Capa distinta de la investigación primaria: cursos estructurados, libros abiertos, simulaciones, audio/video educativo. Útil para **construir fundamentos** y **explicar conceptos**, no como cita científica directa (para eso, volver a las bases primarias de arriba).
+
+> Sólo se listan fuentes **Tier 1** y **Tier 2 verificadas**. Lo que queda fuera está en la sección [🚫 Fuentes excluidas explícitamente](#-fuentes-excluidas-explícitamente) al final.
+
+## 🎓 Plataformas de cursos online
+
+### Tier 1 — universidades reales con peer-review institucional
+
+| Plataforma | URL | Nota |
+|---|---|---|
+| Coursera | https://www.coursera.org/ | 100+ cursos de paleo/geología/biología. Contenido gratis, certificado de pago. Buscar: `paleontology`, `geology`, `evolution` |
+| edX | https://www.edx.org/ | MIT, Harvard, Berkeley. Audit gratis; paleo, biología, geología, antropología |
+| FutureLearn | https://www.futurelearn.com/ | Universidades británicas e internacionales; muchos con audit gratuito |
+| Class Central | https://www.classcentral.com/ | Agregador de cursos gratis (Coursera + edX + universidades); reseñas |
+
+### Tier 1 — libre acceso estructurado ⭐
+
+| Plataforma | URL | Nota |
+|---|---|---|
+| Khan Academy ⭐ | https://www.khanacademy.org/ | 100% gratis, sin publicidad, 50+ idiomas. Biología, química, física. Partnerships con NASA, California Academy of Sciences |
+| Khan Academy Science | https://www.khanacademy.org/science | Biología, química, física (incluida física moderna), estructurado |
+
+## 📚 Libros de texto abiertos (OER)
+
+Todos peer-reviewed y/o usados en universidades.
+
+| Recurso | URL | Nota |
+|---|---|---|
+| OpenStax ⭐⭐ | https://openstax.org/ | 50+ libros peer-reviewed (Biology, Chemistry, Anatomy & Physiology, Physics). PDF, web, audiobooks. Usado en universidades de EE.UU. |
+| Biology LibreTexts | https://bio.libretexts.org/ | Colecciones completas, CC-BY |
+| Chemistry LibreTexts | https://chem.libretexts.org/ | |
+| Geosciences LibreTexts | https://geo.libretexts.org/ | |
+| Open Textbook Library (U Minnesota) | https://open.umn.edu/opentextbooks/ | Biblioteca abierta de textos académicos |
+| OER Commons | https://www.oercommons.org/ | 50.000+ recursos educativos abiertos |
+| Project MUSE (Johns Hopkins) | https://muse.jhu.edu/ | Libros y artículos académicos |
+
+## 🔬 Laboratorios virtuales e interactivos
+
+| Recurso | URL | Nota |
+|---|---|---|
+| PhET ⭐ | https://phet.colorado.edu/ | U. de Colorado Boulder (fundadora: premio Nobel Carl Wieman). 130+ simulaciones HTML5. Basado en investigación educativa |
+| HHMI BioInteractive ⭐ | https://www.biointeractive.org/ | Howard Hughes Medical Institute. Labs de biología, videos, interactivos |
+| MERLOT Virtual Labs | https://virtuallabs.merlot.org/ | Agregador curado (muchos labs derivan de PhET) |
+| The Physics Aviary | https://thephysicsaviary.com/ | Labs de física gratuitos, HTML5 |
+| Labster | https://www.labster.com/ | Simulaciones 3D inmersivas; versión de prueba gratuita |
+| Gizmos (ExploreLearning) | https://www.explorelearning.com/ | Simulaciones mate/ciencia; versión de prueba |
+
+## 📺 Canales de YouTube (divulgación verificada)
+
+Sólo canales con autor identificable y credenciales verificables. **No se incluyen** canales que toquen criptozoología, pseudociencia o "teorías alternativas" (ver exclusiones al final).
+
+### Paleontología / geología / historia natural
+
+| Canal | Nota |
+|---|---|
+| Royal Tyrrell Museum | Museo canadiense de paleontología (canal institucional) |
+| Natural History Museum London | Canal oficial del NHM |
+| Smithsonian Channel | Canales oficiales del Smithsonian |
+| Utah State University Geology | Paleontología y geología de vertebrados (institucional) |
+| GEO GIRL (Rachel) ⚠️ | Canal personal pero autora con PhD verificable. Paleo + invertebrados (Brachiopoda, Trilobites…) |
+
+### Ciencia general (Tier 2 verificado ✅)
+
+| Canal | Nota |
+|---|---|
+| Veritasium ✅ | PhD en educación en física; alta producción, fact-checked |
+| CrashCourse ✅ | Muy pedagógico, biología/historia/ciencia |
+| PBS Space Time ✅ | Host PhD en física; cosmología y física fundamental |
+| SmarterEveryDay ✅ | Ingeniero; experimentos, física aplicada |
+| 3Blue1Brown | Matemática y física visualizada |
+| MinutePhysics | Física en formato breve |
+| Kurzgesagt — In a Nutshell | Ciencia compleja hecha accesible; apoyo de asesores científicos |
+
+### Biología / evolución
+
+| Canal | Nota |
+|---|---|
+| Evolution Soup | Entrevistas con investigadores sobre evolución y selección natural |
+
+> Para claims específicos de un video, verificar el paper citado en la descripción antes de usarlo como referencia.
+
+## 🎙️ Podcasts
+
+### Paleontología
+
+| Podcast | Nota |
+|---|---|
+| Palaeocast ⭐ | Webseries gratis sobre fósiles y evolución |
+| The Common Descent Podcast ⭐ | Dos paleontólogos, profundo (4.8 ★) |
+| I Know Dino | Noticias semanales de paleontología |
+| Palaeo After Dark | Grupo de científicos, charlas informales |
+| Palaeo Nerds | Entrevistas (Ray Troll + David Strassman) |
+| Love in the Time of Chasmosaurs | Noticias + paleoart |
+| Paleo Bites | Reviews de dinosaurios (tono casual) |
+| Dinosaur George Kids | Para familias / niños |
+
+### Evolución y biología
+
+| Podcast | Nota |
+|---|---|
+| Origin Stories | Nels Elde & Vincent Racaniello — genómica y evolución molecular |
+| This Week in Evolution | Actualizado semanalmente |
+| Big Biology | Biólogos en conversaciones largas |
+| AnthroBiology Podcast | Antropología + biología |
+| Radiolab (WNYC) | Ciencia narrativa |
+
+### Geología / Ciencias de la Tierra
+
+| Podcast | Nota |
+|---|---|
+| The Don't Panic Geocast | Temas geológicos variados |
+| Volcanoes | Erik Klemetti & Janine Krippner — vulcanología |
+| Science Basement | Roundtable de ciencia |
+
+## 🌐 Plataformas educativas institucionales
+
+| Plataforma | URL | Nota |
+|---|---|---|
+| Smithsonian Learning Resources | https://www.si.edu/ | Museos digitales (Natural History, Paleo, Antropología) |
+| Natural History Museum London — Learning | https://www.nhm.ac.uk/visit/whats-on/learning.html | Videos educativos sobre fósiles, recursos digitales |
+| PBS Learning Media | https://www.pbslearningmedia.org/ | 100.000+ videos curados, filtrable por grado/tema |
+| BBC Bitesize | https://www.bbc.co.uk/bitesize | Recursos educativos multimedia |
+| Exploratorium (San Francisco) | https://www.exploratorium.edu/ | Actividades de ciencia interactivas |
+| Science Buddies | https://www.sciencebuddies.org/ | 1.000+ proyectos científicos por disciplina |
+
+## 📰 Divulgación y noticias (resume → verificar paper original)
+
+| Fuente | URL | Nota |
+|---|---|---|
+| Science News for Students | https://www.sciencenewsforstudents.org/ | Contenido real, lenguaje accesible |
+| The Guardian — Science | https://www.theguardian.com/science | Noticias científicas actuales |
+| Nature News | https://www.nature.com/news | Noticiero de Nature |
+| HowStuffWorks — Science | https://science.howstuffworks.com/ | ⚠️ Simplifica — útil para introducir conceptos, no para citar |
+
+> Ya listadas arriba: ScienceDaily, National Geographic Science, Smithsonian Magazine, Scientific American, JSTOR Daily.
+
+## 💻 Herramientas complementarias
+
+| Herramienta | URL | Uso |
+|---|---|---|
+| Obsidian | https://obsidian.md/ | Este mismo vault |
+| Anki | https://ankiweb.net/ | Flashcards open source para taxonomía y nomenclatura |
+| Zotero | https://www.zotero.org/ | Gestor de referencias bibliográficas |
+| Wikipedia (inglés) | https://en.wikipedia.org/ | ⚠️ Útil para ciencia bien establecida; desconfiar en nichos o temas en disputa |
+| Wikispecies | https://species.wikimedia.org/ | Taxonomía wiki (ya listada arriba) |
+
+## 🎬 Documentales y series
+
+| Título | Fuente | Nota |
+|---|---|---|
+| Our Planet | Netflix / David Attenborough | Biología y conservación |
+| Life | BBC | Biología evolutiva |
+| Planet Earth | BBC | Geología + biología |
+| Cosmos (Sagan / Tyson) | varias | Astronomía, ciencia general |
+| PBS NOVA | https://www.pbs.org/wgbh/nova/ | Muchos episodios gratis en YouTube |
+| Smithsonian Channel | Institucional | Documentales de museos |
+| National Geographic | Institucional | Documentales (verificar episodio — calidad variable) |
+
+## 🧑‍🤝‍🧑 Comunidades y foros (descubrir, no citar)
+
+Útiles para **descubrir referencias** o pedir ayuda con metodología. **No** son fuente citable: lo que diga un usuario sin afiliación pesa cero sin paper detrás.
+
+| Comunidad | URL | Nota |
+|---|---|---|
+| r/paleontology | https://www.reddit.com/r/paleontology | Moderado, comunidad activa |
+| r/geology | https://www.reddit.com/r/geology | |
+| r/AskScience | https://www.reddit.com/r/AskScience | Respuestas requieren credenciales flairs |
+| Biology Stack Exchange | https://biology.stackexchange.com/ | Q&A moderado |
+| Earth Science Stack Exchange | https://earthscience.stackexchange.com/ | |
+| Chemistry Stack Exchange | https://chemistry.stackexchange.com/ | |
+
+> ⚠️ Evitar: servidores Discord sin moderación clara, subreddits no moderados. Cualquier claim debe verificarse contra Tier 1.
+
+## ⚠️ Casos con caveats (ya listados arriba pero requieren criterio)
+
+Estas fuentes **ya aparecen** en el catálogo como bases legítimas, pero conviene recordar sus límites:
+
+- **ResearchGate** / **Academia.edu** — tienen papers válidos subidos por sus autores, pero cualquiera puede subir material no revisado. Verificar siempre que el paper esté publicado en una revista peer-reviewed.
+- **ScienceDaily** — resume papers reales pero a veces simplifica en exceso. Al usar una nota, seguir el link al paper original.
+- **National Geographic Science** — mayoritariamente confiable; algunos artículos son sensacionalistas.
+- **Udemy** (NO listado) — calidad muy variable, sin filtro académico. **Excluido**.
+
+## ✅ Checklist para validar una fuente nueva
+
+Antes de citar una fuente que **no** está en este catálogo:
+
+- [ ] ¿Tiene peer-review? (Google Scholar, PubMed)
+- [ ] ¿Qué institución la respalda? (universidad, museo, agencia federal)
+- [ ] ¿El autor tiene credenciales verificables? (PhD + afiliación institucional)
+- [ ] ¿Cita sus fuentes hasta el paper original?
+- [ ] ¿La comunidad científica la cita? (búsqueda en Google Scholar)
+- [ ] 🚩 ¿Contradice el consenso **sin evidencia extraordinaria**?
+- [ ] 🚩 ¿Sin afiliación institucional?
+- [ ] 🚩 ¿Lenguaje clickbait o sensacionalista?
+
+Si hay al menos una 🚩, tratar como **no confiable** y NO incluir en el vault.
+
+## 🚫 Fuentes excluidas explícitamente
+
+No se incluyen en este catálogo — si una nota futura llega a citarlas, debe rechazarse o migrarse a una fuente equivalente de Tier 1.
+
+- **Udemy** — cursos sin peer-review ni filtro académico; calidad muy variable.
+- **Trey the Explainer** (YouTube) — mezcla biología/paleo con criptozoología (Bigfoot, Loch Ness). La criptozoología NO es ciencia.
+- **Discord sin moderación clara** — riesgo sistemático de desinformación.
+- **"Científicos independientes" sin afiliación** — bandera roja automática; exigir credenciales verificables.
+- **Canales de YouTube sin autor verificable** — si no se puede rastrear quién está hablando, no se cita.
+- **Criptozoología, ufología, "ciencia alternativa", pseudomedicina** — por definición excluidas.
+- **Reseñas y subreddits no moderados** — fuente de ideas, nunca de afirmaciones.
+
+> Si una fuente queda en zona gris (p. ej. un canal de YouTube con autor PhD pero que ocasionalmente toca temas especulativos), **aislar la nota específica**: sólo usar el episodio/video concreto si cita un paper peer-reviewed identificable.
+
+---
+
 ## ⚡ Tips rápidos por caso de uso
 
 | Necesidad | Combinación recomendada |
@@ -355,6 +572,9 @@ Federan datos de cientos de museos en un solo portal.
 | Datos de la Tierra (observación) | NASA Earthdata + USGS + OneGeology |
 | Tesis y literatura gris | EThOS + OpenGrey |
 | Descubrir nuevas bases de datos | NAR Database Issue (anual) + re3data |
+| Construir fundamentos (N0–N2) | Khan Academy + OpenStax + PhET + CrashCourse |
+| Profundizar (N3–N5) | Coursera/edX (universidades) + LibreTexts + HHMI BioInteractive |
+| Escuchar mientras se trabaja | Palaeocast + The Common Descent + Origin Stories + Radiolab |
 
 ---
 
@@ -391,6 +611,8 @@ De mejor a aceptable según rigor y permanencia:
 3. **Repositorios abiertos generales** (Zenodo, Dryad, Figshare, Harvard Dataverse).
 4. **Revistas open access peer-reviewed** (Frontiers, PLOS, eLife, Scientific Data).
 5. **Agregadores y buscadores** (OpenAlex, Semantic Scholar, BASE, CORE) — útiles para descubrimiento, pero verificar la fuente original.
+6. **OER y divulgación con respaldo institucional** (OpenStax, Khan Academy, PhET, HHMI BioInteractive, CrashCourse, Veritasium) — **para aprender**, no para citar afirmaciones específicas.
+7. **Divulgación periodística** (ScienceDaily, Nature News, Guardian Science, Sci. American) — usar sólo como puerta hacia el paper original; la cita va al paper, no al artículo de prensa.
 
 ## Volver al índice
 - [[Índice]]

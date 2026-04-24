@@ -8,11 +8,11 @@ Eje del vault: **paleontología** — las demás disciplinas son ramas que la su
 
 | Disciplina | Notas de fundamentos | Notas de casos |
 |---|---|---|
-| Paleontología (eje) | 21 (N0–N5) | 14 |
-| Biología | 20 (N0–N5) | 11 |
-| Geología | 19 (N0–N5) | 9 |
+| Paleontología (eje) | 25 (N0–N5) | 14 |
+| Biología | 21 (N0–N5) | 12 |
+| Geología | 20 (N0–N5) | 12 |
 | Antropología | 12 (N0–N4) | 5 |
-| Química | 17 (N0–N5) | 5 |
+| Química | 17 (N0–N5) | 6 |
 
 ## Estructura del vault
 
@@ -28,10 +28,12 @@ Obsidian Ciencias/
 │   ├── N2 - Tiempo geológico/       eones, eras, extinciones masivas
 │   ├── N3 - Taxonomía/              Linneo, cladística
 │   ├── N4 - Grandes grupos/         invertebrados, tetrápodos, dinosaurios…
+│   ├── N5 - Grupos específicos/     aves, cetáceos, pterosaurios, reptiles marinos, megafauna, Lagerstätten
 │   ├── Casos - Dinosaurios/
 │   ├── Casos - Reptiles pérmico-triásicos/
 │   ├── Casos - Crocodilomorfos/
-│   └── Casos - Cefalópodos/
+│   ├── Casos - Cefalópodos/
+│   └── Casos - Invertebrados y artrópodos/
 │
 ├── Biología/
 │   ├── N0 - Fundamentos/            qué es la biología
@@ -42,7 +44,10 @@ Obsidian Ciencias/
 │   ├── Casos - Herpetología/
 │   ├── Casos - Entomología/
 │   ├── Casos - Ornitología/
-│   └── Casos - Fotorrecepción/
+│   ├── Casos - Fotorrecepción/
+│   ├── Casos - Biología celular y molecular/
+│   ├── Casos - Botánica/
+│   └── Casos - Ecología/
 │
 ├── Geología/
 │   ├── N0 - Fundamentos/            qué es, principios (uniformitarismo…)
@@ -53,7 +58,9 @@ Obsidian Ciencias/
 │   ├── Casos - Interior de la Tierra/
 │   ├── Casos - Superficie y costas/
 │   ├── Casos - Mineralogía/
-│   └── Casos - Glaciología/
+│   ├── Casos - Glaciología/
+│   ├── Casos - Hidrología/
+│   └── Casos - Sismos/
 │
 ├── Antropología/
 │   ├── N0 - Fundamentos/            qué es, cuatro ramas
@@ -94,19 +101,39 @@ Obsidian Ciencias/
 
 ## Estado actual
 
-**148 notas** · paleontología, geología y biología con **currículum N0–N5 completo** (fundamentos + profundización) · química N0–N5 · antropología N0–N4 · eje paleontología · 6 MOCs temáticos transversales · 49 notas de casos reales de [ScienceDaily](https://www.sciencedaily.com/) organizadas en subcarpetas temáticas · catálogo de ~130 fuentes bibliográficas (incluye colecciones digitales de museos, agregadores de biocolecciones y bases genómicas/proteómicas) · plan de aprendizaje con checkboxes tachados.
+**153 notas** · paleontología, geología y biología con **currículum N0–N5 completo** (fundamentos + profundización) · química N0–N5 · antropología N0–N4 · eje paleontología · 6 MOCs temáticos transversales · 49 notas de casos reales de [ScienceDaily](https://www.sciencedaily.com/) y otras fuentes, organizadas en subcarpetas temáticas · catálogo de ~130 fuentes bibliográficas con estadísticas verificadas · plan de aprendizaje con checkboxes tachados.
 
 ### Última actualización (2026-04-24)
 
-Catálogo de fuentes [`Obsidian Ciencias/_Fuentes/Fuentes.md`](Obsidian%20Ciencias/_Fuentes/Fuentes.md) ampliado con:
+**Pasada de extracción sobre las nuevas fuentes**: WebFetch sobre ~25 portales para sumar contenido y estadísticas verificadas al vault.
 
-- **🏆 Colecciones digitales de museos**: Smithsonian Open Access (5,1 M ítems), NHM Londres (80 M en digitalización), AMNH Paleontology Database, UCMP Berkeley, Florida Museum Vertebrate Paleontology, Paleontological Research Institution (7 M especímenes).
-- **🔗 Agregadores de biocolecciones**: GBIF, iDigBio (con nuevo front en `idigbio.gbif.us`), Arctos (40+ museos), DiSSCo (175 museos europeos, ~1,5 mil M de especímenes), VertNet, iChatBio (interfaz IA).
-- **📖 Bibliotecas digitales**: Biodiversity Heritage Library (60 M+ páginas, API pública, Flickr con 300 K+ imágenes reutilizables).
-- **🧬 Bases genómicas/proteómicas**: KEGG, KEGG GENES, UCSC Genome Browser, Ensembl Genomes, HomoloGene, OMA, STRING, InterPro, Pfam (ahora dentro de InterPro), Bgee, GeneCards.
-- **📑 Revistas/datos**: Scientific Data (Nature), Nucleic Acids Research Database Issue.
-- **🔐 Estándares**: OpenDOAR (5.983 repositorios FAIR-certificados), DiSSCo ERIC.
-- Correcciones: Pfam migrado de `pfam.xfam.org` a `ebi.ac.uk/interpro/entry/pfam/`; Index Fungorum reetiquetado correctamente como nomenclatura de hongos.
+**5 nuevas notas de casos** (todas extraídas de los WebFetch realizados):
+
+- 🦕 [[Esponja sin esqueleto - 550 millones de años]] — fósil precámbrico que cierra una brecha de 160 M de años.
+- 🛰️ [[GOFLOW - corrientes oceánicas con IA]] — método de IA que mapea corrientes invisibles desde satélite.
+- 💧 [[Moringa contra microplásticos]] — semillas como coagulante natural para potabilización.
+- 🦠 [[Metano oceánico - microbios y calentamiento]] — nueva fuente subestimada de metano marino.
+- ⚗️ [[Fonones quirales - control electrónico sin imanes]] — espintrónica fonónica.
+
+**Estadísticas verificadas en `Fuentes.md`**:
+
+- **Macrostrat**: 1.400 columnas regionales · 33.903 unidades de roca · 2,5 M polígonos · 51.212 nombres estratigráficos · apps Sift/Map/Rockd/Mancos.
+- **KEGG** (release 2026-04-01): 12 sub-bases (PATHWAY, GENES, COMPOUND, REACTION, ENZYME, BRITE, MODULE, KO, DISEASE, DRUG, GENOME, GLYCAN).
+- **STRING**: 12.535 organismos · 59,3 M proteínas · >20 mil M de interacciones.
+- **Bgee** v15.2.5: 52 especies · 31.467 librerías RNA-Seq · 55.997 condiciones.
+- **ITIS**: 991.180 nombres científicos · 164.561 nombres comunes.
+- **UCSC Genome Browser**: hg38, hg19, T2T-CHM13, mm39, mm10 + miles vía GenArk; nuevos tracks NMD Escape (abr 22), STR (abr 10), heatmap mode (abr 3).
+
+**Catálogo de fuentes** ampliado el mismo día (commit `4ee9360`) con:
+
+- 🏆 Colecciones digitales de museos: Smithsonian Open Access (5,1 M ítems), NHM Londres (80 M en digitalización), AMNH Paleontology Database, UCMP Berkeley, Florida Museum, PRI (7 M especímenes).
+- 🔗 Agregadores de biocolecciones: GBIF, iDigBio (nuevo front `idigbio.gbif.us`), Arctos, DiSSCo (175 museos europeos), VertNet, iChatBio.
+- 📖 Biodiversity Heritage Library (60 M+ páginas, API, Flickr).
+- 🧬 Bases genómicas/proteómicas: KEGG, UCSC, Ensembl Genomes, HomoloGene, OMA, STRING, InterPro, Pfam (en InterPro), Bgee, GeneCards.
+- 📑 Revistas/datos: Scientific Data (Nature), NAR Database Issue.
+- 🔐 Estándares: OpenDOAR (5.983 repositorios FAIR), DiSSCo ERIC.
+
+**Limitaciones de la pasada**: varias fuentes (Smithsonian Open Access, AMNH, Nature News, GBIF, UniProt, InterPro, OMA, NAR Database Issue, BHL, Zenodo) bloquearon el WebFetch (HTTP 403/303 o página de carga). Las URLs quedan registradas; las estadísticas se irán completando manualmente o vía sus APIs/JSON públicos.
 
 ## Cómo usarlo
 
