@@ -19,6 +19,15 @@ Investigadores reconstruyen la **historia geológica** de los **Twelve Apostles*
 - Tectónica del margen sur australiano: rifting con la Antártida (~83 Ma) seguido por levantamiento moderado.
 - Caliza miocénica de Port Campbell: facies marinas someras ricas en briozoos y foraminíferos.
 
+## Referencias
+
+<!-- apa-refs:start -->
+- Phys.org. (2026, 24 de abril). *Doce Apóstoles — formación y edad*. https://phys.org/earth-news/
+<!-- apa-refs:end -->
+
+> Cita generada automáticamente desde el frontmatter (`fuente:` + `url:` + `fecha:`). El título reproduce el de la nota — adaptación al español del titular original; verificar URL para la cita académica formal.
+
+
 ## Enlaces
 - [[Meteorización y erosión]]
 - [[Sedimentación]]

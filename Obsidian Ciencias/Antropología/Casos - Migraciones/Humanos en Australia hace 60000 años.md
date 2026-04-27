@@ -13,6 +13,15 @@ Análisis del **linaje de ADN materno (mtDNA)** confirma que los humanos llegaro
 - Respalda las fechas más antiguas frente a modelos más recientes.
 - Refuerza el escenario de travesías marítimas tempranas en Sahul.
 
+## Referencias
+
+<!-- apa-refs:start -->
+- ScienceDaily. (2026, 9 de abril). *Humanos en Australia hace 60 000 años — confirmado por ADN*. https://www.sciencedaily.com/releases/2026/04/260408225938.htm
+<!-- apa-refs:end -->
+
+> Cita generada automáticamente desde el frontmatter (`fuente:` + `url:` + `fecha:`). El título reproduce el de la nota — adaptación al español del titular original; verificar URL para la cita académica formal.
+
+
 ## Enlaces
 - [[Neandertales y Homo sapiens colaboración]] — *sapiens* fuera de África
 - [[Doggerland - Bosques sumergidos]] — paisajes del Pleistoceno sumergidos

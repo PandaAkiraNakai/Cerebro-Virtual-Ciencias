@@ -23,6 +23,15 @@ Prospecciones **electromagnéticas aerotransportadas** revelaron que el **agua d
 - Revisión de modelos hidrogeológicos de cuencas endorreicas.
 - Impacto potencial si se extrae (subsidencia, cambio del equilibrio salino).
 
+## Referencias
+
+<!-- apa-refs:start -->
+- ScienceDaily. (2026, 21 de marzo). *Reservorio masivo de agua dulce bajo el Great Salt Lake*. https://www.sciencedaily.com/releases/2026/03/260321012640.htm
+<!-- apa-refs:end -->
+
+> Cita generada automáticamente desde el frontmatter (`fuente:` + `url:` + `fecha:`). El título reproduce el de la nota — adaptación al español del titular original; verificar URL para la cita académica formal.
+
+
 ## Enlaces
 - [[Meteorización y erosión]] — acuíferos en rocas sedimentarias
 - [[Deltas fluviales hundimiento]] — otro problema de agua subterránea

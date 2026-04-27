@@ -20,6 +20,15 @@ Excavación de un **enterramiento masivo de ~3 000 años de antigüedad** (Edad 
 - Conflictos por territorio agrícola en Europa pre-romana.
 - Paleopatología y bioarqueología forense.
 
+## Referencias
+
+<!-- apa-refs:start -->
+- Science News. (2026, 24 de abril). *Fosa común Edad del Hierro — mujeres y niños en Serbia*. https://www.sciencenews.org/topic/anthropology
+<!-- apa-refs:end -->
+
+> Cita generada automáticamente desde el frontmatter (`fuente:` + `url:` + `fecha:`). El título reproduce el de la nota — adaptación al español del titular original; verificar URL para la cita académica formal.
+
+
 ## Enlaces
 - [[Paleopatología]]
 - [[Antropología forense]]

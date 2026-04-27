@@ -6,6 +6,9 @@ Obsidian Ciencias/.obsidian/workspace.json
 Obsidian Ciencias/.obsidian/workspace-mobile.json
 Obsidian Ciencias/.obsidian/workspaces.json
 
+# .obsidian accidental en la raíz (el vault real vive en "Obsidian Ciencias/")
+/.obsidian/
+
 # Sistema
 .DS_Store
 Thumbs.db

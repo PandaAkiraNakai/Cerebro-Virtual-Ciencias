@@ -7,6 +7,7 @@ export const sharedPageComponents: SharedLayout = {
   afterBody: [],
   footer: Component.Footer({
     links: {
+      Índice: "/Índice",
       "Repositorio (Gitea)":
         "https://gitea.sergiocubelli.space/sergio/Obsidian-Ciencias-",
     },

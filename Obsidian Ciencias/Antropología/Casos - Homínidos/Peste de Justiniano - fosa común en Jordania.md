@@ -19,6 +19,15 @@ Una **fosa común con cientos de víctimas** (siglo VI d.C.) excavada en Jordani
 - Paleomicrobiología: recuperación de patrones de patógenos antiguos en pulpa dental.
 - Linajes evolutivos de *Y. pestis*: rama de Justiniano (extinta) ≠ rama medieval (extant).
 
+## Referencias
+
+<!-- apa-refs:start -->
+- ScienceDaily. (2026, 24 de abril). *Peste de Justiniano — fosa común en Jordania*. https://www.sciencedaily.com/news/fossils_ruins/
+<!-- apa-refs:end -->
+
+> Cita generada automáticamente desde el frontmatter (`fuente:` + `url:` + `fecha:`). El título reproduce el de la nota — adaptación al español del titular original; verificar URL para la cita académica formal.
+
+
 ## Enlaces
 - [[ADN antiguo]]
 - [[Métodos de datación]]

@@ -19,6 +19,15 @@ Un esqueleto casi completo de **Alnashetri cerropoliciensis** hallado en la **Pa
 - Replantea la evolución de **miembros reducidos** en terópodos.
 - Sirve de eslabón entre alvarezsaurios basales y derivados.
 
+## Referencias
+
+<!-- apa-refs:start -->
+- ScienceDaily. (2026, 10 de marzo). *Alnashetri cerropoliciensis — un dinosaurio de ~1 kg que replantea la evolución*. https://www.sciencedaily.com/releases/2026/03/260309225231.htm
+<!-- apa-refs:end -->
+
+> Cita generada automáticamente desde el frontmatter (`fuente:` + `url:` + `fecha:`). El título reproduce el de la nota — adaptación al español del titular original; verificar URL para la cita académica formal.
+
+
 ## Enlaces
 - [[Dinosaurios]]
 - [[Nanotyrannus - Especie propia]] — otro debate taxonómico de terópodos

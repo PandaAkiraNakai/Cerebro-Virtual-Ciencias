@@ -19,6 +19,15 @@ Los humanos modernos que cruzaron **Beringia** hacia América portaban una **var
 - Genética de poblaciones humanas: deriva, cuello de botella beringiano, selección.
 - Ruta costera vs. ruta interior en el poblamiento de América.
 
+## Referencias
+
+<!-- apa-refs:start -->
+- ScienceDaily. (2026, 24 de abril). *Gen denisovano MUC19 — poblamiento de América*. https://www.sciencedaily.com/news/fossils_ruins/early_humans/
+<!-- apa-refs:end -->
+
+> Cita generada automáticamente desde el frontmatter (`fuente:` + `url:` + `fecha:`). El título reproduce el de la nota — adaptación al español del titular original; verificar URL para la cita académica formal.
+
+
 ## Enlaces
 - [[Poblamiento de América]]
 - [[ADN antiguo]]

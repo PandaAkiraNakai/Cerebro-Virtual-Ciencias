@@ -19,6 +19,15 @@ Las células tienen mecanismos para **detectar instrucciones genéticas ineficie
 - Impacto en biotecnología: diseño de secuencias para **máxima expresión**.
 - Relevancia en enfermedades donde ciertos alelos "ineficientes" son silenciados.
 
+## Referencias
+
+<!-- apa-refs:start -->
+- ScienceDaily. (2026, 9 de abril). *Un "segundo código" decide qué genes se silencian*. https://www.sciencedaily.com/releases/2026/04/260408225946.htm
+<!-- apa-refs:end -->
+
+> Cita generada automáticamente desde el frontmatter (`fuente:` + `url:` + `fecha:`). El título reproduce el de la nota — adaptación al español del titular original; verificar URL para la cita académica formal.
+
+
 ## Enlaces
 - [[ADN ARN y dogma central]]
 - [[Genética mendeliana]]

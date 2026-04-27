@@ -18,6 +18,15 @@ Durante una limpieza rutinaria de fósil, investigadores descubrieron una **garr
 - Los arácnidos son Chelicerata → ver [[Filos animales]].
 - Método de descubrimiento recuerda a [[Fósil mal identificado - Nautilus no pulpo]] (imagen avanzada sobre un ejemplar preexistente).
 
+## Referencias
+
+<!-- apa-refs:start -->
+- ScienceDaily. (2026, 3 de abril). *Garra de 500 millones de años reescribe el origen de las arañas*. https://www.sciencedaily.com/releases/2026/04/260403002023.htm
+<!-- apa-refs:end -->
+
+> Cita generada automáticamente desde el frontmatter (`fuente:` + `url:` + `fecha:`). El título reproduce el de la nota — adaptación al español del titular original; verificar URL para la cita académica formal.
+
+
 ## Enlaces
 - [[Invertebrados fósiles]]
 - [[Escala del tiempo geológico]]

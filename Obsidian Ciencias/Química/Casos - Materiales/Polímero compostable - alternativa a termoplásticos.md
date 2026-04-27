@@ -20,6 +20,15 @@ Investigadores reportan una **nueva clase de polímeros biodegradables** capaces
 - Biodegradabilidad: requiere enlaces químicos hidrolizables y microbios capaces de degradarlos.
 - Composta industrial vs. doméstica: temperatura, humedad y tiempo distintos.
 
+## Referencias
+
+<!-- apa-refs:start -->
+- Phys.org. (2026, 24 de abril). *Polímero compostable — alternativa a termoplásticos*. https://phys.org/chemistry-news/
+<!-- apa-refs:end -->
+
+> Cita generada automáticamente desde el frontmatter (`fuente:` + `url:` + `fecha:`). El título reproduce el de la nota — adaptación al español del titular original; verificar URL para la cita académica formal.
+
+
 ## Enlaces
 - [[Química orgánica básica]]
 - [[Enlaces químicos]]

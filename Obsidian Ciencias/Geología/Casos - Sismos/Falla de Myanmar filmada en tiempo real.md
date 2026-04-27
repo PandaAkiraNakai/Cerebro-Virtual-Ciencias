@@ -22,6 +22,15 @@ Un **sismo de magnitud 7,7** azotó Myanmar en marzo de 2025. Cámaras **CCTV** 
 ## Relación con la tectónica
 Myanmar está en la **convergencia India-Eurasia**, con grandes fallas transformantes asociadas (como Sagaing). Ver [[Subducción y orogénesis]], [[Tectónica de placas]].
 
+## Referencias
+
+<!-- apa-refs:start -->
+- ScienceDaily. (2026, 27 de marzo). *Primera vez: una falla filmada mientras se rompe*. https://www.sciencedaily.com/releases/2026/03/260327211149.htm
+<!-- apa-refs:end -->
+
+> Cita generada automáticamente desde el frontmatter (`fuente:` + `url:` + `fecha:`). El título reproduce el de la nota — adaptación al español del titular original; verificar URL para la cita académica formal.
+
+
 ## Enlaces
 - [[Sismos]]
 - [[Tipos de límites de placas]]

@@ -20,6 +20,15 @@ Hallazgo de **arpones especializados de hueso de ballena** en sitios costeros de
 - Tafonomía de huesos de ballena en sitios arqueológicos.
 - Ecología histórica: presencia de cetáceos en costas hoy semi-vacías.
 
+## Referencias
+
+<!-- apa-refs:start -->
+- Science News. (2026, 24 de abril). *Caza de ballenas hace 5000 años en Brasil*. https://www.sciencenews.org/topic/anthropology
+<!-- apa-refs:end -->
+
+> Cita generada automáticamente desde el frontmatter (`fuente:` + `url:` + `fecha:`). El título reproduce el de la nota — adaptación al español del titular original; verificar URL para la cita académica formal.
+
+
 ## Enlaces
 - [[Industrias líticas]]
 - [[Poblamiento de América]]

@@ -19,6 +19,15 @@ Hallazgo de **fósiles preservados con detalle excepcional dentro de costras de 
 - Paleoclimatología regional: aridificación del interior australiano post-Mioceno.
 - Biogeografía: persistencia y desaparición de selvas en Gondwana.
 
+## Referencias
+
+<!-- apa-refs:start -->
+- ScienceDaily. (2026, 24 de abril). *Fósiles en óxido de hierro — bosque miocénico australiano*. https://www.sciencedaily.com/news/fossils_ruins/
+<!-- apa-refs:end -->
+
+> Cita generada automáticamente desde el frontmatter (`fuente:` + `url:` + `fecha:`). El título reproduce el de la nota — adaptación al español del titular original; verificar URL para la cita académica formal.
+
+
 ## Enlaces
 - [[Fosilización y tafonomía]]
 - [[Lagerstätten famosos]]

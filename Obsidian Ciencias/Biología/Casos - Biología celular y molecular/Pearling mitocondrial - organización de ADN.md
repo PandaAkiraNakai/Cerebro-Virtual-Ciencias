@@ -19,6 +19,15 @@ Científicos identificaron un **fenómeno subestimado** en el que las **mitocond
 - Nuevas dianas terapéuticas.
 - Implicaciones para comprender el envejecimiento (las mitocondrias acumulan daño con la edad).
 
+## Referencias
+
+<!-- apa-refs:start -->
+- ScienceDaily. (2026, 13 de abril). *"Pearling" mitocondrial — un movimiento que organiza el ADN*. https://www.sciencedaily.com/releases/2026/04/260413043133.htm
+<!-- apa-refs:end -->
+
+> Cita generada automáticamente desde el frontmatter (`fuente:` + `url:` + `fecha:`). El título reproduce el de la nota — adaptación al español del titular original; verificar URL para la cita académica formal.
+
+
 ## Enlaces
 - [[Orgánulos celulares]]
 - [[Teoría endosimbiótica]]

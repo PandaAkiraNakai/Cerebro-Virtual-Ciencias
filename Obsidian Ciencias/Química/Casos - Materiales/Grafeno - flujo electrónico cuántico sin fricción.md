@@ -19,6 +19,15 @@ Experimentos con **grafeno ultralimpio** muestran que los electrones, en vez de 
 - Líquidos de Fermi vs. fluidos hidrodinámicos.
 - Computación cuántica: posibles plataformas basadas en flujo coherente.
 
+## Referencias
+
+<!-- apa-refs:start -->
+- ScienceDaily. (2026, 24 de abril). *Grafeno — flujo electrónico cuántico sin fricción*. https://www.sciencedaily.com/news/matter_energy/
+<!-- apa-refs:end -->
+
+> Cita generada automáticamente desde el frontmatter (`fuente:` + `url:` + `fecha:`). El título reproduce el de la nota — adaptación al español del titular original; verificar URL para la cita académica formal.
+
+
 ## Enlaces
 - [[MXene - conductividad 160x]] — otro material 2D con propiedades exóticas
 - [[Estados de la materia]]

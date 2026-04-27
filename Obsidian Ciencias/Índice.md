@@ -1,7 +1,7 @@
 ---
 tipo: MOC
 rol: índice-maestro
-actualizado: 2026-04-24
+actualizado: 2026-04-27
 notas_totales: 252
 fuente_base: ScienceDaily + colecciones museísticas + bases especializadas
 eje_principal: paleontología
@@ -12,6 +12,8 @@ eje_principal: paleontología
 > **Punto de entrada del vault.** Siempre consultar aquí primero. Toda nota nueva debe agregarse a este índice.
 
 **Estado actual**: 252 notas · 5 disciplinas con **N0-N5 completos** en paleontología, geología, biología, química **y ahora también antropología** · 10 MOCs temáticos · 1 catálogo de fuentes ampliado (museos digitales + agregadores de biocolecciones + bases genómicas/proteómicas + recursos educativos Tier 1/2) · 1 plan de aprendizaje · 62 notas de casos reales + **18 taxones y eventos icónicos** paleo (T. rex, Archaeopteryx, Tiktaalik, Chicxulub, Lucy…) + **10 páginas de historia geológica profunda** (eras Paleozoico/Mesozoico/Cenozoico + eones Arcaico/Proterozoico + Tierra bola de nieve + ciclos de Wilson, supercontinentes, Milankovitch y carbono geológico). Currículum en [[Plan de Aprendizaje]]. Catálogo de fuentes en [[Fuentes]].
+
+> **Actualización 2026-04-27 (sitio publicado — diseño + referencias APA)**: pasada sobre el publisher Quartz para el sitio en `paleo.sergiocubelli.space`. (1) **Tema custom mobile-first**: nuevo `quartz/styles/custom.scss` con paleta paleo (azul profundo + sage + ámbar fósil), barra de búsqueda sticky con backdrop-blur en móvil, touch targets ≥40 px, tipografía con tracking y leading refinados, cards en folder/tag pages, tags como pills, callouts con sombra suave, soporte de `prefers-reduced-motion` y print. (2) **Referencias APA mecánicas**: 72 notas de casos con `fuente:` + `url:` en frontmatter ahora llevan al pie una sección `## Referencias` con cita APA 7 (español) generada automáticamente desde el frontmatter. Las notas N0–N5 conceptuales no llevan APA: son demasiado generales para citar con honestidad. Bloques delimitados con `<!-- apa-refs:start -->` para regeneración idempotente. (3) **Footer del sitio** ahora linkea al Índice y al repo en Gitea.
 
 > **Actualización 2026-04-24**: el catálogo [[Fuentes]] ahora incluye colecciones digitales del Smithsonian, NHM Londres, AMNH, UCMP Berkeley, Florida Museum y PRI; agregadores de biocolecciones (GBIF, iDigBio, Arctos, DiSSCo, VertNet); Biodiversity Heritage Library (BHL); y bases genómicas/proteómicas (KEGG, OMA, STRING, InterPro, Bgee, GeneCards) con **estadísticas verificadas** (Macrostrat, KEGG, STRING, Bgee, ITIS, UCSC). Agregadas **5 notas de casos** con contenido extraído de las nuevas fuentes consultadas: esponja sin esqueleto (550 Ma), GOFLOW (corrientes oceánicas con IA), moringa (microplásticos), metano oceánico microbiano, y fonones quirales (control electrónico sin imanes).
 

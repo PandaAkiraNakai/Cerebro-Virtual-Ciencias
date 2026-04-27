@@ -20,6 +20,15 @@ Nuevos datos sísmicos y geodésicos confirman que la **región del Turkana** �
 - Triple junction de Afar (Etiopía): Mar Rojo + Golfo de Aden + Rift Africano.
 - Pluma mantélica del Afar como motor sub-litosférico.
 
+## Referencias
+
+<!-- apa-refs:start -->
+- Phys.org. (2026, 24 de abril). *Rift africano oriental — Turkana se separa*. https://phys.org/earth-news/
+<!-- apa-refs:end -->
+
+> Cita generada automáticamente desde el frontmatter (`fuente:` + `url:` + `fecha:`). El título reproduce el de la nota — adaptación al español del titular original; verificar URL para la cita académica formal.
+
+
 ## Enlaces
 - [[Tectónica de placas]]
 - [[Tipos de límites de placas]]

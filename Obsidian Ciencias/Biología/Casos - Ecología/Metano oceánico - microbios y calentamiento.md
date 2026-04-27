@@ -19,6 +19,15 @@ Investigaciones recientes muestran que **microbios marinos** producen **metano**
 - Metabolismo en condiciones oligotróficas
 - Retroalimentaciones climáticas
 
+## Referencias
+
+<!-- apa-refs:start -->
+- ScienceDaily. (2026, 24 de abril). *Metano oceánico — microbios bajo escasez de nutrientes*. https://www.sciencedaily.com/news/plants_animals/
+<!-- apa-refs:end -->
+
+> Cita generada automáticamente desde el frontmatter (`fuente:` + `url:` + `fecha:`). El título reproduce el de la nota — adaptación al español del titular original; verificar URL para la cita académica formal.
+
+
 ## Enlaces
 - [[Material de carbono para captura de CO2]]
 - [[Microbioma intestinal se transmite por proximidad social]] — otro caso de microbios con impacto sistémico

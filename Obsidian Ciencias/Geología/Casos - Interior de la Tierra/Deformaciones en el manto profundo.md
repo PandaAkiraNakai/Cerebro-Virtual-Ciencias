@@ -16,5 +16,14 @@ Las placas subducidas del pasado siguen "vivas" estructuralmente en el manto pro
 - Sismología global, tomografía mantélica.
 - Relación con [[Groenlandia deshielo hace 7000 años]] vía rebote isostático.
 
+## Referencias
+
+<!-- apa-refs:start -->
+- ScienceDaily. (2026, 23 de abril). *Fuerzas ocultas deforman la Tierra bajo la superficie*. https://www.sciencedaily.com/releases/2026/04/260422044632.htm
+<!-- apa-refs:end -->
+
+> Cita generada automáticamente desde el frontmatter (`fuente:` + `url:` + `fecha:`). El título reproduce el de la nota — adaptación al español del titular original; verificar URL para la cita académica formal.
+
+
 ## Enlaces
 - [[Índice]]

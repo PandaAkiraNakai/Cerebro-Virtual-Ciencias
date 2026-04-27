@@ -19,6 +19,15 @@ url: https://www.sciencedaily.com/releases/2026/03/260318033126.htm
 - El Glaciar Pine Island es uno de los mayores contribuyentes al aumento del nivel del mar → entender su base rocosa es crucial.
 - Refuerza la analogía: los glaciares actúan como **geólogos muestreadores** de lo que hay debajo.
 
+## Referencias
+
+<!-- apa-refs:start -->
+- ScienceDaily. (2026, 18 de marzo). *Rocas rosadas revelan un granito gigante bajo la Antártida*. https://www.sciencedaily.com/releases/2026/03/260318033126.htm
+<!-- apa-refs:end -->
+
+> Cita generada automáticamente desde el frontmatter (`fuente:` + `url:` + `fecha:`). El título reproduce el de la nota — adaptación al español del titular original; verificar URL para la cita académica formal.
+
+
 ## Enlaces
 - [[Rocas ígneas]] (granito intrusivo)
 - [[Glaciaciones]]

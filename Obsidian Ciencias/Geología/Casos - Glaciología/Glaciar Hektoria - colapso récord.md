@@ -19,6 +19,15 @@ En la Antártida, el **Glaciar Hektoria** retrocedió **8 km en dos meses**, con
 - Un colapso así a escala mayor tendría impacto directo en el nivel del mar.
 - La velocidad del retroceso fue mayor a todos los modelos previos.
 
+## Referencias
+
+<!-- apa-refs:start -->
+- ScienceDaily. (2026, 26 de febrero). *Glaciar Hektoria — el colapso glacial más rápido registrado*. https://www.sciencedaily.com/releases/2026/02/260226042454.htm
+<!-- apa-refs:end -->
+
+> Cita generada automáticamente desde el frontmatter (`fuente:` + `url:` + `fecha:`). El título reproduce el de la nota — adaptación al español del titular original; verificar URL para la cita académica formal.
+
+
 ## Enlaces
 - [[Glaciaciones]]
 - [[Deltas fluviales hundimiento]] — aguas abajo del aumento del nivel del mar

@@ -17,6 +17,15 @@ Un fósil de 250 millones de años de *Lystrosaurus*, sobreviviente de la **peor
 - Pasaje Pérmico–Triásico.
 - Los terápsidos como eslabón entre reptiles y mamíferos.
 
+## Referencias
+
+<!-- apa-refs:start -->
+- ScienceDaily. (2026, 14 de abril). *Lystrosaurus — los ancestros de los mamíferos ponían huevos*. https://www.sciencedaily.com/releases/2026/04/260414075642.htm
+<!-- apa-refs:end -->
+
+> Cita generada automáticamente desde el frontmatter (`fuente:` + `url:` + `fecha:`). El título reproduce el de la nota — adaptación al español del titular original; verificar URL para la cita académica formal.
+
+
 ## Enlaces
 - [[Captorhinus - Reptil momificado respiración]]
 - [[Índice]]

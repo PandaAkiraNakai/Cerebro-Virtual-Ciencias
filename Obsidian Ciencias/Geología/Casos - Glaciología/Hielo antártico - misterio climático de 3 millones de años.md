@@ -19,6 +19,15 @@ Análisis de **aire atrapado en hielo antártico antiguo** revela información n
 - Paleoclimatología por testigos de hielo (EPICA, WAIS Divide, Allan Hills).
 - Mid-Pleistocene Transition (~1,2–0,7 Ma): cambio del régimen glacial.
 
+## Referencias
+
+<!-- apa-refs:start -->
+- ScienceDaily. (2026, 24 de abril). *Hielo antártico — misterio climático de 3 Ma*. https://www.sciencedaily.com/news/earth_climate/
+<!-- apa-refs:end -->
+
+> Cita generada automáticamente desde el frontmatter (`fuente:` + `url:` + `fecha:`). El título reproduce el de la nota — adaptación al español del titular original; verificar URL para la cita académica formal.
+
+
 ## Enlaces
 - [[Glaciaciones]]
 - [[Cenozoico]]

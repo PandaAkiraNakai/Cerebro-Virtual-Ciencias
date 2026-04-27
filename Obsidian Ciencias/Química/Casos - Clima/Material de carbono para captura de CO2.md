@@ -13,6 +13,15 @@ Un material de carbono con **arreglos optimizados de átomos de nitrógeno** log
 - Menor costo energético = captura viable a gran escala.
 - Aplicación directa: mitigación climática.
 
+## Referencias
+
+<!-- apa-refs:start -->
+- ScienceDaily. (2026, 28 de marzo). *Nuevo carbono para captura de CO₂ más barata*. https://www.sciencedaily.com/releases/2026/03/260328043549.htm
+<!-- apa-refs:end -->
+
+> Cita generada automáticamente desde el frontmatter (`fuente:` + `url:` + `fecha:`). El título reproduce el de la nota — adaptación al español del titular original; verificar URL para la cita académica formal.
+
+
 ## Enlaces
 - [[MXene - conductividad 160x]]
 - [[Deltas fluviales hundimiento]] — otro frente del problema climático

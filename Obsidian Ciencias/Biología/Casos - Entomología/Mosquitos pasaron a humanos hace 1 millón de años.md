@@ -20,6 +20,15 @@ Análisis genómicos de **Aedes aegypti** y otras especies sugieren que los mosq
 - Filogenia molecular de Anopheles, Aedes, Culex.
 - Antropofilia: preferencia por hospedador humano.
 
+## Referencias
+
+<!-- apa-refs:start -->
+- Science News. (2026, 24 de abril). *Mosquitos pasaron a humanos hace 1 millón de años*. https://www.sciencenews.org/topic/anthropology
+<!-- apa-refs:end -->
+
+> Cita generada automáticamente desde el frontmatter (`fuente:` + `url:` + `fecha:`). El título reproduce el de la nota — adaptación al español del titular original; verificar URL para la cita académica formal.
+
+
 ## Enlaces
 - [[Selección natural y evolución]]
 - [[Filogenética molecular vs morfológica]]

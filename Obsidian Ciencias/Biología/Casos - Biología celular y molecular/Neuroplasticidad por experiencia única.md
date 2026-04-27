@@ -19,6 +19,15 @@ Investigadores describen un **nuevo tipo de neuroplasticidad** que reorganiza ci
 - Consolidación de memoria — sistemas dependientes del hipocampo y cortical.
 - Modificaciones epigenéticas en neuronas.
 
+## Referencias
+
+<!-- apa-refs:start -->
+- Quanta Magazine. (2026, 24 de abril). *Neuroplasticidad por experiencia única*. https://www.quantamagazine.org/biology/
+<!-- apa-refs:end -->
+
+> Cita generada automáticamente desde el frontmatter (`fuente:` + `url:` + `fecha:`). El título reproduce el de la nota — adaptación al español del titular original; verificar URL para la cita académica formal.
+
+
 ## Enlaces
 - [[Comunicación celular]]
 - [[Epigenética]]

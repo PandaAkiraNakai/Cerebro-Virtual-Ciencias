@@ -19,6 +19,15 @@ La **Antarctic Circumpolar Current (ACC)** —la corriente oceánica más potent
 - Transición Oligoceno–Mioceno y glaciación antártica
 - Circulación termohalina global
 
+## Referencias
+
+<!-- apa-refs:start -->
+- ScienceDaily. (2026, 24 de abril). *Corriente Circumpolar Antártica — formación más compleja de lo pensado*. https://www.sciencedaily.com/news/earth_climate/
+<!-- apa-refs:end -->
+
+> Cita generada automáticamente desde el frontmatter (`fuente:` + `url:` + `fecha:`). El título reproduce el de la nota — adaptación al español del titular original; verificar URL para la cita académica formal.
+
+
 ## Enlaces
 - [[GOFLOW - corrientes oceánicas con IA]]
 - [[Tectónica de placas]]

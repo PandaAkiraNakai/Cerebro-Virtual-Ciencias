@@ -17,6 +17,15 @@ Restos diminutos considerados durante dos décadas como una **especie distinta**
 ## Lección general
 Errores similares ocurren en paleontología: comparar con [[Nanotyrannus - Especie propia]], que siguió el camino inverso (juveniles reclasificados como especie propia).
 
+## Referencias
+
+<!-- apa-refs:start -->
+- ScienceDaily. (2026, 21 de abril). *Fósiles diminutos mal identificados durante 20 años*. https://www.sciencedaily.com/releases/2026/04/260417224501.htm
+<!-- apa-refs:end -->
+
+> Cita generada automáticamente desde el frontmatter (`fuente:` + `url:` + `fecha:`). El título reproduce el de la nota — adaptación al español del titular original; verificar URL para la cita académica formal.
+
+
 ## Enlaces
 - [[Nanotyrannus - Especie propia]]
 - [[Índice]]

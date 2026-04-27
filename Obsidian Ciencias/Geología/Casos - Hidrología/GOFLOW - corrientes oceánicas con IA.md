@@ -19,6 +19,15 @@ Un nuevo método de IA llamado **GOFLOW** transforma **imágenes satelitales** e
 - Circulación termohalina
 - Aprendizaje automático aplicado a geofísica
 
+## Referencias
+
+<!-- apa-refs:start -->
+- ScienceDaily. (2026, 24 de abril). *GOFLOW — corrientes oceánicas reveladas por IA*. https://www.sciencedaily.com/news/earth_climate/
+<!-- apa-refs:end -->
+
+> Cita generada automáticamente desde el frontmatter (`fuente:` + `url:` + `fecha:`). El título reproduce el de la nota — adaptación al español del titular original; verificar URL para la cita académica formal.
+
+
 ## Enlaces
 - [[Reservorio de agua dulce bajo Great Salt Lake]] — otro caso hidrológico
 - [[Deltas fluviales hundimiento]] — interfaz océano-continente

@@ -19,6 +19,15 @@ Una **población híbrida de *Apis mellifera*** del sur de California muestra **
 - CCD: causas multifactoriales (*Varroa*, virus, pesticidas neonicotinoides, pérdida de hábitat)
 - Genética de poblaciones aplicada a conservación
 
+## Referencias
+
+<!-- apa-refs:start -->
+- ScienceDaily. (2026, 24 de abril). *Abejas híbridas del sur de California — resistencia a CCD*. https://www.sciencedaily.com/news/plants_animals/
+<!-- apa-refs:end -->
+
+> Cita generada automáticamente desde el frontmatter (`fuente:` + `url:` + `fecha:`). El título reproduce el de la nota — adaptación al español del titular original; verificar URL para la cita académica formal.
+
+
 ## Enlaces
 - [[Trampa para termitas - pineno]]
 - [[Genética y evolución]]

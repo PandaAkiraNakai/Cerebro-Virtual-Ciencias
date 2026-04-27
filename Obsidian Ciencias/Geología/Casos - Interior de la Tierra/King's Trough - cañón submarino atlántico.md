@@ -21,6 +21,15 @@ El **King's Trough Complex**, un sistema de cañones submarinos a **1 000 km al 
 ## Conexión temática
 Refuerza el patrón de **[[Deformaciones en el manto profundo]]**: el interior de la Tierra sigue reorganizando la corteza actual, no solo en el pasado.
 
+## Referencias
+
+<!-- apa-refs:start -->
+- ScienceDaily. (2026, 23 de febrero). *King's Trough — un cañón de 500 km abierto por fuerzas profundas*. https://www.sciencedaily.com/releases/2026/02/260222092327.htm
+<!-- apa-refs:end -->
+
+> Cita generada automáticamente desde el frontmatter (`fuente:` + `url:` + `fecha:`). El título reproduce el de la nota — adaptación al español del titular original; verificar URL para la cita académica formal.
+
+
 ## Enlaces
 - [[Tectónica de placas]]
 - [[Estructura interna de la Tierra]]

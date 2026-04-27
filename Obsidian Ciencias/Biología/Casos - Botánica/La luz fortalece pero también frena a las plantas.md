@@ -24,6 +24,15 @@ La luz **refuerza los enlaces adhesivos entre capas celulares** en las plantas, 
 - **Selección evolutiva**: plantas adaptadas a ambientes sombríos vs soleados.
 - **Biomecánica vegetal**.
 
+## Referencias
+
+<!-- apa-refs:start -->
+- ScienceDaily. (2026, 13 de abril). *La luz fortalece pero también frena a las plantas*. https://www.sciencedaily.com/releases/2026/04/260413043123.htm
+<!-- apa-refs:end -->
+
+> Cita generada automáticamente desde el frontmatter (`fuente:` + `url:` + `fecha:`). El título reproduce el de la nota — adaptación al español del titular original; verificar URL para la cita académica formal.
+
+
 ## Enlaces
 - [[Macromoléculas biológicas]] (pectina, polisacáridos)
 - [[Dominios y reinos]] (reino Plantae)

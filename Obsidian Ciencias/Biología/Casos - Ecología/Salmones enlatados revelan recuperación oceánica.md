@@ -23,6 +23,15 @@ url: https://www.sciencedaily.com/releases/2026/04/260401022027.htm
 - Demuestra el poder de los **archivos biológicos**.
 - Medida de recuperación tras regulación de caza de mamíferos marinos (Ley de Mamíferos Marinos, 1972).
 
+## Referencias
+
+<!-- apa-refs:start -->
+- ScienceDaily. (2026, 1 de abril). *Salmones enlatados hace 40 años revelan recuperación del océano*. https://www.sciencedaily.com/releases/2026/04/260401022027.htm
+<!-- apa-refs:end -->
+
+> Cita generada automáticamente desde el frontmatter (`fuente:` + `url:` + `fecha:`). El título reproduce el de la nota — adaptación al español del titular original; verificar URL para la cita académica formal.
+
+
 ## Enlaces
 - [[Especiación]]
 - [[Aves de Hawái - mito refutado]]

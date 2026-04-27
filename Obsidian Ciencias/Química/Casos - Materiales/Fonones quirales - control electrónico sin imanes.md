@@ -19,6 +19,15 @@ Vibraciones atómicas de carácter quiral, llamadas **fonones quirales**, permit
 - Acoplamiento espín-fonón
 - Espintrónica
 
+## Referencias
+
+<!-- apa-refs:start -->
+- ScienceDaily. (2026, 24 de abril). *Fonones quirales — control de electrones sin imanes*. https://www.sciencedaily.com/news/matter_energy/chemistry/
+<!-- apa-refs:end -->
+
+> Cita generada automáticamente desde el frontmatter (`fuente:` + `url:` + `fecha:`). El título reproduce el de la nota — adaptación al español del titular original; verificar URL para la cita académica formal.
+
+
 ## Enlaces
 - [[MXene - conductividad 160x]] — otro avance en materiales para electrónica
 - [[Células solares de perovskita]] — defectos y propiedades emergentes

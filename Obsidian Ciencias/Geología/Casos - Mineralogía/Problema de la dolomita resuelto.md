@@ -17,5 +17,14 @@ Investigadores lograron **sintetizar dolomita** en laboratorio, resolviendo un e
 - Cristalografía, geoquímica sedimentaria.
 - Enlace con [[Pirita con litio]] — otro caso donde microestructuras cambian el valor de un mineral.
 
+## Referencias
+
+<!-- apa-refs:start -->
+- ScienceDaily. (2026, 20 de abril). *El "problema de la dolomita" resuelto tras 200 años*. https://www.sciencedaily.com/releases/2026/04/260420015840.htm
+<!-- apa-refs:end -->
+
+> Cita generada automáticamente desde el frontmatter (`fuente:` + `url:` + `fecha:`). El título reproduce el de la nota — adaptación al español del titular original; verificar URL para la cita académica formal.
+
+
 ## Enlaces
 - [[Índice]]

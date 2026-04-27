@@ -19,6 +19,15 @@ Inventario global que cataloga **3.100 "surging glaciers"** (glaciares surgentes
 - GLOFs (Glacial Lake Outburst Floods)
 - Balance de masa y régimen térmico glaciar
 
+## Referencias
+
+<!-- apa-refs:start -->
+- ScienceDaily. (2026, 24 de abril). *Glaciares surgentes — 3.100 identificados globalmente*. https://www.sciencedaily.com/news/earth_climate/
+<!-- apa-refs:end -->
+
+> Cita generada automáticamente desde el frontmatter (`fuente:` + `url:` + `fecha:`). El título reproduce el de la nota — adaptación al español del titular original; verificar URL para la cita académica formal.
+
+
 ## Enlaces
 - [[Glaciar Hektoria - colapso récord]]
 - [[Groenlandia deshielo hace 7000 años]]

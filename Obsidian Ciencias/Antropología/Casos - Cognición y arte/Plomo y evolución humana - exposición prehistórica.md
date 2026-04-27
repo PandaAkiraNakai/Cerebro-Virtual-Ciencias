@@ -19,6 +19,15 @@ Análisis de **esmalte dental** de homínidos, grandes simios y neandertales mue
 - Paleoneurología: encefalización vs. resiliencia metabólica.
 - Vulcanismo y geoquímica ambiental durante el Plio-Pleistoceno africano.
 
+## Referencias
+
+<!-- apa-refs:start -->
+- ScienceDaily. (2026, 24 de abril). *Plomo y evolución humana — exposición prehistórica*. https://www.sciencedaily.com/news/fossils_ruins/early_humans/
+<!-- apa-refs:end -->
+
+> Cita generada automáticamente desde el frontmatter (`fuente:` + `url:` + `fecha:`). El título reproduce el de la nota — adaptación al español del titular original; verificar URL para la cita académica formal.
+
+
 ## Enlaces
 - [[Bipedismo y encefalización]]
 - [[Hominini - árbol de homínidos]]

@@ -104,7 +104,29 @@ Obsidian Ciencias/
 
 **252 notas** · las **5 disciplinas con currículum N0–N5 completo** (paleontología, geología, biología, química y ahora antropología) · eje paleontología · **10 MOCs temáticos transversales** · 62 notas de casos reales de [ScienceDaily](https://www.sciencedaily.com/) y otras fuentes, organizadas en subcarpetas temáticas · 18 páginas dedicadas a taxones y eventos paleontológicos icónicos · 10 páginas de historia geológica profunda (eras, eones, ciclos de Wilson/supercontinentes/Milankovitch/carbono) · catálogo de ~130 fuentes bibliográficas con estadísticas verificadas · plan de aprendizaje con checkboxes tachados.
 
-### Última actualización (2026-04-24)
+### Última actualización (2026-04-27) — diseño + APA
+
+Pasada sobre el publisher Quartz para mejorar la experiencia móvil del sitio en `paleo.sergiocubelli.space` y dar trazabilidad bibliográfica a las notas de casos.
+
+**Tema custom mobile-first** (`quartz/styles/custom.scss`):
+
+- Paleta paleo: azul profundo (`--secondary`), sage (`--tertiary`) y ámbar fósil (`--accent`).
+- Sidebar de búsqueda **sticky** con backdrop-blur en móvil; touch targets ≥40 px.
+- Tipografía con tracking y leading refinados; H1 con gradiente sutil.
+- Cards en folder/tag pages, tags como pills con hover-lift, callouts con sombra suave.
+- Soporte de `prefers-reduced-motion`, scrollbar fina, modo print sin sidebars.
+- El `Dockerfile` sobreescribe `quartz/styles/custom.scss` durante el build.
+
+**Referencias APA mecánicas**:
+
+- 72 notas de casos con `fuente:` + `url:` en frontmatter ahora tienen al pie una sección `## Referencias` con cita APA 7 (español) generada automáticamente.
+- Bloque delimitado con `<!-- apa-refs:start -->` / `<!-- apa-refs:end -->` para regenerar idempotentemente desde el frontmatter.
+- Las notas N0–N5 conceptuales **no** llevan APA: son demasiado generales como para citar honestamente sin inventar fuentes.
+- Si una nota ya tiene una sección `## Referencias` escrita a mano, el script la respeta y no la sobrescribe.
+
+**Footer del sitio**: links rápidos al Índice y al repo en Gitea.
+
+### Actualización 2026-04-24
 
 **Pasada de extracción sobre las nuevas fuentes**: WebFetch sobre ~25 portales para sumar contenido y estadísticas verificadas al vault.
 
@@ -293,6 +315,7 @@ El vault se publica como sitio estático con búsqueda y graph view, generado co
 | `docker-compose.yml` | Servicio que Coolify detecta; el dominio se configura en la UI |
 | `quartz.config.ts` | Config de Quartz: baseUrl, locale, plugins, tema |
 | `quartz.layout.ts` | Layout: Explorer a la izquierda, Graph + TOC + Backlinks a la derecha |
+| `quartz/styles/custom.scss` | Tema custom mobile-first (paleta paleo, cards, pills, sticky search) |
 | `.dockerignore` | Excluye `.git`, `.obsidian/workspace*`, etc. del contexto de build |
 
 ### Cómo se actualiza

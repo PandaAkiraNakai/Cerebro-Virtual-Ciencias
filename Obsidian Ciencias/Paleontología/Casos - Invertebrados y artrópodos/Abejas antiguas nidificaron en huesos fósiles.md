@@ -19,6 +19,15 @@ En una cueva en **Hispaniola**, se descubrieron **abejas antiguas anidando dentr
 - Ilustra una **tafonomía compleja**: varios actores biológicos dejan señal en el mismo registro.
 - Aporte a la paleoetología de insectos.
 
+## Referencias
+
+<!-- apa-refs:start -->
+- ScienceDaily. (2026, 3 de abril). *Abejas antiguas nidificaron dentro de huesos fósiles*. https://www.sciencedaily.com/releases/2026/04/260402042748.htm
+<!-- apa-refs:end -->
+
+> Cita generada automáticamente desde el frontmatter (`fuente:` + `url:` + `fecha:`). El título reproduce el de la nota — adaptación al español del titular original; verificar URL para la cita académica formal.
+
+
 ## Enlaces
 - [[Fosilización y tafonomía]]
 - [[Trampa para termitas - pineno]] (otra nota de entomología)

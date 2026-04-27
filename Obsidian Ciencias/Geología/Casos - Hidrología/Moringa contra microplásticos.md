@@ -19,6 +19,15 @@ Las **semillas de moringa** (*Moringa oleifera*) demuestran capacidad para **eli
 - Tratamiento de aguas
 - Microplásticos como contaminante emergente
 
+## Referencias
+
+<!-- apa-refs:start -->
+- ScienceDaily. (2026, 24 de abril). *Moringa contra microplásticos en agua potable*. https://www.sciencedaily.com/news/plants_animals/
+<!-- apa-refs:end -->
+
+> Cita generada automáticamente desde el frontmatter (`fuente:` + `url:` + `fecha:`). El título reproduce el de la nota — adaptación al español del titular original; verificar URL para la cita académica formal.
+
+
 ## Enlaces
 - [[Reservorio de agua dulce bajo Great Salt Lake]]
 - [[Material de carbono para captura de CO2]] — otro material funcional para mitigación

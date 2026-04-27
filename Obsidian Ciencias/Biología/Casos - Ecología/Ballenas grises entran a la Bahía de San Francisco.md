@@ -19,6 +19,15 @@ Ante la **disminución de alimento en las zonas de forrajeo árticas** por calen
 - Plasticidad migratoria vs. memoria cultural en cetáceos
 - Conservación de fauna marina en ecosistemas urbanos
 
+## Referencias
+
+<!-- apa-refs:start -->
+- ScienceDaily. (2026, 24 de abril). *Ballenas grises desvían su migración hacia San Francisco Bay*. https://www.sciencedaily.com/news/plants_animals/
+<!-- apa-refs:end -->
+
+> Cita generada automáticamente desde el frontmatter (`fuente:` + `url:` + `fecha:`). El título reproduce el de la nota — adaptación al español del titular original; verificar URL para la cita académica formal.
+
+
 ## Enlaces
 - [[Metano oceánico - microbios y calentamiento]]
 - [[Salmones enlatados revelan recuperación oceánica]]

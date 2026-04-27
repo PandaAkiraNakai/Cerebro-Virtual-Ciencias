@@ -19,6 +19,9 @@ RUN npm ci --no-audit --no-fund
 # Sobrescribir config con la nuestra
 COPY quartz.config.ts quartz.layout.ts ./
 
+# Sobrescribir estilos con los nuestros (mobile-first + tema elegante)
+COPY quartz/styles/custom.scss ./quartz/styles/custom.scss
+
 # Traer el contenido del vault (la subcarpeta "Obsidian Ciencias" es el vault)
 # Quartz usa `content/` por defecto, así que lo montamos ahí.
 RUN rm -rf content

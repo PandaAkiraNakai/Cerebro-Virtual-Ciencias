@@ -19,6 +19,15 @@ Las **cianobacterias antiguas** emplean sistemas moleculares para **remodelar es
 - Sugiere que la frontera procariota/eucariota es más borrosa de lo asumido.
 - Implicaciones para entender el origen de la complejidad celular.
 
+## Referencias
+
+<!-- apa-refs:start -->
+- ScienceDaily. (2026, 20 de abril). *Cianobacterias reorganizan su maquinaria de ADN*. https://www.sciencedaily.com/releases/2026/04/260420014733.htm
+<!-- apa-refs:end -->
+
+> Cita generada automáticamente desde el frontmatter (`fuente:` + `url:` + `fecha:`). El título reproduce el de la nota — adaptación al español del titular original; verificar URL para la cita académica formal.
+
+
 ## Enlaces
 - [[Teoría endosimbiótica]]
 - [[La célula]]

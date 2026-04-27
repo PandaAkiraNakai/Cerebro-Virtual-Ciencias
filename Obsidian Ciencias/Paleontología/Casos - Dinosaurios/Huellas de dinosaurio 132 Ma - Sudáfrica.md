@@ -19,6 +19,15 @@ Descubrimiento de **huellas de dinosaurio de 132 millones de años** (Cretácico
 - Provincias volcánicas grandes (LIPs) como filtros ecológicos.
 - Paleogeografía del Cretácico temprano.
 
+## Referencias
+
+<!-- apa-refs:start -->
+- ScienceDaily. (2026, 24 de abril). *Huellas de dinosaurio 132 Ma — Sudáfrica*. https://www.sciencedaily.com/news/fossils_ruins/
+<!-- apa-refs:end -->
+
+> Cita generada automáticamente desde el frontmatter (`fuente:` + `url:` + `fecha:`). El título reproduce el de la nota — adaptación al español del titular original; verificar URL para la cita académica formal.
+
+
 ## Enlaces
 - [[Dinosaurios]]
 - [[Vulcanismo]]

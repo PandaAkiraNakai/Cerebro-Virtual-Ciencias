@@ -19,6 +19,15 @@ Investigadores del MIT identificaron que **compuestos clorados de vida corta** (
 - Vida atmosférica (τ) y transporte convectivo a la estratósfera
 - Regulación por vida media vs. por potencial de agotamiento del ozono (ODP)
 
+## Referencias
+
+<!-- apa-refs:start -->
+- ScienceDaily. (2026, 24 de abril). *Químicos industriales permitidos frenan la recuperación del ozono*. https://www.sciencedaily.com/news/earth_climate/
+<!-- apa-refs:end -->
+
+> Cita generada automáticamente desde el frontmatter (`fuente:` + `url:` + `fecha:`). El título reproduce el de la nota — adaptación al español del titular original; verificar URL para la cita académica formal.
+
+
 ## Enlaces
 - [[Material de carbono para captura de CO2]]
 - [[Estados de la materia]]

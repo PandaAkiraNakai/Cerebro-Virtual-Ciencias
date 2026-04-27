@@ -16,6 +16,15 @@ La criatura aparentemente **cambió de locomoción cuadrúpeda a bípeda durante
 - Replantea cómo los reptiles arcaicos exploraban distintos modos de desplazamiento.
 - Aporta evidencia de plasticidad locomotora en linajes crocodilomorfos.
 
+## Referencias
+
+<!-- apa-refs:start -->
+- ScienceDaily. (2026, 23 de abril). *Sonselasuchus cedrus — del cuadrupedismo al bipedismo*. https://www.sciencedaily.com/releases/2026/04/260422044628.htm
+<!-- apa-refs:end -->
+
+> Cita generada automáticamente desde el frontmatter (`fuente:` + `url:` + `fecha:`). El título reproduce el de la nota — adaptación al español del titular original; verificar URL para la cita académica formal.
+
+
 ## Enlaces
 - [[Deinosuchus schwimmeri - Cocodrilo terror]] — otro pariente gigante de los cocodrilos
 - [[Índice]]

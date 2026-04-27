@@ -19,6 +19,15 @@ Hallazgo de una **esponja de 550 millones de años** que carecía de **component
 - Ediacárico tardío y radiación de metazoos basales
 - Origen de Porifera
 
+## Referencias
+
+<!-- apa-refs:start -->
+- ScienceDaily. (2026, 24 de abril). *Esponja sin esqueleto — 550 Ma*. https://www.sciencedaily.com/news/fossils_ruins/
+<!-- apa-refs:end -->
+
+> Cita generada automáticamente desde el frontmatter (`fuente:` + `url:` + `fecha:`). El título reproduce el de la nota — adaptación al español del titular original; verificar URL para la cita académica formal.
+
+
 ## Enlaces
 - [[Garra de 500 millones de años reescribe origen de arañas]] — otro caso de cuerpo blando precámbrico
 - [[Fosilización y tafonomía]]

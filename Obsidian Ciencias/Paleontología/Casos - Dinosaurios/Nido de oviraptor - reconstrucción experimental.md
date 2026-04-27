@@ -21,6 +21,15 @@ Experimentos a **tamaño real con nidos de oviraptor** demostraron que los padre
 ## Conexión
 Ver [[Dinosaurios]] para el contexto de los terópodos avanzados (maniraptores) como antecesores directos de las aves.
 
+## Referencias
+
+<!-- apa-refs:start -->
+- ScienceDaily. (2026, 19 de marzo). *Recrean un nido de dinosaurio — misterio de 70 Ma resuelto*. https://www.sciencedaily.com/releases/2026/03/260319005102.htm
+<!-- apa-refs:end -->
+
+> Cita generada automáticamente desde el frontmatter (`fuente:` + `url:` + `fecha:`). El título reproduce el de la nota — adaptación al español del titular original; verificar URL para la cita académica formal.
+
+
 ## Enlaces
 - [[Dinosaurios]]
 - [[Índice]]

@@ -19,6 +19,15 @@ El **hongo ostra dorada** (*Pleurotus citrinopileatus*), comercializado en merca
 - Descomposición y ciclo del carbono en bosques templados.
 - Reino Fungi como decompositores fundamentales.
 
+## Referencias
+
+<!-- apa-refs:start -->
+- ScienceDaily. (2026, 24 de abril). *Hongo ostra dorada — invasor en Florida*. https://www.sciencedaily.com/news/plants_animals/
+<!-- apa-refs:end -->
+
+> Cita generada automáticamente desde el frontmatter (`fuente:` + `url:` + `fecha:`). El título reproduce el de la nota — adaptación al español del titular original; verificar URL para la cita académica formal.
+
+
 ## Enlaces
 - [[Hongos - reino fungi]]
 - [[Ecología y cadenas tróficas]]

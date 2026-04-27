@@ -20,6 +20,15 @@ Investigadores documentan **redes fúngicas masivas bajo el suelo ártico** — 
 - Permafrost y descongelación.
 - "Wood Wide Web" — nutrientes y señales químicas viajando por hifas entre plantas.
 
+## Referencias
+
+<!-- apa-refs:start -->
+- Quanta Magazine. (2026, 24 de abril). *Redes fúngicas árticas y carbono*. https://www.quantamagazine.org/biology/
+<!-- apa-refs:end -->
+
+> Cita generada automáticamente desde el frontmatter (`fuente:` + `url:` + `fecha:`). El título reproduce el de la nota — adaptación al español del titular original; verificar URL para la cita académica formal.
+
+
 ## Enlaces
 - [[Hongos - reino fungi]]
 - [[Simbiosis]]

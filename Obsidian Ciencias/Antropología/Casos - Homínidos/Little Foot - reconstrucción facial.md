@@ -20,6 +20,15 @@ Una **reconstrucción digital 3D** del cráneo de **Little Foot** —un esquelet
 - Datación por **¹⁰Be/²⁶Al** y paleomagnetismo de la cueva → ~3.67 Ma.
 - Bipedismo y arboreal: pies adaptados a caminar pero retención de pulgar oponible en pie.
 
+## Referencias
+
+<!-- apa-refs:start -->
+- Science News. (2026, 24 de abril). *Little Foot — reconstrucción facial*. https://www.sciencenews.org/topic/anthropology
+<!-- apa-refs:end -->
+
+> Cita generada automáticamente desde el frontmatter (`fuente:` + `url:` + `fecha:`). El título reproduce el de la nota — adaptación al español del titular original; verificar URL para la cita académica formal.
+
+
 ## Enlaces
 - [[Hominini - árbol de homínidos]]
 - [[Australopithecus afarensis - Lucy]]

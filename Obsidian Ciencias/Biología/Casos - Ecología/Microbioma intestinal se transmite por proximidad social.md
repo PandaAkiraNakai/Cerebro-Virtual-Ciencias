@@ -18,6 +18,15 @@ Una investigación en **aves de isla** revela que la **cercanía social** influy
 - Similar a lo observado en humanos (parejas y familiares convivientes comparten microbioma).
 - Redefine concepto: el microbioma es un **rasgo parcialmente comunitario**, no solo individual.
 
+## Referencias
+
+<!-- apa-refs:start -->
+- ScienceDaily. (2026, 13 de abril). *La proximidad social moldea el microbioma intestinal*. https://www.sciencedaily.com/releases/2026/04/260413043131.htm
+<!-- apa-refs:end -->
+
+> Cita generada automáticamente desde el frontmatter (`fuente:` + `url:` + `fecha:`). El título reproduce el de la nota — adaptación al español del titular original; verificar URL para la cita académica formal.
+
+
 ## Enlaces
 - [[Especiación]]
 - [[Teoría endosimbiótica]]
