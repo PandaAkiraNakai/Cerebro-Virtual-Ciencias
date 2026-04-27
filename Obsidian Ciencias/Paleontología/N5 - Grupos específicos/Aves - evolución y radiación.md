@@ -88,5 +88,7 @@ Tras la K–Pg, las aves modernas se diversificaron rápidamente:
 - [[Reptiles y arcosauromorfos]]
 - [[Extinciones masivas]]
 - [[Vertebrados - clases]]
+- [[Therizinosaurus cheloniformis]] — maniraptor herbívoro hermano del linaje aviar
+- [[Velociraptor mongoliensis]]
 - [[Plan de Aprendizaje]]
 - [[Índice]]

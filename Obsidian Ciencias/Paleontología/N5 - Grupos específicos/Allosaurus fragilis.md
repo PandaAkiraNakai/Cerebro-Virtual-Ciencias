@@ -62,11 +62,14 @@ Compartía ambiente con:
 
 ## Extinción y descendientes
 
-*Allosaurus* desaparece a fines del **Jurásico** (~145 Ma). Los **carcharodontosáuridos** (parientes) heredarán el nicho de gran depredador en el Cretácico (Sudamérica, África).
+*Allosaurus* desaparece a fines del **Jurásico** (~145 Ma). Los **carcharodontosáuridos** (parientes directos) heredarán el nicho de gran depredador en el Cretácico — ver [[Giganotosaurus carolinii]] (Sudamérica) y *Carcharodontosaurus* (África).
 
 ## Enlaces
 - [[Dinosaurios]]
 - [[Tyrannosaurus rex]]
+- [[Giganotosaurus carolinii]] — descendiente carcharodontosáurido en Patagonia
+- [[Carnotaurus sastrei]] — sucesor abelisáurido (otra rama) en Gondwana
+- [[Therizinosaurus cheloniformis]] — terópodo gigante contemporáneo de *Giganotosaurus*, otra rama (herbívoro)
 - [[Saurópodos gigantes - titanosaurios patagónicos]]
 - [[Mesozoico]]
 - [[Lagerstätten famosos]]

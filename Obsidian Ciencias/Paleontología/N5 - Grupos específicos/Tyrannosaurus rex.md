@@ -63,4 +63,8 @@ Como todos los dinosaurios no avianos, desapareció en **K–Pg (66 Ma)** tras e
 - [[Impacto de Chicxulub]]
 - [[Extinciones masivas]]
 - [[Dinosaurios emplumados - Jehol y otros]]
+- [[Allosaurus fragilis]] — gran depredador anterior, otra rama
+- [[Giganotosaurus carolinii]] — convergencia de tamaño desde Gondwana
+- [[Carnotaurus sastrei]] — convergencia de brazos atrofiados
+- [[Therizinosaurus cheloniformis]] — pariente lejano coelurosaurio (vía *Tarbosaurus*)
 - [[Índice]]

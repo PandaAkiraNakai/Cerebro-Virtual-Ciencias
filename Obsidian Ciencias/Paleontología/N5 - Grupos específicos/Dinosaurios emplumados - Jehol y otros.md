@@ -70,5 +70,6 @@ Modelo de Prum–Brush (etapas):
 - [[Archaeopteryx]]
 - [[Velociraptor mongoliensis]]
 - [[Tyrannosaurus rex]]
+- [[Therizinosaurus cheloniformis]] — terizinosaurios heredan plumaje filamentoso del clado (vía *Beipiaosaurus*)
 - [[Lagerstätten famosos]]
 - [[Índice]]

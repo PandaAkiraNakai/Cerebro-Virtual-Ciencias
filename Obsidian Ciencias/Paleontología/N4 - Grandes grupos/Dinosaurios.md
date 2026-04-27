@@ -44,11 +44,11 @@ Incluye por tanto a las **aves** — las aves *son* dinosaurios terópodos vivos
 Bípedos, dientes serrados, garras curvas.
 
 - **Grupos basales**: *Herrerasaurus*, *Coelophysis* (Triásico tardío).
-- **Ceratosauria**: *Carnotaurus*.
+- **Ceratosauria**: [[Carnotaurus sastrei]] y otros abelisáuridos gondwánicos.
 - **Megalosauroidea**: *Spinosaurus* (mayor terópodo conocido, ~15 m, semiacuático).
-- **Allosauroidea**: *Allosaurus*, *Giganotosaurus*.
+- **Allosauroidea**: *Allosaurus*, [[Giganotosaurus carolinii]], *Mapusaurus*, *Carcharodontosaurus*.
 - **Tyrannosauroidea**: *Tyrannosaurus rex*, *Tarbosaurus* → ver [[Nanotyrannus - Especie propia]].
-- **Coelurosauria**: dromaeosáuridos (*Velociraptor*), troodóntidos, y el clado **Aves**.
+- **Coelurosauria**: dromaeosáuridos (*Velociraptor*), troodóntidos, **terizinosaurios** herbívoros ([[Therizinosaurus cheloniformis]]), y el clado **Aves**.
 
 ## Origen y radiación
 

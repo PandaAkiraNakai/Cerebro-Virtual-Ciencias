@@ -42,7 +42,7 @@ Combinación única de rasgos:
 
 - **Patagonia cretácica** era un ecosistema tropical y semiárido.
 - Predominaban coníferas, helechos arbóreos, angiospermas tempranas.
-- Los titanosaurios eran los **herbívoros dominantes**; depredadores como *Giganotosaurus* y *Mapusaurus* (~13 m) vivían en el mismo ambiente.
+- Los titanosaurios eran los **herbívoros dominantes**; depredadores como [[Giganotosaurus carolinii]] y *Mapusaurus* (~13 m) vivían en el mismo ambiente, y más tarde [[Carnotaurus sastrei]] dominó tras la extinción de los carcharodontosáuridos.
 - El sitio La Flecha (Chubut) preserva ejemplares articulados excepcionales.
 
 ## Reproducción
@@ -61,6 +61,8 @@ Todos los saurópodos, incluidos los titanosaurios, desaparecen en **K–Pg** (6
 - [[Dinosaurios]]
 - [[Tyrannosaurus rex]]
 - [[Spinosaurus aegyptiacus]]
+- [[Giganotosaurus carolinii]] — superdepredador contemporáneo de los titanosaurios mayores
+- [[Carnotaurus sastrei]] — superdepredador patagónico posterior
 - [[Impacto de Chicxulub]]
 - [[Extinciones masivas]]
 - [[Alnashetri cerropoliciensis - alvarezsaurio patagónico]] (otro dinosaurio patagónico)

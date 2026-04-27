@@ -44,5 +44,7 @@ El **terópodo más largo conocido** (~15–16 m) y el único dinosaurio con un 
 
 - [[Dinosaurios]]
 - [[Tyrannosaurus rex]] — contrapunto terrestre
+- [[Giganotosaurus carolinii]] — gigante terópodo gondwánico contemporáneo (otra rama)
+- [[Carnotaurus sastrei]] — sucesor abelisáurido en el sur de Gondwana
 - [[Cetáceos - de terrestres a marinos]] — otra conquista vertebrada del agua
 - [[Índice]]

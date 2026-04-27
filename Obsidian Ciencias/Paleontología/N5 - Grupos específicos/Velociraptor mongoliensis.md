@@ -59,4 +59,5 @@ Spielberg usó el tamaño de *Deinonychus* (~3,5 m) llamándolo "velociraptor" p
 - [[Dinosaurios emplumados - Jehol y otros]]
 - [[Aves - evolución y radiación]]
 - [[Tyrannosaurus rex]]
+- [[Therizinosaurus cheloniformis]] — otro maniraptor mongol, rama herbívora del clado
 - [[Índice]]
