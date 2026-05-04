@@ -1,8 +1,8 @@
 ---
 tipo: MOC
 rol: índice-maestro
-actualizado: 2026-04-27
-notas_totales: 255
+actualizado: 2026-05-04
+notas_totales: 331
 fuente_base: ScienceDaily + colecciones museísticas + bases especializadas
 eje_principal: paleontología
 ---
@@ -11,7 +11,9 @@ eje_principal: paleontología
 
 > **Punto de entrada del vault.** Siempre consultar aquí primero. Toda nota nueva debe agregarse a este índice.
 
-**Estado actual**: 252 notas · 5 disciplinas con **N0-N5 completos** en paleontología, geología, biología, química **y ahora también antropología** · 10 MOCs temáticos · 1 catálogo de fuentes ampliado (museos digitales + agregadores de biocolecciones + bases genómicas/proteómicas + recursos educativos Tier 1/2) · 1 plan de aprendizaje · 62 notas de casos reales + **18 taxones y eventos icónicos** paleo (T. rex, Archaeopteryx, Tiktaalik, Chicxulub, Lucy…) + **10 páginas de historia geológica profunda** (eras Paleozoico/Mesozoico/Cenozoico + eones Arcaico/Proterozoico + Tierra bola de nieve + ciclos de Wilson, supercontinentes, Milankovitch y carbono geológico). Currículum en [[Plan de Aprendizaje]]. Catálogo de fuentes en [[Fuentes]].
+**Estado actual**: ~331 notas · 5 disciplinas con **N0-N5 completos** en paleontología, geología, biología, química y antropología · 10 MOCs temáticos · 1 catálogo de fuentes ampliado · 1 plan de aprendizaje · 62 notas de casos reales + **18 taxones y eventos icónicos** paleo + **10 páginas de historia geológica profunda** + **expansión taxonómica masiva 2026-05-04**: 1 master de Dinosauria en N3 + 52 notas N4 de clados/familias dinosaurianos + 10 notas N4 de reptiles modernos + 12 notas N4 de insectos. Currículum en [[Plan de Aprendizaje]]. Catálogo de fuentes en [[Fuentes]].
+
+> **Actualización 2026-05-04 (expansión taxonómica masiva, +75 notas)**: pasada completa sobre la taxonomía de Dinosauria, reptiles vivos e insectos. (1) **Master de Dinosauria** en N3 con árbol Saurischia/Ornithischia completo, géneros representativos por clado, sistemática actualizada al consenso 2025 ([[Taxonomía de Dinosauria]]). (2) **Sauropodomorpha** (16 notas N4): [[Sauropodomorpha]], [[Herrerasauridae]], [[Plateosauridae]], [[Massospondylidae]], [[Riojasauridae]], [[Sauropoda]], [[Eusauropoda]], [[Mamenchisauridae]], [[Turiasauria]], [[Neosauropoda]], [[Diplodocoidea]], [[Diplodocidae]], [[Dicraeosauridae]], [[Rebbachisauridae]], [[Macronaria]], [[Brachiosauridae]], [[Titanosauriformes]], [[Titanosauria]]. (3) **Theropoda** (25 notas N4): [[Theropoda]], [[Ceratosauria]], [[Ceratosauridae]], [[Coelophysoidea]], [[Abelisauridae]], [[Noasauridae]], [[Tetanurae]], [[Megalosauroidea]], [[Spinosauridae]], [[Allosauroidea]], [[Carcharodontosauridae]], [[Coelurosauria]], [[Compsognathidae]], [[Tyrannosauroidea]], [[Tyrannosauridae]], [[Maniraptoriformes]], [[Ornithomimosauria]], [[Alvarezsauridae]], [[Maniraptora]], [[Therizinosauria]], [[Oviraptorosauria]], [[Paraves]], [[Dromaeosauridae]], [[Troodontidae]], [[Avialae]]. (4) **Ornithischia** (11 notas N4): [[Ornithischia]], [[Heterodontosauridae]], [[Thyreophora]], [[Stegosauria]], [[Ankylosauria]], [[Neornithischia]], [[Ornithopoda]], [[Hadrosauridae]], [[Marginocephalia]], [[Pachycephalosauria]], [[Ceratopsia]]. (5) **Reptiles modernos** (10 notas N4): [[Reptiles modernos]], [[Testudines]], [[Squamata]], [[Iguania]], [[Gekkota]], [[Scincomorpha]], [[Anguimorpha]], [[Serpentes]], [[Amphisbaenia]], [[Crocodylia]], [[Rhynchocephalia]]. (6) **Insectos** (12 notas N4): [[Insecta]], [[Coleoptera]], [[Lepidoptera]], [[Hymenoptera]], [[Diptera]], [[Hemiptera]], [[Orthoptera]], [[Odonata]], [[Blattodea]], [[Mantodea]], [[Phasmatodea]], [[Otros órdenes de Insecta]]. Decisiones taxonómicas: "Prosauropoda" parafilético eliminado, Ornithoscelida (2017) rechazado y vuelta a Saurischia/Ornithischia, Heterodontosauridae sacado de Marginocephalia y puesto basal Ornithischia, Megalosauroidea = Spinosauroidea (prevalece el primer nombre), Carnosauria ≡ Allosauroidea sensu stricto, Toxicofera unifica Iguania+Anguimorpha+Serpentes por veneno compartido, Termitidae dentro de Blattodea (termitas son cucarachas eusociales). Log de progreso en [[Progreso taxonomía 2026-05-04]].
 
 > **Actualización 2026-04-27 (3 terópodos + tejido del grafo)**: tres taxones N5 nuevos para diversificar el árbol terópodo más allá de tiranosáuridos/dromaeosáuridos: [[Carnotaurus sastrei]] (Ceratosauria/Abelisauridae, Patagonia, brazos vestigiales convergentes con *T. rex*), [[Giganotosaurus carolinii]] (Carcharodontosauridae, Patagonia, gigante allosauroide cazador de titanosaurios), [[Therizinosaurus cheloniformis]] (Maniraptora, Mongolia, terópodo herbívoro con garras de 1 m, plumaje filamentoso). Cross-links bidireccionales añadidos a [[Tyrannosaurus rex]], [[Allosaurus fragilis]], [[Velociraptor mongoliensis]], [[Spinosaurus aegyptiacus]], [[Aves - evolución y radiación]], [[Dinosaurios emplumados - Jehol y otros]], [[Saurópodos gigantes - titanosaurios patagónicos]] y [[Dinosaurios]].
 
@@ -76,6 +78,7 @@ eje_principal: paleontología
 - [[Taxonomía linneana]] — jerarquía y nomenclatura binomial.
 - [[Cladística]] — clados, sinapomorfía, monofilético vs parafilético.
 - [[Filogenética molecular vs morfológica]] — métodos comparados, casos célebres, total evidence dating.
+- [[Taxonomía de Dinosauria]] — árbol Saurischia/Ornithischia completo con géneros representativos, sistemática actualizada 2025.
 
 ### N4 — Grandes grupos fósiles
 - [[Invertebrados fósiles]] — trilobites, ammonites, braquiópodos, graptolitos…
@@ -89,6 +92,66 @@ eje_principal: paleontología
 - [[Mamíferos fósiles]] — monotremas, marsupiales, placentados.
 - [[Cefalópodos fósiles]] — nautilos, ammonites, belemnites, coleoideos.
 - [[Homínidos fósiles]] — del Mioceno a *H. sapiens*.
+
+#### N4 — Sauropodomorpha (clados y familias)
+- [[Sauropodomorpha]] — del Saturnalia bípedo al Argentinosaurus de 80 t.
+- [[Herrerasauridae]] — primeros grandes saurisquios depredadores triásicos.
+- [[Plateosauridae]] — Plateosaurus, dominantes del Jurásico temprano europeo.
+- [[Massospondylidae]] — Massospondylus y los embriones más antiguos conocidos.
+- [[Riojasauridae]] — antesala gondwánica del cuadrupedismo saurópodo.
+- [[Sauropoda]] — los animales terrestres más grandes que existieron.
+- [[Eusauropoda]] — Shunosaurus a Saltasaurus, todos los saurópodos derivados.
+- [[Mamenchisauridae]] — Mamenchisaurus con cuello de 15 m, récord absoluto.
+- [[Turiasauria]] — Turiasaurus y los gigantes europeos.
+- [[Neosauropoda]] — la gran dicotomía Diplodocoidea / Macronaria.
+- [[Diplodocoidea]] — saurópodos de pastoreo bajo, cuello horizontal.
+- [[Diplodocidae]] — Diplodocus, Apatosaurus, Brontosaurus, Supersaurus.
+- [[Dicraeosauridae]] — Amargasaurus y los cuellos cortos con espinas dobles.
+- [[Rebbachisauridae]] — Nigersaurus "cortacésped", 500 dientes.
+- [[Macronaria]] — narices grandes, ramoneo en altura, ancestros de titanosaurios.
+- [[Brachiosauridae]] — Brachiosaurus, Giraffatitan, Sauroposeidon (cuello 11 m).
+- [[Titanosauriformes]] — clado Brachiosauridae + Titanosauria.
+- [[Titanosauria]] — Argentinosaurus, Patagotitan, Dreadnoughtus; los últimos saurópodos.
+
+#### N4 — Theropoda (clados y familias)
+- [[Theropoda]] — bípedos carnívoros + aves vivientes.
+- [[Ceratosauria]] — Coelophysidae + Abelisauridae + Ceratosauridae.
+- [[Ceratosauridae]] — Ceratosaurus con cuerno nasal y osteodermos.
+- [[Coelophysoidea]] — Coelophysis, Dilophosaurus, Cryolophosaurus, Sinosaurus.
+- [[Abelisauridae]] — Carnotaurus, Majungasaurus, los gigantes gondwánicos.
+- [[Noasauridae]] — Masiakasaurus, Limusaurus, herbivorías raras en terópodos.
+- [[Tetanurae]] — colas rígidas, mayoría de terópodos derivados.
+- [[Megalosauroidea]] — Megalosauridae + Piatnitzkysauridae + Spinosauridae.
+- [[Spinosauridae]] — Spinosaurus, Baryonyx, Suchomimus; semiacuáticos.
+- [[Allosauroidea]] — Allosaurus, Sinraptor, Carcharodontosauridae, Megaraptora.
+- [[Carcharodontosauridae]] — Giganotosaurus, Carcharodontosaurus, Mapusaurus.
+- [[Coelurosauria]] — clado donde aparecen las plumas confirmadas.
+- [[Compsognathidae]] — Sinosauropteryx, primer dinosaurio con plumas + colorimetría.
+- [[Tyrannosauroidea]] — del Proceratosaurus de 50 kg a T. rex de 14 t.
+- [[Tyrannosauridae]] — T. rex, Tarbosaurus, Albertosaurus + controversia Nanotyrannus.
+- [[Maniraptoriformes]] — Ornithomimosauria + Alvarezsauridae + Maniraptora.
+- [[Ornithomimosauria]] — Gallimimus, Struthiomimus, Deinocheirus.
+- [[Alvarezsauridae]] — Mononykus, Shuvuuia, brazos diminutos con un dedo.
+- [[Maniraptora]] — clado próximo al origen de las aves; carpo semilunar.
+- [[Therizinosauria]] — Therizinosaurus con garras de 1 m, herbívoros gigantes.
+- [[Oviraptorosauria]] — Oviraptor, Citipati, comportamiento parental documentado.
+- [[Paraves]] — Dromaeosauridae + Troodontidae + Avialae; origen del vuelo.
+- [[Dromaeosauridae]] — Velociraptor, Deinonychus, Microraptor (cuatro alas).
+- [[Troodontidae]] — Troodon, Mei long, encefalización máxima dinosauriana.
+- [[Avialae]] — Archaeopteryx, Confuciusornis, Enantiornithes, Aves crown.
+
+#### N4 — Ornithischia (clados y familias)
+- [[Ornithischia]] — herbívoros de cadera de ave, todos extintos en K-Pg.
+- [[Heterodontosauridae]] — heterodontes con caninos, plumas en Tianyulong.
+- [[Thyreophora]] — acorazados (Stegosauria + Ankylosauria + basales).
+- [[Stegosauria]] — Stegosaurus, Kentrosaurus, Miragaia (cuello largo).
+- [[Ankylosauria]] — Ankylosaurus, Borealopelta (momificado), Stegouros (cola macuáhuitl).
+- [[Neornithischia]] — Ornithopoda + Marginocephalia con dentición avanzada.
+- [[Ornithopoda]] — Iguanodon, Camptosaurus, Tenontosaurus, Hadrosauridae.
+- [[Hadrosauridae]] — pico de pato; Edmontosaurus, Parasaurolophus, Maiasaura.
+- [[Marginocephalia]] — Pachycephalosauria + Ceratopsia.
+- [[Pachycephalosauria]] — Pachycephalosaurus, domos craneales (controversia Dracorex).
+- [[Ceratopsia]] — Triceratops, Psittacosaurus, Centrosaurinae, Chasmosaurinae.
 
 ### N5 — Grupos específicos (profundización)
 - [[Pterosaurios]] — primer vuelo vertebrado.
@@ -189,6 +252,33 @@ eje_principal: paleontología
 - [[Filos animales]] — Porifera a Chordata, explosión cámbrica.
 - [[Vertebrados - clases]] — peces, anfibios, reptiles/aves, mamíferos.
 - [[Plantas - briofitos a angiospermas]] — embriofitos, vasculares, espermatofitas, coevolución con polinizadores.
+
+#### Reptiles modernos (10 notas)
+- [[Reptiles modernos]] — Reptilia/Sauropsida sensu lato, ~12.000 especies.
+- [[Testudines]] — tortugas: terrestres, palustres, marinas, Pleurodira/Cryptodira.
+- [[Squamata]] — orden más diverso (~11.700 spp.), Toxicofera, lagartos+serpientes.
+- [[Iguania]] — iguanas, agamas, camaleones, anolis.
+- [[Gekkota]] — gecos con almohadillas adhesivas, pigopódidos sin patas.
+- [[Scincomorpha]] — escincos, lacértidos, teidos, gymnofthalmidos.
+- [[Anguimorpha]] — varanos, monstruos de Gila, mosasaurios fósiles.
+- [[Serpentes]] — ~4.100 spp., Viperidae, Elapidae, Boidae, Pythonidae, Colubridae.
+- [[Amphisbaenia]] — anfisbenas fosoriales, "lagartos gusano".
+- [[Crocodylia]] — Alligatoridae + Crocodylidae + Gavialidae, 28 spp.
+- [[Rhynchocephalia]] — la tuátara *Sphenodon*, único superviviente del orden.
+
+#### Insectos (12 notas)
+- [[Insecta]] — clase animal más diversa, ~1 millón spp. descritas, 30 órdenes.
+- [[Coleoptera]] — escarabajos, mayor orden animal (~400.000 spp.).
+- [[Lepidoptera]] — mariposas y polillas, ~180.000 spp.
+- [[Hymenoptera]] — abejas, hormigas, avispas, eusocialidad.
+- [[Diptera]] — moscas y mosquitos, halterios, vectores médicos.
+- [[Hemiptera]] — chinches, áfidos, cigarras, cochinillas, vinchucas.
+- [[Orthoptera]] — saltamontes, langostas, grillos, wētā.
+- [[Odonata]] — libélulas y caballitos del diablo, depredadores aéreos.
+- [[Blattodea]] — cucarachas + termitas (eusociales).
+- [[Mantodea]] — mantis religiosas, cazadores por emboscada, mantis orquídea.
+- [[Phasmatodea]] — insectos palo y hoja, los más largos del mundo.
+- [[Otros órdenes de Insecta]] — Dermaptera, Trichoptera, Neuroptera, Siphonaptera, Zygentoma, Ephemeroptera, etc.
 
 ### N5 — Temas avanzados (profundización)
 - [[Virus y viroides]] — entre lo vivo y lo no vivo, clasificación Baltimore.
