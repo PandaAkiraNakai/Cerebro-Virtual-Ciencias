@@ -128,5 +128,4 @@ Se desvían del comportamiento ideal a alta presión / baja temperatura. Ecuacio
 - [[Cambios de estado]]
 - [[Enlaces químicos]]
 - [[Fuerzas intermoleculares]]
-- [[Plan de Aprendizaje]]
 - [[Índice]]

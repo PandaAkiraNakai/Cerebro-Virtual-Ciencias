@@ -105,5 +105,4 @@ Ver en [[La célula]]. Incluye microfilamentos de actina, filamentos intermedios
 - [[Transporte de membrana]]
 - [[Teoría endosimbiótica]]
 - [[Macromoléculas biológicas]]
-- [[Plan de Aprendizaje]]
 - [[Índice]]

@@ -97,5 +97,4 @@ Los Lagerstätten requieren condiciones **excepcionales**:
 - [[Invertebrados fósiles]]
 - [[Aves - evolución y radiación]]
 - [[Megafauna pleistocena]]
-- [[Plan de Aprendizaje]]
 - [[Índice]]

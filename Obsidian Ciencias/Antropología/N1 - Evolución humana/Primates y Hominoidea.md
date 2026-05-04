@@ -115,5 +115,4 @@ Somos el único hominoideo con población estable (y en expansión).
 - [[Mamíferos fósiles]]
 - [[Homínidos fósiles]]
 - [[Masripithecus - Origen de los simios]]
-- [[Plan de Aprendizaje]]
 - [[Índice]]

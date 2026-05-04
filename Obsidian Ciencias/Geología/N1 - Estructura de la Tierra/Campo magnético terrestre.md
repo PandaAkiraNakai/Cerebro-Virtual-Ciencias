@@ -68,5 +68,4 @@ Las lavas al enfriarse "congelan" la orientación magnética de su época. Al le
 
 - [[Estructura interna de la Tierra]]
 - [[Tectónica de placas]]
-- [[Plan de Aprendizaje]]
 - [[Índice]]

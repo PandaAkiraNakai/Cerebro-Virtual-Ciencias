@@ -99,5 +99,4 @@ Similar a mitosis pero sobre células haploides:
 - [[La célula]]
 - [[Genética mendeliana]]
 - [[ADN ARN y dogma central]]
-- [[Plan de Aprendizaje]]
 - [[Índice]]

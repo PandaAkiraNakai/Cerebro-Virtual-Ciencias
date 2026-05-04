@@ -100,5 +100,4 @@ Causa: **debate**.
 - [[Industrias líticas]]
 - [[Glaciaciones]]
 - [[MOC Humanos y primates]]
-- [[Plan de Aprendizaje]]
 - [[Índice]]

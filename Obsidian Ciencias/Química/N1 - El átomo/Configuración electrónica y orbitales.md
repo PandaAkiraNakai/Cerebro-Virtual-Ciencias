@@ -131,5 +131,4 @@ La configuración electrónica **explica la estructura de la tabla**:
 - [[Tabla periódica]]
 - [[Propiedades periódicas]]
 - [[Enlaces químicos]]
-- [[Plan de Aprendizaje]]
 - [[Índice]]

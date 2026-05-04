@@ -91,5 +91,4 @@ Ver también [[#🧍 Antropología]] / [[Masripithecus - Origen de los simios]].
 - [[Sinápsidos y ancestros de mamíferos]]
 - [[Extinciones masivas]]
 - [[Escala del tiempo geológico]]
-- [[Plan de Aprendizaje]]
 - [[Índice]]

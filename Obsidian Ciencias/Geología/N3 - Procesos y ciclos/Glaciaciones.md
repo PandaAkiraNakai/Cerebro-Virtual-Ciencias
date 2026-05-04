@@ -106,5 +106,4 @@ Tras el LGM, el hielo se retira. Eventos:
 - [[MOC Planeta cambiante]]
 - [[Groenlandia deshielo hace 7000 años]]
 - [[Doggerland - Bosques sumergidos]]
-- [[Plan de Aprendizaje]]
 - [[Índice]]

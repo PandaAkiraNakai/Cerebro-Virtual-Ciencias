@@ -114,5 +114,4 @@ Aplicaciones: [[Métodos de datación]], medicina nuclear, energía.
 - [[Configuración electrónica y orbitales]]
 - [[Tabla periódica]]
 - [[Qué es la química]]
-- [[Plan de Aprendizaje]]
 - [[Índice]]

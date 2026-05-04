@@ -160,5 +160,4 @@ En mezclas no estequiométricas, un reactivo **se agota primero** y determina el
 - [[Termodinámica química]]
 - [[Electroquímica]]
 - [[Enlaces químicos]]
-- [[Plan de Aprendizaje]]
 - [[Índice]]

@@ -110,5 +110,4 @@ La simbiosis no es periférica — ha **creado niveles de complejidad**:
 - [[Dominios y reinos]]
 - [[Selección natural y evolución]]
 - [[Microbioma intestinal se transmite por proximidad social]]
-- [[Plan de Aprendizaje]]
 - [[Índice]]

@@ -55,5 +55,4 @@ La **P–T** (252 Ma) es la peor extinción conocida.
 - [[Escala del tiempo geológico]]
 - [[Tiempo profundo]]
 - [[Lystrosaurus - Ancestros de mamíferos ponían huevos]]
-- [[Plan de Aprendizaje]]
 - [[Índice]]

@@ -79,5 +79,4 @@ Se extendieron al mar varias veces, independientemente:
 - [[Sinápsidos y ancestros de mamíferos]]
 - [[Transición agua-tierra]]
 - [[MOC Evolución de la vida en tierra]]
-- [[Plan de Aprendizaje]]
 - [[Índice]]

@@ -120,5 +120,4 @@ Mayores registrados: **Valdivia 1960 (9,5)**, Alaska 1964 (9,2), Sumatra 2004 (9
 - [[Subducción y orogénesis]]
 - [[Vulcanismo]]
 - [[Estructura interna de la Tierra]]
-- [[Plan de Aprendizaje]]
 - [[Índice]]

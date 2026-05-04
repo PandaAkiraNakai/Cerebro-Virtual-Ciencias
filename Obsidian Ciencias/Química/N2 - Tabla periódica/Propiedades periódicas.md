@@ -118,5 +118,4 @@ Las tendencias son **generales**, no absolutas:
 - [[Familias de elementos]]
 - [[Enlaces químicos]]
 - [[Configuración electrónica y orbitales]]
-- [[Plan de Aprendizaje]]
 - [[Índice]]

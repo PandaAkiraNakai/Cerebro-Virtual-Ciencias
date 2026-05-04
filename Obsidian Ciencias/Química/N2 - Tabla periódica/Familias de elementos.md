@@ -156,5 +156,4 @@ Sintéticos, con vidas medias de microsegundos a segundos. Muchos nombres recien
 - [[Tabla periódica]]
 - [[Propiedades periódicas]]
 - [[Enlaces químicos]]
-- [[Plan de Aprendizaje]]
 - [[Índice]]

@@ -711,6 +711,112 @@ article h2#enlaces + ul {
 }
 
 // =====================================================================
+// CLADOGRAMAS / ÁRBOLES ASCII (sección ## Filogenia y otros)
+// =====================================================================
+
+// Pre blocks con contenido de árbol filogenético reciben fondo tierra
+article pre:has(code:not([class])),
+article pre:not([class]) {
+  background: color-mix(in srgb, var(--accent) 6%, color-mix(in srgb, var(--lightgray) 30%, var(--light)));
+  border-left: 3px solid color-mix(in srgb, var(--accent) 40%, var(--lightgray));
+  font-size: 0.88rem;
+  line-height: 1.6;
+  color: var(--dark);
+  overflow-x: auto;
+  padding: 1rem 1.2rem;
+}
+
+// La sección ## Filogenia recibe destaque especial
+article h2#filogenia,
+article h2[id^="filogenia"],
+article h2#morfología-diagnóstica,
+article h2[id^="morfolog"] {
+  color: var(--accent) !important;
+  border-bottom-color: color-mix(in srgb, var(--accent) 30%, var(--lightgray));
+  letter-spacing: -0.01em;
+
+  &::before {
+    content: "🧬 ";
+    font-size: 0.85em;
+  }
+}
+
+article h2#distribución,
+article h2[id^="distribuci"] {
+  &::before {
+    content: "🌍 ";
+    font-size: 0.85em;
+  }
+}
+
+article h2#extinción,
+article h2[id^="extinci"] {
+  &::before {
+    content: "💀 ";
+    font-size: 0.85em;
+  }
+}
+
+// =====================================================================
+// TABLAS — zebra striping y mejor legibilidad
+// =====================================================================
+
+.table-container > table {
+  & tbody tr:nth-child(even) {
+    background: color-mix(in srgb, var(--lightgray) 18%, transparent);
+  }
+
+  & tbody tr:nth-child(odd) {
+    background: transparent;
+  }
+
+  & tbody tr:hover {
+    background: color-mix(in srgb, var(--secondary) 7%, transparent) !important;
+  }
+
+  & td:first-child {
+    font-weight: 500;
+    color: var(--darkgray);
+  }
+}
+
+// =====================================================================
+// NIVEL TAGS — color-coded por nivel de profundidad
+// =====================================================================
+
+a.internal.tag-link[href*="/tags/n0"] { background: color-mix(in srgb, #94a3b8 18%, transparent); color: #475569; border-color: color-mix(in srgb, #94a3b8 30%, transparent); }
+a.internal.tag-link[href*="/tags/n1"] { background: color-mix(in srgb, #6ea8fe 15%, transparent); color: #1d6cc1; border-color: color-mix(in srgb, #6ea8fe 28%, transparent); }
+a.internal.tag-link[href*="/tags/n2"] { background: color-mix(in srgb, #84a59d 15%, transparent); color: #2d7a6e; border-color: color-mix(in srgb, #84a59d 28%, transparent); }
+a.internal.tag-link[href*="/tags/n3"] { background: color-mix(in srgb, #c97b3b 12%, transparent); color: #a0592a; border-color: color-mix(in srgb, #c97b3b 25%, transparent); }
+a.internal.tag-link[href*="/tags/n4"] { background: color-mix(in srgb, #9b72cf 12%, transparent); color: #7048aa; border-color: color-mix(in srgb, #9b72cf 25%, transparent); }
+a.internal.tag-link[href*="/tags/n5"] { background: color-mix(in srgb, #e0555a 10%, transparent); color: #b83a3f; border-color: color-mix(in srgb, #e0555a 22%, transparent); }
+
+// =====================================================================
+// CARDS DE NOTAS en índice — mejor contraste del título
+// =====================================================================
+
+ul.section-ul > li.section-li .section h3 a {
+  font-weight: 600;
+  letter-spacing: -0.01em;
+}
+
+// Descripción truncada a 3 líneas en cards de listado
+ul.section-ul > li.section-li .section > p {
+  display: -webkit-box;
+  -webkit-line-clamp: 3;
+  -webkit-box-orient: vertical;
+  overflow: hidden;
+}
+
+// =====================================================================
+// GRAPH — nodos con color de acento para mejor visibilidad
+// =====================================================================
+
+.graph canvas {
+  border-radius: var(--radius-md);
+}
+
+// =====================================================================
 // REDUCED MOTION — respetar preferencia del usuario
 // =====================================================================
 

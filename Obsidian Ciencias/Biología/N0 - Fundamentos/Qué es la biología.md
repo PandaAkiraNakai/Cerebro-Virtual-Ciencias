@@ -65,5 +65,4 @@ Ver detalle en [[Ramas de la biología]] (pendiente), pero panorama rápido:
 
 ## Enlaces
 
-- [[Plan de Aprendizaje]]
 - [[Índice]]

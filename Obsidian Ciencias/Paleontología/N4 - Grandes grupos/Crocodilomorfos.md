@@ -74,5 +74,4 @@ Los crocodilomorfos experimentaron muchas formas de locomoción:
 - [[Dinosaurios]]
 - [[Reptiles y arcosauromorfos]]
 - [[Extinciones masivas]]
-- [[Plan de Aprendizaje]]
 - [[Índice]]

@@ -8,15 +8,19 @@ Eje del vault: **paleontología** — las demás disciplinas son ramas que la su
 
 | Disciplina | Notas de fundamentos | Notas de casos |
 |---|---|---|
-| Paleontología (eje) | 54 (N0–N5, incluye 20 taxa/eventos icónicos) | 16 |
+| Paleontología (eje) | ~105 (N0–N5 + 20 taxa icónicos + 76 taxa dinosaurianos/reptiles/insectos) | 16 |
 | Biología | 31 (N0–N5) | 19 |
 | Geología | 39 (N0–N5, incluye eras + eones + 4 ciclos profundos) | 17 |
-| Antropología | 21 (N0–N5 ahora completo) | 11 |
+| Antropología | ~65 (N0–N5 + 44 notas Hominoidea) | 11 |
 | Química | 22 (N0–N5) | 9 |
+
+## Punto de entrada
+
+Abrir `Obsidian Ciencias/Índice.md` — MOC maestro con índice completo de todas las notas, organizado por disciplina y nivel.
 
 ## Estructura del vault
 
-El vault vive en [`Obsidian Ciencias/`](Obsidian%20Ciencias/). Punto de entrada: [`Obsidian Ciencias/Índice.md`](Obsidian%20Ciencias/Índice.md) — un MOC (Map of Content) maestro con enlaces a todas las notas.
+El vault vive en `Obsidian Ciencias/`. Dentro de cada disciplina:
 
 ```
 Obsidian Ciencias/
@@ -26,237 +30,57 @@ Obsidian Ciencias/
 │   ├── N0 - Fundamentos/            qué es, fósil, tafonomía
 │   ├── N1 - Ramas/                  paleozoología, paleobotánica…
 │   ├── N2 - Tiempo geológico/       eones, eras, extinciones masivas
-│   ├── N3 - Taxonomía/              Linneo, cladística
+│   ├── N3 - Taxonomía/              Linneo, cladística, Taxonomía de Dinosauria
 │   ├── N4 - Grandes grupos/         invertebrados, tetrápodos, dinosaurios…
-│   ├── N5 - Grupos específicos/     aves, cetáceos, pterosaurios, reptiles marinos, megafauna, Lagerstätten
-│   ├── Casos - Dinosaurios/
-│   ├── Casos - Reptiles pérmico-triásicos/
-│   ├── Casos - Crocodilomorfos/
-│   ├── Casos - Cefalópodos/
-│   └── Casos - Invertebrados y artrópodos/
+│   │   ├── Sauropodomorpha → Titanosauria    (18 clados/familias)
+│   │   ├── Theropoda → Avialae               (25 clados/familias)
+│   │   └── Ornithischia → Ceratopsia         (11 clados/familias)
+│   ├── N5 - Grupos específicos/     aves, cetáceos, pterosaurios, reptiles marinos, megafauna
+│   └── Casos - */                   casos reales agrupados por subtema
 │
 ├── Biología/
-│   ├── N0 - Fundamentos/            qué es la biología
-│   ├── N1 - Organización/           niveles, macromoléculas
-│   ├── N2 - La célula/              orgánulos, transporte, mitosis/meiosis, endosimbiosis
-│   ├── N3 - Genética y evolución/   ADN, Mendel, selección, especiación
-│   ├── N4 - Taxonomía biológica/    dominios, filos, vertebrados
-│   ├── Casos - Herpetología/
-│   ├── Casos - Entomología/
-│   ├── Casos - Ornitología/
-│   ├── Casos - Fotorrecepción/
-│   ├── Casos - Biología celular y molecular/
-│   ├── Casos - Botánica/
-│   └── Casos - Ecología/
+│   ├── N0-N5/                       fundamentos teóricos
+│   ├── N4 - Taxonomía biológica/    incluye 10 reptiles modernos + 12 insectos
+│   └── Casos - */                   herpetología, entomología, ecología…
 │
 ├── Geología/
-│   ├── N0 - Fundamentos/            qué es, principios (uniformitarismo…)
-│   ├── N1 - Estructura de la Tierra/ capas, campo magnético
-│   ├── N2 - Tectónica/              placas, límites, subducción, orogénesis
-│   ├── N3 - Procesos y ciclos/      ciclo de rocas, erosión, sedimentación, vulcanismo, sismos, glaciaciones
-│   ├── N4 - Minerales y rocas/      ígneas, sedimentarias, metamórficas
-│   ├── Casos - Interior de la Tierra/
-│   ├── Casos - Superficie y costas/
-│   ├── Casos - Mineralogía/
-│   ├── Casos - Glaciología/
-│   ├── Casos - Hidrología/
-│   └── Casos - Sismos/
+│   ├── N0-N5/                       fundamentos + historia profunda de la Tierra
+│   └── Casos - */                   interior, costas, glaciología, sismos…
 │
 ├── Antropología/
 │   ├── N0 - Fundamentos/            qué es, cuatro ramas
 │   ├── N1 - Evolución humana/       primates, Hominini, bipedismo, industrias líticas
-│   ├── N2 - Migraciones/            salidas de África, poblamiento de América
+│   ├── N2 - Migraciones/            salidas de África, América, Oceanía
 │   ├── N3 - Cognición y cultura/    arte simbólico, neolítico
-│   ├── N4 - Métodos/                datación, aDNA
-│   ├── N5 - Profundización/         paleogenómica, genética de poblaciones, lenguaje, forense
-│   ├── Casos - Homínidos/
-│   ├── Casos - Migraciones/
-│   ├── Casos - Evolución de los simios/
-│   └── Casos - Cognición y arte/
+│   ├── N4 - Métodos/                datación, aDNA, paleopatología
+│   ├── N5 - Profundización/         paleogenómica, genética poblacional, lenguaje, forense
+│   ├── Taxonomía/                   nota maestra Hominoidea (N3)
+│   ├── Taxa - Hominoidea/           44 notas N4: primates, grandes simios, homininos, Homo spp.
+│   └── Casos - */                   homínidos, migraciones, cognición y arte
 │
 ├── Química/
-│   ├── N0 - Fundamentos/            qué es la química
-│   ├── N1 - El átomo/               partículas, modelos, orbitales
-│   ├── N2 - Tabla periódica/        estructura, propiedades, familias
-│   ├── N3 - Enlaces/                iónico, covalente, metálico, intermoleculares, geometría
-│   ├── N4 - Estados de la materia/  fases, cambios de estado
-│   ├── N5 - Reacciones/             tipos, cinética, equilibrio, termodinámica, electroquímica
-│   ├── Casos - Energía/
-│   ├── Casos - Materiales/
-│   └── Casos - Clima/
+│   ├── N0-N5/                       átomo → termodinámica
+│   └── Casos - */                   energía, materiales, clima
 │
-├── _MOC/                            índices temáticos transversales
-│   ├── MOC Evolución de la vida en tierra
-│   ├── MOC Humanos y primates
-│   ├── MOC Planeta cambiante
-│   ├── MOC Paleogeografía
-│   ├── MOC Taxonomía e identidad biológica
-│   └── MOC Química al servicio del clima
-│
-├── _Plan/
-│   └── Plan de Aprendizaje.md       currículum N0 → N5 con checkboxes
-│
-└── _Fuentes/
-    └── Fuentes.md                   catálogo de repositorios por disciplina
+├── _MOC/                            10 índices temáticos transversales
+├── _Fuentes/                        catálogo de repositorios por disciplina
+└── _Plan/                           currículum de estudio con checkboxes
 ```
 
 ## Estado actual
 
-**252 notas** · las **5 disciplinas con currículum N0–N5 completo** (paleontología, geología, biología, química y ahora antropología) · eje paleontología · **10 MOCs temáticos transversales** · 62 notas de casos reales de [ScienceDaily](https://www.sciencedaily.com/) y otras fuentes, organizadas en subcarpetas temáticas · 18 páginas dedicadas a taxones y eventos paleontológicos icónicos · 10 páginas de historia geológica profunda (eras, eones, ciclos de Wilson/supercontinentes/Milankovitch/carbono) · catálogo de ~130 fuentes bibliográficas con estadísticas verificadas · plan de aprendizaje con checkboxes tachados.
-
-### Última actualización (2026-04-27) — diseño + APA
-
-Pasada sobre el publisher Quartz para mejorar la experiencia móvil del sitio en `paleo.sergiocubelli.space` y dar trazabilidad bibliográfica a las notas de casos.
-
-**Tema custom mobile-first** (`quartz/styles/custom.scss`):
-
-- Paleta paleo: azul profundo (`--secondary`), sage (`--tertiary`) y ámbar fósil (`--accent`).
-- Sidebar de búsqueda **sticky** con backdrop-blur en móvil; touch targets ≥40 px.
-- Tipografía con tracking y leading refinados; H1 con gradiente sutil.
-- Cards en folder/tag pages, tags como pills con hover-lift, callouts con sombra suave.
-- Soporte de `prefers-reduced-motion`, scrollbar fina, modo print sin sidebars.
-- El `Dockerfile` sobreescribe `quartz/styles/custom.scss` durante el build.
-
-**Referencias APA mecánicas**:
-
-- 72 notas de casos con `fuente:` + `url:` en frontmatter ahora tienen al pie una sección `## Referencias` con cita APA 7 (español) generada automáticamente.
-- Bloque delimitado con `<!-- apa-refs:start -->` / `<!-- apa-refs:end -->` para regenerar idempotentemente desde el frontmatter.
-- Las notas N0–N5 conceptuales **no** llevan APA: son demasiado generales como para citar honestamente sin inventar fuentes.
-- Si una nota ya tiene una sección `## Referencias` escrita a mano, el script la respeta y no la sobrescribe.
-
-**Footer del sitio**: links rápidos al Índice y al repo en Gitea.
-
-### Actualización 2026-04-24
-
-**Pasada de extracción sobre las nuevas fuentes**: WebFetch sobre ~25 portales para sumar contenido y estadísticas verificadas al vault.
-
-**5 nuevas notas de casos** (todas extraídas de los WebFetch realizados):
-
-- 🦕 [[Esponja sin esqueleto - 550 millones de años]] — fósil precámbrico que cierra una brecha de 160 M de años.
-- 🛰️ [[GOFLOW - corrientes oceánicas con IA]] — método de IA que mapea corrientes invisibles desde satélite.
-- 💧 [[Moringa contra microplásticos]] — semillas como coagulante natural para potabilización.
-- 🦠 [[Metano oceánico - microbios y calentamiento]] — nueva fuente subestimada de metano marino.
-- ⚗️ [[Fonones quirales - control electrónico sin imanes]] — espintrónica fonónica.
-
-**Estadísticas verificadas en `Fuentes.md`**:
-
-- **Macrostrat**: 1.400 columnas regionales · 33.903 unidades de roca · 2,5 M polígonos · 51.212 nombres estratigráficos · apps Sift/Map/Rockd/Mancos.
-- **KEGG** (release 2026-04-01): 12 sub-bases (PATHWAY, GENES, COMPOUND, REACTION, ENZYME, BRITE, MODULE, KO, DISEASE, DRUG, GENOME, GLYCAN).
-- **STRING**: 12.535 organismos · 59,3 M proteínas · >20 mil M de interacciones.
-- **Bgee** v15.2.5: 52 especies · 31.467 librerías RNA-Seq · 55.997 condiciones.
-- **ITIS**: 991.180 nombres científicos · 164.561 nombres comunes.
-- **UCSC Genome Browser**: hg38, hg19, T2T-CHM13, mm39, mm10 + miles vía GenArk; nuevos tracks NMD Escape (abr 22), STR (abr 10), heatmap mode (abr 3).
-
-**Catálogo de fuentes** ampliado el mismo día (commit `4ee9360`) con:
-
-- 🏆 Colecciones digitales de museos: Smithsonian Open Access (5,1 M ítems), NHM Londres (80 M en digitalización), AMNH Paleontology Database, UCMP Berkeley, Florida Museum, PRI (7 M especímenes).
-- 🔗 Agregadores de biocolecciones: GBIF, iDigBio (nuevo front `idigbio.gbif.us`), Arctos, DiSSCo (175 museos europeos), VertNet, iChatBio.
-- 📖 Biodiversity Heritage Library (60 M+ páginas, API, Flickr).
-- 🧬 Bases genómicas/proteómicas: KEGG, UCSC, Ensembl Genomes, HomoloGene, OMA, STRING, InterPro, Pfam (en InterPro), Bgee, GeneCards.
-- 📑 Revistas/datos: Scientific Data (Nature), NAR Database Issue.
-- 🔐 Estándares: OpenDOAR (5.983 repositorios FAIR), DiSSCo ERIC.
-
-**Limitaciones de la pasada**: varias fuentes (Smithsonian Open Access, AMNH, Nature News, GBIF, UniProt, InterPro, OMA, NAR Database Issue, BHL, Zenodo) bloquearon el WebFetch (HTTP 403/303 o página de carga). Las URLs quedan registradas; las estadísticas se irán completando manualmente o vía sus APIs/JSON públicos.
-
-### Pasada N0→N5 + cierre de antropología (2026-04-24, segunda tanda)
-
-**+15 notas** distribuidas en N0, N1, N5 y casos:
-
-- 🧍 **Antropología N5 creada** (gap estructural: era la única disciplina sin N5 propio):
-    - [[Paleogenómica humana]] — métodos aDNA, hitos, limitaciones.
-    - [[Genética de poblaciones humanas]] — F<sub>ST</sub>, deriva, eventos demográficos.
-    - [[Origen del lenguaje]] — anatomía, arqueología, FOXP2.
-    - [[Antropología forense]] — biografía biológica, isótopos, ADN.
-- 📐 **Fundamentos faltantes** detectados al revisar N0/N1:
-    - [[Edad de la Tierra]] (Geología N1) — 4,54 Ga, Pb-Pb de Patterson.
-    - [[Método científico en biología]] (Biología N0) — falsacionismo, replicabilidad.
-    - [[Historia de la química]] (Química N0) — alquimia → Lavoisier → Mendeleev.
-- 🦕 **Casos nuevos** (8) extraídos de WebFetch a ScienceDaily:
-    - [[Fósiles en óxido de hierro - bosque miocénico australiano]] — Lagerstätte ferruginoso de NSW.
-    - [[Huellas de dinosaurio 132 Ma - Sudáfrica]] — icnología post-LIP del Karoo.
-    - [[Hielo antártico - misterio climático de 3 millones de años]] — testigos antárticos del Plio-Pleistoceno.
-    - [[Hongo ostra dorada - invasor en Florida]] — bioinvasión fúngica desde mercados gourmet.
-    - [[Grafeno - flujo electrónico cuántico sin fricción]] — hidrodinámica electrónica.
-    - [[Gen denisovano MUC19 - poblamiento de América]] — introgresión adaptativa.
-    - [[Plomo y evolución humana - exposición prehistórica]] — geoquímica del esmalte y neuroevolución.
-    - [[Peste de Justiniano - fosa común en Jordania]] — paleomicrobiología.
-
-**Reorganización en el Índice**: la sección de Antropología ahora separa **N5 — Profundización** (fundamentos teóricos) de los **Casos reales — <subtema>** (homínidos, migraciones, cognición y arte, evolución de los simios), alineándose con la convención usada en las otras 4 disciplinas. La sección N6 de Química se renombra a **Casos reales** por la misma razón.
-
-### Etapa 1 — Cierre N0/N1 parejo (2026-04-24, +9 notas → 210)
-
-Pasada para que las 5 disciplinas tengan **fundamentos al mismo nivel de detalle** en N0 y N1.
-
-- 🦕 **Paleontología N1 — desglose de ramas** (antes solo había una nota agregadora):
-    - [[Paleobotánica]] — fósiles de plantas, palinología, hitos del verdor terrestre.
-    - [[Icnología]] — huellas, madrigueras, coprolitos, icnofacies de Seilacher.
-    - [[Micropaleontología]] — foraminíferos, conodontos, nanofósiles; bioestratigrafía petrolera.
-    - [[Bioestratigrafía]] — fósiles guía, biozonas, GSSPs, integración con magneto/quimio/ciclo.
-- 🪨 **Geología N0** — fundamentos detallados:
-    - [[Principios fundamentales de la geología]] — uniformitarismo, superposición, horizontalidad, continuidad lateral, sucesión faunística, corte transversal, inclusiones, discordancias.
-    - [[Historia de la geología]] — Hutton → Lyell → Smith → Wegener → Hess → Patterson.
-- 🌱 **Biología N0**: [[Historia de la biología]] — Linneo → Darwin → Mendel → Watson-Crick → genómica → CRISPR.
-- ⚗️ **Química N0**: [[Magnitudes y unidades químicas]] — mol, *N*<sub>A</sub>, masa molar, concentración, gas ideal.
-- 🧍 **Antropología N0**: [[Historia de la antropología]] — evolucionismo → Boas → funcionalismo → estructuralismo → posmoderno → Antropoceno.
-
-### Etapa 2 — Profundización N2/N3 (2026-04-24, +13 notas → 223)
-
-Densificado de la **capa media** del currículum.
-
-- 🦕 **Paleontología N2**: extinciones individuales que faltaban como nota dedicada — [[Extinción Ordovícico-Silúrico]] (Big One #1, glaciación + anoxia), [[Hangenberg - extinción del Devónico tardío]] (vacío de Romer, anoxia + glaciación).
-- 🦕 **Paleontología N3**: [[Filogenética molecular vs morfológica]] — métodos comparados, casos célebres (aves, tortugas, hominini), Total Evidence Dating.
-- 🌱 **Biología N2**: [[Citoesqueleto]] (actina, microtúbulos, intermedios), [[Comunicación celular]] (GPCR, RTK, vías canónicas).
-- 🌱 **Biología N3**: [[Mutación y reparación del ADN]] (MMR/BER/NER/HR/NHEJ, síndromes), [[Equilibrio Hardy-Weinberg]] (modelo nulo de la genética de poblaciones).
-- 🪨 **Geología N2**: [[Hot spots y plumas mantélicas]] (Hawái, Reunión, Yellowstone, conexión con LIPs).
-- 🪨 **Geología N3**: [[Ciclo del agua]] (reservorios, flujos, intervención humana), [[Ciclo del nitrógeno]] (fijación, nitrificación, Haber-Bosch, eutrofización).
-- 🧍 **Antropología N2**: [[Poblamiento de Oceanía]] — Sahul (≥65 ka) + austronesios/Lapita (~3.5–1 ka) + navegación polinesia.
-- 🧍 **Antropología N3**: [[Domesticación de plantas y animales]] — 10 centros mundiales independientes, síndrome de domesticación, coevolución (lactasa, amilasa, ADH).
-- ⚗️ **Química N3**: [[Teoría de orbitales moleculares]] — LCAO, HOMO/LUMO, paramagnetismo del O₂, base de la teoría de bandas y los semiconductores.
-
-### Etapa 3 — Expansión N4/N5 (2026-04-24, +15 notas → 238)
-
-Profundización de la **capa avanzada** del currículum.
-
-- 🦕 **Paleontología N4**: [[Anfibios fósiles]] (temnospóndilos a lissamphibia), [[Peces fósiles - gnatóstomos]] (origen de las mandíbulas, agnatos a osteíctios).
-- 🦕 **Paleontología N5**: dos taxa icónicos que faltaban — [[Triceratops horridus]] (ceratópsido del Maastrichtiense, controversia *Torosaurus*) y [[Allosaurus fragilis]] (gran terópodo del Jurásico tardío, "Big Al", coexistencia con saurópodos).
-- 🌱 **Biología N4**: [[Plantas - briofitos a angiospermas]] — linaje completo de embriofitos, conquista terrestre, coevolución con polinizadores.
-- 🌱 **Biología N5**: [[Microbioma humano]] (composición, eje intestino-cerebro, FMT), [[Inmunología]] (innata + adaptativa, vacunas, inmunoterapia checkpoint), [[Biotecnología y CRISPR]] (PCR, secuenciación, edición genómica, biología sintética).
-- 🧍 **Antropología N1**: [[Homo erectus]] — primer humano cosmopolita, Out of Africa I, fuego, achelense, posibles enanizaciones insulares.
-- 🧍 **Antropología N4**: [[Paleopatología]] — enfermedades del pasado, paleomicrobiología, hipoplasias dentales, trauma.
-- 🪨 **Geología N4**: [[Yacimientos minerales]] — clasificación por proceso geológico, recursos críticos (Li, Co, REE) y geopolítica.
-- 🪨 **Geología N5**: [[Pleistoceno]] (glaciaciones cuaternarias, megafauna, evolución humana) y [[Holoceno y Antropoceno]] (interglacial actual + debate sobre formalización del Antropoceno como época).
-- ⚗️ **Química N5**: [[Química orgánica básica]] (hidrocarburos, grupos funcionales, isomería, aromaticidad) y [[Bioquímica básica]] (biomoléculas, enzimas Michaelis-Menten, metabolismo central).
-
-### Etapa 4 — Casos nuevos desde fuentes adicionales (2026-04-24, +10 notas → 248)
-
-Pasada de WebFetch a **Phys.org**, **Quanta Magazine** y **Science News** (más allá de ScienceDaily ya explotado en pasadas previas).
-
-- 🌱 **Bio celular y molecular** (Quanta): [[Neuroplasticidad por experiencia única]] (mecanismo no-hebbiano de aprendizaje), [[Armas ancestrales en el sistema inmune humano]] (cGAS-STING, viperinas heredadas de procariotas).
-- 🌱 **Bio ecología** (Quanta): [[Redes fúngicas árticas y carbono]] — micorrizas y permafrost.
-- 🌱 **Bio entomología** (Science News): [[Mosquitos pasaron a humanos hace 1 millón de años]] — coevolución vector-hospedador.
-- 🪨 **Geo costas** (Phys.org): [[Doce Apóstoles - formación y edad]] — pilas costeras australianas.
-- 🪨 **Geo interior** (Phys.org): [[Rift africano oriental - Turkana se separa]] — rifting continental + cradle of humankind.
-- 🧍 **Antro homínidos** (Science News): [[Fosa común Edad del Hierro - mujeres y niños en Serbia]] (violencia organizada en la Edad del Hierro), [[Little Foot - reconstrucción facial]] (Sterkfontein, *A. prometheus*, 3.67 Ma).
-- 🧍 **Antro cognición y arte** (Science News): [[Caza de ballenas hace 5000 años en Brasil]] — sambaquíes y caza ballenera precolombina.
-- ⚗️ **Quím materiales** (Phys.org): [[Polímero compostable - alternativa a termoplásticos]] — nueva clase biodegradable competitiva.
-
-### Etapa 5 — MOCs transversales (2026-04-24, +4 MOCs → 252)
-
-Cuatro nuevos índices temáticos que aprovechan la densidad del grafo después de las 4 etapas anteriores. Cada uno cruza varias disciplinas y propone un orden de lectura.
-
-- 🔬 [[MOC Métodos científicos]] — cómo se sabe lo que se sabe: marco general, datación, isótopos, aDNA, paleogenómica, secuenciación, antropología bio-arqueológica, quimiometría e IA en observación.
-- ☄️ [[MOC Catástrofes globales]] — impactos, LIPs, glaciaciones globales, anoxia oceánica, cambio climático abrupto, eventos en curso.
-- 🧪 [[MOC Materiales y enlaces]] — del átomo al sólido funcional: cimientos atómicos → enlaces → estados → materiales avanzados (grafeno, perovskitas, polímeros) → materiales de la vida.
-- 🦠 [[MOC Vida temprana]] — primeros 4 mil millones de años: Hadeico → microbios → GEO → Tierra bola de nieve → multicelularidad → Cámbrico → conquista terrestre. Transversal Geo + Paleo + Bio.
-
-Total: **10 MOCs temáticos** (los 6 originales + 4 nuevos).
+**~375 notas** · las **5 disciplinas con currículum N0–N5 completo** · expansión taxonómica masiva en dos pasadas:
+- **Dinosauria** (~76 notas N4): árbol completo Saurischia/Ornithischia con clados y familias; más 10 notas de reptiles modernos y 12 de insectos.
+- **Hominoidea** (~44 notas N4): desde Strepsirrhini hasta *Homo sapiens*, incluyendo hominoideos del Mioceno (Proconsul, Sivapithecus, Dryopithecus, Graecopithecus), australopitecinos, parántropos y todas las especies del género *Homo*.
+- **62 notas de casos reales** de ScienceDaily, Phys.org, Quanta Magazine y Science News.
+- **10 MOCs temáticos** transversales.
+- **Catálogo de ~130 fuentes** con estadísticas verificadas.
 
 ## Cómo usarlo
 
 1. Clonar el repo.
 2. Abrir Obsidian y elegir la carpeta `Obsidian Ciencias/` como vault.
-3. Empezar por [`Índice.md`](Obsidian%20Ciencias/Índice.md).
-4. Seguir el orden de estudio sugerido en [`_Plan/Plan de Aprendizaje.md`](Obsidian%20Ciencias/_Plan/Plan%20de%20Aprendizaje.md) si se parte de cero.
+3. Empezar por `Índice.md`.
 
 ## Orden sugerido de lectura (de cero)
 
@@ -270,13 +94,13 @@ Total: **10 MOCs temáticos** (los 6 originales + 4 nuevos).
 8. **Química N4–N5** (estados, reacciones, termodinámica).
 9. Revisar **casos reales** en cada disciplina, conectándolos con los fundamentos.
 
-## Convenciones
+## Convenciones de las notas
 
 - Toda nota nueva debe agregarse al `Índice.md` en la sección correspondiente.
 - Referencias cruzadas con wikilinks `[[...]]`.
 - **Notas de fundamentos** (`Nn - .../`): frontmatter con `tags`, `nivel`, `fecha`.
 - **Notas de casos**: frontmatter con `tags`, `fecha`, `fuente`, `url`.
-- Fuentes citadas deben estar listadas en [`_Fuentes/Fuentes.md`](Obsidian%20Ciencias/_Fuentes/Fuentes.md).
+- Fuentes citadas deben estar listadas en `_Fuentes/Fuentes.md`.
 - Los MOCs temáticos (`_MOC/`) agrupan notas de varias disciplinas por tema transversal.
 
 ## Qué NO está versionado
@@ -285,13 +109,15 @@ Total: **10 MOCs temáticos** (los 6 originales + 4 nuevos).
 - `Obsidian Ciencias/.obsidian/workspace*.json` — estado de sesión local de Obsidian.
 - `.DS_Store` y otros archivos de sistema.
 
-Ver [`.gitignore`](.gitignore) para el listado completo.
+Ver `.gitignore` para el listado completo.
+
+---
 
 ## Despliegue web (Quartz v4 + Coolify) — EN PRODUCCIÓN
 
 Sitio en vivo: **https://paleo.sergiocubelli.space** (Quartz v4 + nginx, TLS Let's Encrypt vía Coolify/Traefik, auto-deploy por webhook Gitea).
 
-El vault se publica como sitio estático con búsqueda y graph view, generado con [Quartz v4](https://quartz.jzhao.xyz/) y servido por nginx dentro de un contenedor Docker. Todo el stack (Dockerfile, `quartz.config.ts`, `quartz.layout.ts`, `nginx.conf`) vive en `main` — **no hay rama separada**.
+El vault se publica como sitio estático con búsqueda y graph view, generado con [Quartz v4](https://quartz.jzhao.xyz/) y servido por nginx dentro de un contenedor Docker. Todo el stack (Dockerfile, `quartz.config.ts`, `quartz.layout.ts`, `nginx.conf`) vive en `main`.
 
 ### Infra
 
@@ -301,10 +127,9 @@ El vault se publica como sitio estático con búsqueda y graph view, generado co
 | Proxy + TLS | Traefik v3.6 (gestionado por Coolify) con Let's Encrypt HTTP-01 |
 | Runtime | nginx:alpine sirviendo `public/` generado por Quartz v4 |
 | Orquestador | Coolify 4.0.0-beta.472, app UUID `f37wqyyprmqleboq0en3itea`, proyecto `Paleo` |
-| Fuente | Repo Gitea `sergio/Obsidian-Ciencias-`, rama `main`, HTTPS con access token (Gitea tiene `REQUIRE_SIGNIN_VIEW=true`) |
-| Webhook | Gitea → `https://sergiocubelli.space/api/v1/deploy?uuid=f37wqyyprmqleboq0en3itea&force=false`, auth `Bearer <coolify-token>`, branch filter `main` |
-| Tiempo de build | ~70 s (clone Quartz + npm ci + build + docker image) |
-| Re-deploy manual | `curl -X POST -H "Authorization: Bearer <coolify-token>" 'https://sergiocubelli.space/api/v1/deploy?uuid=f37wqyyprmqleboq0en3itea&force=true'` |
+| Fuente | Repo Gitea `sergio/Obsidian-Ciencias-`, rama `main`, HTTPS con access token |
+| Webhook | Gitea → `https://sergiocubelli.space/api/v1/deploy?uuid=f37wqyyprmqleboq0en3itea&force=false` |
+| Tiempo de build | ~70 s |
 
 ### Archivos de despliegue
 
@@ -312,25 +137,19 @@ El vault se publica como sitio estático con búsqueda y graph view, generado co
 |---|---|
 | `Dockerfile` | Build multi-stage: clona Quartz v4, copia `Obsidian Ciencias/` a `content/`, genera `public/`, sirve con nginx |
 | `nginx.conf` | Config del servidor: gzip, cache, try_files para wikilinks, 301 `/` → `/Índice` |
-| `docker-compose.yml` | Servicio que Coolify detecta; el dominio se configura en la UI |
+| `docker-compose.yml` | Servicio que Coolify detecta |
 | `quartz.config.ts` | Config de Quartz: baseUrl, locale, plugins, tema |
 | `quartz.layout.ts` | Layout: Explorer a la izquierda, Graph + TOC + Backlinks a la derecha |
 | `quartz/styles/custom.scss` | Tema custom mobile-first (paleta paleo, cards, pills, sticky search) |
-| `.dockerignore` | Excluye `.git`, `.obsidian/workspace*`, etc. del contexto de build |
 
 ### Cómo se actualiza
 
-Cada push a `main` dispara el webhook de Coolify → rebuild del contenedor → sitio actualizado en ~70 s:
+Cada push a `main` dispara el webhook de Coolify → rebuild → sitio actualizado en ~70 s:
 
 ```bash
-# editás en Obsidian, commiteás y pusheás
 git commit -am "nueva nota"
-git push        # ← gatilla el rebuild automáticamente
+git push        # gatilla el rebuild automáticamente
 ```
-
-La página raíz `https://paleo.sergiocubelli.space/` hace 301 a `/Índice`, así el home efectivo es la nota raíz real del vault (no un wrapper sintético). El README y archivos de build **no se publican** en el sitio: el `.dockerignore` y el `COPY ["Obsidian Ciencias", "./content"]` del Dockerfile aseguran que sólo el vault entre al contenedor.
-
-> **Histórico**: antes existía una rama `site/quartz` que había que mergear manualmente desde `main` antes de cada deploy. El 2026-04-24 se unificó todo en `main` cambiando el filtro de rama en Coolify.
 
 ### Build local (opcional, requiere Docker)
 
@@ -339,5 +158,3 @@ docker build -t paleo-site .
 docker run --rm -p 8080:80 paleo-site
 # abrir http://localhost:8080
 ```
-
-No se puede hacer `npm install` directamente en este repo porque el código de Quartz vive dentro del Docker build (se clona en tiempo de build, no se commitea). Para trabajar en el tema/plugins hay que clonar Quartz aparte y copiar los archivos `quartz.*.ts` allí.

@@ -125,5 +125,4 @@ Cuando el ADN no alcanza, las **proteínas** pueden durar más (millones de año
 - [[Hominini - árbol de homínidos]]
 - [[Salidas de África]]
 - [[MOC Humanos y primates]]
-- [[Plan de Aprendizaje]]
 - [[Índice]]

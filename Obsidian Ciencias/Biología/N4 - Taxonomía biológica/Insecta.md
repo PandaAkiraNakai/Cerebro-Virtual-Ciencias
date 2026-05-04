@@ -132,5 +132,4 @@ Los **3 órdenes super-mayores** (los "Big Three") suman ~70% de la biodiversida
 - [[Zygentoma]]
 - [[Ephemeroptera]]
 - [[Casos - Entomología]]
-- [[Plan de Aprendizaje]]
 - [[Índice]]

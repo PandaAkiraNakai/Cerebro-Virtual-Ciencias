@@ -88,5 +88,4 @@ Evidencia creciente de **endotermia** en dinosaurios:
 - [[Reptiles y arcosauromorfos]]
 - [[Extinciones masivas]]
 - [[Escala del tiempo geológico]]
-- [[Plan de Aprendizaje]]
 - [[Índice]]

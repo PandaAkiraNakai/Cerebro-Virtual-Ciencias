@@ -97,5 +97,4 @@ Especies que evolucionan influenciándose mutuamente:
 - [[ADN ARN y dogma central]]
 - [[Especiación]]
 - [[MOC Evolución de la vida en tierra]]
-- [[Plan de Aprendizaje]]
 - [[Índice]]

@@ -102,5 +102,4 @@ Escenarios activos (debate en curso):
 - [[Industrias líticas]]
 - [[Poblamiento de América]]
 - [[MOC Humanos y primates]]
-- [[Plan de Aprendizaje]]
 - [[Índice]]

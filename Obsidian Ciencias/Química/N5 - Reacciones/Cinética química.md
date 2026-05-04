@@ -132,5 +132,4 @@ Muchas reacciones no ocurren en un solo paso, sino en **pasos elementales**:
 - [[Equilibrio químico]]
 - [[Termodinámica química]]
 - [[Macromoléculas biológicas]]
-- [[Plan de Aprendizaje]]
 - [[Índice]]

@@ -135,5 +135,4 @@ Las propiedades cambian sistemáticamente a lo largo de la tabla. Ver detalle en
 - [[Familias de elementos]]
 - [[Configuración electrónica y orbitales]]
 - [[El átomo - partículas subatómicas]]
-- [[Plan de Aprendizaje]]
 - [[Índice]]

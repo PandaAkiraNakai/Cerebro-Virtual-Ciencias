@@ -11,9 +11,9 @@ eje_principal: paleontología
 
 > **Punto de entrada del vault.** Siempre consultar aquí primero. Toda nota nueva debe agregarse a este índice.
 
-**Estado actual**: ~331 notas · 5 disciplinas con **N0-N5 completos** en paleontología, geología, biología, química y antropología · 10 MOCs temáticos · 1 catálogo de fuentes ampliado · 1 plan de aprendizaje · 62 notas de casos reales + **18 taxones y eventos icónicos** paleo + **10 páginas de historia geológica profunda** + **expansión taxonómica masiva 2026-05-04**: 1 master de Dinosauria en N3 + 52 notas N4 de clados/familias dinosaurianos + 10 notas N4 de reptiles modernos + 12 notas N4 de insectos. Currículum en [[Plan de Aprendizaje]]. Catálogo de fuentes en [[Fuentes]].
+**Estado actual**: ~375 notas · 5 disciplinas con **N0-N5 completos** en paleontología, geología, biología, química y antropología · 10 MOCs temáticos · 1 catálogo de fuentes ampliado · 62 notas de casos reales + **18 taxones y eventos icónicos** paleo + **10 páginas de historia geológica profunda** + **expansión taxonómica masiva 2026-05-04**: 1 master de Dinosauria en N3 + 52 notas N4 de clados/familias dinosaurianos + 10 notas N4 de reptiles modernos + 12 notas N4 de insectos + **44 notas N4 de Hominoidea** (1 master + 12 primates/grandes simios + 4 hominoideos del Mioceno + 15 homininos pre-Homo + 12 Homo sp. + Homo sapiens). Catálogo de fuentes en [[Fuentes]].
 
-> **Actualización 2026-05-04 (expansión taxonómica masiva, +75 notas)**: pasada completa sobre la taxonomía de Dinosauria, reptiles vivos e insectos. (1) **Master de Dinosauria** en N3 con árbol Saurischia/Ornithischia completo, géneros representativos por clado, sistemática actualizada al consenso 2025 ([[Taxonomía de Dinosauria]]). (2) **Sauropodomorpha** (16 notas N4): [[Sauropodomorpha]], [[Herrerasauridae]], [[Plateosauridae]], [[Massospondylidae]], [[Riojasauridae]], [[Sauropoda]], [[Eusauropoda]], [[Mamenchisauridae]], [[Turiasauria]], [[Neosauropoda]], [[Diplodocoidea]], [[Diplodocidae]], [[Dicraeosauridae]], [[Rebbachisauridae]], [[Macronaria]], [[Brachiosauridae]], [[Titanosauriformes]], [[Titanosauria]]. (3) **Theropoda** (25 notas N4): [[Theropoda]], [[Ceratosauria]], [[Ceratosauridae]], [[Coelophysoidea]], [[Abelisauridae]], [[Noasauridae]], [[Tetanurae]], [[Megalosauroidea]], [[Spinosauridae]], [[Allosauroidea]], [[Carcharodontosauridae]], [[Coelurosauria]], [[Compsognathidae]], [[Tyrannosauroidea]], [[Tyrannosauridae]], [[Maniraptoriformes]], [[Ornithomimosauria]], [[Alvarezsauridae]], [[Maniraptora]], [[Therizinosauria]], [[Oviraptorosauria]], [[Paraves]], [[Dromaeosauridae]], [[Troodontidae]], [[Avialae]]. (4) **Ornithischia** (11 notas N4): [[Ornithischia]], [[Heterodontosauridae]], [[Thyreophora]], [[Stegosauria]], [[Ankylosauria]], [[Neornithischia]], [[Ornithopoda]], [[Hadrosauridae]], [[Marginocephalia]], [[Pachycephalosauria]], [[Ceratopsia]]. (5) **Reptiles modernos** (10 notas N4): [[Reptiles modernos]], [[Testudines]], [[Squamata]], [[Iguania]], [[Gekkota]], [[Scincomorpha]], [[Anguimorpha]], [[Serpentes]], [[Amphisbaenia]], [[Crocodylia]], [[Rhynchocephalia]]. (6) **Insectos** (12 notas N4): [[Insecta]], [[Coleoptera]], [[Lepidoptera]], [[Hymenoptera]], [[Diptera]], [[Hemiptera]], [[Orthoptera]], [[Odonata]], [[Blattodea]], [[Mantodea]], [[Phasmatodea]], [[Otros órdenes de Insecta]]. Decisiones taxonómicas: "Prosauropoda" parafilético eliminado, Ornithoscelida (2017) rechazado y vuelta a Saurischia/Ornithischia, Heterodontosauridae sacado de Marginocephalia y puesto basal Ornithischia, Megalosauroidea = Spinosauroidea (prevalece el primer nombre), Carnosauria ≡ Allosauroidea sensu stricto, Toxicofera unifica Iguania+Anguimorpha+Serpentes por veneno compartido, Termitidae dentro de Blattodea (termitas son cucarachas eusociales). Log de progreso en [[Progreso taxonomía 2026-05-04]].
+> **Actualización 2026-05-04 (expansión taxonómica masiva, +119 notas)**: pasada completa sobre la taxonomía de Dinosauria, reptiles vivos, insectos y **Hominoidea** (antropología). (1) **Master de Dinosauria** en N3 con árbol Saurischia/Ornithischia completo, géneros representativos por clado, sistemática actualizada al consenso 2025 ([[Taxonomía de Dinosauria]]). (2) **Sauropodomorpha** (16 notas N4): [[Sauropodomorpha]], [[Herrerasauridae]], [[Plateosauridae]], [[Massospondylidae]], [[Riojasauridae]], [[Sauropoda]], [[Eusauropoda]], [[Mamenchisauridae]], [[Turiasauria]], [[Neosauropoda]], [[Diplodocoidea]], [[Diplodocidae]], [[Dicraeosauridae]], [[Rebbachisauridae]], [[Macronaria]], [[Brachiosauridae]], [[Titanosauriformes]], [[Titanosauria]]. (3) **Theropoda** (25 notas N4): [[Theropoda]], [[Ceratosauria]], [[Ceratosauridae]], [[Coelophysoidea]], [[Abelisauridae]], [[Noasauridae]], [[Tetanurae]], [[Megalosauroidea]], [[Spinosauridae]], [[Allosauroidea]], [[Carcharodontosauridae]], [[Coelurosauria]], [[Compsognathidae]], [[Tyrannosauroidea]], [[Tyrannosauridae]], [[Maniraptoriformes]], [[Ornithomimosauria]], [[Alvarezsauridae]], [[Maniraptora]], [[Therizinosauria]], [[Oviraptorosauria]], [[Paraves]], [[Dromaeosauridae]], [[Troodontidae]], [[Avialae]]. (4) **Ornithischia** (11 notas N4): [[Ornithischia]], [[Heterodontosauridae]], [[Thyreophora]], [[Stegosauria]], [[Ankylosauria]], [[Neornithischia]], [[Ornithopoda]], [[Hadrosauridae]], [[Marginocephalia]], [[Pachycephalosauria]], [[Ceratopsia]]. (5) **Reptiles modernos** (10 notas N4): [[Reptiles modernos]], [[Testudines]], [[Squamata]], [[Iguania]], [[Gekkota]], [[Scincomorpha]], [[Anguimorpha]], [[Serpentes]], [[Amphisbaenia]], [[Crocodylia]], [[Rhynchocephalia]]. (6) **Insectos** (12 notas N4): [[Insecta]], [[Coleoptera]], [[Lepidoptera]], [[Hymenoptera]], [[Diptera]], [[Hemiptera]], [[Orthoptera]], [[Odonata]], [[Blattodea]], [[Mantodea]], [[Phasmatodea]], [[Otros órdenes de Insecta]]. Decisiones taxonómicas: "Prosauropoda" parafilético eliminado, Ornithoscelida (2017) rechazado y vuelta a Saurischia/Ornithischia, Heterodontosauridae sacado de Marginocephalia y puesto basal Ornithischia, Megalosauroidea = Spinosauroidea (prevalece el primer nombre), Carnosauria ≡ Allosauroidea sensu stricto, Toxicofera unifica Iguania+Anguimorpha+Serpentes por veneno compartido, Termitidae dentro de Blattodea (termitas son cucarachas eusociales). Log de progreso en [[Progreso taxonomía 2026-05-04]].
 
 > **Actualización 2026-04-27 (3 terópodos + tejido del grafo)**: tres taxones N5 nuevos para diversificar el árbol terópodo más allá de tiranosáuridos/dromaeosáuridos: [[Carnotaurus sastrei]] (Ceratosauria/Abelisauridae, Patagonia, brazos vestigiales convergentes con *T. rex*), [[Giganotosaurus carolinii]] (Carcharodontosauridae, Patagonia, gigante allosauroide cazador de titanosaurios), [[Therizinosaurus cheloniformis]] (Maniraptora, Mongolia, terópodo herbívoro con garras de 1 m, plumaje filamentoso). Cross-links bidireccionales añadidos a [[Tyrannosaurus rex]], [[Allosaurus fragilis]], [[Velociraptor mongoliensis]], [[Spinosaurus aegyptiacus]], [[Aves - evolución y radiación]], [[Dinosaurios emplumados - Jehol y otros]], [[Saurópodos gigantes - titanosaurios patagónicos]] y [[Dinosaurios]].
 
@@ -45,7 +45,7 @@ eje_principal: paleontología
 - **Carpetas `Casos - <Tema>/`** dentro de cada disciplina = **notas de casos reales** agrupados por subtema (dinosaurios, homínidos, materiales, etc.), extraídos de [ScienceDaily](https://www.sciencedaily.com/) y otras fuentes.
 - **`_MOC/`** = índices temáticos transversales entre disciplinas.
 - **`_Fuentes/`** = catálogo de repositorios autorizados.
-- **`_Plan/`** = plan de aprendizaje con checkboxes.
+- **`_Plan/`** = logs de progreso del vault.
 
 ---
 
@@ -445,6 +445,61 @@ eje_principal: paleontología
 - [[Origen del lenguaje]] — anatomía, arqueología, FOXP2, hipótesis.
 - [[Antropología forense]] — biografía biológica, isótopos, ADN, casos humanitarios.
 
+### Taxonomía de Hominoidea
+
+- [[Taxonomía de Hominoidea]] — árbol completo Primates→Homo con árboles ASCII, tabla hibridaciones, distribución temporal, decisiones taxonómicas 2025.
+
+#### Primates y grandes simios (12 notas)
+- [[Strepsirrhini]] — lémures, loris, gálagos; rhinarium, peine dental.
+- [[Haplorhini]] — tarseros + Simiiformes; nariz seca, placenta hemocorial.
+- [[Platyrrhini]] — monos del Nuevo Mundo; 3 premolares, cola prensil, rafting ~35-40 Ma.
+- [[Cercopithecoidea]] — Cercopithecinae (abazones) vs Colobinae (estómago plurigástrico).
+- [[Hominoidea]] — sin cola, tórax ancho, patrón Y-5; Hylobatidae vs Hominidae.
+- [[Hylobatidae]] — gibones: 4 géneros; Nomascus hainanus CR (<30 individuos).
+- [[Hominidae]] — historia del Pongidae parafilético; uso de herramientas comparado.
+- [[Ponginae]] — Pongo: P. pygmaeus / P. abelii / P. tapanuliensis (descrito 2017, ~800 ind.).
+- [[Homininae]] — knuckle-walking; Gorillini vs Hominini; tabla comportamiento comparado.
+- [[Gorillini]] — Gorilla gorilla / G. beringei; gorila de montaña ~1.063 individuos.
+- [[Hominini]] — tribu: divergencia Pan/Hominina ~6-7 Ma; debate sobre modelo ancestral.
+- [[Panina]] — Pan troglodytes (4 subespecies) + P. paniscus; protocultura; Línea Movius.
+
+#### Hominoideos del Mioceno (4 notas)
+- [[Proconsul]] — hominoideo basal africano ~20-14 Ma; sin cola, sin braquiación; Isla Rusinga.
+- [[Sivapithecus]] — candidato ancestro de Pongo, Siwaliks ~12-7 Ma; caso Ramapithecus.
+- [[Dryopithecus]] — primer gran simio fósil europeo (1856), patrón Y-5, esmalte delgado.
+- [[Graecopithecus]] — ~7,2 Ma Grecia/Bulgaria; hipótesis de primer homínino en Europa (debatida, 2017).
+
+#### Homininos basales — Sahelanthropus a Paranthropus (15 notas)
+- [[Sahelanthropus tchadensis]] — "Toumaï" ~7 Ma Chad; debate hominino vs simio; fémur Daver 2022.
+- [[Orrorin tugenensis]] — ~6 Ma Kenia; colinas Tugen; fémur como evidencia de bipedalismo.
+- [[Ardipithecus]] — A. kadabba + A. ramidus ("Ardi" ARA-VP-6/500); bosque húmedo no sabana.
+- [[Australopithecus]] — género master: 6 spp., parafilético; A. afarensis→Homo más probable.
+- [[Australopithecus afarensis]] — Lucy AL 288-1 (1974); huellas Laetoli 3,66 Ma; dimorfismo 50%.
+- [[Australopithecus africanus]] — Niño de Taung (Dart 1925); Mrs. Ples; Little Foot; hueso.
+- [[Australopithecus anamensis]] — ~4,2-3,8 Ma; cráneo MRD 2019; transición anamensis→afarensis.
+- [[Australopithecus garhi]] — ~2,5 Ma Bouri; marcas de carnicería; primer carnicero propuesto.
+- [[Australopithecus sediba]] — ~1,98 Ma Malapa; MH1 Karabo; paradoja cronológica vs Homo.
+- [[Australopithecus deyiremeda]] — ~3,5-3,3 Ma; coexiste con afarensis en Afar; robustez dental.
+- [[Kenyanthropus]] — ~3,5 Ma Lomekwi; cara plana; herramientas Lomekwi 3 (~3,3 Ma).
+- [[Paranthropus]] — género master: robustez craneal; cresta sagital; paradoja Nutcracker.
+- [[Paranthropus aethiopicus]] — ~2,7 Ma; "Cráneo Negro" KNM-WT 17000; cresta sagital máxima.
+- [[Paranthropus boisei]] — OH 5 "Zinj" (Mary Leakey 1959); molares >2 cm²; δ¹³C come hierba.
+- [[Paranthropus robustus]] — Swartkrans; herramientas de hueso (Backwell 2001).
+
+#### Género Homo (13 notas)
+- [[Homo]] — master: tabla encefalización, industrias líticas, hibridaciones confirmadas.
+- [[Homo habilis]] — OH 7 (1964); Olduvayense Modo 1; debate Wood & Collard (1999).
+- [[Homo rudolfensis]] — KNM-ER 1470; cara plana; posible linaje Kenyanthropus→rudolfensis.
+- [[Homo ergaster y Homo erectus]] — Turkana Boy KNM-WT 15000; bifaz achelense; Dmanisi; fuego Wonderwerk.
+- [[Homo antecessor]] — Atapuerca Gran Dolina ~800 ka; canibalismo; paleoproteómica Welker 2020.
+- [[Homo heidelbergensis]] — Sima de los Huesos ~430 ka (28-29 ind.); lanzas Schöningen ~300 ka.
+- [[Homo neanderthalensis]] — genoma 2010 (Pääbo); 1-4% en no africanos; Nobel 2022; entierros.
+- [[Homo denisova]] — falange 2008; ~7 restos; mandíbula Xiahe (Tíbet) 2019; EPAS1 tibetanos.
+- [[Homo floresiensis]] — LB1 "hobbit" ~1 m; nanismo insular; ~426 cc; extinción ~50 ka.
+- [[Homo luzonensis]] — 13 restos Callao (Filipinas) 2019; falanges curvadas; origen incierto.
+- [[Homo naledi]] — ~300-230 ka; ~465-610 cc; Cámara Dinaledi; Berger 2023 entierros+arte (debatido).
+- [[Homo sapiens]] — Jebel Irhoud ~315 ka; origen panafricano; Out of Africa 2 ~60-70 ka.
+
 ### Casos reales — evolución de los simios
 - [[Masripithecus - Origen de los simios]]
 
@@ -528,7 +583,7 @@ eje_principal: paleontología
 - [[MOC Materiales y enlaces]] — de la molécula al sólido funcional, química → tecnología.
 - [[MOC Vida temprana]] — Hadeico → Cámbrico, transversal Geo + Paleo + Bio.
 
-## Fuentes y plan
+## Fuentes
 
 - [[Fuentes]] — catálogo de repositorios por disciplina. Incluye:
     - Agregadores: BASE, CORE, OpenAlex, Semantic Scholar, OpenAIRE.
@@ -542,7 +597,6 @@ eje_principal: paleontología
     - Química: PubChem, ChemSpider, NIST WebBook, DrugBank.
     - Antropología: AnthroSource, eHRAF, TDAR, AnthroBase.
     - Revistas OA: PLOS, Frontiers, eLife, Scientific Data, NAR Database Issue.
-- [[Plan de Aprendizaje]] — currículum N0 → N5/N6 con mapa de dependencias y orden sugerido.
 
 ---
 
@@ -574,4 +628,3 @@ eje_principal: paleontología
 - Frontmatter obligatorio en notas de caso: `tags`, `fecha`, `fuente`, `url`.
 - Frontmatter en notas de fundamentos: `tags`, `nivel`, `fecha`.
 - Al agregar una fuente nueva no listada, añadirla también a [[Fuentes]].
-- Marcar progreso del currículum en [[Plan de Aprendizaje]].

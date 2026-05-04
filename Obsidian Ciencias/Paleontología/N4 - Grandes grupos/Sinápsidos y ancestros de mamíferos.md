@@ -72,5 +72,4 @@ Ocurrió **gradualmente**, no de golpe:
 - [[Transición agua-tierra]]
 - [[Extinciones masivas]]
 - [[MOC Evolución de la vida en tierra]]
-- [[Plan de Aprendizaje]]
 - [[Índice]]

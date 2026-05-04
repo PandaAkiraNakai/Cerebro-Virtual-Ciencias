@@ -131,5 +131,4 @@ El gusano de seda — domesticado por humanos hace ~5.000 años en China. Sin co
 - [[Hymenoptera]]
 - [[Diptera]]
 - [[Casos - Entomología]]
-- [[Plan de Aprendizaje]]
 - [[Índice]]

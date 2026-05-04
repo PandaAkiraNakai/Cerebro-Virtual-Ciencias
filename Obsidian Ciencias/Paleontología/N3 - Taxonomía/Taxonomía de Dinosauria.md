@@ -365,5 +365,4 @@ Detalle en [[Ceratopsia]] · [[Ceratopsidae]].
 - [[Reptiles y arcosauromorfos]]
 - [[Aves - evolución y radiación]]
 - [[Mesozoico]]
-- [[Plan de Aprendizaje]]
 - [[Índice]]

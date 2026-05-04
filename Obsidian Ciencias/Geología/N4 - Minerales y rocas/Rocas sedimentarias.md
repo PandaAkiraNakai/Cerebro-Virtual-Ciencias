@@ -118,5 +118,4 @@ Cada ambiente deja su firma de sedimentos. Ver [[Sedimentación]].
 - [[Rocas metamórficas]]
 - [[Sedimentación]]
 - [[Fosilización y tafonomía]]
-- [[Plan de Aprendizaje]]
 - [[Índice]]

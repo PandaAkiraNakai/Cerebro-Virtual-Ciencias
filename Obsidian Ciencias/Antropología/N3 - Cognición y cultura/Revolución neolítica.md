@@ -114,5 +114,4 @@ La idea de "revolución" ha sido matizada:
 - [[Hominini - árbol de homínidos]]
 - [[Industrias líticas]]
 - [[MOC Humanos y primates]]
-- [[Plan de Aprendizaje]]
 - [[Índice]]

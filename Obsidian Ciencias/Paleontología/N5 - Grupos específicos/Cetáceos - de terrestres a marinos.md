@@ -97,5 +97,4 @@ Pariente vivo más cercano: **hipopótamo**.
 - [[Reptiles marinos mesozoicos]] (convergencia)
 - [[Selección natural y evolución]]
 - [[Extinciones masivas]]
-- [[Plan de Aprendizaje]]
 - [[Índice]]

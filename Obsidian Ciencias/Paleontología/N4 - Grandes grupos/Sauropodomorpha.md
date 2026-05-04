@@ -75,5 +75,4 @@ Mussaurus muestra un cambio postural **ontogenético**: cría bípeda, adulto cu
 - [[Massospondylidae]]
 - [[Riojasauridae]]
 - [[Mesozoico]]
-- [[Plan de Aprendizaje]]
 - [[Índice]]

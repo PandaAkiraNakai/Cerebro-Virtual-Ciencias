@@ -115,5 +115,4 @@ Relevante para química: **electrones** son los actores químicos. El núcleo pa
 - [[El átomo - partículas subatómicas]]
 - [[Configuración electrónica y orbitales]]
 - [[Tabla periódica]]
-- [[Plan de Aprendizaje]]
 - [[Índice]]

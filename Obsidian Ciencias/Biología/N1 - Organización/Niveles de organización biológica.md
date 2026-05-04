@@ -66,5 +66,4 @@ La vida se organiza en una jerarquía de **niveles crecientes de complejidad**. 
 - [[Qué es la biología]]
 - [[Macromoléculas biológicas]]
 - [[La célula]]
-- [[Plan de Aprendizaje]]
 - [[Índice]]

@@ -81,5 +81,4 @@ La Tierra nació hace **4 540 millones de años (Ma)** como parte del Sistema So
 - [[Campo magnético terrestre]]
 - [[Escala del tiempo geológico]]
 - [[Oxigenación atmosférica]]
-- [[Plan de Aprendizaje]]
 - [[Índice]]

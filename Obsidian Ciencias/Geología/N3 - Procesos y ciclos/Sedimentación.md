@@ -107,5 +107,4 @@ La sedimentación es **el contexto** donde se forman los fósiles:
 - [[Fosilización y tafonomía]]
 - [[Escala del tiempo geológico]]
 - [[Deltas fluviales hundimiento]]
-- [[Plan de Aprendizaje]]
 - [[Índice]]

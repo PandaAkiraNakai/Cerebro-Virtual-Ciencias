@@ -88,5 +88,4 @@ No son límites de placa, pero generan vulcanismo intraplaca.
 - [[Subducción y orogénesis]]
 - [[Vulcanismo]]
 - [[Sismos]]
-- [[Plan de Aprendizaje]]
 - [[Índice]]

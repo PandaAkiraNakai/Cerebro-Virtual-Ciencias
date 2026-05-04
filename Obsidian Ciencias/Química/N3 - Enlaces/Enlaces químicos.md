@@ -137,5 +137,4 @@ Ver [[Fuerzas intermoleculares]].
 - [[Propiedades periódicas]]
 - [[Estados de la materia]]
 - [[MXene - conductividad 160x]]
-- [[Plan de Aprendizaje]]
 - [[Índice]]

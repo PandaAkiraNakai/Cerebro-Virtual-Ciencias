@@ -109,5 +109,4 @@ Los **hongos** (Fungi) son un **reino propio** dentro de Eukarya, **más emparen
 - [[Simbiosis]]
 - [[Ecología y cadenas tróficas]]
 - [[Suelos y edafología]]
-- [[Plan de Aprendizaje]]
 - [[Índice]]

@@ -141,5 +141,4 @@ El metamorfismo **destruye la mayoría de los fósiles**. Rocas metamórficas de
 - [[Rocas ígneas]]
 - [[Rocas sedimentarias]]
 - [[Subducción y orogénesis]]
-- [[Plan de Aprendizaje]]
 - [[Índice]]

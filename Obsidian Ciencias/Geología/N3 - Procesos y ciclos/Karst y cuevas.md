@@ -120,5 +120,4 @@ Paisajes kársticos notables:
 - [[Rocas sedimentarias]]
 - [[Minerales - definición y clasificación]]
 - [[Fosilización y tafonomía]]
-- [[Plan de Aprendizaje]]
 - [[Índice]]

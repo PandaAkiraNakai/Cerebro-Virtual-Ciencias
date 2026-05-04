@@ -111,5 +111,4 @@ Hoy ─────────────────────────�
 - [[Industrias líticas]]
 - [[Salidas de África]]
 - [[MOC Humanos y primates]]
-- [[Plan de Aprendizaje]]
 - [[Índice]]

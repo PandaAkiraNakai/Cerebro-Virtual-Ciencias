@@ -42,5 +42,4 @@ La paleontología está en la **frontera entre biología y geología**. Detalles
 
 ## Enlaces
 
-- [[Plan de Aprendizaje]]
 - [[Índice]]

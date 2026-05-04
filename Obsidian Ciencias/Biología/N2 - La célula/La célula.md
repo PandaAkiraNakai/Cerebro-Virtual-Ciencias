@@ -95,5 +95,4 @@ Tienen **membrana doble**, **ADN propio** circular tipo procariota, **ribosomas 
 - [[Ciclo celular - mitosis y meiosis]]
 - [[Teoría endosimbiótica]]
 - [[Niveles de organización biológica]]
-- [[Plan de Aprendizaje]]
 - [[Índice]]

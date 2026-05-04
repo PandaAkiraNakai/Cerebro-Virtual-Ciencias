@@ -101,5 +101,4 @@ ADN mitocondrial → herencia materna. Útil en estudios de linajes humanos (ver
 - [[Ciclo celular - mitosis y meiosis]]
 - [[Selección natural y evolución]]
 - [[Especiación]]
-- [[Plan de Aprendizaje]]
 - [[Índice]]

@@ -97,5 +97,4 @@ No todos los genes se expresan en todas las células.
 - [[Genética mendeliana]]
 - [[Selección natural y evolución]]
 - [[Macromoléculas biológicas]]
-- [[Plan de Aprendizaje]]
 - [[Índice]]

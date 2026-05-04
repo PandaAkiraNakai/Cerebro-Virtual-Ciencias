@@ -139,5 +139,4 @@ El registro paleontológico muestra biomas antiguos muy diferentes:
 - [[Glaciaciones]]
 - [[Megafauna pleistocena]]
 - [[Doggerland - Bosques sumergidos]]
-- [[Plan de Aprendizaje]]
 - [[Índice]]

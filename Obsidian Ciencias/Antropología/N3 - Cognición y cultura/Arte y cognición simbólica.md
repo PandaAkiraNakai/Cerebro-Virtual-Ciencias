@@ -113,5 +113,4 @@ El arte simbólico se transforma en nuevas formas: arquitectura sagrada, cerámi
 - [[Industrias líticas]]
 - [[Revolución neolítica]]
 - [[MOC Humanos y primates]]
-- [[Plan de Aprendizaje]]
 - [[Índice]]

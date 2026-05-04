@@ -92,5 +92,4 @@ Los fósiles son la **única evidencia directa** de ancestros comunes. La cladí
 
 - [[Taxonomía linneana]]
 - [[MOC Taxonomía e identidad biológica]]
-- [[Plan de Aprendizaje]]
 - [[Índice]]

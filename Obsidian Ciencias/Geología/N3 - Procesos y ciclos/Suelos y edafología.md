@@ -148,5 +148,4 @@ La biodiversidad subsuperficial es enorme y aún mal conocida.
 - [[Rocas sedimentarias]]
 - [[Glaciaciones]]
 - [[Revolución neolítica]] (agricultura)
-- [[Plan de Aprendizaje]]
 - [[Índice]]

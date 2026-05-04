@@ -146,5 +146,4 @@ Sólidos que no cumplen todos los criterios (falta estructura cristalina u otro)
 - [[Ciclo de las rocas]]
 - [[Problema de la dolomita resuelto]]
 - [[Pirita con litio]]
-- [[Plan de Aprendizaje]]
 - [[Índice]]

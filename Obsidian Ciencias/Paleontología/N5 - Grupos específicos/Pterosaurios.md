@@ -86,5 +86,4 @@ Evidencia fuerte de **endotermia**:
 - [[Reptiles y arcosauromorfos]]
 - [[Dinosaurios]]
 - [[Extinciones masivas]]
-- [[Plan de Aprendizaje]]
 - [[Índice]]

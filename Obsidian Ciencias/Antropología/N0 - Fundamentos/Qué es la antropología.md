@@ -74,5 +74,4 @@ Ver [[Las cuatro ramas de la antropología]].
 
 ## Enlaces
 
-- [[Plan de Aprendizaje]]
 - [[Índice]]

@@ -75,5 +75,4 @@ Error popular común: "dinosaurios acuáticos". **Ninguno** de estos reptiles ma
 - [[Crocodilomorfos]]
 - [[Cetáceos - de terrestres a marinos]]
 - [[Extinciones masivas]]
-- [[Plan de Aprendizaje]]
 - [[Índice]]

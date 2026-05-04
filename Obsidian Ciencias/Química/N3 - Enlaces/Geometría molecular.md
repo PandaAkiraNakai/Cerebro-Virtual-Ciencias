@@ -121,5 +121,4 @@ La geometría **expone o protege** regiones reactivas.
 - [[Fuerzas intermoleculares]]
 - [[Configuración electrónica y orbitales]]
 - [[Macromoléculas biológicas]]
-- [[Plan de Aprendizaje]]
 - [[Índice]]

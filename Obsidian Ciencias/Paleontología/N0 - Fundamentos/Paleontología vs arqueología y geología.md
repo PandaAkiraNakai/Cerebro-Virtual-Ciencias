@@ -39,5 +39,4 @@ Los bordes entre las tres disciplinas **se cruzan**:
 - [[Qué es la paleontología]]
 - [[Qué es un fósil]]
 - [[Fosilización y tafonomía]]
-- [[Plan de Aprendizaje]]
 - [[Índice]]

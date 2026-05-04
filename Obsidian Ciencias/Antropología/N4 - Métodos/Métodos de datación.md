@@ -144,5 +144,4 @@ Las dataciones **nunca son perfectas**. Se busca:
 - [[Escala del tiempo geológico]]
 - [[Fosilización y tafonomía]]
 - [[Hominini - árbol de homínidos]]
-- [[Plan de Aprendizaje]]
 - [[Índice]]

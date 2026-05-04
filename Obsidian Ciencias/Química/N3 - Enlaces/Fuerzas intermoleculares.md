@@ -106,5 +106,4 @@ Las fuerzas intermoleculares **son biología**:
 - [[Estados de la materia]]
 - [[Macromoléculas biológicas]]
 - [[ADN ARN y dogma central]]
-- [[Plan de Aprendizaje]]
 - [[Índice]]

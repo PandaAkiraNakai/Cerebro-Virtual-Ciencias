@@ -101,5 +101,4 @@ Sin este ciclo, la Tierra sería tan estática como la Luna. El movimiento const
 - [[Meteorización y erosión]]
 - [[Vulcanismo]]
 - [[Subducción y orogénesis]]
-- [[Plan de Aprendizaje]]
 - [[Índice]]

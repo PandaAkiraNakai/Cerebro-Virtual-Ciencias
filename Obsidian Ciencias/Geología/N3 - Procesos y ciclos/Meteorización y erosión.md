@@ -104,5 +104,4 @@ Es uno de los principales sumideros de carbono a largo plazo → influye en el c
 - [[Sedimentación]]
 - [[Rocas sedimentarias]]
 - [[Glaciaciones]]
-- [[Plan de Aprendizaje]]
 - [[Índice]]

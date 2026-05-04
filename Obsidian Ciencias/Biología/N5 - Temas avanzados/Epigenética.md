@@ -113,5 +113,4 @@ La epigenética hace 20 años era un rincón pequeño de la biología; hoy es ce
 - [[ADN ARN y dogma central]]
 - [[Genética mendeliana]]
 - [[Selección natural y evolución]]
-- [[Plan de Aprendizaje]]
 - [[Índice]]

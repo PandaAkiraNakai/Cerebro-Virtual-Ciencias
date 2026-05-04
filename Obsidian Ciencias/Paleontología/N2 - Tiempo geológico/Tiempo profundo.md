@@ -52,5 +52,4 @@ La intuición evolucionó para escalas de vida corta. "Millones de años" no se 
 - [[Escala del tiempo geológico]]
 - [[Extinciones masivas]]
 - [[Qué es la paleontología]]
-- [[Plan de Aprendizaje]]
 - [[Índice]]

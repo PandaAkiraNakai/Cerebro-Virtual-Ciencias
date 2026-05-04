@@ -114,5 +114,4 @@ Erupciones masivas asociadas a plumas mantélicas gigantes. Relacionadas con **e
 - [[Ciclo de las rocas]]
 - [[Rocas ígneas]]
 - [[Extinciones masivas]]
-- [[Plan de Aprendizaje]]
 - [[Índice]]

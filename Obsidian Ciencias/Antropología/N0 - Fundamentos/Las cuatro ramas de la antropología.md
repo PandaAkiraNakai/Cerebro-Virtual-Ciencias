@@ -114,5 +114,4 @@ Hoy las ramas están más separadas académicamente, pero la visión holística 
 - [[Hominini - árbol de homínidos]]
 - [[Arte y cognición simbólica]]
 - [[Métodos de datación]]
-- [[Plan de Aprendizaje]]
 - [[Índice]]

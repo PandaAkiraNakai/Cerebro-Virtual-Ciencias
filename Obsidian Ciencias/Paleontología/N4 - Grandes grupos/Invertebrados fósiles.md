@@ -59,5 +59,4 @@ Los invertebrados dominan el registro fósil por cantidad y son clave en **bioes
 
 - [[Cefalópodos fósiles]]
 - [[Escala del tiempo geológico]]
-- [[Plan de Aprendizaje]]
 - [[Índice]]

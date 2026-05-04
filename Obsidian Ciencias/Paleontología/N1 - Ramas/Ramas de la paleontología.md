@@ -65,5 +65,4 @@ Aplica estadística a bases de datos masivas (Paleobiology Database). Estima div
 - [[Qué es la paleontología]]
 - [[Qué es un fósil]]
 - [[Fosilización y tafonomía]]
-- [[Plan de Aprendizaje]]
 - [[Índice]]

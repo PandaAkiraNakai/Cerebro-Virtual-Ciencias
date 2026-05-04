@@ -107,5 +107,4 @@ La pérdida de megafauna **transformó ecosistemas**:
 - [[Mamíferos fósiles]]
 - [[Extinciones masivas]]
 - [[Glaciaciones]]
-- [[Plan de Aprendizaje]]
 - [[Índice]]

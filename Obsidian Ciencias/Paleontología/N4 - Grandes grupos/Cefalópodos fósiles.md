@@ -75,5 +75,4 @@ Registro fósil **escaso** por falta de partes duras, pero los *Lagerstätten* r
 - [[Invertebrados fósiles]]
 - [[Fósil mal identificado - Nautilus no pulpo]]
 - [[Extinciones masivas]]
-- [[Plan de Aprendizaje]]
 - [[Índice]]

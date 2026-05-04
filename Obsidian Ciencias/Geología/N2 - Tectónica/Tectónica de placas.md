@@ -89,5 +89,4 @@ Los continentes se unen y se dispersan con un ciclo de ~300-500 Ma.
 - [[Subducción y orogénesis]]
 - [[Campo magnético terrestre]]
 - [[Escala del tiempo geológico]]
-- [[Plan de Aprendizaje]]
 - [[Índice]]

@@ -104,5 +104,4 @@ Un químico se mueve entre tres escalas:
 - [[El átomo - partículas subatómicas]]
 - [[Tabla periódica]]
 - [[Enlaces químicos]]
-- [[Plan de Aprendizaje]]
 - [[Índice]]

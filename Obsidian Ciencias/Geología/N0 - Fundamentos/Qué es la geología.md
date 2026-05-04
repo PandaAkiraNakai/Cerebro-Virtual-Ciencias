@@ -83,5 +83,4 @@ Las leyes físicas, químicas y biológicas no cambian en el tiempo (complemento
 - [[Tectónica de placas]]
 - [[Ciclo de las rocas]]
 - [[Escala del tiempo geológico]]
-- [[Plan de Aprendizaje]]
 - [[Índice]]

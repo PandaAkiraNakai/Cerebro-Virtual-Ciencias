@@ -69,5 +69,4 @@ Sin esto, interpretaciones como la de [[Captorhinus - Reptil momificado respirac
 - [[Qué es la paleontología]]
 - [[Qué es un fósil]]
 - [[Paleontología vs arqueología y geología]]
-- [[Plan de Aprendizaje]]
 - [[Índice]]

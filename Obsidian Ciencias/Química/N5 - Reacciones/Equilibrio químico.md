@@ -119,5 +119,4 @@ Si se añade un ion ya presente (M⁺ o X⁻), el equilibrio **se desplaza** hac
 - [[Cinética química]]
 - [[Termodinámica química]]
 - [[Fuerzas intermoleculares]]
-- [[Plan de Aprendizaje]]
 - [[Índice]]

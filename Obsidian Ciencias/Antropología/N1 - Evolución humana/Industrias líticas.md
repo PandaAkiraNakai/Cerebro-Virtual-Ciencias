@@ -109,5 +109,4 @@ Cada modo tecnológico implica **capacidades mentales**:
 - [[Arte y cognición simbólica]]
 - [[Salidas de África]]
 - [[Las cuatro ramas de la antropología]]
-- [[Plan de Aprendizaje]]
 - [[Índice]]

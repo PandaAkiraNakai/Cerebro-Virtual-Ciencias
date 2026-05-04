@@ -65,5 +65,4 @@ En el **Carbonífero** (~320 Ma) aparece el huevo amniótico (con saco amniótic
 - [[Captorhinus - Reptil momificado respiración]]
 - [[Escala del tiempo geológico]]
 - [[MOC Evolución de la vida en tierra]]
-- [[Plan de Aprendizaje]]
 - [[Índice]]

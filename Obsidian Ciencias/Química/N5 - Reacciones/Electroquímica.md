@@ -147,5 +147,4 @@ pH, O₂ disuelto, glucosa (diabetes), iones selectivos.
 - [[Cinética química]]
 - [[Celda de combustible de tierra]]
 - [[Pirita con litio]]
-- [[Plan de Aprendizaje]]
 - [[Índice]]

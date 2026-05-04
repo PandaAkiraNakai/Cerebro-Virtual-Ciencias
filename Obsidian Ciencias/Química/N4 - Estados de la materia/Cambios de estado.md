@@ -134,5 +134,4 @@ Cambios que involucran plasma o estados cuánticos requieren condiciones especia
 - [[Enlaces químicos]]
 - [[Fuerzas intermoleculares]]
 - [[Cinética química]]
-- [[Plan de Aprendizaje]]
 - [[Índice]]

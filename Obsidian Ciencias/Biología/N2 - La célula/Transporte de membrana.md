@@ -63,5 +63,4 @@ Vesículas fusionan con la membrana y liberan contenido.
 - [[La célula]]
 - [[Orgánulos celulares]]
 - [[Macromoléculas biológicas]]
-- [[Plan de Aprendizaje]]
 - [[Índice]]

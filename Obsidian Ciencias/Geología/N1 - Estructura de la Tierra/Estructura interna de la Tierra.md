@@ -98,5 +98,4 @@ Yunques de diamante, ondas de choque → simular condiciones del interior.
 - [[Tectónica de placas]]
 - [[Deformaciones en el manto profundo]]
 - [[Campo magnético terrestre]]
-- [[Plan de Aprendizaje]]
 - [[Índice]]

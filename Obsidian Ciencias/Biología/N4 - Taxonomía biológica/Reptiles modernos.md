@@ -108,5 +108,4 @@ Aquí seguimos uso tradicional (excluyendo aves) por claridad, pero con conscien
 - [[Crocodylia]]
 - [[Rhynchocephalia]]
 - [[Aves - evolución y radiación]]
-- [[Plan de Aprendizaje]]
 - [[Índice]]

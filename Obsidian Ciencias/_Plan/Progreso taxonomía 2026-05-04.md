@@ -23,14 +23,16 @@ estado: en_curso
 - [x] Fase 2 — N4: Sauropodomorpha + 15 familias/clados (16 notas)
 - [x] Fase 3 — N4: Theropoda + 24 familias/clados (25 notas)
 - [x] Fase 4 — N4: Ornithischia + 10 familias/clados (11 notas)
-- [x] Fase 5 — Reptiles vivos (10 notas: Reptiles modernos + Testudines + Squamata + Iguania + Gekkota + Scincomorpha + Anguimorpha + Serpentes + Amphisbaenia + Crocodylia + Rhynchocephalia)
-- [x] Fase 6 — Insectos (12 notas: Insecta + Coleoptera + Lepidoptera + Hymenoptera + Diptera + Hemiptera + Orthoptera + Odonata + Blattodea + Mantodea + Phasmatodea + Otros órdenes)
+- [x] Fase 5 — Reptiles vivos (10 notas)
+- [x] Fase 6 — Insectos (12 notas)
 - [x] Fase 7 — Update Índice.md (3 secciones nuevas + nota de actualización maestra)
 - [x] Fase 8 — Commit del repo del vault
+- [x] Fase 9 — **Taxonomía de Hominoidea** (Antropología): 1 master + 44 notas N4
+- [x] Fase 10 — Limpieza Plan de Aprendizaje + desconexión README + mejoras diseño Quartz
 
 ## Resumen final
 
-**75 notas nuevas** + 1 master + actualización del Índice.md.
+**119 notas nuevas** · vault total ~375 notas.
 
 | Disciplina | Notas |
 |---|---|
@@ -40,7 +42,12 @@ estado: en_curso
 | Paleontología N4 — Ornithischia | 11 |
 | Biología N4 — Reptiles modernos | 10 |
 | Biología N4 — Insectos | 12 |
-| **Total** | **75** |
+| Antropología — master Hominoidea | 1 |
+| Antropología N4 — Primates y grandes simios | 12 |
+| Antropología N4 — Hominoideos del Mioceno | 4 |
+| Antropología N4 — Homininos pre-Homo | 15 |
+| Antropología N4 — Género Homo | 12 |
+| **Total** | **119** |
 
 ## Convenciones que sigue el vault
 

@@ -98,5 +98,4 @@ Por eso hoy se usa junto con [[Cladística]].
 
 - [[Cladística]]
 - [[MOC Taxonomía e identidad biológica]]
-- [[Plan de Aprendizaje]]
 - [[Índice]]

@@ -97,5 +97,4 @@ El sistema clásico de **5 reinos** (Whittaker, 1969) ha sido superado. Hoy se r
 - [[Teoría endosimbiótica]]
 - [[Taxonomía linneana]]
 - [[Cladística]]
-- [[Plan de Aprendizaje]]
 - [[Índice]]

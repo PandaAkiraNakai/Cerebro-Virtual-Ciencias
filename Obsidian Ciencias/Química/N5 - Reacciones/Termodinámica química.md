@@ -145,5 +145,4 @@ Ejemplo: combustión de madera. ΔG < 0 (muy favorable), pero necesita chispa (E
 - [[Cinética química]]
 - [[Equilibrio químico]]
 - [[Electroquímica]]
-- [[Plan de Aprendizaje]]
 - [[Índice]]

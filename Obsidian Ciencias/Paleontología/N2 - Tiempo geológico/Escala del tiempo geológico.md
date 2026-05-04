@@ -79,5 +79,4 @@ Eón  →  Era  →  Período  →  Época  →  Edad
 - [[Captorhinus - Reptil momificado respiración]] (Pérmico, 289 Ma)
 - [[Deinosuchus schwimmeri - Cocodrilo terror]] (Cretácico)
 - [[Masripithecus - Origen de los simios]] (Mioceno, 17-18 Ma)
-- [[Plan de Aprendizaje]]
 - [[Índice]]

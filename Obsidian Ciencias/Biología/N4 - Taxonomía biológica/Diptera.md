@@ -167,5 +167,4 @@ Diptera es el orden con **mayor impacto en salud humana**:
 - [[Hymenoptera]]
 - [[Hemiptera]]
 - [[Casos - Entomología]]
-- [[Plan de Aprendizaje]]
 - [[Índice]]

@@ -107,5 +107,4 @@ Los vertebrados son **una minoría** entre los animales (~5 %); los artrópodos 
 - [[Mamíferos fósiles]]
 - [[Sinápsidos y ancestros de mamíferos]]
 - [[Homínidos fósiles]]
-- [[Plan de Aprendizaje]]
 - [[Índice]]

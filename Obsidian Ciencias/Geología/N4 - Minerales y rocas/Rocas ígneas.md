@@ -107,5 +107,4 @@ Explica por qué un magma puede **diferenciarse**: al cristalizar primero los mi
 - [[Vulcanismo]]
 - [[Rocas sedimentarias]]
 - [[Rocas metamórficas]]
-- [[Plan de Aprendizaje]]
 - [[Índice]]

@@ -94,5 +94,4 @@ Dogma central: ADN → ARN → proteína. Ver [[ADN ARN y dogma central]] (pendi
 - [[Niveles de organización biológica]]
 - [[La célula]]
 - [[Enlaces químicos]] (química de fondo)
-- [[Plan de Aprendizaje]]
 - [[Índice]]

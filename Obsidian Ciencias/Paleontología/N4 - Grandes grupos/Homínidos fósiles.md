@@ -84,5 +84,4 @@ Nota puente entre paleontología y antropología. Para detalle profundo ver tamb
 
 - [[Mamíferos fósiles]]
 - [[MOC Humanos y primates]]
-- [[Plan de Aprendizaje]]
 - [[Índice]]

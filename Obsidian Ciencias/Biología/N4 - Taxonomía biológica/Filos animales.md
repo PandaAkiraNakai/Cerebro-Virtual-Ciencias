@@ -103,5 +103,4 @@ Animalia
 - [[Vertebrados - clases]]
 - [[Invertebrados fósiles]]
 - [[Cefalópodos fósiles]]
-- [[Plan de Aprendizaje]]
 - [[Índice]]

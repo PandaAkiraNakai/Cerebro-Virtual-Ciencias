@@ -102,5 +102,4 @@ Las cordilleras generan zonas de alta presión y temperatura → **metamorfismo 
 - [[Vulcanismo]]
 - [[Sismos]]
 - [[Rocas metamórficas]]
-- [[Plan de Aprendizaje]]
 - [[Índice]]

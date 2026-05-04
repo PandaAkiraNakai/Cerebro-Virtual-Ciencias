@@ -128,5 +128,4 @@ Aún más simples:
 - [[ADN ARN y dogma central]]
 - [[La célula]]
 - [[Macromoléculas biológicas]]
-- [[Plan de Aprendizaje]]
 - [[Índice]]

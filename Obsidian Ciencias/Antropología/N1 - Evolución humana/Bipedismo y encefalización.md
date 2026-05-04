@@ -109,5 +109,4 @@ El cerebro humano no es solo "un chimpancé agrandado":
 
 - [[Selección natural y evolución]]
 - [[Mamíferos fósiles]]
-- [[Plan de Aprendizaje]]
 - [[Índice]]

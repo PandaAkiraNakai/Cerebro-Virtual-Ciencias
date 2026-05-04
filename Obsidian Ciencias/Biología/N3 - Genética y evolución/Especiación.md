@@ -101,5 +101,4 @@ Balance evolutivo:
 - [[Genética mendeliana]]
 - [[MOC Taxonomía e identidad biológica]]
 - [[Pit viper Ayeyarwady - Myanmar]]
-- [[Plan de Aprendizaje]]
 - [[Índice]]

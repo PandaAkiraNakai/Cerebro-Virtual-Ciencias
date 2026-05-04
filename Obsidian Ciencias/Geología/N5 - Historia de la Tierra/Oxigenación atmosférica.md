@@ -99,5 +99,4 @@ El pico carbonífero se debe a vastos bosques que enterraron carbono (de ahí lo
 - [[Teoría endosimbiótica]]
 - [[Dominios y reinos]]
 - [[Cianobacterias reorganizan maquinaria del ADN]]
-- [[Plan de Aprendizaje]]
 - [[Índice]]
