@@ -115,7 +115,7 @@ Ver `.gitignore` para el listado completo.
 
 ## Despliegue web (Quartz v4 + Coolify) — EN PRODUCCIÓN
 
-Sitio en vivo: **https://paleo.sergiocubelli.space** (Quartz v4 + nginx, TLS Let's Encrypt vía Coolify/Traefik, auto-deploy por webhook Gitea).
+Sitio en vivo: **https://paleo.sergiocubelli.space** (Quartz v4 + nginx, TLS Let's Encrypt vía Coolify/Traefik, auto-deploy por webhook de GitHub).
 
 El vault se publica como sitio estático con búsqueda y graph view, generado con [Quartz v4](https://quartz.jzhao.xyz/) y servido por nginx dentro de un contenedor Docker. Todo el stack (Dockerfile, `quartz.config.ts`, `quartz.layout.ts`, `nginx.conf`) vive en `main`.
 
@@ -123,12 +123,12 @@ El vault se publica como sitio estático con búsqueda y graph view, generado co
 
 | Capa | Detalle |
 |---|---|
-| Dominio | `paleo.sergiocubelli.space` → `195.200.7.236` (A record) |
+| Dominio | `paleo.sergiocubelli.space` |
 | Proxy + TLS | Traefik v3.6 (gestionado por Coolify) con Let's Encrypt HTTP-01 |
 | Runtime | nginx:alpine sirviendo `public/` generado por Quartz v4 |
-| Orquestador | Coolify 4.0.0-beta.472, app UUID `f37wqyyprmqleboq0en3itea`, proyecto `Paleo` |
-| Fuente | Repo Gitea `sergio/Obsidian-Ciencias-`, rama `main`, HTTPS con access token |
-| Webhook | Gitea → `https://sergiocubelli.space/api/v1/deploy?uuid=f37wqyyprmqleboq0en3itea&force=false` |
+| Orquestador | Coolify 4.0.0-beta.472, proyecto `Paleo` |
+| Fuente | Repo GitHub `PandaAkiraNakai/Cerebro-Virtual-Ciencias`, rama `main` |
+| Webhook | GitHub push → Coolify (auto-rebuild) |
 | Tiempo de build | ~70 s |
 
 ### Archivos de despliegue
