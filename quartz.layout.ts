@@ -8,8 +8,8 @@ export const sharedPageComponents: SharedLayout = {
   footer: Component.Footer({
     links: {
       Índice: "/Índice",
-      "Repositorio (Gitea)":
-        "https://gitea.sergiocubelli.space/sergio/Obsidian-Ciencias-",
+      Repositorio:
+        "https://github.com/PandaAkiraNakai/Cerebro-Virtual-Ciencias",
     },
   }),
 }
