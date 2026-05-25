@@ -158,3 +158,7 @@ docker build -t paleo-site .
 docker run --rm -p 8080:80 paleo-site
 # abrir http://localhost:8080
 ```
+
+<!-- profile-excerpt -->
+Vault Obsidian construido como **cerebro virtual de ciencias** — ~375 notas N0→N5 con eje en **paleontología** y ramas en **biología, geología, antropología y química** (expansión taxonómica completa de Dinosauria y Hominoidea). Publicado con **Quartz v4 + nginx en Docker** → [paleo.sergiocubelli.space](https://paleo.sergiocubelli.space).
+<!-- /profile-excerpt -->
