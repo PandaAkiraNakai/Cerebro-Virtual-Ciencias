@@ -11,8 +11,8 @@ Eje del vault: **paleontología** — las demás disciplinas son ramas que la su
 | Paleontología (eje) | 117 (N0–N5 + taxa icónicos + ~80 clados dinosaurianos) | 16 |
 | Biología | 99 (N0–N5, los 5 reinos + vertebrados por órdenes: mamíferos, aves, peces, anfibios) | 22 |
 | Geología | 46 (N0–N5, eras + eones + ciclos + mineralogía/petrología) | 17 |
-| Antropología | 67 (N0–N5 + 46 notas Hominoidea) | 11 |
-| Química | 31 (N0–N5, gases/disoluciones, ácido-base, nuclear, orgánica, polímeros, coordinación) | 9 |
+| Antropología | 67 (N0–N5 + 46 notas Hominoidea) | 14 |
+| Química | 31 (N0–N5, gases/disoluciones, ácido-base, nuclear, orgánica, polímeros, coordinación) | 13 |
 
 ## Punto de entrada
 
@@ -69,12 +69,12 @@ Obsidian Ciencias/
 
 ## Estado actual
 
-**~451 notas** · las **5 disciplinas con currículum N0–N5 completo** · grafo **sin enlaces rotos**:
+**~458 notas** · las **5 disciplinas con currículum N0–N5 completo** · grafo **sin enlaces rotos**:
 - **Los cinco reinos** (Biología N4): reino Fungi (7 notas), plantas en profundidad de briófitos a angiospermas (7 notas), protistas y procariotas.
 - **Vertebrados por órdenes**: mamíferos (10 notas), aves (8, dinosaurios vivientes), peces y anfibios (3), además de 19 órdenes de insectos y 10 reptiles modernos.
 - **Dinosauria** (~80 notas N4): árbol completo Saurischia/Ornithischia con clados y familias (Saurischia, Genasauria, Abelisauroidea, Ceratopsidae…).
 - **Hominoidea** (~46 notas N4): desde Strepsirrhini y Tarsiiformes hasta *Homo sapiens*, incluyendo hominoideos del Mioceno (Proconsul, Sivapithecus, Dryopithecus, Graecopithecus, Kenyapithecus), australopitecinos, parántropos y todas las especies del género *Homo*.
-- **~72 notas de casos reales** de ScienceDaily, Phys.org, Quanta Magazine y Science News, agrupadas por subtema con hubs de navegación.
+- **~79 notas de casos reales** de ScienceDaily, Phys.org, Quanta Magazine y Science News, con cita y URL verificadas, agrupadas por subtema con hubs de navegación.
 - **12 MOCs temáticos** transversales (incluido el Árbol de la vida y Energía y materia).
 - **Catálogo de ~130 fuentes** con estadísticas verificadas.
 
@@ -114,5 +114,5 @@ Obsidian Ciencias/
 Ver `.gitignore` para el listado completo.
 
 <!-- profile-excerpt -->
-Vault Obsidian construido como **cerebro virtual de ciencias** — ~451 notas N0→N5 con eje en **paleontología** y ramas en **biología, geología, antropología y química** (los cinco reinos, los vertebrados por órdenes y mineralogía/petrología, 12 MOCs transversales, grafo sin enlaces rotos). Disponible en [paleo.sergiocubelli.space](https://paleo.sergiocubelli.space).
+Vault Obsidian construido como **cerebro virtual de ciencias** — ~458 notas N0→N5 con eje en **paleontología** y ramas en **biología, geología, antropología y química** (los cinco reinos, los vertebrados por órdenes y mineralogía/petrología, 12 MOCs transversales, grafo sin enlaces rotos). Disponible en [paleo.sergiocubelli.space](https://paleo.sergiocubelli.space).
 <!-- /profile-excerpt -->

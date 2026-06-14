@@ -2,7 +2,7 @@
 tipo: MOC
 rol: índice-maestro
 actualizado: 2026-06-14
-notas_totales: 451
+notas_totales: 458
 fuente_base: ScienceDaily + colecciones museísticas + bases especializadas
 eje_principal: paleontología
 ---
@@ -11,7 +11,7 @@ eje_principal: paleontología
 
 > **Punto de entrada del vault.** Siempre consultar aquí primero. Toda nota nueva debe agregarse a este índice.
 
-**Estado actual**: **~451 notas** · 5 disciplinas con **N0-N5 completos** en paleontología, geología, biología, química y antropología · 12 MOCs temáticos · catálogo de fuentes ampliado · ~72 notas de casos reales · grafo **sin enlaces rotos**. Cobertura taxonómica: árbol completo de Dinosauria (~80 notas N4), Hominoidea (46 notas N4), reptiles modernos, 19 órdenes de insectos y —desde la **Fase A (2026-06-14)**— los **cinco reinos**: reino Fungi (7 notas), plantas en profundidad (briófitos→angiospermas, 7 notas) y procariotas/protistas. Plan de expansión vigente en [[Plan de expansión 2026-06-14]]. Catálogo de fuentes en [[Fuentes]].
+**Estado actual**: **~458 notas** · 5 disciplinas con **N0-N5 completos** en paleontología, geología, biología, química y antropología · 12 MOCs temáticos · catálogo de fuentes ampliado · ~79 notas de casos reales · grafo **sin enlaces rotos**. Cobertura taxonómica: árbol completo de Dinosauria (~80 notas N4), Hominoidea (46 notas N4), reptiles modernos, 19 órdenes de insectos y —desde la **Fase A (2026-06-14)**— los **cinco reinos**: reino Fungi (7 notas), plantas en profundidad (briófitos→angiospermas, 7 notas) y procariotas/protistas. Plan de expansión vigente en [[Plan de expansión 2026-06-14]]. Catálogo de fuentes en [[Fuentes]].
 
 ## Cómo navegar
 
@@ -547,6 +547,8 @@ eje_principal: paleontología
 - [[Masripithecus - Origen de los simios]]
 
 ### Casos reales — homínidos
+- [[Etiopía - Homo y un Australopithecus desconocido convivieron]] — Ledi Geraru, 2,6 Ma (ASU, Nature).
+- [[Sahelanthropus caminaba erguido hace 7 millones de años]] — tubérculo femoral, bipedismo (NYU, Science Advances).
 - [[Neandertales y Homo sapiens colaboración]] — Tinshemet, 110 ka.
 - [[Peste de Justiniano - fosa común en Jordania]] — paleomicrobiología, *Y. pestis*.
 - [[Fosa común Edad del Hierro - mujeres y niños en Serbia]] — violencia organizada en la Edad del Hierro europea (Science News).
@@ -557,6 +559,7 @@ eje_principal: paleontología
 - [[Gen denisovano MUC19 - poblamiento de América]] — introgresión adaptativa beringiana.
 
 ### Casos reales — cognición y arte
+- [[ADN compartido con neandertales y el origen del lenguaje]] — reguladores génicos antiguos (U. Iowa, Science Advances).
 - [[Arte rupestre más antiguo - 67800 años]]
 - [[Neandertales Polonia - ADN antiguo]]
 - [[Plomo y evolución humana - exposición prehistórica]] — geoquímica del esmalte y neuroevolución.
@@ -619,6 +622,10 @@ eje_principal: paleontología
 - [[Químicos permitidos frenan recuperación del ozono]]
 - [[Grafeno - flujo electrónico cuántico sin fricción]] — hidrodinámica electrónica en grafeno ultralimpio
 - [[Polímero compostable - alternativa a termoplásticos]] — nueva clase biodegradable competitiva (Phys.org)
+- [[Batería de sodio que almacena el doble y desaliniza]] — cátodo NVOH hidratado, +400 ciclos (Surrey).
+- [[Catalizador de manganeso convierte CO2 en combustible]] — metal abundante → formiato para celdas (Yale).
+- [[Catalizador de un solo átomo convierte CO2 en metanol]] — indio aislado sobre HfO₂ (ETH Zürich).
+- [[Hidrógeno limpio a partir de calor residual con perovskitas]] — perovskita BNCF a 150–500 °C (Birmingham).
 
 ---
 
@@ -688,6 +695,8 @@ eje_principal: paleontología
 ## Historial de actualizaciones
 
 > Cronología de cambios del vault (lo más reciente arriba). Movido al pie para no estorbar la navegación.
+
+> **Actualización 2026-06-14 (casos con fuentes reales, +7 casos)**: pasada de casos vía WebFetch a ScienceDaily (URLs y citas verificadas). **Química** (4): [[Batería de sodio que almacena el doble y desaliniza]], [[Catalizador de manganeso convierte CO2 en combustible]], [[Catalizador de un solo átomo convierte CO2 en metanol]], [[Hidrógeno limpio a partir de calor residual con perovskitas]]. **Antropología** (3): [[Etiopía - Homo y un Australopithecus desconocido convivieron]], [[Sahelanthropus caminaba erguido hace 7 millones de años]], [[ADN compartido con neandertales y el origen del lenguaje]]. (Se descartó un caso duplicado de Tinshemet ya presente en el vault.)
 
 > **Actualización 2026-06-14 (Fase E — MOCs transversales, +2 MOCs)**: cierre del plan de expansión con dos índices temáticos que tejen el grafo ahora que la taxonomía está completa. [[MOC Árbol de la vida]] (los cinco reinos + vertebrados orden por orden + las grandes transiciones evolutivas) y [[MOC Energía y materia]] (del átomo a la Tierra y la vida; materia y transformaciones de energía). Se decidió NO inflar N0-N1 (ya son capas de introducción completas). Pendiente con fuentes reales (WebFetch): casos nuevos de química y antropología. Plan en [[Plan de expansión 2026-06-14]].
 

@@ -1,10 +1,10 @@
 ---
 tipo: plan
 fecha_inicio: 2026-06-14
-estado: fases A-E completas (contenido); pendiente pasada de casos con fuentes reales
+estado: completado (fases A-E + pasada de casos con fuentes reales)
 ---
 
-> **Estado 2026-06-14**: completadas las Fases **A** (cinco reinos), **B** (Química), **C** (vertebrados por órdenes), **D** (mineralogía/petrología) y **E** (MOCs transversales). Vault de ~375 → **~451 notas**, grafo sin enlaces rotos. **Pendiente**: pasada de casos nuevos de química y antropología con fuentes reales (WebFetch a ScienceDaily/Phys.org). No se inflaron N0-N1 (ya completos).
+> **Estado 2026-06-14**: **plan completado**. Fases **A** (cinco reinos), **B** (Química), **C** (vertebrados por órdenes), **D** (mineralogía/petrología), **E** (MOCs transversales) y una **pasada de casos con fuentes reales** (7 casos vía WebFetch a ScienceDaily, URLs/citas verificadas). Vault de ~375 → **~458 notas**, grafo sin enlaces rotos. No se inflaron N0-N1 (ya completos).
 
 
 # Plan de expansión del cerebro (2026-06-14)
