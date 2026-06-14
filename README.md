@@ -111,54 +111,6 @@ Obsidian Ciencias/
 
 Ver `.gitignore` para el listado completo.
 
----
-
-## Despliegue web (Quartz v4 + Coolify) — EN PRODUCCIÓN
-
-Sitio en vivo: **https://paleo.sergiocubelli.space** (Quartz v4 + nginx, TLS Let's Encrypt vía Coolify/Traefik, auto-deploy por webhook de GitHub).
-
-El vault se publica como sitio estático con búsqueda y graph view, generado con [Quartz v4](https://quartz.jzhao.xyz/) y servido por nginx dentro de un contenedor Docker. Todo el stack (Dockerfile, `quartz.config.ts`, `quartz.layout.ts`, `nginx.conf`) vive en `main`.
-
-### Infra
-
-| Capa | Detalle |
-|---|---|
-| Dominio | `paleo.sergiocubelli.space` |
-| Proxy + TLS | Traefik v3.6 (gestionado por Coolify) con Let's Encrypt HTTP-01 |
-| Runtime | nginx:alpine sirviendo `public/` generado por Quartz v4 |
-| Orquestador | Coolify 4.0.0-beta.472, proyecto `Paleo` |
-| Fuente | Repo GitHub `PandaAkiraNakai/Cerebro-Virtual-Ciencias`, rama `main` |
-| Webhook | GitHub push → Coolify (auto-rebuild) |
-| Tiempo de build | ~70 s |
-
-### Archivos de despliegue
-
-| Archivo | Rol |
-|---|---|
-| `Dockerfile` | Build multi-stage: clona Quartz v4, copia `Obsidian Ciencias/` a `content/`, genera `public/`, sirve con nginx |
-| `nginx.conf` | Config del servidor: gzip, cache, try_files para wikilinks, 301 `/` → `/Índice` |
-| `docker-compose.yml` | Servicio que Coolify detecta |
-| `quartz.config.ts` | Config de Quartz: baseUrl, locale, plugins, tema |
-| `quartz.layout.ts` | Layout: Explorer a la izquierda, Graph + TOC + Backlinks a la derecha |
-| `quartz/styles/custom.scss` | Tema custom mobile-first (paleta paleo, cards, pills, sticky search) |
-
-### Cómo se actualiza
-
-Cada push a `main` dispara el webhook de Coolify → rebuild → sitio actualizado en ~70 s:
-
-```bash
-git commit -am "nueva nota"
-git push        # gatilla el rebuild automáticamente
-```
-
-### Build local (opcional, requiere Docker)
-
-```bash
-docker build -t paleo-site .
-docker run --rm -p 8080:80 paleo-site
-# abrir http://localhost:8080
-```
-
 <!-- profile-excerpt -->
 Vault Obsidian construido como **cerebro virtual de ciencias** — ~397 notas N0→N5 con eje en **paleontología** y ramas en **biología, geología, antropología y química** (expansión taxonómica completa de Dinosauria y Hominoidea, grafo sin enlaces rotos). Publicado con **Quartz v4 + nginx en Docker** → [paleo.sergiocubelli.space](https://paleo.sergiocubelli.space).
 <!-- /profile-excerpt -->
