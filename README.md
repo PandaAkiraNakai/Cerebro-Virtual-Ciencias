@@ -12,7 +12,7 @@ Eje del vault: **paleontología** — las demás disciplinas son ramas que la su
 | Biología | 78 (N0–N5, los 5 reinos: animales, plantas, hongos, protistas, procariotas) | 22 |
 | Geología | 40 (N0–N5, incluye eras + eones + 4 ciclos profundos) | 17 |
 | Antropología | 67 (N0–N5 + 46 notas Hominoidea) | 11 |
-| Química | 22 (N0–N5) | 9 |
+| Química | 31 (N0–N5, gases/disoluciones, ácido-base, nuclear, orgánica, polímeros, coordinación) | 9 |
 
 ## Punto de entrada
 
@@ -69,7 +69,7 @@ Obsidian Ciencias/
 
 ## Estado actual
 
-**~413 notas** · las **5 disciplinas con currículum N0–N5 completo** · grafo **sin enlaces rotos**:
+**~422 notas** · las **5 disciplinas con currículum N0–N5 completo** · grafo **sin enlaces rotos**:
 - **Los cinco reinos** (Biología N4): reino Fungi (7 notas), plantas en profundidad de briófitos a angiospermas (7 notas), protistas y procariotas, además de animales (vertebrados, 19 órdenes de insectos, 10 reptiles modernos).
 - **Dinosauria** (~80 notas N4): árbol completo Saurischia/Ornithischia con clados y familias (Saurischia, Genasauria, Abelisauroidea, Ceratopsidae…).
 - **Hominoidea** (~46 notas N4): desde Strepsirrhini y Tarsiiformes hasta *Homo sapiens*, incluyendo hominoideos del Mioceno (Proconsul, Sivapithecus, Dryopithecus, Graecopithecus, Kenyapithecus), australopitecinos, parántropos y todas las especies del género *Homo*.
@@ -113,5 +113,5 @@ Obsidian Ciencias/
 Ver `.gitignore` para el listado completo.
 
 <!-- profile-excerpt -->
-Vault Obsidian construido como **cerebro virtual de ciencias** — ~413 notas N0→N5 con eje en **paleontología** y ramas en **biología, geología, antropología y química** (los cinco reinos cubiertos, árbol completo de Dinosauria y Hominoidea, grafo sin enlaces rotos). Disponible en [paleo.sergiocubelli.space](https://paleo.sergiocubelli.space).
+Vault Obsidian construido como **cerebro virtual de ciencias** — ~422 notas N0→N5 con eje en **paleontología** y ramas en **biología, geología, antropología y química** (los cinco reinos cubiertos, árbol completo de Dinosauria y Hominoidea, grafo sin enlaces rotos). Disponible en [paleo.sergiocubelli.space](https://paleo.sergiocubelli.space).
 <!-- /profile-excerpt -->

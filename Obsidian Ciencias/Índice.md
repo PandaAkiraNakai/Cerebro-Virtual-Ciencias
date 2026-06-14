@@ -2,7 +2,7 @@
 tipo: MOC
 rol: índice-maestro
 actualizado: 2026-06-14
-notas_totales: 413
+notas_totales: 422
 fuente_base: ScienceDaily + colecciones museísticas + bases especializadas
 eje_principal: paleontología
 ---
@@ -11,7 +11,7 @@ eje_principal: paleontología
 
 > **Punto de entrada del vault.** Siempre consultar aquí primero. Toda nota nueva debe agregarse a este índice.
 
-**Estado actual**: **~413 notas** · 5 disciplinas con **N0-N5 completos** en paleontología, geología, biología, química y antropología · 10 MOCs temáticos · catálogo de fuentes ampliado · ~72 notas de casos reales · grafo **sin enlaces rotos**. Cobertura taxonómica: árbol completo de Dinosauria (~80 notas N4), Hominoidea (46 notas N4), reptiles modernos, 19 órdenes de insectos y —desde la **Fase A (2026-06-14)**— los **cinco reinos**: reino Fungi (7 notas), plantas en profundidad (briófitos→angiospermas, 7 notas) y procariotas/protistas. Plan de expansión vigente en [[Plan de expansión 2026-06-14]]. Catálogo de fuentes en [[Fuentes]].
+**Estado actual**: **~422 notas** · 5 disciplinas con **N0-N5 completos** en paleontología, geología, biología, química y antropología · 10 MOCs temáticos · catálogo de fuentes ampliado · ~72 notas de casos reales · grafo **sin enlaces rotos**. Cobertura taxonómica: árbol completo de Dinosauria (~80 notas N4), Hominoidea (46 notas N4), reptiles modernos, 19 órdenes de insectos y —desde la **Fase A (2026-06-14)**— los **cinco reinos**: reino Fungi (7 notas), plantas en profundidad (briófitos→angiospermas, 7 notas) y procariotas/protistas. Plan de expansión vigente en [[Plan de expansión 2026-06-14]]. Catálogo de fuentes en [[Fuentes]].
 
 ## Cómo navegar
 
@@ -557,6 +557,9 @@ eje_principal: paleontología
 ### N4 — Estados de la materia
 - [[Estados de la materia]] — sólido, líquido, gas, plasma, BEC.
 - [[Cambios de estado]] — fusión, vaporización, sublimación, diagramas de fase.
+- [[Gases y leyes de los gases]] — Boyle, Charles, gas ideal PV=nRT, teoría cinética, gases reales.
+- [[Disoluciones y solubilidad]] — concentración (M, m), solubilidad, propiedades coligativas.
+- [[Coloides y sistemas dispersos]] — disolución→coloide→suspensión, efecto Tyndall, emulsiones y geles.
 
 ### N5 — Reacciones y termodinámica
 - [[Tipos de reacciones químicas]] — síntesis, descomposición, redox, ácido-base.
@@ -564,7 +567,13 @@ eje_principal: paleontología
 - [[Equilibrio químico]] — Le Chatelier, Kc, Kp, pH.
 - [[Termodinámica química]] — entalpía, entropía, Gibbs.
 - [[Electroquímica]] — celdas, baterías, Nernst, corrosión.
+- [[Ácidos y bases]] — Arrhenius/Brønsted/Lewis, pH, Ka, buffers, titulaciones.
+- [[Química nuclear]] — radiactividad, vida media, fisión y fusión.
 - [[Química orgánica básica]] — grupos funcionales, isomería, aromaticidad.
+- [[Reacciones orgánicas y mecanismos]] — SN1/SN2, E1/E2, adición, radicales.
+- [[Polímeros y macromoléculas]] — adición vs condensación, termoplásticos, biopolímeros.
+- [[Química de coordinación]] — complejos, ligandos, campo cristalino, color.
+- [[Química analítica y espectroscopía]] — gravimetría, volumetría, UV-Vis/IR/RMN/MS, cromatografía.
 - [[Bioquímica básica]] — biomoléculas, enzimas, metabolismo central.
 
 ### Casos reales
@@ -644,6 +653,8 @@ eje_principal: paleontología
 ## Historial de actualizaciones
 
 > Cronología de cambios del vault (lo más reciente arriba). Movido al pie para no estorbar la navegación.
+
+> **Actualización 2026-06-14 (Fase B — Química, +9 notas)**: refuerzo de la disciplina más débil. N4 (estados y mezclas): [[Gases y leyes de los gases]], [[Disoluciones y solubilidad]], [[Coloides y sistemas dispersos]]. N5 (reacciones y profundización): [[Ácidos y bases]], [[Química nuclear]], [[Reacciones orgánicas y mecanismos]], [[Polímeros y macromoléculas]], [[Química de coordinación]], [[Química analítica y espectroscopía]]. Química pasa de 22 a 31 notas de fundamentos. Pendiente: pasada de casos con fuentes reales (WebFetch). Plan en [[Plan de expansión 2026-06-14]].
 
 > **Actualización 2026-06-14 (relleno de huecos + Fase A — los cinco reinos)**: (1) Pasada de cierre de grafo: +19 notas para enlaces que existían sin destino (7 órdenes de insectos, 4 clados dino —[[Saurischia]], [[Genasauria]], [[Abelisauroidea]], [[Ceratopsidae]]—, [[Burgess Shale]], [[Tarsiiformes]], [[Kenyapithecus]], [[Ramas de la biología]], [[Trapps del Decán]]) y 3 hubs de navegación para carpetas de casos; **0 enlaces rotos**. (2) **Fase A**: cobertura de los reinos no-animales. Reino **Fungi** (7): [[Fungi]], [[Ascomycota]], [[Basidiomycota]], [[Mucoromycota]], [[Glomeromycota]], [[Líquenes]], [[Levaduras]]. **Plantas** en profundidad (7): [[Briófitos]], [[Pteridófitos]], [[Gimnospermas]], [[Angiospermas]], [[Monocotiledóneas]], [[Eudicotiledóneas]], [[Familias clave de angiospermas]]. **Microbios**: [[Protistas]], [[Bacteria y Archaea]]. Plan completo en [[Plan de expansión 2026-06-14]].
 
