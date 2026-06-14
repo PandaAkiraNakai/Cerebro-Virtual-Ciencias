@@ -21,7 +21,7 @@ La paleontología estudia:
 
 ## Escala temporal
 
-La paleontología trabaja en **tiempo profundo**: desde los primeros fósiles (~3.500 Ma) hasta los fósiles más recientes (convencionalmente **>10 000 años**). Dentro de este rango se mueve en las unidades del tiempo geológico (eón, era, período, época, edad) — ver [[Tiempo geológico]] (pendiente).
+La paleontología trabaja en **tiempo profundo**: desde los primeros fósiles (~3.500 Ma) hasta los fósiles más recientes (convencionalmente **>10 000 años**). Dentro de este rango se mueve en las unidades del tiempo geológico (eón, era, período, época, edad) — ver [[Escala del tiempo geológico]].
 
 ## Por qué importa
 

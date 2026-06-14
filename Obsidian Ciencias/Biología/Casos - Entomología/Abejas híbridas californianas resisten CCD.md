@@ -30,5 +30,5 @@ Una **población híbrida de *Apis mellifera*** del sur de California muestra **
 
 ## Enlaces
 - [[Trampa para termitas - pineno]]
-- [[Genética y evolución]]
+- [[Selección natural y evolución]]
 - [[Índice]]

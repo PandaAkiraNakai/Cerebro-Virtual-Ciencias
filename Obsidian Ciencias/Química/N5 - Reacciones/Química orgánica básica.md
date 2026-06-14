@@ -87,5 +87,5 @@ fecha: 2026-04-24
 - [[Teoría de orbitales moleculares]]
 - [[Tipos de reacciones químicas]]
 - [[Macromoléculas biológicas]]
-- [[Química al servicio del clima]] — vía MOC
+- [[MOC Química al servicio del clima]] — vía MOC
 - [[Índice]]

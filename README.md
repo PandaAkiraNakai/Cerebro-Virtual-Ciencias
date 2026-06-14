@@ -8,10 +8,10 @@ Eje del vault: **paleontología** — las demás disciplinas son ramas que la su
 
 | Disciplina | Notas de fundamentos | Notas de casos |
 |---|---|---|
-| Paleontología (eje) | ~105 (N0–N5 + 20 taxa icónicos + 76 taxa dinosaurianos/reptiles/insectos) | 16 |
-| Biología | 31 (N0–N5) | 19 |
-| Geología | 39 (N0–N5, incluye eras + eones + 4 ciclos profundos) | 17 |
-| Antropología | ~65 (N0–N5 + 44 notas Hominoidea) | 11 |
+| Paleontología (eje) | 117 (N0–N5 + taxa icónicos + ~80 clados dinosaurianos) | 16 |
+| Biología | 62 (N0–N5, incluye 10 reptiles modernos + 19 órdenes de insectos) | 22 |
+| Geología | 40 (N0–N5, incluye eras + eones + 4 ciclos profundos) | 17 |
+| Antropología | 67 (N0–N5 + 46 notas Hominoidea) | 11 |
 | Química | 22 (N0–N5) | 9 |
 
 ## Punto de entrada
@@ -40,7 +40,7 @@ Obsidian Ciencias/
 │
 ├── Biología/
 │   ├── N0-N5/                       fundamentos teóricos
-│   ├── N4 - Taxonomía biológica/    incluye 10 reptiles modernos + 12 insectos
+│   ├── N4 - Taxonomía biológica/    incluye 10 reptiles modernos + 19 órdenes de insectos
 │   └── Casos - */                   herpetología, entomología, ecología…
 │
 ├── Geología/
@@ -55,7 +55,7 @@ Obsidian Ciencias/
 │   ├── N4 - Métodos/                datación, aDNA, paleopatología
 │   ├── N5 - Profundización/         paleogenómica, genética poblacional, lenguaje, forense
 │   ├── Taxonomía/                   nota maestra Hominoidea (N3)
-│   ├── Taxa - Hominoidea/           44 notas N4: primates, grandes simios, homininos, Homo spp.
+│   ├── Taxa - Hominoidea/           46 notas N4: primates, grandes simios, homininos, Homo spp.
 │   └── Casos - */                   homínidos, migraciones, cognición y arte
 │
 ├── Química/
@@ -69,10 +69,10 @@ Obsidian Ciencias/
 
 ## Estado actual
 
-**~375 notas** · las **5 disciplinas con currículum N0–N5 completo** · expansión taxonómica masiva en dos pasadas:
-- **Dinosauria** (~76 notas N4): árbol completo Saurischia/Ornithischia con clados y familias; más 10 notas de reptiles modernos y 12 de insectos.
-- **Hominoidea** (~44 notas N4): desde Strepsirrhini hasta *Homo sapiens*, incluyendo hominoideos del Mioceno (Proconsul, Sivapithecus, Dryopithecus, Graecopithecus), australopitecinos, parántropos y todas las especies del género *Homo*.
-- **62 notas de casos reales** de ScienceDaily, Phys.org, Quanta Magazine y Science News.
+**~397 notas** · las **5 disciplinas con currículum N0–N5 completo** · expansión taxonómica masiva en dos pasadas:
+- **Dinosauria** (~80 notas N4): árbol completo Saurischia/Ornithischia con clados y familias (Saurischia, Genasauria, Abelisauroidea, Ceratopsidae…); más 10 notas de reptiles modernos y 19 órdenes de insectos.
+- **Hominoidea** (~46 notas N4): desde Strepsirrhini y Tarsiiformes hasta *Homo sapiens*, incluyendo hominoideos del Mioceno (Proconsul, Sivapithecus, Dryopithecus, Graecopithecus, Kenyapithecus), australopitecinos, parántropos y todas las especies del género *Homo*.
+- **~72 notas de casos reales** de ScienceDaily, Phys.org, Quanta Magazine y Science News, agrupadas por subtema con hubs de navegación.
 - **10 MOCs temáticos** transversales.
 - **Catálogo de ~130 fuentes** con estadísticas verificadas.
 

@@ -88,6 +88,7 @@ eje_principal: paleontología
 - [[Sinápsidos y ancestros de mamíferos]] — pelicosaurios, terápsidos, cinodontes.
 - [[Reptiles y arcosauromorfos]] — parareptiles, diápsidos, pterosaurios, reptiles marinos.
 - [[Dinosaurios]] — Saurischia/Ornithischia, aves como dinosaurios.
+- [[Saurischia]] — dinosaurios de cadera de reptil; Sauropodomorpha + Theropoda.
 - [[Crocodilomorfos]] — del Triásico a los cocodrilianos modernos.
 - [[Mamíferos fósiles]] — monotremas, marsupiales, placentados.
 - [[Cefalópodos fósiles]] — nautilos, ammonites, belemnites, coleoideos.
@@ -118,6 +119,7 @@ eje_principal: paleontología
 - [[Ceratosauria]] — Coelophysidae + Abelisauridae + Ceratosauridae.
 - [[Ceratosauridae]] — Ceratosaurus con cuerno nasal y osteodermos.
 - [[Coelophysoidea]] — Coelophysis, Dilophosaurus, Cryolophosaurus, Sinosaurus.
+- [[Abelisauroidea]] — superfamilia gondwánica = Abelisauridae + Noasauridae.
 - [[Abelisauridae]] — Carnotaurus, Majungasaurus, los gigantes gondwánicos.
 - [[Noasauridae]] — Masiakasaurus, Limusaurus, herbivorías raras en terópodos.
 - [[Tetanurae]] — colas rígidas, mayoría de terópodos derivados.
@@ -143,6 +145,7 @@ eje_principal: paleontología
 #### N4 — Ornithischia (clados y familias)
 - [[Ornithischia]] — herbívoros de cadera de ave, todos extintos en K-Pg.
 - [[Heterodontosauridae]] — heterodontes con caninos, plumas en Tianyulong.
+- [[Genasauria]] — clado Thyreophora + Neornithischia (mejillas musculosas).
 - [[Thyreophora]] — acorazados (Stegosauria + Ankylosauria + basales).
 - [[Stegosauria]] — Stegosaurus, Kentrosaurus, Miragaia (cuello largo).
 - [[Ankylosauria]] — Ankylosaurus, Borealopelta (momificado), Stegouros (cola macuáhuitl).
@@ -152,6 +155,7 @@ eje_principal: paleontología
 - [[Marginocephalia]] — Pachycephalosauria + Ceratopsia.
 - [[Pachycephalosauria]] — Pachycephalosaurus, domos craneales (controversia Dracorex).
 - [[Ceratopsia]] — Triceratops, Psittacosaurus, Centrosaurinae, Chasmosaurinae.
+- [[Ceratopsidae]] — Centrosaurinae + Chasmosaurinae; los grandes cornudos del Cretácico.
 
 ### N5 — Grupos específicos (profundización)
 - [[Pterosaurios]] — primer vuelo vertebrado.
@@ -190,6 +194,7 @@ eje_principal: paleontología
 
 #### Taxones icónicos — Cámbrico
 - [[Anomalocaris]] — primer superdepredador conocido, Burgess Shale.
+- [[Burgess Shale]] — Lagerstätte cámbrico (~508 Ma); ventana a la explosión cámbrica.
 
 ### Casos reales — dinosaurios
 - [[Ankylosaurios juveniles - Fósiles diminutos]]
@@ -227,6 +232,7 @@ eje_principal: paleontología
 - [[Historia de la biología]] — Linneo → Darwin → Mendel → Watson-Crick → genómica → CRISPR.
 
 ### N1 — Organización
+- [[Ramas de la biología]] — panorama de las disciplinas: zoología, genética, ecología, etc.
 - [[Niveles de organización biológica]] — átomo → biosfera, emergencia.
 - [[Macromoléculas biológicas]] — carbohidratos, lípidos, proteínas, ácidos nucleicos.
 
@@ -266,7 +272,7 @@ eje_principal: paleontología
 - [[Crocodylia]] — Alligatoridae + Crocodylidae + Gavialidae, 28 spp.
 - [[Rhynchocephalia]] — la tuátara *Sphenodon*, único superviviente del orden.
 
-#### Insectos (12 notas)
+#### Insectos (19 notas)
 - [[Insecta]] — clase animal más diversa, ~1 millón spp. descritas, 30 órdenes.
 - [[Coleoptera]] — escarabajos, mayor orden animal (~400.000 spp.).
 - [[Lepidoptera]] — mariposas y polillas, ~180.000 spp.
@@ -278,7 +284,14 @@ eje_principal: paleontología
 - [[Blattodea]] — cucarachas + termitas (eusociales).
 - [[Mantodea]] — mantis religiosas, cazadores por emboscada, mantis orquídea.
 - [[Phasmatodea]] — insectos palo y hoja, los más largos del mundo.
-- [[Otros órdenes de Insecta]] — Dermaptera, Trichoptera, Neuroptera, Siphonaptera, Zygentoma, Ephemeroptera, etc.
+- [[Zygentoma]] — pececillos de plata, ápteros ametábolos que digieren celulosa.
+- [[Ephemeroptera]] — efímeras; únicos insectos con dos estadios alados (subimago→imago).
+- [[Dermaptera]] — tijeretas; cercos en pinza y cuidado maternal de la puesta.
+- [[Thysanoptera]] — trips; diminutos, alas con flecos, plagas y vectores de tospovirus.
+- [[Trichoptera]] — frigáneas; larvas acuáticas que tejen estuches de seda, grupo hermano de Lepidoptera.
+- [[Neuroptera]] — crisopas y hormigas león; larvas depredadoras de mandíbulas succionadoras.
+- [[Siphonaptera]] — pulgas; ectoparásitos saltadores, vectores de la peste.
+- [[Otros órdenes de Insecta]] — síntesis de los órdenes menores restantes (Mecoptera, Strepsiptera, Plecoptera, etc.).
 
 ### N5 — Temas avanzados (profundización)
 - [[Virus y viroides]] — entre lo vivo y lo no vivo, clasificación Baltimore.
@@ -378,6 +391,7 @@ eje_principal: paleontología
 - [[Cenozoico]] — era de mamíferos, enfriamiento secular, glaciaciones (66 Ma-presente).
 - [[Pleistoceno]] — época de las glaciaciones, megafauna, evolución humana (2,58 Ma–11,7 ka).
 - [[Holoceno y Antropoceno]] — interglacial actual + propuesta de época antropogénica.
+- [[Trapps del Decán]] — provincia ígnea ~66 Ma; vulcanismo de inundación y el debate K-Pg.
 
 ### Casos reales — interior de la Tierra
 - [[Deformaciones en el manto profundo]]
@@ -449,9 +463,10 @@ eje_principal: paleontología
 
 - [[Taxonomía de Hominoidea]] — árbol completo Primates→Homo con árboles ASCII, tabla hibridaciones, distribución temporal, decisiones taxonómicas 2025.
 
-#### Primates y grandes simios (12 notas)
+#### Primates y grandes simios (13 notas)
 - [[Strepsirrhini]] — lémures, loris, gálagos; rhinarium, peine dental.
 - [[Haplorhini]] — tarseros + Simiiformes; nariz seca, placenta hemocorial.
+- [[Tarsiiformes]] — tarseros; Haplorrinos nocturnos, ojos enormes, dieta 100% animal.
 - [[Platyrrhini]] — monos del Nuevo Mundo; 3 premolares, cola prensil, rafting ~35-40 Ma.
 - [[Cercopithecoidea]] — Cercopithecinae (abazones) vs Colobinae (estómago plurigástrico).
 - [[Hominoidea]] — sin cola, tórax ancho, patrón Y-5; Hylobatidae vs Hominidae.
@@ -463,8 +478,9 @@ eje_principal: paleontología
 - [[Hominini]] — tribu: divergencia Pan/Hominina ~6-7 Ma; debate sobre modelo ancestral.
 - [[Panina]] — Pan troglodytes (4 subespecies) + P. paniscus; protocultura; Línea Movius.
 
-#### Hominoideos del Mioceno (4 notas)
+#### Hominoideos del Mioceno (5 notas)
 - [[Proconsul]] — hominoideo basal africano ~20-14 Ma; sin cola, sin braquiación; Isla Rusinga.
+- [[Kenyapithecus]] — Mioceno medio africano ~15-14 Ma; esmalte grueso, cerca del origen de los grandes simios.
 - [[Sivapithecus]] — candidato ancestro de Pongo, Siwaliks ~12-7 Ma; caso Ramapithecus.
 - [[Dryopithecus]] — primer gran simio fósil europeo (1856), patrón Y-5, esmalte delgado.
 - [[Graecopithecus]] — ~7,2 Ma Grecia/Bulgaria; hipótesis de primer homínino en Europa (debatida, 2017).

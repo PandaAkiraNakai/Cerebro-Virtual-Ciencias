@@ -74,8 +74,8 @@ Superfamilia Hominoidea
             │
             └── Subtribu Hominina — linaje humano
                 ├── (fósiles miocenos basales: ver §Hominoideos del Mioceno)
-                ├── Género [[Sahelanthropus]] — S. tchadensis, ~7 Ma
-                ├── Género [[Orrorin]] — O. tugenensis, ~6 Ma
+                ├── Género [[Sahelanthropus tchadensis|Sahelanthropus]] — S. tchadensis, ~7 Ma
+                ├── Género [[Orrorin tugenensis|Orrorin]] — O. tugenensis, ~6 Ma
                 ├── Género [[Ardipithecus]] — A. kadabba, A. ramidus, ~5,8-4,4 Ma
                 ├── Género [[Australopithecus]] → ver §Australopithecus
                 ├── Género [[Kenyanthropus]] — K. platyops, ~3,5 Ma
