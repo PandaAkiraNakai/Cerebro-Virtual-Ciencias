@@ -160,5 +160,5 @@ docker run --rm -p 8080:80 paleo-site
 ```
 
 <!-- profile-excerpt -->
-Vault Obsidian construido como **cerebro virtual de ciencias** — ~375 notas N0→N5 con eje en **paleontología** y ramas en **biología, geología, antropología y química** (expansión taxonómica completa de Dinosauria y Hominoidea). Publicado con **Quartz v4 + nginx en Docker** → [paleo.sergiocubelli.space](https://paleo.sergiocubelli.space).
+Vault Obsidian construido como **cerebro virtual de ciencias** — ~397 notas N0→N5 con eje en **paleontología** y ramas en **biología, geología, antropología y química** (expansión taxonómica completa de Dinosauria y Hominoidea, grafo sin enlaces rotos). Publicado con **Quartz v4 + nginx en Docker** → [paleo.sergiocubelli.space](https://paleo.sergiocubelli.space).
 <!-- /profile-excerpt -->
