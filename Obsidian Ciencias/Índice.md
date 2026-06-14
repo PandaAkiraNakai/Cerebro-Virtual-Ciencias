@@ -2,7 +2,7 @@
 tipo: MOC
 rol: índice-maestro
 actualizado: 2026-06-14
-notas_totales: 422
+notas_totales: 443
 fuente_base: ScienceDaily + colecciones museísticas + bases especializadas
 eje_principal: paleontología
 ---
@@ -11,7 +11,7 @@ eje_principal: paleontología
 
 > **Punto de entrada del vault.** Siempre consultar aquí primero. Toda nota nueva debe agregarse a este índice.
 
-**Estado actual**: **~422 notas** · 5 disciplinas con **N0-N5 completos** en paleontología, geología, biología, química y antropología · 10 MOCs temáticos · catálogo de fuentes ampliado · ~72 notas de casos reales · grafo **sin enlaces rotos**. Cobertura taxonómica: árbol completo de Dinosauria (~80 notas N4), Hominoidea (46 notas N4), reptiles modernos, 19 órdenes de insectos y —desde la **Fase A (2026-06-14)**— los **cinco reinos**: reino Fungi (7 notas), plantas en profundidad (briófitos→angiospermas, 7 notas) y procariotas/protistas. Plan de expansión vigente en [[Plan de expansión 2026-06-14]]. Catálogo de fuentes en [[Fuentes]].
+**Estado actual**: **~443 notas** · 5 disciplinas con **N0-N5 completos** en paleontología, geología, biología, química y antropología · 10 MOCs temáticos · catálogo de fuentes ampliado · ~72 notas de casos reales · grafo **sin enlaces rotos**. Cobertura taxonómica: árbol completo de Dinosauria (~80 notas N4), Hominoidea (46 notas N4), reptiles modernos, 19 órdenes de insectos y —desde la **Fase A (2026-06-14)**— los **cinco reinos**: reino Fungi (7 notas), plantas en profundidad (briófitos→angiospermas, 7 notas) y procariotas/protistas. Plan de expansión vigente en [[Plan de expansión 2026-06-14]]. Catálogo de fuentes en [[Fuentes]].
 
 ## Cómo navegar
 
@@ -252,6 +252,33 @@ eje_principal: paleontología
 - [[Monocotiledóneas]] — Poaceae, orquídeas, palmeras; base alimentaria humana.
 - [[Eudicotiledóneas]] — polen tricolpado; rósidas y astéridas.
 - [[Familias clave de angiospermas]] — familia → géneros → usos económicos y ecológicos.
+
+#### Mamíferos (10 notas)
+- [[Mamíferos - órdenes]] — clase Mammalia; Prototheria/Metatheria/Placentalia y los grandes clados.
+- [[Monotremata]] — mamíferos que ponen huevos: ornitorrinco y equidnas.
+- [[Marsupiales]] — crías en el marsupio; canguros, koala, zarigüeyas.
+- [[Xenarthra]] — armadillos, perezosos y osos hormigueros (linaje sudamericano).
+- [[Afrotheria]] — elefantes, sirenios, damanes, tenrecs (clado africano molecular).
+- [[Rodentia]] — el orden más diverso (~40% de los mamíferos); incisivos continuos.
+- [[Chiroptera]] — únicos mamíferos voladores; ecolocalización.
+- [[Carnivora]] — caniformes y feliformes; carnasiales y pinnípedos.
+- [[Cetartiodactyla]] — artiodáctilos + cetáceos (ballenas dentro de los ungulados).
+- [[Perissodactyla]] — ungulados de dedos impares: caballos, tapires, rinocerontes.
+
+#### Aves (8 notas)
+- [[Aves - órdenes]] — dinosaurios terópodos vivientes; Palaeognathae vs Neognathae.
+- [[Palaeognathae]] — ratites no voladoras (avestruz, emú, ñandú, kiwi) + tinamúes.
+- [[Galloanserae]] — Galliformes (gallinas) + Anseriformes (patos, gansos).
+- [[Neoaves]] — la gran radiación post-K-Pg (~95% de las aves).
+- [[Passeriformes]] — paseriformes, más de la mitad de las aves; canto aprendido.
+- [[Rapaces]] — aves de presa (agrupación polifilética); águilas, halcones, búhos.
+- [[Aves acuáticas y costeras]] — pingüinos, albatros, garzas, gaviotas, flamencos.
+- [[Psittaciformes y afines]] — loros y cacatúas; encefalización e imitación vocal.
+
+#### Peces y anfibios (3 notas)
+- [[Condrictios]] — peces cartilaginosos: tiburones, rayas, quimeras.
+- [[Actinopterigios]] — peces óseos de aletas radiadas; los teleósteos (grupo más diverso).
+- [[Anfibios modernos]] — Lissamphibia: ranas, salamandras, cecilias; declive por quitridiomicosis.
 
 #### Reptiles modernos (10 notas)
 - [[Reptiles modernos]] — Reptilia/Sauropsida sensu lato, ~12.000 especies.
@@ -653,6 +680,8 @@ eje_principal: paleontología
 ## Historial de actualizaciones
 
 > Cronología de cambios del vault (lo más reciente arriba). Movido al pie para no estorbar la navegación.
+
+> **Actualización 2026-06-14 (Fase C — Vertebrados a nivel de órdenes, +21 notas)**: cobertura de los vertebrados modernos al mismo detalle que reptiles e insectos, conectando con el eje paleo. **Mamíferos** (10): [[Mamíferos - órdenes]], [[Monotremata]], [[Marsupiales]], [[Xenarthra]], [[Afrotheria]], [[Rodentia]], [[Chiroptera]], [[Carnivora]], [[Cetartiodactyla]], [[Perissodactyla]]. **Aves** (8, dinosaurios vivientes): [[Aves - órdenes]], [[Palaeognathae]], [[Galloanserae]], [[Neoaves]], [[Passeriformes]], [[Rapaces]], [[Aves acuáticas y costeras]], [[Psittaciformes y afines]]. **Peces y anfibios** (3): [[Condrictios]], [[Actinopterigios]], [[Anfibios modernos]]. Plan en [[Plan de expansión 2026-06-14]].
 
 > **Actualización 2026-06-14 (Fase B — Química, +9 notas)**: refuerzo de la disciplina más débil. N4 (estados y mezclas): [[Gases y leyes de los gases]], [[Disoluciones y solubilidad]], [[Coloides y sistemas dispersos]]. N5 (reacciones y profundización): [[Ácidos y bases]], [[Química nuclear]], [[Reacciones orgánicas y mecanismos]], [[Polímeros y macromoléculas]], [[Química de coordinación]], [[Química analítica y espectroscopía]]. Química pasa de 22 a 31 notas de fundamentos. Pendiente: pasada de casos con fuentes reales (WebFetch). Plan en [[Plan de expansión 2026-06-14]].
 
