@@ -9,7 +9,7 @@ Eje del vault: **paleontología** — las demás disciplinas son ramas que la su
 | Disciplina | Notas de fundamentos | Notas de casos |
 |---|---|---|
 | Paleontología (eje) | 117 (N0–N5 + taxa icónicos + ~80 clados dinosaurianos) | 16 |
-| Biología | 62 (N0–N5, incluye 10 reptiles modernos + 19 órdenes de insectos) | 22 |
+| Biología | 78 (N0–N5, los 5 reinos: animales, plantas, hongos, protistas, procariotas) | 22 |
 | Geología | 40 (N0–N5, incluye eras + eones + 4 ciclos profundos) | 17 |
 | Antropología | 67 (N0–N5 + 46 notas Hominoidea) | 11 |
 | Química | 22 (N0–N5) | 9 |
@@ -40,7 +40,7 @@ Obsidian Ciencias/
 │
 ├── Biología/
 │   ├── N0-N5/                       fundamentos teóricos
-│   ├── N4 - Taxonomía biológica/    incluye 10 reptiles modernos + 19 órdenes de insectos
+│   ├── N4 - Taxonomía biológica/    los 5 reinos: animales, plantas, hongos, protistas, procariotas
 │   └── Casos - */                   herpetología, entomología, ecología…
 │
 ├── Geología/
@@ -69,8 +69,9 @@ Obsidian Ciencias/
 
 ## Estado actual
 
-**~397 notas** · las **5 disciplinas con currículum N0–N5 completo** · expansión taxonómica masiva en dos pasadas:
-- **Dinosauria** (~80 notas N4): árbol completo Saurischia/Ornithischia con clados y familias (Saurischia, Genasauria, Abelisauroidea, Ceratopsidae…); más 10 notas de reptiles modernos y 19 órdenes de insectos.
+**~413 notas** · las **5 disciplinas con currículum N0–N5 completo** · grafo **sin enlaces rotos**:
+- **Los cinco reinos** (Biología N4): reino Fungi (7 notas), plantas en profundidad de briófitos a angiospermas (7 notas), protistas y procariotas, además de animales (vertebrados, 19 órdenes de insectos, 10 reptiles modernos).
+- **Dinosauria** (~80 notas N4): árbol completo Saurischia/Ornithischia con clados y familias (Saurischia, Genasauria, Abelisauroidea, Ceratopsidae…).
 - **Hominoidea** (~46 notas N4): desde Strepsirrhini y Tarsiiformes hasta *Homo sapiens*, incluyendo hominoideos del Mioceno (Proconsul, Sivapithecus, Dryopithecus, Graecopithecus, Kenyapithecus), australopitecinos, parántropos y todas las especies del género *Homo*.
 - **~72 notas de casos reales** de ScienceDaily, Phys.org, Quanta Magazine y Science News, agrupadas por subtema con hubs de navegación.
 - **10 MOCs temáticos** transversales.
@@ -112,5 +113,5 @@ Obsidian Ciencias/
 Ver `.gitignore` para el listado completo.
 
 <!-- profile-excerpt -->
-Vault Obsidian construido como **cerebro virtual de ciencias** — ~397 notas N0→N5 con eje en **paleontología** y ramas en **biología, geología, antropología y química** (expansión taxonómica completa de Dinosauria y Hominoidea, grafo sin enlaces rotos). Disponible en [paleo.sergiocubelli.space](https://paleo.sergiocubelli.space).
+Vault Obsidian construido como **cerebro virtual de ciencias** — ~413 notas N0→N5 con eje en **paleontología** y ramas en **biología, geología, antropología y química** (los cinco reinos cubiertos, árbol completo de Dinosauria y Hominoidea, grafo sin enlaces rotos). Disponible en [paleo.sergiocubelli.space](https://paleo.sergiocubelli.space).
 <!-- /profile-excerpt -->
