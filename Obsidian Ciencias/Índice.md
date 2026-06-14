@@ -2,7 +2,7 @@
 tipo: MOC
 rol: índice-maestro
 actualizado: 2026-06-14
-notas_totales: 449
+notas_totales: 451
 fuente_base: ScienceDaily + colecciones museísticas + bases especializadas
 eje_principal: paleontología
 ---
@@ -11,7 +11,7 @@ eje_principal: paleontología
 
 > **Punto de entrada del vault.** Siempre consultar aquí primero. Toda nota nueva debe agregarse a este índice.
 
-**Estado actual**: **~449 notas** · 5 disciplinas con **N0-N5 completos** en paleontología, geología, biología, química y antropología · 10 MOCs temáticos · catálogo de fuentes ampliado · ~72 notas de casos reales · grafo **sin enlaces rotos**. Cobertura taxonómica: árbol completo de Dinosauria (~80 notas N4), Hominoidea (46 notas N4), reptiles modernos, 19 órdenes de insectos y —desde la **Fase A (2026-06-14)**— los **cinco reinos**: reino Fungi (7 notas), plantas en profundidad (briófitos→angiospermas, 7 notas) y procariotas/protistas. Plan de expansión vigente en [[Plan de expansión 2026-06-14]]. Catálogo de fuentes en [[Fuentes]].
+**Estado actual**: **~451 notas** · 5 disciplinas con **N0-N5 completos** en paleontología, geología, biología, química y antropología · 12 MOCs temáticos · catálogo de fuentes ampliado · ~72 notas de casos reales · grafo **sin enlaces rotos**. Cobertura taxonómica: árbol completo de Dinosauria (~80 notas N4), Hominoidea (46 notas N4), reptiles modernos, 19 órdenes de insectos y —desde la **Fase A (2026-06-14)**— los **cinco reinos**: reino Fungi (7 notas), plantas en profundidad (briófitos→angiospermas, 7 notas) y procariotas/protistas. Plan de expansión vigente en [[Plan de expansión 2026-06-14]]. Catálogo de fuentes en [[Fuentes]].
 
 ## Cómo navegar
 
@@ -634,6 +634,8 @@ eje_principal: paleontología
 - [[MOC Catástrofes globales]] — impactos, LIPs, glaciaciones, anoxia, cambio climático.
 - [[MOC Materiales y enlaces]] — de la molécula al sólido funcional, química → tecnología.
 - [[MOC Vida temprana]] — Hadeico → Cámbrico, transversal Geo + Paleo + Bio.
+- [[MOC Árbol de la vida]] — los cinco reinos y los vertebrados orden por orden; mapa de la taxonomía completa.
+- [[MOC Energía y materia]] — del átomo a la Tierra y la vida; materia y sus transformaciones de energía.
 
 ## Fuentes
 
@@ -686,6 +688,8 @@ eje_principal: paleontología
 ## Historial de actualizaciones
 
 > Cronología de cambios del vault (lo más reciente arriba). Movido al pie para no estorbar la navegación.
+
+> **Actualización 2026-06-14 (Fase E — MOCs transversales, +2 MOCs)**: cierre del plan de expansión con dos índices temáticos que tejen el grafo ahora que la taxonomía está completa. [[MOC Árbol de la vida]] (los cinco reinos + vertebrados orden por orden + las grandes transiciones evolutivas) y [[MOC Energía y materia]] (del átomo a la Tierra y la vida; materia y transformaciones de energía). Se decidió NO inflar N0-N1 (ya son capas de introducción completas). Pendiente con fuentes reales (WebFetch): casos nuevos de química y antropología. Plan en [[Plan de expansión 2026-06-14]].
 
 > **Actualización 2026-06-14 (Fase D — Geología N4: mineralogía y petrología, +6 notas)**: refuerzo del N4 de geología (de 5 a 11 notas), el más flaco de la disciplina. Mineralogía: [[Cristalografía y sistemas cristalinos]], [[Silicatos]], [[Minerales no silicatados]], [[Gemas y gemología]]. Petrología: [[Petrología ígnea]] (Bowen, QAPF/TAS, diferenciación) y [[Facies metamórficas]] (minerales índice, campos P-T). Los temas de procesos (suelos, vulcanismo, geomorfología) ya estaban cubiertos en N3, así que no se duplicaron. Plan en [[Plan de expansión 2026-06-14]].
 

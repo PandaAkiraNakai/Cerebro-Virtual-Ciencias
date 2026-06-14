@@ -69,13 +69,13 @@ Obsidian Ciencias/
 
 ## Estado actual
 
-**~449 notas** · las **5 disciplinas con currículum N0–N5 completo** · grafo **sin enlaces rotos**:
+**~451 notas** · las **5 disciplinas con currículum N0–N5 completo** · grafo **sin enlaces rotos**:
 - **Los cinco reinos** (Biología N4): reino Fungi (7 notas), plantas en profundidad de briófitos a angiospermas (7 notas), protistas y procariotas.
 - **Vertebrados por órdenes**: mamíferos (10 notas), aves (8, dinosaurios vivientes), peces y anfibios (3), además de 19 órdenes de insectos y 10 reptiles modernos.
 - **Dinosauria** (~80 notas N4): árbol completo Saurischia/Ornithischia con clados y familias (Saurischia, Genasauria, Abelisauroidea, Ceratopsidae…).
 - **Hominoidea** (~46 notas N4): desde Strepsirrhini y Tarsiiformes hasta *Homo sapiens*, incluyendo hominoideos del Mioceno (Proconsul, Sivapithecus, Dryopithecus, Graecopithecus, Kenyapithecus), australopitecinos, parántropos y todas las especies del género *Homo*.
 - **~72 notas de casos reales** de ScienceDaily, Phys.org, Quanta Magazine y Science News, agrupadas por subtema con hubs de navegación.
-- **10 MOCs temáticos** transversales.
+- **12 MOCs temáticos** transversales (incluido el Árbol de la vida y Energía y materia).
 - **Catálogo de ~130 fuentes** con estadísticas verificadas.
 
 ## Cómo usarlo
@@ -114,5 +114,5 @@ Obsidian Ciencias/
 Ver `.gitignore` para el listado completo.
 
 <!-- profile-excerpt -->
-Vault Obsidian construido como **cerebro virtual de ciencias** — ~449 notas N0→N5 con eje en **paleontología** y ramas en **biología, geología, antropología y química** (los cinco reinos, los vertebrados por órdenes y mineralogía/petrología, árbol completo de Dinosauria y Hominoidea, grafo sin enlaces rotos). Disponible en [paleo.sergiocubelli.space](https://paleo.sergiocubelli.space).
+Vault Obsidian construido como **cerebro virtual de ciencias** — ~451 notas N0→N5 con eje en **paleontología** y ramas en **biología, geología, antropología y química** (los cinco reinos, los vertebrados por órdenes y mineralogía/petrología, 12 MOCs transversales, grafo sin enlaces rotos). Disponible en [paleo.sergiocubelli.space](https://paleo.sergiocubelli.space).
 <!-- /profile-excerpt -->
