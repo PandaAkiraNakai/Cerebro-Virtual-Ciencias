@@ -2,7 +2,7 @@
 tipo: MOC
 rol: índice-maestro
 actualizado: 2026-06-14
-notas_totales: 458
+notas_totales: 459
 fuente_base: ScienceDaily + colecciones museísticas + bases especializadas
 eje_principal: paleontología
 ---
@@ -11,7 +11,7 @@ eje_principal: paleontología
 
 > **Punto de entrada del vault.** Siempre consultar aquí primero. Toda nota nueva debe agregarse a este índice.
 
-**Estado actual**: **~458 notas** · 5 disciplinas con **N0-N5 completos** en paleontología, geología, biología, química y antropología · 12 MOCs temáticos · catálogo de fuentes ampliado · ~79 notas de casos reales · grafo **sin enlaces rotos**. Cobertura taxonómica: árbol completo de Dinosauria (~80 notas N4), Hominoidea (46 notas N4), reptiles modernos, 19 órdenes de insectos y —desde la **Fase A (2026-06-14)**— los **cinco reinos**: reino Fungi (7 notas), plantas en profundidad (briófitos→angiospermas, 7 notas) y procariotas/protistas. Plan de expansión vigente en [[Plan de expansión 2026-06-14]]. Catálogo de fuentes en [[Fuentes]].
+**Estado actual**: **~458 notas** · 5 disciplinas con **N0-N5 completos** en paleontología, geología, biología, química y antropología · 12 MOCs temáticos · catálogo de fuentes ampliado · ~79 notas de casos reales · grafo **sin enlaces rotos**. Cobertura taxonómica: árbol completo de Dinosauria (~80 notas N4), Hominoidea (46 notas N4), reptiles modernos, 19 órdenes de insectos y —desde la **Fase A (2026-06-14)**— los **cinco reinos**: reino Fungi (7 notas), plantas en profundidad (briófitos→angiospermas, 7 notas) y procariotas/protistas. Plan de expansión completado en [[Plan de expansión 2026-06-14]]; próximos pasos en [[Plan v2 - mecanismos y cosmos 2026-06-14]]. Catálogo de fuentes en [[Fuentes]].
 
 ## Cómo navegar
 
