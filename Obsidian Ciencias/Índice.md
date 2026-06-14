@@ -2,7 +2,7 @@
 tipo: MOC
 rol: índice-maestro
 actualizado: 2026-06-14
-notas_totales: 443
+notas_totales: 449
 fuente_base: ScienceDaily + colecciones museísticas + bases especializadas
 eje_principal: paleontología
 ---
@@ -11,7 +11,7 @@ eje_principal: paleontología
 
 > **Punto de entrada del vault.** Siempre consultar aquí primero. Toda nota nueva debe agregarse a este índice.
 
-**Estado actual**: **~443 notas** · 5 disciplinas con **N0-N5 completos** en paleontología, geología, biología, química y antropología · 10 MOCs temáticos · catálogo de fuentes ampliado · ~72 notas de casos reales · grafo **sin enlaces rotos**. Cobertura taxonómica: árbol completo de Dinosauria (~80 notas N4), Hominoidea (46 notas N4), reptiles modernos, 19 órdenes de insectos y —desde la **Fase A (2026-06-14)**— los **cinco reinos**: reino Fungi (7 notas), plantas en profundidad (briófitos→angiospermas, 7 notas) y procariotas/protistas. Plan de expansión vigente en [[Plan de expansión 2026-06-14]]. Catálogo de fuentes en [[Fuentes]].
+**Estado actual**: **~449 notas** · 5 disciplinas con **N0-N5 completos** en paleontología, geología, biología, química y antropología · 10 MOCs temáticos · catálogo de fuentes ampliado · ~72 notas de casos reales · grafo **sin enlaces rotos**. Cobertura taxonómica: árbol completo de Dinosauria (~80 notas N4), Hominoidea (46 notas N4), reptiles modernos, 19 órdenes de insectos y —desde la **Fase A (2026-06-14)**— los **cinco reinos**: reino Fungi (7 notas), plantas en profundidad (briófitos→angiospermas, 7 notas) y procariotas/protistas. Plan de expansión vigente en [[Plan de expansión 2026-06-14]]. Catálogo de fuentes en [[Fuentes]].
 
 ## Cómo navegar
 
@@ -396,9 +396,15 @@ eje_principal: paleontología
 
 ### N4 — Minerales y rocas
 - [[Minerales - definición y clasificación]] — Mohs, Strunz, silicatos.
+- [[Cristalografía y sistemas cristalinos]] — 7 sistemas, 14 redes de Bravais, simetría, polimorfismo.
+- [[Silicatos]] — la clase dominante (~90% de la corteza); del nesosilicato al tectosilicato.
+- [[Minerales no silicatados]] — óxidos, sulfuros, carbonatos, sulfatos, haluros, nativos.
+- [[Gemas y gemología]] — las 4 C, génesis, idiocromático/alocromático, gemas orgánicas.
 - [[Rocas ígneas]] — granito, basalto, serie de Bowen.
+- [[Petrología ígnea]] — magmas, serie de Bowen, diferenciación, QAPF/TAS, series tectónicas.
 - [[Rocas sedimentarias]] — clásticas, químicas, biogénicas.
 - [[Rocas metamórficas]] — foliación, grados, facies.
+- [[Facies metamórficas]] — tipos de metamorfismo, minerales índice, campos P-T, blueschist→eclogita.
 - [[Yacimientos minerales]] — magmáticos, hidrotermales, sedimentarios; recursos críticos del s. XXI.
 
 ### N5 — Historia de la Tierra
@@ -680,6 +686,8 @@ eje_principal: paleontología
 ## Historial de actualizaciones
 
 > Cronología de cambios del vault (lo más reciente arriba). Movido al pie para no estorbar la navegación.
+
+> **Actualización 2026-06-14 (Fase D — Geología N4: mineralogía y petrología, +6 notas)**: refuerzo del N4 de geología (de 5 a 11 notas), el más flaco de la disciplina. Mineralogía: [[Cristalografía y sistemas cristalinos]], [[Silicatos]], [[Minerales no silicatados]], [[Gemas y gemología]]. Petrología: [[Petrología ígnea]] (Bowen, QAPF/TAS, diferenciación) y [[Facies metamórficas]] (minerales índice, campos P-T). Los temas de procesos (suelos, vulcanismo, geomorfología) ya estaban cubiertos en N3, así que no se duplicaron. Plan en [[Plan de expansión 2026-06-14]].
 
 > **Actualización 2026-06-14 (Fase C — Vertebrados a nivel de órdenes, +21 notas)**: cobertura de los vertebrados modernos al mismo detalle que reptiles e insectos, conectando con el eje paleo. **Mamíferos** (10): [[Mamíferos - órdenes]], [[Monotremata]], [[Marsupiales]], [[Xenarthra]], [[Afrotheria]], [[Rodentia]], [[Chiroptera]], [[Carnivora]], [[Cetartiodactyla]], [[Perissodactyla]]. **Aves** (8, dinosaurios vivientes): [[Aves - órdenes]], [[Palaeognathae]], [[Galloanserae]], [[Neoaves]], [[Passeriformes]], [[Rapaces]], [[Aves acuáticas y costeras]], [[Psittaciformes y afines]]. **Peces y anfibios** (3): [[Condrictios]], [[Actinopterigios]], [[Anfibios modernos]]. Plan en [[Plan de expansión 2026-06-14]].
 

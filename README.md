@@ -10,7 +10,7 @@ Eje del vault: **paleontología** — las demás disciplinas son ramas que la su
 |---|---|---|
 | Paleontología (eje) | 117 (N0–N5 + taxa icónicos + ~80 clados dinosaurianos) | 16 |
 | Biología | 99 (N0–N5, los 5 reinos + vertebrados por órdenes: mamíferos, aves, peces, anfibios) | 22 |
-| Geología | 40 (N0–N5, incluye eras + eones + 4 ciclos profundos) | 17 |
+| Geología | 46 (N0–N5, eras + eones + ciclos + mineralogía/petrología) | 17 |
 | Antropología | 67 (N0–N5 + 46 notas Hominoidea) | 11 |
 | Química | 31 (N0–N5, gases/disoluciones, ácido-base, nuclear, orgánica, polímeros, coordinación) | 9 |
 
@@ -69,7 +69,7 @@ Obsidian Ciencias/
 
 ## Estado actual
 
-**~443 notas** · las **5 disciplinas con currículum N0–N5 completo** · grafo **sin enlaces rotos**:
+**~449 notas** · las **5 disciplinas con currículum N0–N5 completo** · grafo **sin enlaces rotos**:
 - **Los cinco reinos** (Biología N4): reino Fungi (7 notas), plantas en profundidad de briófitos a angiospermas (7 notas), protistas y procariotas.
 - **Vertebrados por órdenes**: mamíferos (10 notas), aves (8, dinosaurios vivientes), peces y anfibios (3), además de 19 órdenes de insectos y 10 reptiles modernos.
 - **Dinosauria** (~80 notas N4): árbol completo Saurischia/Ornithischia con clados y familias (Saurischia, Genasauria, Abelisauroidea, Ceratopsidae…).
@@ -114,5 +114,5 @@ Obsidian Ciencias/
 Ver `.gitignore` para el listado completo.
 
 <!-- profile-excerpt -->
-Vault Obsidian construido como **cerebro virtual de ciencias** — ~443 notas N0→N5 con eje en **paleontología** y ramas en **biología, geología, antropología y química** (los cinco reinos y los vertebrados por órdenes, árbol completo de Dinosauria y Hominoidea, grafo sin enlaces rotos). Disponible en [paleo.sergiocubelli.space](https://paleo.sergiocubelli.space).
+Vault Obsidian construido como **cerebro virtual de ciencias** — ~449 notas N0→N5 con eje en **paleontología** y ramas en **biología, geología, antropología y química** (los cinco reinos, los vertebrados por órdenes y mineralogía/petrología, árbol completo de Dinosauria y Hominoidea, grafo sin enlaces rotos). Disponible en [paleo.sergiocubelli.space](https://paleo.sergiocubelli.space).
 <!-- /profile-excerpt -->
