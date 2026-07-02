@@ -1,12 +1,14 @@
 ---
 tipo: plan
 fecha_inicio: 2026-06-14
-estado: pendiente (no iniciado)
+estado: en progreso (Fase F completada 2026-07-02; fases G–J pendientes)
 ---
 
 # Plan v2 — De la taxonomía a los mecanismos y el cosmos
 
 > Plan a futuro tras completar el [[Plan de expansión 2026-06-14]] (fases A–E + casos). El vault ya tiene **breadth taxonómica** completa (qué seres y cosas existen). El plan v2 ataca **profundidad (N5), capas medias (N2/N3), mecanismos e integración**, y añade una **rama cósmica** nueva.
+
+> **Estado 2026-07-02 — Fase F completada.** Rama de **Astronomía** creada con estructura N0–N5 completa: 9 notas (N0: Qué es la astronomía, Escala del universo; N2: Big Bang y cosmología, Nucleosíntesis estelar, Evolución estelar, Formación del Sistema Solar; N3: Métodos de la astronomía; N4: Exoplanetas y zona habitable, Meteoritos e impactos; N5: Astrobiología y origen de la vida) + MOC transversal "Del Big Bang a los humanos" que ata las 6 disciplinas. Wikilinks verificados, 0 enlaces rotos. Vault pasa de ~458 a **~468 notas**. Próxima fase: **G (Antropología, N2/N3/N5)**.
 
 ## Diagnóstico de partida (458 notas)
 
@@ -25,9 +27,9 @@ estado: pendiente (no iniciado)
 
 ## Fases
 
-### 🔭 Fase F — Astronomía y astrobiología (rama nueva)
+### 🔭 Fase F — Astronomía y astrobiología (rama nueva) ✅ COMPLETADA 2026-07-02
 El arco **Big Bang → elementos → planeta → vida**; la raíz que conecta las 5 disciplinas. Nueva área de nivel superior (🔭 Astronomía) con sus N-niveles.
-- Big Bang y cosmología · **Nucleosíntesis** (origen de los elementos → química) · El Sol y las estrellas (evolución estelar) · Formación del Sistema Solar (→ geología) · Exoplanetas y zona habitable · **Astrobiología y origen de la vida** (→ biología/paleo) · Meteoritos e impactos · Escala del universo · Métodos de la astronomía. *(~9 notas)*
+- ✅ Big Bang y cosmología · ✅ **Nucleosíntesis** (origen de los elementos → química) · ✅ El Sol y las estrellas (evolución estelar) · ✅ Formación del Sistema Solar (→ geología) · ✅ Exoplanetas y zona habitable · ✅ **Astrobiología y origen de la vida** (→ biología/paleo) · ✅ Meteoritos e impactos · ✅ Escala del universo · ✅ Métodos de la astronomía. *(9 notas)* + MOC transversal "Del Big Bang a los humanos".
 
 ### 🧍 Fase G — Antropología: la historia humana (N2/N3/N5)
 Equilibrar la disciplina más descompensada.

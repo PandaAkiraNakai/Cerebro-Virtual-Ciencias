@@ -1,8 +1,8 @@
 ---
 tipo: MOC
 rol: índice-maestro
-actualizado: 2026-06-14
-notas_totales: 459
+actualizado: 2026-07-02
+notas_totales: 468
 fuente_base: ScienceDaily + colecciones museísticas + bases especializadas
 eje_principal: paleontología
 ---
@@ -11,7 +11,7 @@ eje_principal: paleontología
 
 > **Punto de entrada del vault.** Siempre consultar aquí primero. Toda nota nueva debe agregarse a este índice.
 
-**Estado actual**: **~458 notas** · 5 disciplinas con **N0-N5 completos** en paleontología, geología, biología, química y antropología · 12 MOCs temáticos · catálogo de fuentes ampliado · ~79 notas de casos reales · grafo **sin enlaces rotos**. Cobertura taxonómica: árbol completo de Dinosauria (~80 notas N4), Hominoidea (46 notas N4), reptiles modernos, 19 órdenes de insectos y —desde la **Fase A (2026-06-14)**— los **cinco reinos**: reino Fungi (7 notas), plantas en profundidad (briófitos→angiospermas, 7 notas) y procariotas/protistas. Plan de expansión completado en [[Plan de expansión 2026-06-14]]; próximos pasos en [[Plan v2 - mecanismos y cosmos 2026-06-14]]. Catálogo de fuentes en [[Fuentes]].
+**Estado actual**: **~468 notas** · 6 disciplinas con **N0-N5 completos** en paleontología, geología, biología, química, antropología y —desde la **Fase F (2026-07-02)**— **astronomía** · 13 MOCs temáticos · catálogo de fuentes ampliado · ~79 notas de casos reales · grafo **sin enlaces rotos**. Cobertura taxonómica: árbol completo de Dinosauria (~80 notas N4), Hominoidea (46 notas N4), reptiles modernos, 19 órdenes de insectos y —desde la **Fase A (2026-06-14)**— los **cinco reinos**: reino Fungi (7 notas), plantas en profundidad (briófitos→angiospermas, 7 notas) y procariotas/protistas. **Fase F (2026-07-02)** añade la **raíz cósmica** del vault: rama de Astronomía con 9 notas (Big Bang, nucleosíntesis, evolución estelar, formación del Sistema Solar, exoplanetas y zona habitable, meteoritos e impactos, escala del universo, métodos de la astronomía, astrobiología y origen de la vida) + MOC transversal "Del Big Bang a los humanos" que ata las 6 disciplinas. Plan v2 (Fase F completada) en [[Plan v2 - mecanismos y cosmos 2026-06-14]]; próximas fases G–J pendientes. Catálogo de fuentes en [[Fuentes]].
 
 ## Cómo navegar
 
@@ -20,6 +20,32 @@ eje_principal: paleontología
 - **`_MOC/`** = índices temáticos transversales entre disciplinas.
 - **`_Fuentes/`** = catálogo de repositorios autorizados.
 - **`_Plan/`** = logs de progreso del vault.
+
+---
+
+## 🔭 Astronomía
+
+> Rama cósmica, la raíz del vault. Añadida en la **Fase F** (2026-07-02) para atar el arco Big Bang → elementos → planetas → vida que conecta todas las demás disciplinas.
+
+### N0 — Fundamentos
+- [[Qué es la astronomía]] — definición, objeto, escala, relación con el resto del vault.
+- [[Escala del universo]] — potencias de diez, unidades astronómicas, paradoja de Fermi.
+
+### N2 — Procesos cósmicos
+- [[Big Bang y cosmología]] — origen del universo, 13.8 Ga, CMB, materia/energía oscura.
+- [[Nucleosíntesis estelar]] — origen de los elementos químicos en estrellas y supernovas (→ química).
+- [[Evolución estelar - el Sol y las estrellas]] — vida de las estrellas y los restos estelares.
+- [[Formación del Sistema Solar]] — 4.6 Ga, nebulosa protosolar, acreción, Theia (→ geología).
+
+### N3 — Métodos
+- [[Métodos de la astronomía]] — telescopios, espectroscopía, detección de exoplanetas, ondas gravitacionales.
+
+### N4 — Objetos astronómicos
+- [[Exoplanetas y zona habitable]] — censo de planetas fuera del Sistema Solar, habitabilidad, biosignaturas.
+- [[Meteoritos e impactos]] — materia extraterrestre en la Tierra, cráteres, efectos, edad del Sistema Solar.
+
+### N5 — Astrobiología
+- [[Astrobiología y origen de la vida]] — origen de la vida, escenarios, lugares de interés (Marte, Europa, Encélado, Titán), SETI.
 
 ---
 
@@ -643,6 +669,7 @@ eje_principal: paleontología
 - [[MOC Vida temprana]] — Hadeico → Cámbrico, transversal Geo + Paleo + Bio.
 - [[MOC Árbol de la vida]] — los cinco reinos y los vertebrados orden por orden; mapa de la taxonomía completa.
 - [[MOC Energía y materia]] — del átomo a la Tierra y la vida; materia y sus transformaciones de energía.
+- [[MOC Del Big Bang a los humanos]] — la raíz cósmica del vault; arco Big Bang → elementos → planetas → vida → humanos, transversal a las 6 disciplinas.
 
 ## Fuentes
 
@@ -695,6 +722,8 @@ eje_principal: paleontología
 ## Historial de actualizaciones
 
 > Cronología de cambios del vault (lo más reciente arriba). Movido al pie para no estorbar la navegación.
+
+> **Actualización 2026-07-02 (Fase F — Astronomía: la raíz cósmica, +9 notas + 1 MOC)**: apertura de la **6ª disciplina** del vault, con su estructura N0–N5 completa. N0: [[Qué es la astronomía]], [[Escala del universo]]. N2: [[Big Bang y cosmología]], [[Nucleosíntesis estelar]], [[Evolución estelar - el Sol y las estrellas]], [[Formación del Sistema Solar]]. N3: [[Métodos de la astronomía]]. N4: [[Exoplanetas y zona habitable]], [[Meteoritos e impactos]]. N5: [[Astrobiología y origen de la vida]]. Nuevo MOC transversal [[MOC Del Big Bang a los humanos]] que ata el arco Big Bang → elementos → planetas → vida → humanos a través de las 6 disciplinas. Wikilinks verificados: **0 enlaces rotos**. Plan v2 (Fase F) en [[Plan v2 - mecanismos y cosmos 2026-06-14]]; fases G–J pendientes.
 
 > **Actualización 2026-06-14 (casos con fuentes reales, +7 casos)**: pasada de casos vía WebFetch a ScienceDaily (URLs y citas verificadas). **Química** (4): [[Batería de sodio que almacena el doble y desaliniza]], [[Catalizador de manganeso convierte CO2 en combustible]], [[Catalizador de un solo átomo convierte CO2 en metanol]], [[Hidrógeno limpio a partir de calor residual con perovskitas]]. **Antropología** (3): [[Etiopía - Homo y un Australopithecus desconocido convivieron]], [[Sahelanthropus caminaba erguido hace 7 millones de años]], [[ADN compartido con neandertales y el origen del lenguaje]]. (Se descartó un caso duplicado de Tinshemet ya presente en el vault.)
 
