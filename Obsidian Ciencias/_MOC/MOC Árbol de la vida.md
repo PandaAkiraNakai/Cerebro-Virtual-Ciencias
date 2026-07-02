@@ -19,8 +19,8 @@ Recorrido transversal por **toda la diversidad de los seres vivos**, de los tres
 
 ## Procariotas y protistas
 
-6. [[Bacteria y Archaea]] — los dos dominios procariotas; cianobacterias y extremófilos.
-7. [[Protistas]] — los supergrupos eucariotas (SAR, Excavata, Amoebozoa).
+6. [[Bacteria y Archaea]] · [[Cianobacterias]] · [[Metabolismo y ecología microbiana]] — los procariotas: sus dominios, los que oxigenaron el planeta y su metabolismo.
+7. [[Protistas]] · [[Algas]] — los supergrupos eucariotas (SAR, Excavata, Amoebozoa) y los fotosintetizadores acuáticos.
 
 ## Reino Fungi
 

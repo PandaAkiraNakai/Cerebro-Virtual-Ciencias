@@ -78,4 +78,5 @@ fecha: 2026-04-24
 - [[Comunicación celular]]
 - [[Simbiosis]]
 - [[Hongos - reino fungi]]
+- [[Metabolismo y ecología microbiana]]
 - [[Índice]]

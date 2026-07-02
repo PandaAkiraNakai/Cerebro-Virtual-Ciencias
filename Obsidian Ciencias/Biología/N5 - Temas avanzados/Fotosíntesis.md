@@ -52,6 +52,8 @@ Ecuación global: **6 CO₂ + 6 H₂O + luz → C₆H₁₂O₆ + 6 O₂**. Ocur
 - [[Orgánulos celulares]]
 - [[Teoría endosimbiótica]]
 - [[Bacteria y Archaea]]
+- [[Cianobacterias]]
+- [[Algas]]
 - [[Plantas - briofitos a angiospermas]]
 - [[Anatomía y fisiología vegetal]]
 - [[MOC Energía y materia]]

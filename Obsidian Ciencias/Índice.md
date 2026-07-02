@@ -259,7 +259,9 @@ eje_principal: paleontología
 - [[Vertebrados - clases]] — peces, anfibios, reptiles/aves, mamíferos.
 - [[Plantas - briofitos a angiospermas]] — embriofitos, vasculares, espermatofitas, coevolución con polinizadores.
 - [[Protistas]] — supergrupos eucariotas (SAR, Excavata, Amoebozoa); fitoplancton y patógenos.
+- [[Algas]] — fotosintetizadores acuáticos polifiléticos (verdes, rojas, pardas/kelp, diatomeas).
 - [[Bacteria y Archaea]] — los dos dominios procariotas; cianobacterias y extremófilos.
+- [[Cianobacterias]] — procariotas que oxigenaron el planeta; origen de los cloroplastos.
 
 #### Reino Fungi (7 notas)
 - [[Fungi]] — reino opistoconto, pared de quitina; árbol completo de los hongos.
@@ -351,11 +353,12 @@ eje_principal: paleontología
 - [[Inmunología]] — innata, adaptativa, anticuerpos, vacunas, inmunoterapia.
 - [[Biotecnología y CRISPR]] — edición genómica, biología sintética.
 
-#### Procesos vegetales y fúngicos (4 notas)
+#### Procesos y ecología no-animal (5 notas)
 - [[Fotosíntesis]] — captura de energía luminosa; fase lumínica y ciclo de Calvin, C3/C4/CAM, origen del O₂.
 - [[Anatomía y fisiología vegetal]] — tejidos, raíz/tallo/hoja, xilema/floema, transpiración, hormonas.
 - [[Reproducción de las plantas]] — alternancia de generaciones, semilla, flor, polinización, dispersión.
 - [[Ecología y nutrición de los hongos]] — hifa/micelio, saprótrofos, micorrizas, patógenos, reciclaje.
+- [[Metabolismo y ecología microbiana]] — fotótrofos/quimiótrofos, anaerobios, ciclos biogeoquímicos, extremófilos.
 
 ### Casos reales — herpetología
 - [[Pitviper verde China - especie oculta]]

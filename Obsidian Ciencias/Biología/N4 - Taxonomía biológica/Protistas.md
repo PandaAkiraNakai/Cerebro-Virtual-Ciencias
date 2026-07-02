@@ -54,5 +54,6 @@ fecha: 2026-06-14
 - Archaeplastida
 - [[Bacteria y Archaea]]
 - [[Teoría endosimbiótica]]
+- [[Algas]]
 - [[MOC Vida temprana]]
 - [[Índice]]

@@ -59,5 +59,7 @@ Se distinguen por sus **membranas de éter-lípidos** (en lugar de éster-lípid
 - [[Dominios y reinos]]
 - [[Protistas]]
 - [[Teoría endosimbiótica]]
+- [[Cianobacterias]]
+- [[Metabolismo y ecología microbiana]]
 - [[MOC Vida temprana]]
 - [[Índice]]
