@@ -129,4 +129,6 @@ Los conceptos ecológicos conectan con casos existentes:
 - [[Niveles de organización biológica]]
 - [[Selección natural y evolución]]
 - [[Simbiosis]]
+- [[Fotosíntesis]]
+- [[Ecología y nutrición de los hongos]]
 - [[Índice]]

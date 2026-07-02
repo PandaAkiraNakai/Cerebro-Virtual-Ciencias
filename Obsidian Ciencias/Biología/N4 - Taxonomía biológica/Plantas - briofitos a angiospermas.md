@@ -93,4 +93,7 @@ Plantae
 - [[Especiación]]
 - [[Paleobotánica]]
 - [[Domesticación de plantas y animales]]
+- [[Fotosíntesis]]
+- [[Anatomía y fisiología vegetal]]
+- [[Reproducción de las plantas]]
 - [[Índice]]

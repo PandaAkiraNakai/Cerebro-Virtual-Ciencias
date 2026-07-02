@@ -68,5 +68,6 @@ El ADN mitocondrial (mtDNA) se hereda por vía materna y se usa como reloj molec
 
 - [[La célula]]
 - [[Orgánulos celulares]]
+- [[Fotosíntesis]]
 - [[Humanos en Australia hace 60000 años]]
 - [[Índice]]

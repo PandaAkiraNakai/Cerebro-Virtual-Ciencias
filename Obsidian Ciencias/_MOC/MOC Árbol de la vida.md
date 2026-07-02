@@ -27,34 +27,36 @@ Recorrido transversal por **toda la diversidad de los seres vivos**, de los tres
 8. [[Fungi]] — opistocontos de pared de quitina; el árbol de los hongos.
 9. [[Ascomycota]] · [[Basidiomycota]] · [[Mucoromycota]] · [[Glomeromycota]] — los filos.
 10. [[Líquenes]] · [[Levaduras]] — formas de vida transversales.
+11. [[Ecología y nutrición de los hongos]] — hifa, micorrizas y descomposición: qué hacen los hongos.
 
 ## Reino Plantae
 
-11. [[Plantas - briofitos a angiospermas]] — panorama del linaje Embryophyta.
-12. [[Briófitos]] → [[Pteridófitos]] → [[Gimnospermas]] → [[Angiospermas]] — la conquista de la tierra.
-13. [[Monocotiledóneas]] · [[Eudicotiledóneas]] · [[Familias clave de angiospermas]] — la radiación con flor.
+12. [[Plantas - briofitos a angiospermas]] — panorama del linaje Embryophyta.
+13. [[Briófitos]] → [[Pteridófitos]] → [[Gimnospermas]] → [[Angiospermas]] — la conquista de la tierra.
+14. [[Monocotiledóneas]] · [[Eudicotiledóneas]] · [[Familias clave de angiospermas]] — la radiación con flor.
+15. [[Fotosíntesis]] · [[Anatomía y fisiología vegetal]] · [[Reproducción de las plantas]] — cómo funcionan y se perpetúan las plantas.
 
 ## Reino Animalia — invertebrados
 
-14. [[Filos animales]] — de Porifera a Chordata.
-15. [[Insecta]] — la clase más diversa; los 30 órdenes.
+16. [[Filos animales]] — de Porifera a Chordata.
+17. [[Insecta]] — la clase más diversa; los 30 órdenes.
 
 ## Reino Animalia — vertebrados
 
-16. [[Vertebrados - clases]] — el árbol de los Vertebrata.
-17. [[Condrictios]] · [[Actinopterigios]] — los peces.
-18. [[Anfibios modernos]] — Lissamphibia.
-19. [[Reptiles modernos]] — el árbol de los Squamata, Testudines y Crocodylia.
-20. [[Aves - órdenes]] — los dinosaurios vivientes.
-21. [[Mamíferos - órdenes]] — Prototheria, Metatheria, Placentalia.
+18. [[Vertebrados - clases]] — el árbol de los Vertebrata.
+19. [[Condrictios]] · [[Actinopterigios]] — los peces.
+20. [[Anfibios modernos]] — Lissamphibia.
+21. [[Reptiles modernos]] — el árbol de los Squamata, Testudines y Crocodylia.
+22. [[Aves - órdenes]] — los dinosaurios vivientes.
+23. [[Mamíferos - órdenes]] — Prototheria, Metatheria, Placentalia.
 
 ## Las grandes transiciones (eje paleo)
 
-22. [[Transición agua-tierra]] — sarcopterigios → primeros tetrápodos.
-23. [[Sinápsidos y ancestros de mamíferos]] — el camino hacia los mamíferos.
-24. [[Avialae]] — el origen de las aves dentro de los terópodos.
-25. [[Taxonomía de Dinosauria]] — el árbol completo de los dinosaurios.
-26. [[Taxonomía de Hominoidea]] — del simio al ser humano.
+24. [[Transición agua-tierra]] — sarcopterigios → primeros tetrápodos.
+25. [[Sinápsidos y ancestros de mamíferos]] — el camino hacia los mamíferos.
+26. [[Avialae]] — el origen de las aves dentro de los terópodos.
+27. [[Taxonomía de Dinosauria]] — el árbol completo de los dinosaurios.
+28. [[Taxonomía de Hominoidea]] — del simio al ser humano.
 
 ## MOCs relacionados
 - [[MOC Vida temprana]] — cómo empezó todo (Hadeico → Cámbrico).

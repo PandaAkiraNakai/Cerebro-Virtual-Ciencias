@@ -109,5 +109,6 @@ La simbiosis no es periférica — ha **creado niveles de complejidad**:
 - [[Teoría endosimbiótica]]
 - [[Dominios y reinos]]
 - [[Selección natural y evolución]]
+- [[Ecología y nutrición de los hongos]]
 - [[Microbioma intestinal se transmite por proximidad social]]
 - [[Índice]]

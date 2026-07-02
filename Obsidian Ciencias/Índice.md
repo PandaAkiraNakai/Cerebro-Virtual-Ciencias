@@ -351,6 +351,12 @@ eje_principal: paleontología
 - [[Inmunología]] — innata, adaptativa, anticuerpos, vacunas, inmunoterapia.
 - [[Biotecnología y CRISPR]] — edición genómica, biología sintética.
 
+#### Procesos vegetales y fúngicos (4 notas)
+- [[Fotosíntesis]] — captura de energía luminosa; fase lumínica y ciclo de Calvin, C3/C4/CAM, origen del O₂.
+- [[Anatomía y fisiología vegetal]] — tejidos, raíz/tallo/hoja, xilema/floema, transpiración, hormonas.
+- [[Reproducción de las plantas]] — alternancia de generaciones, semilla, flor, polinización, dispersión.
+- [[Ecología y nutrición de los hongos]] — hifa/micelio, saprótrofos, micorrizas, patógenos, reciclaje.
+
 ### Casos reales — herpetología
 - [[Pitviper verde China - especie oculta]]
 - [[Pit viper Ayeyarwady - Myanmar]]
