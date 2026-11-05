@@ -12,7 +12,7 @@ url: https://doi.org/10.1051/0004-6361/201833910
 
 ## Los pilares
 
-- **Relatividad general** (Einstein, 1915): la gravedad es la curvatura del espaciotiempo. Aplicada a todo el universo, predice que este no puede ser estático.
+- **Relatividad general**, formulada por Einstein en 1915: la gravedad es la curvatura del espaciotiempo. Aplicada a todo el universo, predice que este no puede ser estático.
 - **Principio cosmológico**: a escalas suficientemente grandes, el universo es **homogéneo** (igual en todas partes) e **isótropo** (igual en todas las direcciones). Los mapas de galaxias y el fondo de microondas lo confirman por encima de unos cientos de millones de años luz.
 - **Expansión**: el espacio se estira y las galaxias lejanas se alejan unas de otras (Hubble, 1929).
 

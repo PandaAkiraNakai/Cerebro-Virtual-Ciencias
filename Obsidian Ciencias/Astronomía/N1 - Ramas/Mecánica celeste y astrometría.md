@@ -24,7 +24,7 @@ url: https://openstax.org/details/books/astronomy-2e
 ## Triunfos y límites de la teoría
 
 - **Neptuno (1846)**: Le Verrier calculó dónde debía estar un planeta desconocido a partir de las perturbaciones en la órbita de Urano, y Galle lo encontró casi en el lugar exacto.
-- **El perihelio de Mercurio**: su órbita gira ~43 segundos de arco por siglo más de lo que explica Newton. La **relatividad general** de Einstein (1915) dio exactamente esa cifra.
+- **El perihelio de Mercurio**: su órbita gira ~43 segundos de arco por siglo más de lo que explica Newton. La **relatividad general**, que Einstein publicó en 1915, dio exactamente esa cifra.
 - **Resonancias**: cuerpos cuyos periodos guardan proporciones simples. Las lunas Ío, Europa y Ganímedes están en resonancia 1:2:4, y seis de los planetas de TRAPPIST-1 forman una cadena casi resonante (Gillon et al., 2017).
 - **Caos**: con tres o más cuerpos no hay solución exacta. A escalas de decenas de millones de años, las órbitas del Sistema Solar son caóticas e impredecibles en detalle.
 
