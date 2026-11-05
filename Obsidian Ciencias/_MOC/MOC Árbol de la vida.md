@@ -50,7 +50,7 @@ Recorrido transversal por **toda la diversidad de los seres vivos**, de los tres
 22. [[Aves - órdenes]] — los dinosaurios vivientes.
 23. [[Mamíferos - órdenes]] — Prototheria, Metatheria, Placentalia.
 
-## Las grandes transiciones (eje paleo)
+## Las grandes transiciones (paleontología)
 
 24. [[Transición agua-tierra]] — sarcopterigios → primeros tetrápodos.
 25. [[Sinápsidos y ancestros de mamíferos]] — el camino hacia los mamíferos.

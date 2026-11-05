@@ -1,10 +1,10 @@
 ---
 tipo: MOC
 rol: índice-maestro
-actualizado: 2026-07-02
-notas_totales: 468
+actualizado: 2026-11-05
+notas_totales: 540
 fuente_base: ScienceDaily + colecciones museísticas + bases especializadas
-eje_principal: paleontología
+disciplinas: [astronomía, química, geología, biología, paleontología, antropología]
 ---
 
 # Índice — Cerebro Virtual de Ciencias
@@ -117,7 +117,7 @@ eje_principal: paleontología
 
 ---
 
-## 🦕 Paleontología (eje central)
+## 🦕 Paleontología
 
 ### N0 — Fundamentos
 - [[Qué es la paleontología]] — definición, objeto, escala temporal.
