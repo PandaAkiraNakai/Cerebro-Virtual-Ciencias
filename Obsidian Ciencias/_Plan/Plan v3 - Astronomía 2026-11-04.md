@@ -1,7 +1,7 @@
 ---
 tipo: plan
 fecha_inicio: 2026-11-04
-estado: en progreso (Fases 0 y 1 listas 2026-11-04; sigue la Fase 2)
+estado: en progreso (Fases 0, 1 y 2 listas 2026-11-04; sigue la Fase 3)
 ---
 
 # Plan v3 — Astronomía: de rama introductoria a disciplina completa
@@ -182,7 +182,9 @@ Chile concentra una gran parte de la capacidad de observación óptica y radio d
 - Actualizar las cifras con fecha (exoplanetas: 6 451 al 2026-11-04; parámetros cosmológicos según Planck 2018 y la tensión de Hubble).
 - [[Métodos de la astronomía]] queda como nota panorámica de N3; el detalle pasa a las notas de la Fase 3.
 
-### Fase 2 — N0 y N1: la base (+9)
+### Fase 2 — N0 y N1: la base (+9) ✅ 2026-11-04
+> **Hecho**: 9 notas nuevas con referencias APA verificadas (DOIs en Crossref; datos de NASA, NIST, IAU, ESA/Gaia y los decadales). La carpeta vacía `N1 - Estructura del cosmos` se renombró a `N1 - Ramas`. Astronomía: 19 notas.
+
 - **N0** (+4): Historia de la astronomía (de Ptolomeo a Hubble) · El cielo nocturno y la esfera celeste · Luz y espectro electromagnético · Movimientos de la Tierra y la Luna (estaciones, fases, eclipses, mareas).
 - **N1 Ramas** (+5): Astrofísica · Ciencias planetarias · Astronomía galáctica y extragaláctica · Cosmología · Mecánica celeste y astrometría.
 
