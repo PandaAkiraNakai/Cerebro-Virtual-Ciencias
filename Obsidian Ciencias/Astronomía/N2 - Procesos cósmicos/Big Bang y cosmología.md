@@ -59,6 +59,12 @@ En el modelo ΛCDM (constante cosmológica Λ más materia oscura fría), la exp
 - La materia que forma cada átomo de tu cuerpo y de cada fósil pasó por aquí. Ver [[Nucleosíntesis estelar]].
 - El origen de la Tierra (ver [[Formación de la Tierra y Hadeico]]) es un capítulo tardío de esta historia.
 
+## Para profundizar (N2)
+
+- [[Fondo cósmico de microondas]] · [[Primeras estrellas y reionización]] · [[Formación y evolución de galaxias]]
+- [[Materia oscura]] · [[Energía oscura y expansión acelerada]] · [[Relatividad general]]
+- La rama completa: [[Cosmología]].
+
 ## Referencias
 
 <!-- apa-refs:start -->

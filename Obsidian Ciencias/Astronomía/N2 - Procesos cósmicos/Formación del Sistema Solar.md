@@ -64,6 +64,10 @@ La teoría del **gran impacto** explica la Luna: un cuerpo del tamaño de Marte,
 - → **Meteoritos**: son la materia prima y el registro de los primeros millones de años (ver [[Meteoritos e impactos]]).
 - → **Astrobiología**: las condiciones iniciales del Sistema Solar crearon el escenario donde pudo surgir la vida (ver [[Astrobiología y origen de la vida]]).
 
+## Para profundizar (N2)
+
+- [[Formación estelar]] (el nacimiento del Sol y su disco) · [[Evolución de sistemas planetarios]] (migración, Niza, Grand Tack) · [[Ciencias planetarias]].
+
 ## Referencias
 
 <!-- apa-refs:start -->

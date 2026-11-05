@@ -70,6 +70,11 @@ Las estrellas con más de ~8 M☉ terminan en una **supernova de colapso del nú
 - → **Geología**: la Tierra se forma en el disco que rodeaba al Sol joven (ver [[Formación del Sistema Solar]]).
 - → **Paleontología**: algunas extinciones masivas se relacionan con eventos astronómicos (ver [[Impacto de Chicxulub]] y [[Extinciones masivas]]).
 
+## Para profundizar (N2)
+
+- Antes: [[Formación estelar]]. Después: [[Supernovas y muerte estelar]].
+- La física de fondo: [[Gravitación y órbitas]], [[Luz y espectro electromagnético]] y la rama [[Astrofísica]].
+
 ## Referencias
 
 <!-- apa-refs:start -->

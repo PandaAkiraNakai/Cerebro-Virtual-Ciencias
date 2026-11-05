@@ -74,6 +74,12 @@ Al 2026-11-04 el NASA Exoplanet Archive registra **6 451 exoplanetas confirmados
 - Los **métodos de datación geológicos** comparten la cronometría isotópica (ver [[Métodos de datación]]).
 - El catálogo de fuentes incluye los archivos astronómicos (NASA Exoplanet Archive, MAST, Gaia). Ver [[Fuentes]].
 
+## Para profundizar (N3)
+
+- Instrumentos: [[Telescopios ópticos]], [[Radioastronomía e interferometría]], [[Astronomía espacial]], [[Observatorios de Chile]].
+- Técnicas: [[Espectroscopía]], [[Fotometría y curvas de luz]], [[Escalera de distancias cósmicas]], [[Métodos de detección de exoplanetas]].
+- Nuevas fronteras: [[Astronomía multimensajero]], [[Grandes sondeos y ciencia de datos]].
+
 ## Referencias
 
 <!-- apa-refs:start -->

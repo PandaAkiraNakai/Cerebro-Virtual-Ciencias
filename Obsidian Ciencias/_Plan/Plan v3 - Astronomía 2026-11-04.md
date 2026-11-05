@@ -1,7 +1,7 @@
 ---
 tipo: plan
 fecha_inicio: 2026-11-04
-estado: en progreso (Fases 0, 1 y 2 listas 2026-11-04; sigue la Fase 3)
+estado: en progreso (Fases 0 a 3 listas 2026-11-04; sigue la Fase 4)
 ---
 
 # Plan v3 — Astronomía: de rama introductoria a disciplina completa
@@ -188,7 +188,9 @@ Chile concentra una gran parte de la capacidad de observación óptica y radio d
 - **N0** (+4): Historia de la astronomía (de Ptolomeo a Hubble) · El cielo nocturno y la esfera celeste · Luz y espectro electromagnético · Movimientos de la Tierra y la Luna (estaciones, fases, eclipses, mareas).
 - **N1 Ramas** (+5): Astrofísica · Ciencias planetarias · Astronomía galáctica y extragaláctica · Cosmología · Mecánica celeste y astrometría.
 
-### Fase 3 — N2 y N3: procesos y métodos (+20)
+### Fase 3 — N2 y N3: procesos y métodos (+20) ✅ 2026-11-04
+> **Hecho**: 20 notas con referencias APA verificadas (el plan acumula 96 DOIs comprobados en Crossref, más datos de páginas oficiales). Se añadieron secciones «Para profundizar» en las notas panorámicas. Astronomía: 39 notas.
+
 - **N2 Procesos** (+10): Gravitación y órbitas · Relatividad general · Formación estelar · Supernovas y muerte estelar · Fondo cósmico de microondas · Primeras estrellas y reionización · Formación y evolución de galaxias · Materia oscura · Energía oscura y expansión acelerada · Evolución de sistemas planetarios (migración).
 - **N3 Métodos** (+10): Telescopios ópticos · Radioastronomía e interferometría · Astronomía espacial (rayos X, gamma, infrarrojo) · Espectroscopía · Fotometría y curvas de luz · Escalera de distancias cósmicas · Métodos de detección de exoplanetas · Astronomía multimensajero · Observatorios de Chile · Grandes sondeos y ciencia de datos.
 

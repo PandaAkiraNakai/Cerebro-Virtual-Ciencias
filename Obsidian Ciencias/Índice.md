@@ -11,7 +11,7 @@ eje_principal: paleontología
 
 > **Punto de entrada del vault.** Siempre consultar aquí primero. Toda nota nueva debe agregarse a este índice.
 
-**Estado actual**: **~487 notas** · 6 disciplinas con **N0-N5 completos** en paleontología, geología, biología, química, antropología y —desde la **Fase F (2026-07-02)**— **astronomía** · 13 MOCs temáticos · catálogo de fuentes ampliado · ~79 notas de casos reales · grafo **sin enlaces rotos**. Cobertura taxonómica: árbol completo de Dinosauria (~80 notas N4), Hominoidea (46 notas N4), reptiles modernos, 19 órdenes de insectos y —desde la **Fase A (2026-06-14)**— los **cinco reinos**: reino Fungi (7 notas), plantas en profundidad (briófitos→angiospermas, 7 notas) y procariotas/protistas. **Fase F (2026-07-02)** añade la **raíz cósmica** del vault: rama de Astronomía con 9 notas (Big Bang, nucleosíntesis, evolución estelar, formación del Sistema Solar, exoplanetas y zona habitable, meteoritos e impactos, escala del universo, métodos de la astronomía, astrobiología y origen de la vida) + MOC transversal "Del Big Bang a los humanos" que ata las 6 disciplinas. Plan v2 (Fase F completada) en [[Plan v2 - mecanismos y cosmos 2026-06-14]]; fases G–J en pausa. **Plan v3 (desde 2026-11-04)**: llevar Astronomía a ~100 notas con fuentes verificadas, en [[Plan v3 - Astronomía 2026-11-04]]. Catálogo de fuentes en [[Fuentes]].
+**Estado actual**: **~507 notas** · 6 disciplinas con **N0-N5 completos** en paleontología, geología, biología, química, antropología y —desde la **Fase F (2026-07-02)**— **astronomía** · 13 MOCs temáticos · catálogo de fuentes ampliado · ~79 notas de casos reales · grafo **sin enlaces rotos**. Cobertura taxonómica: árbol completo de Dinosauria (~80 notas N4), Hominoidea (46 notas N4), reptiles modernos, 19 órdenes de insectos y —desde la **Fase A (2026-06-14)**— los **cinco reinos**: reino Fungi (7 notas), plantas en profundidad (briófitos→angiospermas, 7 notas) y procariotas/protistas. **Fase F (2026-07-02)** añade la **raíz cósmica** del vault: rama de Astronomía con 9 notas (Big Bang, nucleosíntesis, evolución estelar, formación del Sistema Solar, exoplanetas y zona habitable, meteoritos e impactos, escala del universo, métodos de la astronomía, astrobiología y origen de la vida) + MOC transversal "Del Big Bang a los humanos" que ata las 6 disciplinas. Plan v2 (Fase F completada) en [[Plan v2 - mecanismos y cosmos 2026-06-14]]; fases G–J en pausa. **Plan v3 (desde 2026-11-04)**: llevar Astronomía a ~100 notas con fuentes verificadas, en [[Plan v3 - Astronomía 2026-11-04]]. Catálogo de fuentes en [[Fuentes]].
 
 ## Cómo navegar
 
@@ -47,9 +47,29 @@ eje_principal: paleontología
 - [[Nucleosíntesis estelar]] — origen de los elementos químicos en estrellas y supernovas (→ química).
 - [[Evolución estelar - el Sol y las estrellas]] — vida de las estrellas y los restos estelares.
 - [[Formación del Sistema Solar]] — 4 567 Ma, nebulosa protosolar, acreción, Theia, migración planetaria (→ geología).
+- [[Gravitación y órbitas]] — tipos de órbita, velocidad de escape, mareas, límite de Roche, colapso gravitatorio.
+- [[Relatividad general]] — espaciotiempo curvo y sus pruebas (1919, Pound-Rebka, Gravity Probe B, S2, EHT), GPS.
+- [[Formación estelar]] — nubes moleculares, protoestrellas, discos (HL Tauri), función inicial de masas, Orión.
+- [[Supernovas y muerte estelar]] — enanas blancas, supernovas de colapso y tipo Ia, SN 1987A, Betelgeuse.
+- [[Fondo cósmico de microondas]] — recombinación, COBE, WMAP, Planck, picos acústicos, polarización.
+- [[Primeras estrellas y reionización]] — edad oscura, población III, línea de 21 cm (EDGES vs SARAS 3), JWST.
+- [[Formación y evolución de galaxias]] — modelo jerárquico, historia de la formación estelar, Gaia-Encélado.
+- [[Materia oscura]] — evidencias (curvas de rotación, cúmulo Bala, CMB), candidatos, LZ, MOND.
+- [[Energía oscura y expansión acelerada]] — supernovas Ia (1998), constante cosmológica, DESI 2025.
+- [[Evolución de sistemas planetarios]] — migración, Júpiter calientes, Niza, Grand Tack, valle de radios, Planeta Nueve.
 
 ### N3 — Métodos
-- [[Métodos de la astronomía]] — telescopios, espectroscopía, detección de exoplanetas, ondas gravitacionales.
+- [[Métodos de la astronomía]] — panorámica: ventanas del espectro, telescopios, espectroscopía, exoplanetas, otras señales.
+- [[Telescopios ópticos]] — apertura y resolución, óptica adaptativa, VLT, ELT, GMT, CCD.
+- [[Radioastronomía e interferometría]] — Jansky, 21 cm, púlsares, síntesis de apertura, ALMA, FAST, SKA.
+- [[Astronomía espacial]] — rayos X (Chandra), gamma (Fermi), Hubble, JWST, Roman, PLATO.
+- [[Espectroscopía]] — espectrógrafos, clasificación espectral, velocidades (HARPS, ESPRESSO), atmósferas de exoplanetas.
+- [[Fotometría y curvas de luz]] — magnitudes y filtros, estrellas variables, tránsitos, Rubin y ALeRCE.
+- [[Escalera de distancias cósmicas]] — paralaje, cefeidas, supernovas Ia, sirenas estándar, tensión de Hubble.
+- [[Métodos de detección de exoplanetas]] — tránsito, velocidad radial, microlente, imagen directa, astrometría, sesgos.
+- [[Astronomía multimensajero]] — ondas gravitacionales (390 señales), GW170817, neutrinos (IceCube), rayos cósmicos (Auger).
+- [[Observatorios de Chile]] — por qué Chile, La Silla, Tololo, Pachón (Rubin), Las Campanas, Paranal, Armazones, ALMA.
+- [[Grandes sondeos y ciencia de datos]] — SDSS, Gaia, DESI, Euclid, Rubin LSST, alertas, aprendizaje automático, Galaxy Zoo.
 
 ### N4 — Objetos astronómicos
 - [[Exoplanetas y zona habitable]] — censo de planetas fuera del Sistema Solar, habitabilidad, biosignaturas.
@@ -742,6 +762,8 @@ eje_principal: paleontología
 ## Historial de actualizaciones
 
 > Cronología de cambios del vault (lo más reciente arriba). Movido al pie para no estorbar la navegación.
+
+> **Actualización 2026-11-04 (Plan v3 — Astronomía, Fase 3: N2 y N3, +20 notas)**: procesos y métodos con referencias APA verificadas (DOIs en Crossref, resúmenes en arXiv y datos de ESO, NASA, ALMA, Rubin, LIGO y DESI al 2026-11-04). N2: [[Gravitación y órbitas]], [[Relatividad general]], [[Formación estelar]], [[Supernovas y muerte estelar]], [[Fondo cósmico de microondas]], [[Primeras estrellas y reionización]], [[Formación y evolución de galaxias]], [[Materia oscura]], [[Energía oscura y expansión acelerada]], [[Evolución de sistemas planetarios]]. N3: [[Telescopios ópticos]], [[Radioastronomía e interferometría]], [[Astronomía espacial]], [[Espectroscopía]], [[Fotometría y curvas de luz]], [[Escalera de distancias cósmicas]], [[Métodos de detección de exoplanetas]], [[Astronomía multimensajero]], [[Observatorios de Chile]], [[Grandes sondeos y ciencia de datos]]. Astronomía pasa de 19 a 39 notas. Plan en [[Plan v3 - Astronomía 2026-11-04]].
 
 > **Actualización 2026-11-04 (Plan v3 — Astronomía, Fase 2: N0 y N1, +9 notas)**: la rama de Astronomía suma sus fundamentos y su capa de ramas, todas con referencias APA verificadas. N0: [[Historia de la astronomía]], [[El cielo nocturno y la esfera celeste]], [[Luz y espectro electromagnético]], [[Movimientos de la Tierra y la Luna]]. N1 (nueva capa): [[Astrofísica]], [[Ciencias planetarias]], [[Astronomía galáctica y extragaláctica]], [[Cosmología]], [[Mecánica celeste y astrometría]]. Astronomía pasa de 10 a 19 notas. Plan en [[Plan v3 - Astronomía 2026-11-04]].
 
