@@ -51,6 +51,10 @@ La sonda **Parker Solar Probe** es el objeto más cercano al Sol que ha construi
 - Su brillo aumenta lentamente. Dentro de unos 1 000 millones de años la Tierra se calentará demasiado para tener océanos (Schröder & Smith, 2008).
 - Las variaciones solares son un forzamiento climático menor comparado con los [[Ciclos de Milankovitch]] en escalas largas.
 
+## Temas avanzados (N5)
+
+- [[Clima espacial]]
+
 ## Referencias
 
 <!-- apa-refs:start -->

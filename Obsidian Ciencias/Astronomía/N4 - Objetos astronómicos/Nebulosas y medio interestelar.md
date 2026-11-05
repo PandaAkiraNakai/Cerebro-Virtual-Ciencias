@@ -52,6 +52,10 @@ Cada átomo de carbono de tu cuerpo dio varias vueltas por este ciclo antes de f
 
 En las nubes frías se han identificado cientos de moléculas, desde el agua y el amoníaco hasta orgánicos complejos (ver [[Espectroscopía]]). El polvo actúa como catalizador de esas reacciones.
 
+## Temas avanzados (N5)
+
+- [[Astroquímica]]
+
 ## Referencias
 
 <!-- apa-refs:start -->

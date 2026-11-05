@@ -54,6 +54,10 @@ Ver [[Meteoritos e impactos]].
 - La misión *Hera* (ESA) estudiará de cerca el resultado.
 - **Apofis**, de ~340 m, pasará el 13 de abril de 2029 a menos de 32 000 km de la Tierra, más cerca que los satélites geoestacionarios, sin riesgo de impacto.
 
+## Temas avanzados (N5)
+
+- [[Defensa planetaria]]
+
 ## Referencias
 
 <!-- apa-refs:start -->

@@ -65,6 +65,10 @@ Hiparco clasificó las estrellas de la 1.ª magnitud (las más brillantes) a la 
 - Con más de 51 000 observaciones de ciencia ciudadana, Kyba et al. (2023) estimaron que entre 2011 y 2022 el brillo del cielo aumentó **entre 7 % y 10 % por año**, más rápido de lo que indican los satélites. Los autores lo atribuyen al cambio en el espectro de la iluminación (los LED blancos emiten mucho azul, que los satélites registran mal) y al ángulo en que se emite la luz.
 - Por eso los sitios astronómicos de Chile tienen normas de protección del cielo nocturno, y los cielos oscuros se consideran hoy un patrimonio natural y cultural.
 
+## Temas avanzados (N5)
+
+- [[Contaminación lumínica y cielos oscuros]] · [[Arqueoastronomía y astronomía cultural]]
+
 ## Referencias
 
 <!-- apa-refs:start -->

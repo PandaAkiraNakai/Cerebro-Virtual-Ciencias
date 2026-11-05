@@ -73,6 +73,10 @@ El paso siguiente es la **caracterización atmosférica**:
 - → **Biología y paleontología**: la [[Astrobiología y origen de la vida]] usa el universo como laboratorio de la vida.
 - → **Métodos**: los métodos de detección y caracterización (ver [[Métodos de la astronomía]]) son los que han llenado el censo planetario.
 
+## Temas avanzados (N5)
+
+- [[Atmósferas de exoplanetas]] · [[Biofirmas y tecnofirmas]]
+
 ## Referencias
 
 <!-- apa-refs:start -->

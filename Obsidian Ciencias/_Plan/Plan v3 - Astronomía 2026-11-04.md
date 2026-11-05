@@ -1,7 +1,7 @@
 ---
 tipo: plan
 fecha_inicio: 2026-11-04
-estado: en progreso (Fases 0 a 4 listas al 2026-11-05; sigue la Fase 5)
+estado: en progreso (Fases 0 a 5 listas al 2026-11-05; sigue la Fase 6)
 ---
 
 # Plan v3 — Astronomía: de rama introductoria a disciplina completa
@@ -200,7 +200,9 @@ Chile concentra una gran parte de la capacidad de observación óptica y radio d
 - **Sistema Solar** (+11): El Sol · Mercurio y Venus · La Luna · Marte · Júpiter y Saturno · Urano y Neptuno · Lunas con océanos (Europa, Encélado, Titán) · Asteroides · Cometas · Cinturón de Kuiper y planetas enanos · Nube de Oort y objetos interestelares.
 - **Estrellas y galaxias** (+13): Tipos de estrellas y diagrama H-R · Estrellas binarias y variables · Enanas blancas · Estrellas de neutrones y púlsares · Agujeros negros estelares · Agujeros negros supermasivos y cuásares · Nebulosas y medio interestelar · Cúmulos estelares · La Vía Láctea · El Grupo Local · Tipos de galaxias · Estructura a gran escala · Transientes (brotes gamma, FRB, kilonovas).
 
-### Fase 5 — N5 (+9)
+### Fase 5 — N5 (+9) ✅ 2026-11-05
+> **Hecho**: 9 notas con referencias verificadas; la carpeta `N5 - Astrobiología` se renombró a `N5 - Temas avanzados`. Astronomía: 72 notas.
+
 Astroquímica (→ Química) · Atmósferas de exoplanetas · Biofirmas y tecnofirmas · Defensa planetaria · Clima espacial · Arqueoastronomía y astronomía cultural (→ Antropología) · Problemas abiertos de la cosmología (tensión de Hubble) · Contaminación lumínica y cielos oscuros · El destino del universo.
 
 ### Fase 6 — Casos reales (~22, en 4 carpetas con nota portada)

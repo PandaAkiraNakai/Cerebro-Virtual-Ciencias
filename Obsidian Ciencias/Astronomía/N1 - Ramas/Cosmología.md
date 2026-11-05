@@ -67,6 +67,10 @@ En la IAU, la cosmología pertenece a la división J, *Galaxies and Cosmology* (
 - → **Física y química**: los elementos ligeros (H, He, Li) se formaron en los primeros minutos del cosmos (ver [[El átomo - partículas subatómicas]]).
 - → **Vault completo**: el arco Big Bang → elementos → estrellas → planetas → vida empieza aquí (ver [[MOC Del Big Bang a los humanos]]).
 
+## Temas avanzados (N5)
+
+- [[Problemas abiertos de la cosmología]] · [[El destino del universo]]
+
 ## Referencias
 
 <!-- apa-refs:start -->

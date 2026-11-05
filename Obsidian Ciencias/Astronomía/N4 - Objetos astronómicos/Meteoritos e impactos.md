@@ -70,6 +70,10 @@ La Luna y otros cuerpos sin atmósfera ni tectónica activa conservan sus cráte
 - → **Química**: elementos traza como el iridio y los orgánicos prebióticos (ver [[Macromoléculas biológicas]]).
 - → **Astrobiología**: el aporte de moléculas orgánicas a la Tierra primitiva (ver [[Astrobiología y origen de la vida]]).
 
+## Temas avanzados (N5)
+
+- [[Defensa planetaria]]
+
 ## Referencias
 
 <!-- apa-refs:start -->

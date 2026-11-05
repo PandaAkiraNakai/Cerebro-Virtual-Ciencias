@@ -73,6 +73,10 @@ Una **biofirma** es una señal observable que, con alta probabilidad, requiere v
 - → **Química**: [[Bioquímica básica]] y química prebiótica.
 - → **Astronomía**: [[Exoplanetas y zona habitable]], [[Meteoritos e impactos]], [[Formación del Sistema Solar]].
 
+## Temas avanzados (N5)
+
+- [[Biofirmas y tecnofirmas]] · [[Astroquímica]] · [[Atmósferas de exoplanetas]]
+
 ## Referencias
 
 <!-- apa-refs:start -->

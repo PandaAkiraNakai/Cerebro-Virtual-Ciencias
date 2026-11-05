@@ -78,6 +78,10 @@ Chile se ha convertido en una de las capitales mundiales de la observación. Sus
 - **Cada desplazamiento nos saca del centro**: la Tierra no es el centro del Sistema Solar, el Sol no es el centro de la galaxia y nuestra galaxia es una entre muchísimas.
 - **La tecnología abre ventanas**: el telescopio, la espectroscopía, la fotografía, la radio, el espacio y los detectores de ondas gravitacionales permitieron, cada uno, observar un universo nuevo.
 
+## Temas avanzados (N5)
+
+- [[Arqueoastronomía y astronomía cultural]]
+
 ## Referencias
 
 <!-- apa-refs:start -->

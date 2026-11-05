@@ -65,6 +65,10 @@ En el modelo ΛCDM (constante cosmológica Λ más materia oscura fría), la exp
 - [[Materia oscura]] · [[Energía oscura y expansión acelerada]] · [[Relatividad general]]
 - La rama completa: [[Cosmología]].
 
+## Temas avanzados (N5)
+
+- [[Problemas abiertos de la cosmología]] · [[El destino del universo]]
+
 ## Referencias
 
 <!-- apa-refs:start -->

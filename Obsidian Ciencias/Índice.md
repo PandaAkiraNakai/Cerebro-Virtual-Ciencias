@@ -11,7 +11,7 @@ eje_principal: paleontología
 
 > **Punto de entrada del vault.** Siempre consultar aquí primero. Toda nota nueva debe agregarse a este índice.
 
-**Estado actual**: **~531 notas** · 6 disciplinas con **N0-N5 completos** en paleontología, geología, biología, química, antropología y —desde la **Fase F (2026-07-02)**— **astronomía** · 13 MOCs temáticos · catálogo de fuentes ampliado · ~79 notas de casos reales · grafo **sin enlaces rotos**. Cobertura taxonómica: árbol completo de Dinosauria (~80 notas N4), Hominoidea (46 notas N4), reptiles modernos, 19 órdenes de insectos y —desde la **Fase A (2026-06-14)**— los **cinco reinos**: reino Fungi (7 notas), plantas en profundidad (briófitos→angiospermas, 7 notas) y procariotas/protistas. **Fase F (2026-07-02)** añade la **raíz cósmica** del vault: rama de Astronomía con 9 notas (Big Bang, nucleosíntesis, evolución estelar, formación del Sistema Solar, exoplanetas y zona habitable, meteoritos e impactos, escala del universo, métodos de la astronomía, astrobiología y origen de la vida) + MOC transversal "Del Big Bang a los humanos" que ata las 6 disciplinas. Plan v2 (Fase F completada) en [[Plan v2 - mecanismos y cosmos 2026-06-14]]; fases G–J en pausa. **Plan v3 (desde 2026-11-04)**: llevar Astronomía a ~100 notas con fuentes verificadas, en [[Plan v3 - Astronomía 2026-11-04]]. Catálogo de fuentes en [[Fuentes]].
+**Estado actual**: **~540 notas** · 6 disciplinas con **N0-N5 completos** en paleontología, geología, biología, química, antropología y —desde la **Fase F (2026-07-02)**— **astronomía** · 13 MOCs temáticos · catálogo de fuentes ampliado · ~79 notas de casos reales · grafo **sin enlaces rotos**. Cobertura taxonómica: árbol completo de Dinosauria (~80 notas N4), Hominoidea (46 notas N4), reptiles modernos, 19 órdenes de insectos y —desde la **Fase A (2026-06-14)**— los **cinco reinos**: reino Fungi (7 notas), plantas en profundidad (briófitos→angiospermas, 7 notas) y procariotas/protistas. **Fase F (2026-07-02)** añade la **raíz cósmica** del vault: rama de Astronomía con 9 notas (Big Bang, nucleosíntesis, evolución estelar, formación del Sistema Solar, exoplanetas y zona habitable, meteoritos e impactos, escala del universo, métodos de la astronomía, astrobiología y origen de la vida) + MOC transversal "Del Big Bang a los humanos" que ata las 6 disciplinas. Plan v2 (Fase F completada) en [[Plan v2 - mecanismos y cosmos 2026-06-14]]; fases G–J en pausa. **Plan v3 (desde 2026-11-04)**: llevar Astronomía a ~100 notas con fuentes verificadas, en [[Plan v3 - Astronomía 2026-11-04]]. Catálogo de fuentes en [[Fuentes]].
 
 ## Cómo navegar
 
@@ -103,8 +103,17 @@ eje_principal: paleontología
 - [[Estructura a gran escala]] — red cósmica, Gran Muralla, Laniakea, BAO, cúmulos de galaxias.
 - [[Transientes - brotes gamma, FRB y kilonovas]] — GRB 221009A, ráfagas rápidas de radio, kilonovas, alertas.
 
-### N5 — Astrobiología
+### N5 — Temas avanzados
 - [[Astrobiología y origen de la vida]] — origen de la vida, escenarios, lugares de interés (Marte, Europa, Encélado, Titán), SETI.
+- [[Astroquímica]] — ~350 moléculas interestelares (CDMS, 2026), hielos vistos por el JWST, aromáticos, química prebiótica.
+- [[Atmósferas de exoplanetas]] — técnicas, CO₂ y fotoquímica en WASP-39 b, mundos rocosos, el debate de K2-18 b.
+- [[Biofirmas y tecnofirmas]] — tipos, falsos positivos, SETI y el caso blc1, ecuación de Drake.
+- [[Defensa planetaria]] — riesgo por tamaños, Cheliábinsk, DART y Hera, NEO Surveyor, 2024 YR4.
+- [[Clima espacial]] — fulguraciones y CME, escala de la NOAA, 1859, 1989, Starlink 2022, tormenta G5 de 2024.
+- [[Arqueoastronomía y astronomía cultural]] — Chankillo, mecanismo de Anticitera, constelaciones oscuras andinas.
+- [[Problemas abiertos de la cosmología]] — tensiones de Hubble y S₈, DESI, litio, inflación, anomalías, asimetría materia-antimateria.
+- [[Contaminación lumínica y cielos oscuros]] — magnitud y crecimiento, impactos, satélites, Norma Lumínica chilena (D.S. N°1/2022).
+- [[El destino del universo]] — futuro del Sol y del Grupo Local, eras del universo, Gran Congelamiento, Desgarro o Colapso.
 
 ---
 
@@ -790,6 +799,8 @@ eje_principal: paleontología
 ## Historial de actualizaciones
 
 > Cronología de cambios del vault (lo más reciente arriba). Movido al pie para no estorbar la navegación.
+
+> **Actualización 2026-11-05 (Plan v3 — Astronomía, Fase 5: N5, +9 notas)**: la carpeta `N5 - Astrobiología` pasa a llamarse `N5 - Temas avanzados`. Nuevas notas con referencias APA verificadas: [[Astroquímica]], [[Atmósferas de exoplanetas]], [[Biofirmas y tecnofirmas]], [[Defensa planetaria]], [[Clima espacial]], [[Arqueoastronomía y astronomía cultural]], [[Problemas abiertos de la cosmología]], [[Contaminación lumínica y cielos oscuros]], [[El destino del universo]]. Astronomía pasa de 63 a 72 notas. Plan en [[Plan v3 - Astronomía 2026-11-04]].
 
 > **Actualización 2026-11-05 (Plan v3 — Astronomía, Fase 4: N4, +24 notas)**: el inventario del cosmos con referencias APA verificadas (DOIs en Crossref, resúmenes en arXiv, fichas técnicas y páginas de lunas de la NASA, base de cuerpos menores del JPL consultada el 2026-11-05). Sistema Solar (11): [[El Sol]], [[Mercurio y Venus]], [[La Luna]], [[Marte]], [[Júpiter y Saturno]], [[Urano y Neptuno]], [[Lunas con océanos]], [[Asteroides]], [[Cometas]], [[Cinturón de Kuiper y planetas enanos]], [[Nube de Oort y objetos interestelares]]. Estrellas y galaxias (13): [[Tipos de estrellas y diagrama H-R]], [[Estrellas binarias y variables]], [[Enanas blancas]], [[Estrellas de neutrones y púlsares]], [[Agujeros negros estelares]], [[Agujeros negros supermasivos y cuásares]], [[Nebulosas y medio interestelar]], [[Cúmulos estelares]], [[La Vía Láctea]], [[El Grupo Local]], [[Tipos de galaxias]], [[Estructura a gran escala]], [[Transientes - brotes gamma, FRB y kilonovas]]. Astronomía pasa de 39 a 63 notas. Plan en [[Plan v3 - Astronomía 2026-11-04]].
 
