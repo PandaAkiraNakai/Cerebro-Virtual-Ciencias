@@ -8,7 +8,7 @@ Ninguna disciplina es el centro: cada una tiene su currículum propio N0–N5 y 
 
 | Disciplina | Notas de fundamentos | Notas de casos |
 |---|---|---|
-| Astronomía | 72 (N0–N5: fundamentos, ramas, procesos, métodos, Sistema Solar, estrellas y galaxias, temas avanzados) | *(fase 6 del Plan v3)* |
+| Astronomía | 72 (N0–N5: fundamentos, ramas, procesos, métodos, Sistema Solar, estrellas y galaxias, temas avanzados) | 30 |
 | Química | 31 (N0–N5, gases/disoluciones, ácido-base, nuclear, orgánica, polímeros, coordinación) | 13 |
 | Geología | 46 (N0–N5, eras + eones + ciclos + mineralogía/petrología) | 17 |
 | Biología | 106 (N0–N5, los 5 reinos + vertebrados por órdenes: mamíferos, aves, peces, anfibios) | 22 |
@@ -33,7 +33,8 @@ Obsidian Ciencias/
 │   ├── N2 - Procesos cósmicos/      Big Bang, nucleosíntesis, estrellas, galaxias, materia y energía oscuras
 │   ├── N3 - Métodos/                telescopios, radio, espacio, espectroscopía, distancias, observatorios de Chile
 │   ├── N4 - Objetos astronómicos/   Sol, planetas, lunas, cuerpos menores, estrellas, agujeros negros, galaxias
-│   └── N5 - Temas avanzados/        astrobiología, astroquímica, biofirmas, defensa planetaria, destino del universo
+│   ├── N5 - Temas avanzados/        astrobiología, astroquímica, biofirmas, defensa planetaria, destino del universo
+│   └── Casos - */                   Sistema Solar, exoplanetas, astrofísica, galaxias y cosmología
 │
 ├── Paleontología/
 │   ├── N0 - Fundamentos/            qué es, fósil, tafonomía
@@ -78,13 +79,13 @@ Obsidian Ciencias/
 
 ## Estado actual
 
-**~540 notas** · las **6 disciplinas con currículum N0–N5** · grafo **sin enlaces rotos**:
-- **Astronomía** (Plan v3, en curso hacia ~100 notas): 72 notas con **referencias APA verificadas**, con DOIs comprobados en Crossref y datos de NASA, ESA, ESO, IAU y el NASA Exoplanet Archive con fecha de consulta.
+**~570 notas** · las **6 disciplinas con currículum N0–N5** · grafo **sin enlaces rotos**:
+- **Astronomía** (Plan v3): 102 notas con **referencias APA verificadas**, con DOIs comprobados en Crossref y datos de NASA, ESA, ESO, IAU y el NASA Exoplanet Archive con fecha de consulta.
 - **Los cinco reinos** (Biología N4): reino Fungi, plantas de briófitos a angiospermas, protistas y procariotas.
 - **Vertebrados por órdenes**: mamíferos, aves (dinosaurios vivientes), peces y anfibios, además de 19 órdenes de insectos y 10 reptiles modernos.
 - **Dinosauria** (~80 notas N4): árbol completo Saurischia/Ornithischia con clados y familias.
 - **Hominoidea** (~46 notas N4): desde Strepsirrhini y Tarsiiformes hasta *Homo sapiens*.
-- **~82 notas de casos reales** con cita y URL verificadas, agrupadas por subtema.
+- **~112 notas de casos reales** con cita y URL verificadas, agrupadas por subtema.
 - **13 MOCs temáticos** transversales, entre ellos «Del Big Bang a los humanos», «Árbol de la vida» y «Energía y materia».
 - **Catálogo de fuentes** por disciplina en `_Fuentes/`.
 
@@ -124,5 +125,5 @@ Obsidian Ciencias/
 Ver `.gitignore` para el listado completo.
 
 <!-- profile-excerpt -->
-Vault Obsidian construido como **cerebro virtual de ciencias** — ~540 notas N0→N5 en seis disciplinas: **astronomía, química, geología, biología, paleontología y antropología**, unidas por el arco Big Bang → vida → humanos. Incluye los cinco reinos, Dinosauria y Hominoidea al detalle, 13 MOCs transversales y una rama de astronomía con **referencias APA verificadas** (DOIs comprobados, datos de NASA/ESA/ESO). Grafo sin enlaces rotos.
+Vault Obsidian construido como **cerebro virtual de ciencias** — ~570 notas N0→N5 en seis disciplinas: **astronomía, química, geología, biología, paleontología y antropología**, unidas por el arco Big Bang → vida → humanos. Incluye los cinco reinos, Dinosauria y Hominoidea al detalle, 13 MOCs transversales y una rama de astronomía con **referencias APA verificadas** (DOIs comprobados, datos de NASA/ESA/ESO). Grafo sin enlaces rotos.
 <!-- /profile-excerpt -->

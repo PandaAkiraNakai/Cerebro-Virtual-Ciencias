@@ -2,7 +2,7 @@
 tipo: MOC
 rol: índice-maestro
 actualizado: 2026-11-05
-notas_totales: 540
+notas_totales: 570
 fuente_base: ScienceDaily + colecciones museísticas + bases especializadas
 disciplinas: [astronomía, química, geología, biología, paleontología, antropología]
 ---
@@ -11,7 +11,7 @@ disciplinas: [astronomía, química, geología, biología, paleontología, antro
 
 > **Punto de entrada del vault.** Siempre consultar aquí primero. Toda nota nueva debe agregarse a este índice.
 
-**Estado actual**: **~540 notas** · 6 disciplinas con **N0-N5 completos** en paleontología, geología, biología, química, antropología y —desde la **Fase F (2026-07-02)**— **astronomía** · 13 MOCs temáticos · catálogo de fuentes ampliado · ~79 notas de casos reales · grafo **sin enlaces rotos**. Cobertura taxonómica: árbol completo de Dinosauria (~80 notas N4), Hominoidea (46 notas N4), reptiles modernos, 19 órdenes de insectos y —desde la **Fase A (2026-06-14)**— los **cinco reinos**: reino Fungi (7 notas), plantas en profundidad (briófitos→angiospermas, 7 notas) y procariotas/protistas. **Fase F (2026-07-02)** añade la **raíz cósmica** del vault: rama de Astronomía con 9 notas (Big Bang, nucleosíntesis, evolución estelar, formación del Sistema Solar, exoplanetas y zona habitable, meteoritos e impactos, escala del universo, métodos de la astronomía, astrobiología y origen de la vida) + MOC transversal "Del Big Bang a los humanos" que ata las 6 disciplinas. Plan v2 (Fase F completada) en [[Plan v2 - mecanismos y cosmos 2026-06-14]]; fases G–J en pausa. **Plan v3 (desde 2026-11-04)**: llevar Astronomía a ~100 notas con fuentes verificadas, en [[Plan v3 - Astronomía 2026-11-04]]. Catálogo de fuentes en [[Fuentes]].
+**Estado actual**: **~570 notas** · 6 disciplinas con **N0-N5 completos** en paleontología, geología, biología, química, antropología y —desde la **Fase F (2026-07-02)**— **astronomía** · 13 MOCs temáticos · catálogo de fuentes ampliado · ~79 notas de casos reales · grafo **sin enlaces rotos**. Cobertura taxonómica: árbol completo de Dinosauria (~80 notas N4), Hominoidea (46 notas N4), reptiles modernos, 19 órdenes de insectos y —desde la **Fase A (2026-06-14)**— los **cinco reinos**: reino Fungi (7 notas), plantas en profundidad (briófitos→angiospermas, 7 notas) y procariotas/protistas. **Fase F (2026-07-02)** añade la **raíz cósmica** del vault: rama de Astronomía con 9 notas (Big Bang, nucleosíntesis, evolución estelar, formación del Sistema Solar, exoplanetas y zona habitable, meteoritos e impactos, escala del universo, métodos de la astronomía, astrobiología y origen de la vida) + MOC transversal "Del Big Bang a los humanos" que ata las 6 disciplinas. Plan v2 (Fase F completada) en [[Plan v2 - mecanismos y cosmos 2026-06-14]]; fases G–J en pausa. **Plan v3 (desde 2026-11-04)**: llevar Astronomía a ~100 notas con fuentes verificadas, en [[Plan v3 - Astronomía 2026-11-04]]. Catálogo de fuentes en [[Fuentes]].
 
 ## Cómo navegar
 
@@ -114,6 +114,12 @@ disciplinas: [astronomía, química, geología, biología, paleontología, antro
 - [[Problemas abiertos de la cosmología]] — tensiones de Hubble y S₈, DESI, litio, inflación, anomalías, asimetría materia-antimateria.
 - [[Contaminación lumínica y cielos oscuros]] — magnitud y crecimiento, impactos, satélites, Norma Lumínica chilena (D.S. N°1/2022).
 - [[El destino del universo]] — futuro del Sol y del Grupo Local, eras del universo, Gran Congelamiento, Desgarro o Colapso.
+
+### Casos reales
+- [[Casos - Sistema Solar]]: [[DART desvía la órbita de Dimorfos (2022)]] · [[Muestras de Bennu con ingredientes de la vida (2025)]] · [[Agua líquida en la corteza media de Marte (2024)]] · [[Volcán activo en Venus (2023)]] · [[Fosfatos en el océano de Encélado (2023)]] · [[Arrokoth, un planetesimal intacto (2019)]] · [[3I-ATLAS, el tercer visitante interestelar (2025)]] · [[2024 YR4 y la Luna (2024-2026)]]
+- [[Casos - Exoplanetas y astrobiología]]: [[Dióxido de carbono en WASP-39 b (2022)]] · [[El debate del DMS en K2-18 b (2023-2025)]] · [[TRAPPIST-1 b, roca sin atmósfera densa (2023)]] · [[Atmósfera secundaria en 55 Cancri e (2024)]] · [[La señal blc1 no era extraterrestre (2021)]] · [[El valle de radios de los exoplanetas (2017)]]
+- [[Casos - Astrofísica]]: [[GW150914, la primera onda gravitacional (2015)]] · [[GW170817, kilonova y origen del oro (2017)]] · [[La sombra del agujero negro de la Vía Láctea (2022)]] · [[Gaia BH3, agujero negro dormido de 33 masas solares (2024)]] · [[Agujero negro de masa intermedia en Omega Centauri (2024)]] · [[Neutrinos de la galaxia activa NGC 1068 (2022)]] · [[La Gran Atenuación de Betelgeuse (2019-2021)]]
+- [[Casos - Galaxias y cosmología]]: [[DESI sugiere energía oscura variable (2025)]] · [[Galaxias luminosas a 300 millones de años del Big Bang (2024)]] · [[Fondo de ondas gravitacionales con púlsares (2023)]] · [[La tensión de Hubble llega a 5 sigma (2022)]] · [[Vía Láctea y Andrómeda, fusión incierta (2025)]]
 
 ---
 
@@ -799,6 +805,8 @@ disciplinas: [astronomía, química, geología, biología, paleontología, antro
 ## Historial de actualizaciones
 
 > Cronología de cambios del vault (lo más reciente arriba). Movido al pie para no estorbar la navegación.
+
+> **Actualización 2026-11-05 (Plan v3 — Astronomía, Fase 6: casos reales, +26 casos y 4 hubs)**: casos basados en artículos revisados por pares verificados en Crossref o arXiv, con referencia APA al pie, en cuatro carpetas: [[Casos - Sistema Solar]] (8), [[Casos - Exoplanetas y astrobiología]] (6), [[Casos - Astrofísica]] (7) y [[Casos - Galaxias y cosmología]] (5). Astronomía pasa de 72 a 102 notas y supera la meta de ~100. Plan en [[Plan v3 - Astronomía 2026-11-04]].
 
 > **Actualización 2026-11-05 (repositorio: solo el vault)**: el sitio web paleo.sergiocubelli.space se retiró. Se eliminaron del repositorio Quartz, su configuración, el Dockerfile, docker-compose, nginx y la rama `site/quartz`. El repo queda como el vault de Obsidian y su README. Las menciones a Quartz en entradas anteriores de este registro son históricas.
 

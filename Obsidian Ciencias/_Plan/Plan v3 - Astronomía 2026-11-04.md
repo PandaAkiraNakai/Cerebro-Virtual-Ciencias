@@ -1,7 +1,7 @@
 ---
 tipo: plan
 fecha_inicio: 2026-11-04
-estado: en progreso (Fases 0 a 5 listas al 2026-11-05; sigue la Fase 6)
+estado: en progreso (Fases 0 a 6 listas al 2026-11-05; sigue la Fase 7)
 ---
 
 # Plan v3 — Astronomía: de rama introductoria a disciplina completa
@@ -205,7 +205,9 @@ Chile concentra una gran parte de la capacidad de observación óptica y radio d
 
 Astroquímica (→ Química) · Atmósferas de exoplanetas · Biofirmas y tecnofirmas · Defensa planetaria · Clima espacial · Arqueoastronomía y astronomía cultural (→ Antropología) · Problemas abiertos de la cosmología (tensión de Hubble) · Contaminación lumínica y cielos oscuros · El destino del universo.
 
-### Fase 6 — Casos reales (~22, en 4 carpetas con nota portada)
+### Fase 6 — Casos reales (~22, en 4 carpetas con nota portada) ✅ 2026-11-05
+> **Hecho**: 26 casos y 4 notas portada en `Casos - Sistema Solar/` (8), `Casos - Exoplanetas y astrobiología/` (6), `Casos - Astrofísica/` (7) y `Casos - Galaxias y cosmología/` (5; la carpeta de cosmología se amplió a galaxias). Quedaron fuera Ryugu y Jezero/Cheyava Falls, sin fuente verificable en Crossref. Astronomía: **102 notas**, meta cumplida.
+
 Carpetas `Casos - Sistema Solar/`, `Casos - Exoplanetas y astrobiología/`, `Casos - Astrofísica/` y `Casos - Cosmología/`. Candidatos, cada uno verificado con su paper antes de escribirlo:
 - Muestras de Bennu (OSIRIS-REx) con aminoácidos y bases nitrogenadas (2025).
 - Muestras de Ryugu (Hayabusa2).
