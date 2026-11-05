@@ -1,7 +1,7 @@
 ---
 tipo: plan
 fecha_inicio: 2026-11-04
-estado: en progreso (Fase 0 lista 2026-11-04; Fase 1 en curso)
+estado: en progreso (Fases 0 y 1 listas 2026-11-04; sigue la Fase 2)
 ---
 
 # Plan v3 — Astronomía: de rama introductoria a disciplina completa
@@ -175,7 +175,9 @@ Chile concentra una gran parte de la capacidad de observación óptica y radio d
 
 > Ajuste del 2026-11-04: Sergio fija la meta en **~100 notas** para la rama (antes ~50).
 
-### Fase 1 — Revisar las 10 notas existentes
+### Fase 1 — Revisar las 10 notas existentes ✅ 2026-11-04
+> **Hecho**: las 10 notas tienen `fuente:`/`url:`, `actualizado:` y una sección `## Referencias` en APA (59 referencias verificadas: DOIs comprobados en Crossref, datos del NASA Exoplanet Archive y páginas oficiales). Se corrigieron errores: ¹²⁶I→¹²⁹I, analogías de escala mal calculadas, «2 trillones» (calco del inglés), Milankovitch atribuido al Sol, Nobel 2002 atribuido a Bahcall, Curiosity ubicado en Jezero, «mistolitos» y datos superados (masa de Próxima b, Gliese 581 d, Fomalhaut b, Bombardeo Intenso Tardío presentado sin debate). Se añadieron la tensión de Hubble, DESI 2025 y K2-18 b con sus matices.
+
 - Agregar `fuente:`/`url:` (fuente principal) a cada nota y una sección `## Referencias` en APA con todas las fuentes verificadas.
 - Actualizar las cifras con fecha (exoplanetas: 6 451 al 2026-11-04; parámetros cosmológicos según Planck 2018 y la tensión de Hubble).
 - [[Métodos de la astronomía]] queda como nota panorámica de N3; el detalle pasa a las notas de la Fase 3.
@@ -193,7 +195,7 @@ Chile concentra una gran parte de la capacidad de observación óptica y radio d
 - **Estrellas y galaxias** (+13): Tipos de estrellas y diagrama H-R · Estrellas binarias y variables · Enanas blancas · Estrellas de neutrones y púlsares · Agujeros negros estelares · Agujeros negros supermasivos y cuásares · Nebulosas y medio interestelar · Cúmulos estelares · La Vía Láctea · El Grupo Local · Tipos de galaxias · Estructura a gran escala · Transientes (brotes gamma, FRB, kilonovas).
 
 ### Fase 5 — N5 (+9)
-Astroquímica (→ Química) · Atmósferas de exoplanetas · Biofirmas y tecnofirmas · Defensa planetaria · Clima espacial · Ciclos de Milankovitch (→ Geología y Paleontología) · Problemas abiertos de la cosmología (tensión de Hubble) · Contaminación lumínica y cielos oscuros · El destino del universo.
+Astroquímica (→ Química) · Atmósferas de exoplanetas · Biofirmas y tecnofirmas · Defensa planetaria · Clima espacial · Arqueoastronomía y astronomía cultural (→ Antropología) · Problemas abiertos de la cosmología (tensión de Hubble) · Contaminación lumínica y cielos oscuros · El destino del universo.
 
 ### Fase 6 — Casos reales (~22, en 4 carpetas con nota portada)
 Carpetas `Casos - Sistema Solar/`, `Casos - Exoplanetas y astrobiología/`, `Casos - Astrofísica/` y `Casos - Cosmología/`. Candidatos, cada uno verificado con su paper antes de escribirlo:
@@ -215,7 +217,7 @@ Carpetas `Casos - Sistema Solar/`, `Casos - Exoplanetas y astrobiología/`, `Cas
 - **MOCs nuevos** (en `_MOC/`): «MOC Sistema Solar», «MOC Observar el universo» y «MOC Vida de una estrella».
 - Engordar el [[MOC Del Big Bang a los humanos]] y enlazar con [[MOC Catástrofes globales]] (impactos y extinciones) y [[MOC Energía y materia]].
 - Puentes transversales:
-  - Geología: formación de la Tierra, cráteres, Milankovitch.
+  - Geología: formación de la Tierra, cráteres y la nota existente [[Ciclos de Milankovitch]] (no se duplica).
   - Química: nucleosíntesis, astroquímica.
   - Paleontología: impacto del límite K-Pg.
   - Biología: origen de la vida.
