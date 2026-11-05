@@ -1,7 +1,7 @@
 ---
 tipo: plan
 fecha_inicio: 2026-11-04
-estado: en progreso (Fases 0 a 3 listas 2026-11-04; sigue la Fase 4)
+estado: en progreso (Fases 0 a 4 listas al 2026-11-05; sigue la Fase 5)
 ---
 
 # Plan v3 — Astronomía: de rama introductoria a disciplina completa
@@ -194,7 +194,9 @@ Chile concentra una gran parte de la capacidad de observación óptica y radio d
 - **N2 Procesos** (+10): Gravitación y órbitas · Relatividad general · Formación estelar · Supernovas y muerte estelar · Fondo cósmico de microondas · Primeras estrellas y reionización · Formación y evolución de galaxias · Materia oscura · Energía oscura y expansión acelerada · Evolución de sistemas planetarios (migración).
 - **N3 Métodos** (+10): Telescopios ópticos · Radioastronomía e interferometría · Astronomía espacial (rayos X, gamma, infrarrojo) · Espectroscopía · Fotometría y curvas de luz · Escalera de distancias cósmicas · Métodos de detección de exoplanetas · Astronomía multimensajero · Observatorios de Chile · Grandes sondeos y ciencia de datos.
 
-### Fase 4 — N4: el inventario del cosmos (+24)
+### Fase 4 — N4: el inventario del cosmos (+24) ✅ 2026-11-05
+> **Hecho**: 24 notas con referencias verificadas. Datos actualizados de páginas oficiales: lunas de Júpiter (115), Saturno (293) y Urano (29); conteos de cuerpos menores de la base del JPL; BepiColombo, JUICE, Psyche y Voyager 1 a un día luz (18-nov-2026). El renderizador asigna ahora los sufijos a/b de APA automáticamente. Astronomía: 63 notas.
+
 - **Sistema Solar** (+11): El Sol · Mercurio y Venus · La Luna · Marte · Júpiter y Saturno · Urano y Neptuno · Lunas con océanos (Europa, Encélado, Titán) · Asteroides · Cometas · Cinturón de Kuiper y planetas enanos · Nube de Oort y objetos interestelares.
 - **Estrellas y galaxias** (+13): Tipos de estrellas y diagrama H-R · Estrellas binarias y variables · Enanas blancas · Estrellas de neutrones y púlsares · Agujeros negros estelares · Agujeros negros supermasivos y cuásares · Nebulosas y medio interestelar · Cúmulos estelares · La Vía Láctea · El Grupo Local · Tipos de galaxias · Estructura a gran escala · Transientes (brotes gamma, FRB, kilonovas).
 

@@ -59,6 +59,11 @@ Como nuevas misiones insignia, el decadal recomienda en primer lugar un **orbita
 - **Para la historia de la vida**: los impactos de asteroides marcaron la evolución biológica (ver [[Impacto de Chicxulub]]).
 - **Para el futuro**: la defensa planetaria, los recursos y la exploración humana.
 
+## Para profundizar (N4)
+
+- [[El Sol]] · [[Mercurio y Venus]] · [[La Luna]] · [[Marte]] · [[Júpiter y Saturno]] · [[Urano y Neptuno]] · [[Lunas con océanos]]
+- [[Asteroides]] · [[Cometas]] · [[Cinturón de Kuiper y planetas enanos]] · [[Nube de Oort y objetos interestelares]]
+
 ## Referencias
 
 <!-- apa-refs:start -->

@@ -63,6 +63,10 @@ En la IAU, estos temas corresponden a las divisiones H (*Interstellar Matter and
 - → **Astronomía**: el Sol es una estrella entre los cientos de miles de millones de la Vía Láctea (ver [[Evolución estelar - el Sol y las estrellas]]). Los elementos que forman la Tierra se reciclaron en el disco galáctico durante miles de millones de años antes de su formación (ver [[Nucleosíntesis estelar]]).
 - → **Ramas vecinas**: [[Astrofísica]] (física de estrellas y agujeros negros), [[Cosmología]] (el universo como un todo) y [[Mecánica celeste y astrometría]] (las órbitas que revelan masas).
 
+## Para profundizar (N4)
+
+- [[La Vía Láctea]] · [[El Grupo Local]] · [[Tipos de galaxias]] · [[Estructura a gran escala]] · [[Agujeros negros supermasivos y cuásares]] · [[Nebulosas y medio interestelar]] · [[Cúmulos estelares]]
+
 ## Referencias
 
 <!-- apa-refs:start -->

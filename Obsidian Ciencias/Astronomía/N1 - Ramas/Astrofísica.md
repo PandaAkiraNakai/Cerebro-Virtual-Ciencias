@@ -65,6 +65,10 @@ Otras preguntas concretas:
 - → **Física de la materia**: los estados de la materia en las estrellas, como el plasma o la materia degenerada, extienden la química de los estados (ver [[El átomo - partículas subatómicas]]).
 - → **Astronomía**: es el puente entre la observación ([[Métodos de la astronomía]]) y las ramas que estudian objetos concretos, como las [[Ciencias planetarias]], la [[Astronomía galáctica y extragaláctica]] y la [[Cosmología]].
 
+## Para profundizar (N4)
+
+- [[Tipos de estrellas y diagrama H-R]] · [[Estrellas binarias y variables]] · [[Enanas blancas]] · [[Estrellas de neutrones y púlsares]] · [[Agujeros negros estelares]] · [[Transientes - brotes gamma, FRB y kilonovas]]
+
 ## Referencias
 
 <!-- apa-refs:start -->

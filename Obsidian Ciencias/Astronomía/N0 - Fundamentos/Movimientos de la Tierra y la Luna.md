@@ -77,6 +77,10 @@ url: https://nssdc.gsfc.nasa.gov/planetary/factsheet/earthfact.html
 - → **Antropología**: los calendarios agrícolas y rituales se basan en el Sol y la Luna (ver [[Revolución neolítica]]).
 - → **Astronomía**: el origen de la Luna por un gran impacto se trata en [[Formación del Sistema Solar]].
 
+## Para profundizar
+
+- [[La Luna]] (origen, geografía, agua y exploración) · [[El Sol]] · [[Gravitación y órbitas]] (mareas a escala cósmica).
+
 ## Referencias
 
 <!-- apa-refs:start -->
