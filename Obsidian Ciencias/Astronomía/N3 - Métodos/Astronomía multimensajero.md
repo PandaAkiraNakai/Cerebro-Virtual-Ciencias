@@ -51,6 +51,14 @@ El **Observatorio Pierre Auger**, en Argentina, registró miles de rayos cósmic
 - Telescopios de neutrinos en el mar Mediterráneo y en el lago Baikal, además de IceCube.
 - Sondeos como el del Observatorio Rubin, capaces de encontrar en minutos la contraparte visible de una alerta de ondas gravitacionales (ver [[Grandes sondeos y ciencia de datos]]).
 
+## Casos reales
+
+- [[GW150914, la primera onda gravitacional (2015)]]
+- [[GW170817, kilonova y origen del oro (2017)]]
+- [[Gaia BH3, agujero negro dormido de 33 masas solares (2024)]]
+- [[Neutrinos de la galaxia activa NGC 1068 (2022)]]
+- [[Fondo de ondas gravitacionales con púlsares (2023)]]
+
 ## Referencias
 
 <!-- apa-refs:start -->

@@ -45,6 +45,10 @@ Una **candela estándar** es un objeto cuya luminosidad real se conoce. Compará
 - **Universo temprano** (fondo de microondas y ΛCDM): **H₀ = 67.4 ± 0.5 km/s/Mpc** (Planck Collaboration, 2020). Ver [[Fondo cósmico de microondas]].
 - **¿Qué significa?** O hay un error sistemático no detectado en algún peldaño, por ejemplo en la calibración de las cefeidas, o el modelo cosmológico necesita física nueva. Métodos independientes como la TRGB, las sirenas estándar y las lentes con retardo son claves para decidirlo.
 
+## Casos reales
+
+- [[La tensión de Hubble llega a 5 sigma (2022)]]
+
 ## Referencias
 
 <!-- apa-refs:start -->

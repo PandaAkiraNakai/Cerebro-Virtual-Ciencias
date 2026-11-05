@@ -42,6 +42,10 @@ El hidrógeno neutro emite y absorbe en la línea de **21 cm** (ver [[Luz y espe
 
 El JWST encontró **más galaxias luminosas en los primeros 500 millones de años** de lo que predecían los modelos (Carniani et al., 2024). Las explicaciones en discusión incluyen una formación estelar más eficiente, estrellas más masivas o agujeros negros que aportan luz. No obliga a abandonar el modelo cosmológico, pero sí a revisar cómo se forman las galaxias (ver [[Formación y evolución de galaxias]]).
 
+## Casos reales
+
+- [[Galaxias luminosas a 300 millones de años del Big Bang (2024)]]
+
 ## Referencias
 
 <!-- apa-refs:start -->

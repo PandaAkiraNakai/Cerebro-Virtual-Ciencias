@@ -84,6 +84,10 @@ Un nucleido inestable decae en cadena por pasos α y β hasta un isótopo **esta
 - **Energía**: centrales de fisión; perspectiva de la fusión.
 - **Riesgos**: radiación ionizante daña el ADN; gestión de residuos de larga vida; protección con blindaje, distancia y tiempo.
 
+## Conexión con la astronomía
+
+- [[Nucleosíntesis estelar]], [[El Sol]] (la fusión en el núcleo solar) y [[Supernovas y muerte estelar]].
+
 ## Enlaces
 
 - [[El átomo - partículas subatómicas]]

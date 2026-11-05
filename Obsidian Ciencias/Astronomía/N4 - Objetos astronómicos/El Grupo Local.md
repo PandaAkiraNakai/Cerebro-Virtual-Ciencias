@@ -46,6 +46,10 @@ url: https://doi.org/10.1038/s41550-025-02563-1
 
 El Grupo Local está en las afueras del **cúmulo de Virgo** y forma parte del supercúmulo **Laniakea** (ver [[Estructura a gran escala]]).
 
+## Casos reales
+
+- [[Vía Láctea y Andrómeda, fusión incierta (2025)]]
+
 ## Referencias
 
 <!-- apa-refs:start -->

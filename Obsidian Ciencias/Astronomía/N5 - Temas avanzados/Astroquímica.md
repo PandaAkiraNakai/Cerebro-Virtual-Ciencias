@@ -44,6 +44,10 @@ url: https://cdms.astro.uni-koeln.de/classic/molecules
 
 ¿Cuánto de la química de la vida se hereda del espacio y cuánto se fabricó en la Tierra? Los ladrillos (aminoácidos, bases nitrogenadas, azúcares) se forman fácilmente en el cosmos y llegaron a la Tierra en meteoritos y polvo. El paso de esos ladrillos a la vida sigue siendo el gran misterio (ver [[Astrobiología y origen de la vida]]).
 
+## Casos reales
+
+- [[Muestras de Bennu con ingredientes de la vida (2025)]]
+
 ## Referencias
 
 <!-- apa-refs:start -->

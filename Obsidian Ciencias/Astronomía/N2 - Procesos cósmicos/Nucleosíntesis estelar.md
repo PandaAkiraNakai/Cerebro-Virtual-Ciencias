@@ -57,6 +57,10 @@ La frase popularizada por Carl Sagan resume el hecho físico: **cada átomo más
 - → **Biología y paleontología**: los átomos de carbono, oxígeno, nitrógeno y fósforo que forman la vida y los fósiles (ver [[Macromoléculas biológicas]]).
 - → **Antropología**: el plomo en la evolución humana ([[Plomo y evolución humana - exposición prehistórica]]) también es producto de nucleosíntesis, en parte del proceso *s*.
 
+## Casos reales
+
+- [[GW170817, kilonova y origen del oro (2017)]]
+
 ## Referencias
 
 <!-- apa-refs:start -->

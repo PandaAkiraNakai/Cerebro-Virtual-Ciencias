@@ -67,6 +67,10 @@ India estaba simultáneamente erupcionando las **Trapps del Decán** (vulcanismo
 - Sin K–Pg no habría radiación mamífera, ni primates, ni humanos.
 - Marcó el **único impacto asteroidal** ligado a una extinción masiva global confirmada.
 
+## Conexión con la astronomía
+
+- [[Asteroides]], [[Meteoritos e impactos]] y [[Defensa planetaria]]: cómo se detectan y desvían hoy los asteroides peligrosos.
+
 ## Enlaces
 
 - [[Extinciones masivas]]

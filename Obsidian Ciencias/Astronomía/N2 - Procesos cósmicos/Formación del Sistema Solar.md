@@ -69,6 +69,10 @@ La teoría del **gran impacto** explica la Luna: un cuerpo del tamaño de Marte,
 - [[Formación estelar]] (el nacimiento del Sol y su disco) · [[Evolución de sistemas planetarios]] (migración, Niza, Grand Tack) · [[Ciencias planetarias]].
 - Los cuerpos uno por uno: ver [[Ciencias planetarias]] y [[La Luna]].
 
+## Casos reales
+
+- [[Arrokoth, un planetesimal intacto (2019)]]
+
 ## Referencias
 
 <!-- apa-refs:start -->

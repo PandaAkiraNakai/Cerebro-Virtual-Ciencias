@@ -48,6 +48,13 @@ url: https://doi.org/10.1038/s41586-022-05269-w
 - **ELT** (Chile): espectroscopía de alta resolución de planetas cercanos, incluidos posibles mundos rocosos templados (ver [[Telescopios ópticos]]).
 - **Telescopios espaciales futuros**, como el concepto *Habitable Worlds Observatory*, para fotografiar planetas parecidos a la Tierra alrededor de estrellas como el Sol.
 
+## Casos reales
+
+- [[Atmósfera secundaria en 55 Cancri e (2024)]]
+- [[Dióxido de carbono en WASP-39 b (2022)]]
+- [[El debate del DMS en K2-18 b (2023-2025)]]
+- [[TRAPPIST-1 b, roca sin atmósfera densa (2023)]]
+
 ## Referencias
 
 <!-- apa-refs:start -->

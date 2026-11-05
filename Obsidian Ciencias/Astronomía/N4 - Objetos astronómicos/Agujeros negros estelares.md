@@ -44,6 +44,12 @@ Las ondas gravitacionales revelaron agujeros negros de 30 a más de 100 masas so
 
 En 1974, Stephen Hawking mostró que, por efectos cuánticos, los agujeros negros deberían **emitir radiación** y evaporarse muy lentamente (Hawking, 1974). Para uno estelar, el tiempo de evaporación supera enormemente la edad del universo. Nunca se ha observado, pero conecta la gravedad con la mecánica cuántica y la termodinámica.
 
+## Casos reales
+
+- [[Agujero negro de masa intermedia en Omega Centauri (2024)]]
+- [[GW150914, la primera onda gravitacional (2015)]]
+- [[Gaia BH3, agujero negro dormido de 33 masas solares (2024)]]
+
 ## Referencias
 
 <!-- apa-refs:start -->

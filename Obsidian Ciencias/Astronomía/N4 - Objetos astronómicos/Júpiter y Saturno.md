@@ -47,6 +47,10 @@ Datos de las fichas técnicas de la NASA y de las páginas de lunas de NASA Scie
 - Su migración temprana probablemente redistribuyó asteroides y cometas, y con ellos el agua del Sistema Solar interior (ver [[Evolución de sistemas planetarios]]).
 - Sus lunas heladas son de los lugares más prometedores para buscar vida.
 
+## Casos reales
+
+- [[Fosfatos en el océano de Encélado (2023)]]
+
 ## Referencias
 
 <!-- apa-refs:start -->

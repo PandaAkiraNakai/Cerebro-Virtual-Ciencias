@@ -41,6 +41,10 @@ url: https://doi.org/10.1038/s41586-024-07511-z
 - **Corrientes estelares**: cúmulos y galaxias enanas desgarrados por las mareas de la Vía Láctea se estiran en largas corrientes. *Gaia* encontró decenas (ver [[La Vía Láctea]]).
 - **Los hermanos del Sol**: el Sol nació en un cúmulo que se dispersó hace miles de millones de años; se buscan sus «hermanas» por su química.
 
+## Casos reales
+
+- [[Agujero negro de masa intermedia en Omega Centauri (2024)]]
+
 ## Referencias
 
 <!-- apa-refs:start -->

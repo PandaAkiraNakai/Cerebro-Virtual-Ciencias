@@ -47,6 +47,10 @@ url: https://doi.org/10.1038/s41586-023-05987-9
 
 Tienen agua líquida, probablemente energía química en el fondo marino y elementos clave. Les falta lo más difícil de comprobar: **si la vida surge cuando se dan esas condiciones**. Encontrarla, o no encontrarla, en estos océanos ayudaría a saber si la vida es común en el universo.
 
+## Casos reales
+
+- [[Fosfatos en el océano de Encélado (2023)]]
+
 ## Referencias
 
 <!-- apa-refs:start -->

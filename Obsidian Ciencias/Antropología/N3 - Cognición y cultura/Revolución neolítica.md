@@ -108,6 +108,10 @@ La idea de "revolución" ha sido matizada:
 - No **unilineal** — muchos grupos retuvieron caza-recolección complementaria mucho tiempo.
 - No **necesariamente mejoraba la vida** — en muchos aspectos la empeoró.
 
+## Conexión con la astronomía
+
+- [[Arqueoastronomía y astronomía cultural]] y [[Movimientos de la Tierra y la Luna]]: los calendarios agrícolas se basaron en el Sol, la Luna y las estrellas.
+
 ## Enlaces
 
 - [[Arte y cognición simbólica]]

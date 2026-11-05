@@ -138,6 +138,10 @@ Las dataciones **nunca son perfectas**. Se busca:
 - Calibración contra estándares conocidos.
 - Barras de error explícitas.
 
+## Conexión con la astronomía
+
+- [[Meteoritos e impactos]] y [[Formación del Sistema Solar]]: la datación Pb-Pb de meteoritos fija la edad del Sistema Solar.
+
 ## Enlaces
 
 - [[ADN antiguo]]

@@ -51,6 +51,10 @@ Objetos de ~13 a ~80 masas de Júpiter que nunca alcanzan la temperatura para fu
 - **Las más grandes**: supergigantes rojas como Betelgeuse, que en el lugar del Sol llegarían más allá de la órbita de Marte (ver [[Supernovas y muerte estelar]]).
 - **Las más viejas**: estrellas del halo casi sin metales, de más de 13 000 millones de años (ver [[Primeras estrellas y reionización]]).
 
+## Casos reales
+
+- [[La Gran Atenuación de Betelgeuse (2019-2021)]]
+
 ## Referencias
 
 <!-- apa-refs:start -->

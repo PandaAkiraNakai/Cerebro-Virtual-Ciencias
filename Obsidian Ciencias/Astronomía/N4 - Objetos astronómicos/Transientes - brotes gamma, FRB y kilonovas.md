@@ -46,6 +46,10 @@ El brillo de una fusión de estrellas de neutrones, alimentado por la desintegra
 - **Rubin** genera hasta 7 millones de alertas por noche, y los intermediarios como **ALeRCE** (liderado desde Chile) las clasifican con aprendizaje automático (ver [[Grandes sondeos y ciencia de datos]]).
 - Las alertas de ondas gravitacionales, neutrinos y rayos gamma se cruzan para encontrar contrapartes en todo el espectro.
 
+## Casos reales
+
+- [[GW170817, kilonova y origen del oro (2017)]]
+
 ## Referencias
 
 <!-- apa-refs:start -->

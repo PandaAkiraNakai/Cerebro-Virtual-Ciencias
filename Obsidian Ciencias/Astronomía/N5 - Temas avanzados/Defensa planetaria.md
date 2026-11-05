@@ -46,6 +46,11 @@ url: https://doi.org/10.1038/s41586-023-05805-2
 - La **escala de Turín**, de 0 a 10, combina probabilidad y energía para comunicar al público. Casi todos los objetos están en 0.
 - Organismos internacionales coordinan la respuesta: la Red Internacional de Alerta de Asteroides (IAWN) y el Grupo Asesor para la Planificación de Misiones Espaciales (SMPAG), bajo el paraguas de Naciones Unidas.
 
+## Casos reales
+
+- [[2024 YR4 y la Luna (2024-2026)]]
+- [[DART desvía la órbita de Dimorfos (2022)]]
+
 ## Referencias
 
 <!-- apa-refs:start -->

@@ -49,6 +49,10 @@ En radio y en ondas milimétricas, las transiciones rotacionales de las molécul
 
 El **efecto Zeeman** separa las líneas en presencia de un campo magnético. Con él se miden los campos de las manchas solares y de otras estrellas.
 
+## Casos reales
+
+- [[Dióxido de carbono en WASP-39 b (2022)]]
+
 ## Referencias
 
 <!-- apa-refs:start -->

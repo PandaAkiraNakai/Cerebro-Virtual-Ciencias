@@ -71,6 +71,10 @@ En la IAU, la cosmología pertenece a la división J, *Galaxies and Cosmology* (
 
 - [[Problemas abiertos de la cosmología]] · [[El destino del universo]]
 
+## Casos reales
+
+- [[La tensión de Hubble llega a 5 sigma (2022)]]
+
 ## Referencias
 
 <!-- apa-refs:start -->

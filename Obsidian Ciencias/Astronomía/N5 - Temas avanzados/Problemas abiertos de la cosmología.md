@@ -56,6 +56,11 @@ El Big Bang debió producir materia y antimateria en cantidades casi iguales, pe
 
 Con más datos y métodos independientes: DESI, *Euclid*, el Observatorio Rubin, *Roman*, telescopios del fondo de microondas en el desierto de Atacama y detectores de ondas gravitacionales como «sirenas estándar» (ver [[Astronomía multimensajero]]).
 
+## Casos reales
+
+- [[DESI sugiere energía oscura variable (2025)]]
+- [[La tensión de Hubble llega a 5 sigma (2022)]]
+
 ## Referencias
 
 <!-- apa-refs:start -->

@@ -50,6 +50,15 @@ Ruta transversal por la **materia y sus transformaciones de energía**, del áto
 25. [[Celda de combustible de tierra]]
 26. [[Pirita con litio]]
 
+## La energía y la materia del cosmos
+
+- [[Nucleosíntesis estelar]] — dónde se forjan los átomos.
+- [[El Sol]] — la fusión nuclear que alimenta casi toda la energía de la superficie terrestre.
+- [[Luz y espectro electromagnético]] — la radiación como portadora de energía e información.
+- [[Astroquímica]] — química en el espacio, de los átomos a las moléculas orgánicas.
+- [[Materia oscura]] · [[Energía oscura y expansión acelerada]] — los componentes dominantes del universo.
+- [[MOC Vida de una estrella]] — ruta completa por el ciclo estelar.
+
 ## MOCs relacionados
 - [[MOC Materiales y enlaces]] — de la molécula al sólido funcional.
 - [[MOC Química al servicio del clima]] — química aplicada al clima y la energía.

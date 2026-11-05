@@ -64,6 +64,11 @@ Como nuevas misiones insignia, el decadal recomienda en primer lugar un **orbita
 - [[El Sol]] · [[Mercurio y Venus]] · [[La Luna]] · [[Marte]] · [[Júpiter y Saturno]] · [[Urano y Neptuno]] · [[Lunas con océanos]]
 - [[Asteroides]] · [[Cometas]] · [[Cinturón de Kuiper y planetas enanos]] · [[Nube de Oort y objetos interestelares]]
 
+## Casos reales
+
+- [[Agua líquida en la corteza media de Marte (2024)]]
+- [[Volcán activo en Venus (2023)]]
+
 ## Referencias
 
 <!-- apa-refs:start -->

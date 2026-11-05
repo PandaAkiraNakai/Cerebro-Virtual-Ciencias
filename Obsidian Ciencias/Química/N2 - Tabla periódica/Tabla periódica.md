@@ -129,6 +129,10 @@ Las propiedades cambian sistemáticamente a lo largo de la tabla. Ver detalle en
 - Base de la enseñanza de la química.
 - Una de las **mejores representaciones gráficas** de la ciencia: compactifica un enorme volumen de información.
 
+## Conexión con la astronomía
+
+- [[Nucleosíntesis estelar]]: dónde se forjó cada elemento (Big Bang, estrellas, supernovas y kilonovas). Ver también [[MOC Vida de una estrella]].
+
 ## Enlaces
 
 - [[Propiedades periódicas]]

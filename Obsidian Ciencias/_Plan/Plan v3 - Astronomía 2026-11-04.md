@@ -1,7 +1,7 @@
 ---
 tipo: plan
 fecha_inicio: 2026-11-04
-estado: en progreso (Fases 0 a 6 listas al 2026-11-05; sigue la Fase 7)
+estado: completado (2026-11-05)
 ---
 
 # Plan v3 — Astronomía: de rama introductoria a disciplina completa
@@ -223,7 +223,11 @@ Carpetas `Casos - Sistema Solar/`, `Casos - Exoplanetas y astrobiología/`, `Cas
 - Debate sobre K2-18 b y sus posibles biofirmas.
 - *(Lista abierta: se completa hasta ~22 durante la fase.)*
 
-### Fase 7 — Integración
+### Fase 7 — Integración ✅ 2026-11-05
+> **Hecho**: MOCs «Sistema Solar», «Observar el universo» y «Vida de una estrella»; «Del Big Bang a los humanos» ampliado a 40 entradas; secciones astronómicas en los MOCs de catástrofes, energía y métodos; «Conexión con la astronomía» en 15 notas de otras disciplinas; «Casos reales» en 44 notas de fundamentos; sección 🔭 Astronomía en [[Fuentes]].
+
+> **Plan v3 completado el 2026-11-05**: Astronomía pasó de 10 a **102 notas** (72 de fundamentos, 26 casos y 4 notas portada), más 3 MOCs, con 176 DOIs verificados. Las fases G–J del [[Plan v2 - mecanismos y cosmos 2026-06-14]] siguen en pausa.
+
 - **MOCs nuevos** (en `_MOC/`): «MOC Sistema Solar», «MOC Observar el universo» y «MOC Vida de una estrella».
 - Engordar el [[MOC Del Big Bang a los humanos]] y enlazar con [[MOC Catástrofes globales]] (impactos y extinciones) y [[MOC Energía y materia]].
 - Puentes transversales:

@@ -51,6 +51,10 @@ url: https://science.nasa.gov/mission/webb/
 | *Roman* (NASA) | Lanzado el 30 de agosto de 2026: energía oscura, exoplanetas por microlente y astrofísica infrarroja (NASA, s. f.-d) |
 | *PLATO* (ESA) | Planetas tipo Tierra alrededor de estrellas tipo Sol; lanzamiento previsto para abril de 2027 (European Space Agency, s. f.) |
 
+## Casos reales
+
+- [[Galaxias luminosas a 300 millones de años del Big Bang (2024)]]
+
 ## Referencias
 
 <!-- apa-refs:start -->

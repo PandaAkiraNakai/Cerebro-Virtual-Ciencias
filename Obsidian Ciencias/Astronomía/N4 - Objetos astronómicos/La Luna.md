@@ -58,6 +58,10 @@ Hace ~4 510 millones de años (Barboni et al., 2017), un cuerpo del tamaño de M
 - **Estabilidad del eje**: la Luna amortigua las variaciones de la inclinación del eje terrestre, lo que ayuda a mantener un clima relativamente estable (ver [[Ciclos de Milankovitch]]).
 - **Archivo de impactos**: las rocas lunares datan los impactos que también sufrió la Tierra primitiva (ver [[Meteoritos e impactos]] y [[Formación de la Tierra y Hadeico]]).
 
+## Casos reales
+
+- [[2024 YR4 y la Luna (2024-2026)]]
+
 ## Referencias
 
 <!-- apa-refs:start -->

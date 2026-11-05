@@ -37,6 +37,11 @@ Batygin y Brown (2016) observaron que las órbitas de los objetos más lejanos d
 
 Cuando la estrella envejece y se expande, engulle a sus planetas interiores (ver [[Evolución estelar - el Sol y las estrellas]]). Los planetas exteriores sobreviven en órbitas más amplias. Se han detectado enanas blancas «contaminadas» con restos de asteroides y planetas que cayeron sobre ellas.
 
+## Casos reales
+
+- [[El valle de radios de los exoplanetas (2017)]]
+- [[Arrokoth, un planetesimal intacto (2019)]]
+
 ## Referencias
 
 <!-- apa-refs:start -->

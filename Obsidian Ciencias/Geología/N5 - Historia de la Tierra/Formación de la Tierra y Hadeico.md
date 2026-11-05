@@ -74,6 +74,10 @@ La Tierra nació hace **4 540 millones de años (Ma)** como parte del Sistema So
 - El campo magnético se establece al solidificar parcialmente el núcleo (antes no había protección solar eficiente).
 - Marca el origen mismo del planeta vivo.
 
+## Conexión con la astronomía
+
+- [[Formación del Sistema Solar]] (el contexto cósmico), [[La Luna]] (el impacto de Theia) y [[Meteoritos e impactos]].
+
 ## Enlaces
 
 - [[Estructura interna de la Tierra]]

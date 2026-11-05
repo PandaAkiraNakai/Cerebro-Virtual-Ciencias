@@ -89,6 +89,10 @@ Dogma central: ADN → ARN → proteína. Ver [[ADN ARN y dogma central]] (pendi
 - Puentes de hidrógeno dan propiedades únicas (alto calor específico, tensión superficial).
 - Medio de reacciones bioquímicas.
 
+## Conexión con la astronomía
+
+- [[Astroquímica]] y [[Asteroides]]: aminoácidos y bases nitrogenadas formados en el espacio, como en las muestras de Bennu.
+
 ## Enlaces
 
 - [[Niveles de organización biológica]]

@@ -74,6 +74,11 @@ La Luna y otros cuerpos sin atmósfera ni tectónica activa conservan sus cráte
 
 - [[Defensa planetaria]]
 
+## Casos reales
+
+- [[DART desvía la órbita de Dimorfos (2022)]]
+- [[Muestras de Bennu con ingredientes de la vida (2025)]]
+
 ## Referencias
 
 <!-- apa-refs:start -->

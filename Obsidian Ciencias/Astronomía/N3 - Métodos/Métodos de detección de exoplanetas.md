@@ -54,6 +54,11 @@ El bamboleo de la estrella también se ve como un pequeño desplazamiento en el 
 - Los más comunes son **supertierras y mini-Neptunos**, que no existen en el Sistema Solar (ver [[Evolución de sistemas planetarios]]).
 - Los sesgos importan: los Júpiter calientes se descubrieron primero porque son los más fáciles de detectar, no porque sean los más comunes.
 
+## Casos reales
+
+- [[Atmósfera secundaria en 55 Cancri e (2024)]]
+- [[El valle de radios de los exoplanetas (2017)]]
+
 ## Referencias
 
 <!-- apa-refs:start -->

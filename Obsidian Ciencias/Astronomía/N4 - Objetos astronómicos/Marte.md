@@ -54,6 +54,10 @@ Marte tuvo agua líquida, energía química y los elementos de la vida. Los rove
 
 **Fobos** y **Deimos** son pequeñas e irregulares, quizá asteroides capturados o restos de un impacto. Fobos se acerca lentamente a Marte y en decenas de millones de años se romperá por las mareas (ver [[Gravitación y órbitas]]).
 
+## Casos reales
+
+- [[Agua líquida en la corteza media de Marte (2024)]]
+
 ## Referencias
 
 <!-- apa-refs:start -->

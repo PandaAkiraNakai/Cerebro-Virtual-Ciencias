@@ -44,6 +44,11 @@ Los satélites GPS orbitan donde la gravedad es más débil, así que sus reloje
 - **Gravedad cuántica**: la relatividad general y la mecánica cuántica aún no se han unificado.
 - **Materia y energía oscuras**: o existen, o la relatividad necesita modificarse a escalas galácticas y cosmológicas (ver [[Energía oscura y expansión acelerada]]).
 
+## Casos reales
+
+- [[GW150914, la primera onda gravitacional (2015)]]
+- [[La sombra del agujero negro de la Vía Láctea (2022)]]
+
 ## Referencias
 
 <!-- apa-refs:start -->

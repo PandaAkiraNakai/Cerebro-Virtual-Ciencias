@@ -52,6 +52,11 @@ Junto a los observatorios internacionales creció una comunidad astronómica nac
 - **Constelaciones de satélites**: dejan rastros en las imágenes e interfieren con las bandas de radio.
 - **Agua y energía**: la operación en el desierto obliga a usar recursos escasos de forma sostenible.
 
+## Casos reales
+
+- [[La Gran Atenuación de Betelgeuse (2019-2021)]]
+- [[3I-ATLAS, el tercer visitante interestelar (2025)]]
+
 ## Referencias
 
 <!-- apa-refs:start -->

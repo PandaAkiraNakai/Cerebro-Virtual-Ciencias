@@ -43,6 +43,10 @@ Al 2026-11-05 la base de datos de cuerpos menores del JPL registra **4 086 comet
 
 *Giotto* (Halley, 1986), *Stardust* (muestras de la coma de Wild 2), *Deep Impact* (impactador contra Tempel 1, 2005), *Rosetta* (67P) y la futura *Comet Interceptor* (ESA), que esperará en el espacio a un cometa recién llegado de la nube de Oort.
 
+## Casos reales
+
+- [[3I-ATLAS, el tercer visitante interestelar (2025)]]
+
 ## Referencias
 
 <!-- apa-refs:start -->

@@ -18,6 +18,12 @@ Eventos que **resetearon la biosfera** y dejaron marcas reconocibles a escala gl
 
 3. [[Impacto de Chicxulub]] — asteroide, fin del Cretácico (66 Ma).
 
+### Riesgo de impactos hoy
+
+- [[Defensa planetaria]] — detectar y desviar asteroides; DART y Hera.
+- [[Asteroides]] · [[Cometas]] — las poblaciones que pueden cruzarse con la Tierra.
+- [[DART desvía la órbita de Dimorfos (2022)]] · [[2024 YR4 y la Luna (2024-2026)]] — casos reales.
+
 ## Provincias Ígneas Grandes (LIPs) y vulcanismo masivo
 
 4. [[Hot spots y plumas mantélicas]] — motor de las LIPs.
@@ -51,6 +57,12 @@ Eventos que **resetearon la biosfera** y dejaron marcas reconocibles a escala gl
 20. [[Glaciar Hektoria - colapso récord]] — colapso glacial moderno.
 21. [[Glaciares surgentes - 3100 identificados]] — instabilidad emergente.
 22. [[Hongo ostra dorada - invasor en Florida]] — bioinvasión = catástrofe en cámara lenta.
+
+## Amenazas desde el espacio
+
+- [[Clima espacial]] — tormentas solares y su efecto sobre redes eléctricas y satélites.
+- [[Supernovas y muerte estelar]] — una supernova cercana podría dañar la capa de ozono.
+- [[MOC Sistema Solar]] — ruta completa por el vecindario cósmico.
 
 ## Volver al índice
 - [[Índice]]

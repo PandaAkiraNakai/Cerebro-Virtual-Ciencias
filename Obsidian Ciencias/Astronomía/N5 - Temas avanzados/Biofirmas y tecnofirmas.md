@@ -49,6 +49,11 @@ Meadows et al. (2018) analizaron el oxígeno, la biofirma favorita:
 
 La comunidad astrobiológica propone escalas de confianza para comunicar posibles detecciones paso a paso: de «señal interesante» a «vida confirmada». Una afirmación extraordinaria requiere evidencia extraordinaria, verificación independiente y descartar todas las explicaciones abióticas.
 
+## Casos reales
+
+- [[El debate del DMS en K2-18 b (2023-2025)]]
+- [[La señal blc1 no era extraterrestre (2021)]]
+
 ## Referencias
 
 <!-- apa-refs:start -->

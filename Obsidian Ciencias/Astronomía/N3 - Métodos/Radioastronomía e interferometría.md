@@ -49,6 +49,11 @@ url: https://www.almaobservatory.org/en/about-alma/
 
 Las **constelaciones de satélites** y las comunicaciones móviles invaden las bandas de radio protegidas. Los radiotelescopios se construyen en «zonas de silencio radioeléctrico», como el desierto de Atacama o el interior de Australia.
 
+## Casos reales
+
+- [[La sombra del agujero negro de la Vía Láctea (2022)]]
+- [[La señal blc1 no era extraterrestre (2021)]]
+
 ## Referencias
 
 <!-- apa-refs:start -->

@@ -47,6 +47,10 @@ Lógica del método:
 - No se midió datando una sola muestra: requiere **varias muestras de distintos cuerpos** para la isócrona.
 - **No es "la edad del universo"**: el universo tiene 13.8 Ga (cosmología independiente).
 
+## Conexión con la astronomía
+
+- [[Formación del Sistema Solar]]: los primeros sólidos del Sistema Solar datan de ~4 567 Ma, la referencia para la edad de la Tierra.
+
 ## Enlaces
 - [[Estructura interna de la Tierra]]
 - [[Formación de la Tierra y Hadeico]]

@@ -66,6 +66,10 @@ La frontera Arcaico-Proterozoico (2.500 Ma) marca:
 - Clima relativamente estable.
 - Los procesos geológicos modernos comienzan a dominar.
 
+## Conexión con la astronomía
+
+- [[Astrobiología y origen de la vida]] y [[Biofirmas y tecnofirmas]]: las huellas de la vida más antigua son el modelo para buscar vida en otros mundos.
+
 ## Enlaces
 
 - [[Formación de la Tierra y Hadeico]]

@@ -47,6 +47,12 @@ url: https://doi.org/10.1051/0004-6361/201935656
 
 En un cielo oscuro, la Vía Láctea es inconfundible. Desde el hemisferio sur, el **centro galáctico**, en Sagitario y Escorpio, pasa alto en las noches de invierno austral, con nubes de polvo que los pueblos andinos interpretaron como figuras (ver [[El cielo nocturno y la esfera celeste]]). La contaminación lumínica la oculta hoy a más de un tercio de la humanidad.
 
+## Casos reales
+
+- [[Agujero negro de masa intermedia en Omega Centauri (2024)]]
+- [[La sombra del agujero negro de la Vía Láctea (2022)]]
+- [[Vía Láctea y Andrómeda, fusión incierta (2025)]]
+
 ## Referencias
 
 <!-- apa-refs:start -->

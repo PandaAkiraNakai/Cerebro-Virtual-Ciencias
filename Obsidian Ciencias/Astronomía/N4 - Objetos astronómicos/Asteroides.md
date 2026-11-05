@@ -58,6 +58,12 @@ Ver [[Meteoritos e impactos]].
 
 - [[Defensa planetaria]]
 
+## Casos reales
+
+- [[2024 YR4 y la Luna (2024-2026)]]
+- [[DART desvía la órbita de Dimorfos (2022)]]
+- [[Muestras de Bennu con ingredientes de la vida (2025)]]
+
 ## Referencias
 
 <!-- apa-refs:start -->

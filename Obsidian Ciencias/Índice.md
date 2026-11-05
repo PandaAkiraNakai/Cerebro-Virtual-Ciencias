@@ -2,7 +2,7 @@
 tipo: MOC
 rol: índice-maestro
 actualizado: 2026-11-05
-notas_totales: 570
+notas_totales: 573
 fuente_base: ScienceDaily + colecciones museísticas + bases especializadas
 disciplinas: [astronomía, química, geología, biología, paleontología, antropología]
 ---
@@ -11,7 +11,7 @@ disciplinas: [astronomía, química, geología, biología, paleontología, antro
 
 > **Punto de entrada del vault.** Siempre consultar aquí primero. Toda nota nueva debe agregarse a este índice.
 
-**Estado actual**: **~570 notas** · 6 disciplinas con **N0-N5 completos** en paleontología, geología, biología, química, antropología y —desde la **Fase F (2026-07-02)**— **astronomía** · 13 MOCs temáticos · catálogo de fuentes ampliado · ~79 notas de casos reales · grafo **sin enlaces rotos**. Cobertura taxonómica: árbol completo de Dinosauria (~80 notas N4), Hominoidea (46 notas N4), reptiles modernos, 19 órdenes de insectos y —desde la **Fase A (2026-06-14)**— los **cinco reinos**: reino Fungi (7 notas), plantas en profundidad (briófitos→angiospermas, 7 notas) y procariotas/protistas. **Fase F (2026-07-02)** añade la **raíz cósmica** del vault: rama de Astronomía con 9 notas (Big Bang, nucleosíntesis, evolución estelar, formación del Sistema Solar, exoplanetas y zona habitable, meteoritos e impactos, escala del universo, métodos de la astronomía, astrobiología y origen de la vida) + MOC transversal "Del Big Bang a los humanos" que ata las 6 disciplinas. Plan v2 (Fase F completada) en [[Plan v2 - mecanismos y cosmos 2026-06-14]]; fases G–J en pausa. **Plan v3 (desde 2026-11-04)**: llevar Astronomía a ~100 notas con fuentes verificadas, en [[Plan v3 - Astronomía 2026-11-04]]. Catálogo de fuentes en [[Fuentes]].
+**Estado actual**: **~573 notas** · 6 disciplinas con **N0-N5 completos** en paleontología, geología, biología, química, antropología y —desde la **Fase F (2026-07-02)**— **astronomía** · 16 MOCs temáticos · catálogo de fuentes ampliado · ~79 notas de casos reales · grafo **sin enlaces rotos**. Cobertura taxonómica: árbol completo de Dinosauria (~80 notas N4), Hominoidea (46 notas N4), reptiles modernos, 19 órdenes de insectos y —desde la **Fase A (2026-06-14)**— los **cinco reinos**: reino Fungi (7 notas), plantas en profundidad (briófitos→angiospermas, 7 notas) y procariotas/protistas. **Fase F (2026-07-02)** añade la **raíz cósmica** del vault: rama de Astronomía con 9 notas (Big Bang, nucleosíntesis, evolución estelar, formación del Sistema Solar, exoplanetas y zona habitable, meteoritos e impactos, escala del universo, métodos de la astronomía, astrobiología y origen de la vida) + MOC transversal "Del Big Bang a los humanos" que ata las 6 disciplinas. Plan v2 (Fase F completada) en [[Plan v2 - mecanismos y cosmos 2026-06-14]]; fases G–J en pausa. **Plan v3 (desde 2026-11-04)**: llevar Astronomía a ~100 notas con fuentes verificadas, en [[Plan v3 - Astronomía 2026-11-04]]. Catálogo de fuentes en [[Fuentes]].
 
 ## Cómo navegar
 
@@ -752,7 +752,10 @@ disciplinas: [astronomía, química, geología, biología, paleontología, antro
 - [[MOC Vida temprana]] — Hadeico → Cámbrico, transversal Geo + Paleo + Bio.
 - [[MOC Árbol de la vida]] — los cinco reinos y los vertebrados orden por orden; mapa de la taxonomía completa.
 - [[MOC Energía y materia]] — del átomo a la Tierra y la vida; materia y sus transformaciones de energía.
-- [[MOC Del Big Bang a los humanos]] — la raíz cósmica del vault; arco Big Bang → elementos → planetas → vida → humanos, transversal a las 6 disciplinas.
+- [[MOC Del Big Bang a los humanos]] — el arco Big Bang → elementos → planetas → vida → humanos, transversal a las 6 disciplinas.
+- [[MOC Sistema Solar]] — el vecindario cósmico de dentro hacia afuera: origen, Sol, planetas, lunas, cuerpos menores, riesgos y vida.
+- [[MOC Observar el universo]] — mensajeros, instrumentos, técnicas y datos de la astronomía; cómo sabemos lo que sabemos del cosmos.
+- [[MOC Vida de una estrella]] — de la nube molecular al cadáver estelar y el reciclaje de los elementos.
 
 ## Fuentes
 
@@ -805,6 +808,8 @@ disciplinas: [astronomía, química, geología, biología, paleontología, antro
 ## Historial de actualizaciones
 
 > Cronología de cambios del vault (lo más reciente arriba). Movido al pie para no estorbar la navegación.
+
+> **Actualización 2026-11-05 (Plan v3 — Astronomía, Fase 7: integración; plan completado)**: tres MOCs nuevos: [[MOC Sistema Solar]], [[MOC Observar el universo]] y [[MOC Vida de una estrella]]. [[MOC Del Big Bang a los humanos]] se amplió de 26 a 40 entradas, y [[MOC Catástrofes globales]], [[MOC Energía y materia]] y [[MOC Métodos científicos]] ganaron secciones astronómicas. 15 notas de geología, química, paleontología, biología y antropología tienen ahora una sección «Conexión con la astronomía», y 44 notas de fundamentos de Astronomía enlazan sus casos reales. [[Fuentes]] incorpora la sección 🔭 Astronomía. **Plan v3 completado: Astronomía = 102 notas.**
 
 > **Actualización 2026-11-05 (Plan v3 — Astronomía, Fase 6: casos reales, +26 casos y 4 hubs)**: casos basados en artículos revisados por pares verificados en Crossref o arXiv, con referencia APA al pie, en cuatro carpetas: [[Casos - Sistema Solar]] (8), [[Casos - Exoplanetas y astrobiología]] (6), [[Casos - Astrofísica]] (7) y [[Casos - Galaxias y cosmología]] (5). Astronomía pasa de 72 a 102 notas y supera la meta de ~100. Plan en [[Plan v3 - Astronomía 2026-11-04]].
 

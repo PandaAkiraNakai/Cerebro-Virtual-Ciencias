@@ -53,6 +53,10 @@ Casi todas las galaxias grandes tienen un agujero negro supermasivo en el centro
 - ¿Cómo exactamente se «apagan» las galaxias?
 - ¿Hay menos galaxias satélite pequeñas de las que predicen los modelos de materia oscura fría?
 
+## Casos reales
+
+- [[Galaxias luminosas a 300 millones de años del Big Bang (2024)]]
+
 ## Referencias
 
 <!-- apa-refs:start -->

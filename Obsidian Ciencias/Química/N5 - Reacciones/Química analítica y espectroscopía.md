@@ -79,6 +79,10 @@ A menudo se acoplan a un detector (GC-MS, LC-MS) combinando separación e identi
 | AA / ICP | Líneas atómicas | Metales (cuantitativo) |
 | GC / HPLC | Reparto entre fases | Separación de mezclas |
 
+## Conexión con la astronomía
+
+- [[Espectroscopía]] y [[Luz y espectro electromagnético]]: la misma física permite saber de qué están hechas las estrellas. Ver también [[Astroquímica]].
+
 ## Enlaces
 
 - [[Geometría molecular]]

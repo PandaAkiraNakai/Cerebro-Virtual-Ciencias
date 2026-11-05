@@ -72,21 +72,21 @@ Obsidian Ciencias/
 │   ├── N0-N5/                       átomo → termodinámica
 │   └── Casos - */                   energía, materiales, clima
 │
-├── _MOC/                            13 índices temáticos transversales
+├── _MOC/                            16 índices temáticos transversales
 ├── _Fuentes/                        catálogo de repositorios por disciplina
 └── _Plan/                           planes de expansión y registro de fases
 ```
 
 ## Estado actual
 
-**~570 notas** · las **6 disciplinas con currículum N0–N5** · grafo **sin enlaces rotos**:
+**~573 notas** · las **6 disciplinas con currículum N0–N5** · grafo **sin enlaces rotos**:
 - **Astronomía** (Plan v3): 102 notas con **referencias APA verificadas**, con DOIs comprobados en Crossref y datos de NASA, ESA, ESO, IAU y el NASA Exoplanet Archive con fecha de consulta.
 - **Los cinco reinos** (Biología N4): reino Fungi, plantas de briófitos a angiospermas, protistas y procariotas.
 - **Vertebrados por órdenes**: mamíferos, aves (dinosaurios vivientes), peces y anfibios, además de 19 órdenes de insectos y 10 reptiles modernos.
 - **Dinosauria** (~80 notas N4): árbol completo Saurischia/Ornithischia con clados y familias.
 - **Hominoidea** (~46 notas N4): desde Strepsirrhini y Tarsiiformes hasta *Homo sapiens*.
 - **~112 notas de casos reales** con cita y URL verificadas, agrupadas por subtema.
-- **13 MOCs temáticos** transversales, entre ellos «Del Big Bang a los humanos», «Árbol de la vida» y «Energía y materia».
+- **16 MOCs temáticos** transversales, entre ellos «Del Big Bang a los humanos», «Árbol de la vida», «Energía y materia», «Sistema Solar», «Observar el universo» y «Vida de una estrella».
 - **Catálogo de fuentes** por disciplina en `_Fuentes/`.
 
 ## Cómo usarlo
@@ -125,5 +125,5 @@ Obsidian Ciencias/
 Ver `.gitignore` para el listado completo.
 
 <!-- profile-excerpt -->
-Vault Obsidian construido como **cerebro virtual de ciencias** — ~570 notas N0→N5 en seis disciplinas: **astronomía, química, geología, biología, paleontología y antropología**, unidas por el arco Big Bang → vida → humanos. Incluye los cinco reinos, Dinosauria y Hominoidea al detalle, 13 MOCs transversales y una rama de astronomía con **referencias APA verificadas** (DOIs comprobados, datos de NASA/ESA/ESO). Grafo sin enlaces rotos.
+Vault Obsidian construido como **cerebro virtual de ciencias** — ~573 notas N0→N5 en seis disciplinas: **astronomía, química, geología, biología, paleontología y antropología**, unidas por el arco Big Bang → vida → humanos. Incluye los cinco reinos, Dinosauria y Hominoidea al detalle, 16 MOCs transversales y una rama de astronomía con **referencias APA verificadas** (DOIs comprobados, datos de NASA/ESA/ESO). Grafo sin enlaces rotos.
 <!-- /profile-excerpt -->

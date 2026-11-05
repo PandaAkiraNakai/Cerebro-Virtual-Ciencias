@@ -1,7 +1,7 @@
 ---
 tipo: catálogo
 rol: fuentes-referencia
-actualizado: 2026-04-24
+actualizado: 2026-11-05
 ---
 
 # 📚 Fuentes — Catálogo de repositorios
@@ -247,6 +247,129 @@ Federan datos de cientos de museos en un solo portal.
 | NASA Earthdata | https://www.earthdata.nasa.gov/ | Observación terrestre |
 
 ---
+
+## 🔭 Astronomía
+
+Fuentes verificadas el 2026-11-04 para el [[Plan v3 - Astronomía 2026-11-04]]. **Jerarquía de uso**: primero los papers revisados por pares (con DOI, vía NASA ADS o arXiv), luego las bases de datos oficiales para las cifras (NASA Exoplanet Archive, JPL), los organismos de normas (IAU) y, por último, los comunicados de observatorios y agencias, siempre siguiendo el enlace hasta el paper. Cada cifra se cita con su fecha de consulta.
+
+Estado de la verificación: ✅ responde · 🛡️ existe, pero bloquea clientes automáticos · ⏳ sin conexión desde la torre al verificar.
+
+### 🛰️ Agencias espaciales y archivos de datos
+
+| Fuente | URL | Uso | Estado |
+|---|---|---|---|
+| NASA Science ⭐ | https://science.nasa.gov/ | Portal de misiones y divulgación oficial | ✅ |
+| NASA Exoplanet Archive ⭐ | https://exoplanetarchive.ipac.caltech.edu/ | Censo oficial de exoplanetas (consultable por TAP) | ✅ |
+| NASA Planetary Fact Sheet (NSSDCA) ⭐ | https://nssdc.gsfc.nasa.gov/planetary/factsheet/ | Datos físicos de planetas y lunas | ✅ |
+| JPL Solar System Dynamics ⭐ | https://ssd.jpl.nasa.gov/ | Órbitas, efemérides, cuerpos menores | ✅ |
+| JPL CNEOS | https://cneos.jpl.nasa.gov/ | Asteroides cercanos y riesgo de impacto | ✅ |
+| NASA JPL | https://www.jpl.nasa.gov/ | Misiones planetarias | ✅ |
+| NASA Astrobiology | https://astrobiology.nasa.gov/ | Programa y estrategia de astrobiología | ✅ |
+| NASA HEASARC | https://heasarc.gsfc.nasa.gov/ | Astrofísica de altas energías (rayos X y gamma) | ✅ |
+| NASA APOD | https://apod.nasa.gov/ | Imagen diaria con explicación de astrónomos | ✅ |
+| NASA Eyes | https://eyes.nasa.gov/ | Visualización 3D del Sistema Solar | ✅ |
+| ESA ⭐ | https://www.esa.int/ | Agencia Espacial Europea | ✅ |
+| ESA Science & Technology | https://sci.esa.int/ | Fichas técnicas de misiones científicas | ✅ |
+| ESA Gaia | https://www.cosmos.esa.int/web/gaia | Mapa 3D de la Vía Láctea (astrometría) | ✅ |
+| ESA Planetary Defence | https://www.esa.int/Space_Safety/Planetary_Defence | Defensa planetaria (Hera, DART) | ✅ |
+| Planck Legacy Archive | https://pla.esac.esa.int/ | Fondo cósmico de microondas | ✅ |
+| JAXA | https://global.jaxa.jp/ | Hayabusa2 y muestras de Ryugu | ✅ |
+| STScI | https://www.stsci.edu/ | Opera el Hubble y el JWST | ✅ |
+| MAST (archivo STScI) | https://archive.stsci.edu/ | Datos del Hubble, JWST, TESS y Kepler | ✅ |
+| ESA/Webb | https://esawebb.org/ | Imágenes y comunicados del JWST | ✅ |
+| ESA/Hubble | https://esahubble.org/ | Imágenes y comunicados del Hubble | ✅ |
+| HubbleSite | https://hubblesite.org/ | Divulgación oficial del Hubble | ✅ |
+| Chandra X-ray Center | https://chandra.harvard.edu/ | Universo en rayos X | ✅ |
+| NOAA SWPC | https://www.swpc.noaa.gov/ | Clima espacial (actividad solar) | ✅ |
+
+### 📏 Organismos de normas y nomenclatura
+
+| Fuente | URL | Uso | Estado |
+|---|---|---|---|
+| Unión Astronómica Internacional (IAU) ⭐ | https://www.iau.org/ | Definiciones oficiales y nombres de estrellas y planetas | ✅ |
+| Minor Planet Center ⭐ | https://minorplanetcenter.net/ | Registro oficial de asteroides, cometas y objetos interestelares | ✅ |
+| Gazetteer of Planetary Nomenclature (USGS/IAU) | https://planetarynames.wr.usgs.gov/ | Nombres de cráteres y accidentes geográficos de otros cuerpos | ✅ |
+| CDS Strasbourg (SIMBAD / VizieR) | https://cds.unistra.fr/ | Base de objetos astronómicos y catálogos | ⏳ |
+
+### 🏔️ Observatorios en Chile
+
+Chile concentra una gran parte de la capacidad de observación óptica y radio del mundo. Además, estos observatorios publican en español.
+
+| Fuente | URL | Uso | Estado |
+|---|---|---|---|
+| ESO ⭐ | https://www.eso.org/public/ | VLT (Paranal) y La Silla: comunicados enlazados a papers | ✅ |
+| ESO en Chile | https://www.eso.org/public/chile/ | Presencia de ESO en Chile, en español | ✅ |
+| ESO ELT | https://elt.eso.org/ | Extremely Large Telescope (Cerro Armazones) | ✅ |
+| ALMA ⭐ | https://www.almaobservatory.org/ | Radiointerferómetro: astroquímica y formación planetaria | ✅ |
+| Observatorio Vera C. Rubin ⭐ | https://rubinobservatory.org/ | Sondeo LSST: cielo variable y cuerpos menores | ✅ |
+| NOIRLab | https://noirlab.edu/public/ | Gestiona Cerro Tololo, Gemini Sur y Rubin | ✅ |
+| Cerro Tololo (CTIO) | https://noirlab.edu/public/programs/ctio/ | Observatorio Interamericano Cerro Tololo | ✅ |
+| Observatorio Las Campanas | https://www.lco.cl/ | Telescopios Magallanes (Carnegie) | ✅ |
+| Giant Magellan Telescope | https://giantmagellan.org/ | Telescopio gigante en construcción | ✅ |
+
+### 🌍 Otros observatorios y colaboraciones
+
+| Fuente | URL | Uso | Estado |
+|---|---|---|---|
+| LIGO (Caltech) | https://www.ligo.caltech.edu/ | Ondas gravitacionales: divulgación | ✅ |
+| LIGO Scientific Collaboration | https://www.ligo.org/ | Ondas gravitacionales: papers y resúmenes de detecciones | ✅ |
+| Event Horizon Telescope | https://eventhorizontelescope.org/ | Imágenes de agujeros negros (M87*, Sgr A*) | 🛡️ |
+| SDSS | https://www.sdss.org/ | Mapa espectroscópico de galaxias | ✅ |
+| SKA Observatory | https://www.skao.int/ | Radiotelescopio de próxima generación | ✅ |
+| Instituto de Astrofísica de Canarias ⭐ | https://www.iac.es/ | Centro de investigación con divulgación en español | ✅ |
+
+### 🎓 Universidades y centros de investigación
+
+| Fuente | URL | Uso | Estado |
+|---|---|---|---|
+| Depto. de Astronomía, U. de Chile | https://www.das.uchile.cl/ | Investigación chilena (Cerro Calán) | ✅ |
+| Instituto de Astrofísica, PUC | https://www.astro.puc.cl/ | Investigación chilena | ✅ |
+| CATA (Centro de Astrofísica y Tecnologías Afines) | https://www.cata.cl/ | Centro basal chileno | ✅ |
+| Instituto Milenio de Astrofísica (MAS) | https://www.astrofisicamas.cl/ | Astronomía de datos y transientes | ✅ |
+| Sociedad Chilena de Astronomía (SOCHIAS) | https://www.sochias.cl/ | Comunidad astronómica profesional de Chile | ✅ |
+| Depto. de Astronomía, U. de Concepción | — | Investigación chilena | ⏳ falta la URL correcta |
+| Center for Astrophysics, Harvard & Smithsonian ⭐ | https://www.cfa.harvard.edu/ | Investigación; opera ADS y Chandra | ✅ |
+| Caltech Astronomy | https://www.astro.caltech.edu/ | Investigación | ✅ |
+| Max Planck Institute for Astronomy | https://www.mpia.de/ | Formación estelar y planetaria, galaxias | ✅ |
+| Institute of Astronomy, Cambridge | https://www.ast.cam.ac.uk/ | Investigación | ✅ |
+| Carnegie Science | https://carnegiescience.edu/ | Las Campanas, ciencias planetarias | ✅ |
+| Lunar and Planetary Institute ⭐ | https://www.lpi.usra.edu/ | Ciencias planetarias y Meteoritical Bulletin | ✅ (base de meteoritos 🛡️) |
+| SETI Institute | https://www.seti.org/ | Astrobiología y tecnofirmas | ✅ |
+| ICRAR | https://www.icrar.org/ | Radioastronomía (SKA) | ✅ |
+
+### 📄 Literatura científica
+
+| Fuente | URL | Uso | Estado |
+|---|---|---|---|
+| NASA ADS ⭐ | https://ui.adsabs.harvard.edu/ | **Buscador principal** de literatura astronómica, con DOI y citas | ✅ |
+| arXiv astro-ph ⭐ | https://arxiv.org/archive/astro-ph | Preprints (verificar luego la versión publicada) | ✅ |
+| Annual Review of Astronomy and Astrophysics ⭐ | https://www.annualreviews.org/content/journals/astro | Revisiones de estado del arte: ideal para notas N2–N5 | 🛡️ |
+| AAS Journals (ApJ, AJ, PSJ) | https://journals.aas.org/ | Revistas de la American Astronomical Society (acceso abierto) | ✅ |
+| Astronomy & Astrophysics | https://www.aanda.org/ | Revista europea | 🛡️ |
+| MNRAS | https://academic.oup.com/mnras | Royal Astronomical Society (acceso abierto) | 🛡️ |
+| Nature Astronomy | https://www.nature.com/natastron/ | Resultados de alto impacto | ✅ |
+| The Open Journal of Astrophysics | https://astro.theoj.org/ | Acceso abierto «diamante» | ✅ |
+
+### 🧭 Informes estratégicos
+
+| Informe | URL | Uso | Estado |
+|---|---|---|---|
+| *Pathways to Discovery in Astronomy and Astrophysics for the 2020s* (Astro2020) ⭐ | https://nap.nationalacademies.org/catalog/26141 | Grandes preguntas de la astrofísica de esta década | ✅ título verificado |
+| *Origins, Worlds, and Life* (decadal planetario 2023–2032) ⭐ | https://nap.nationalacademies.org/catalog/26522 | Prioridades de ciencias planetarias y astrobiología | ✅ título verificado |
+| ESA Voyage 2050 | https://www.cosmos.esa.int/web/voyage-2050 | Plan científico de largo plazo de la ESA | ✅ |
+
+### 📚 Libros abiertos, herramientas y divulgación (capa 6: no se citan como dato)
+
+| Fuente | URL | Uso | Estado |
+|---|---|---|---|
+| OpenStax *Astronomy 2e* ⭐ | https://openstax.org/details/books/astronomy-2e | Libro universitario abierto: columna vertebral para N0–N3 | ✅ |
+| Stellarium | https://stellarium.org/ | Planetario libre: esfera celeste | ✅ |
+| Exoplanet.eu | https://exoplanet.eu/ | Catálogo europeo de exoplanetas (contraste con el de NASA) | ✅ |
+| Sky & Telescope | https://skyandtelescope.org/ | Divulgación (siempre seguir hasta el paper) | ✅ |
+| The Planetary Society | https://www.planetary.org/ | Divulgación de ciencias planetarias | ✅ |
+| SpaceWeatherLive | https://www.spaceweatherlive.com/ | Actividad solar en tiempo real | ✅ |
+
+> Las notas de Astronomía citan además 176 artículos con DOI comprobado en Crossref; cada referencia está en la sección `## Referencias` de la nota que la usa.
 
 ## 📰 Revistas científicas Open Access
 

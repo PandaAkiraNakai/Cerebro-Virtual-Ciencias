@@ -38,6 +38,11 @@ Estrellas de neutrones con campos magnéticos de unos mil billones de veces el t
 
 La fusión de dos estrellas de neutrones, observada en **GW170817**, produce ondas gravitacionales, un brote de rayos gamma y una **kilonova** que forja oro y platino (ver [[Nucleosíntesis estelar]] y [[Astronomía multimensajero]]).
 
+## Casos reales
+
+- [[GW170817, kilonova y origen del oro (2017)]]
+- [[Fondo de ondas gravitacionales con púlsares (2023)]]
+
 ## Referencias
 
 <!-- apa-refs:start -->

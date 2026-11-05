@@ -92,6 +92,10 @@ El pico carbonífero se debe a vastos bosques que enterraron carbono (de ahí lo
 - Metabolismo aerobio permitió movilidad, depredación, cerebros grandes.
 - La fotosíntesis sigue sosteniendo la biosfera hoy.
 
+## Conexión con la astronomía
+
+- [[Biofirmas y tecnofirmas]] y [[Atmósferas de exoplanetas]]: el oxígeno atmosférico como posible biofirma, y sus falsos positivos.
+
 ## Enlaces
 
 - [[Formación de la Tierra y Hadeico]]

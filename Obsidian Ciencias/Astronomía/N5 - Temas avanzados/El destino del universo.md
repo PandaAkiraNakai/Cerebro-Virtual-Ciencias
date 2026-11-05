@@ -48,6 +48,11 @@ Adams y Laughlin (1997) dividieron el futuro en eras según las potencias de die
 
 Las escalas de este futuro superan cualquier intuición. Comparado con la era estelífera, todo lo ocurrido hasta hoy, desde el Big Bang hasta la historia humana, ocupa una fracción minúscula del comienzo (ver [[Escala del universo]] y [[Tiempo profundo]]).
 
+## Casos reales
+
+- [[DESI sugiere energía oscura variable (2025)]]
+- [[Vía Láctea y Andrómeda, fusión incierta (2025)]]
+
 ## Referencias
 
 <!-- apa-refs:start -->

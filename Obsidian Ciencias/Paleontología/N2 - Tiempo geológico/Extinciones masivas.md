@@ -50,6 +50,10 @@ La **P–T** (252 Ma) es la peor extinción conocida.
 - **Liberan nichos**: tras cada extinción, los supervivientes **radian** (explosión adaptativa).
 - Sin la K–Pg no habría **mamíferos grandes** ni humanos.
 
+## Conexión con la astronomía
+
+- [[Defensa planetaria]], [[Meteoritos e impactos]] y [[Supernovas y muerte estelar]]: las causas astronómicas posibles de una extinción.
+
 ## Enlaces
 
 - [[Escala del tiempo geológico]]

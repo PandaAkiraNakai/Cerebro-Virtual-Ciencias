@@ -50,6 +50,10 @@ En el sistema formado por dos cuerpos grandes, como el Sol y la Tierra, existen 
 
 En la IAU estos temas forman la división A, *Fundamental Astronomy* (International Astronomical Union, s. f.).
 
+## Casos reales
+
+- [[Gaia BH3, agujero negro dormido de 33 masas solares (2024)]]
+
 ## Referencias
 
 <!-- apa-refs:start -->

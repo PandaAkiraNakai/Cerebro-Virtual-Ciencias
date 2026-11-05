@@ -75,6 +75,10 @@ El calentamiento antropogénico actual **reverso** la tendencia natural: sin emi
 - **No predicen** eventos abruptos (Dansgaard-Oeschger, Younger Dryas) — esos son feedbacks internos, no orbitales.
 - **No son la única causa** del clima: tectónica, CO₂, circulación oceánica, feedbacks biogeoquímicos importan comparablemente en escalas >1 Ma.
 
+## Conexión con la astronomía
+
+- [[Movimientos de la Tierra y la Luna]] y [[Mecánica celeste y astrometría]]: los ciclos son mecánica celeste aplicada a la órbita y el eje terrestres. Ver también [[La Luna]], que estabiliza la inclinación del eje.
+
 ## Enlaces
 
 - [[Glaciaciones]]

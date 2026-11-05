@@ -57,6 +57,10 @@ Entre fines de 2019 y comienzos de 2020, la supergigante roja Betelgeuse se oscu
 - **Hipernovas y brotes de rayos gamma largos**: colapso de estrellas muy masivas y de rotación rápida, que lanzan chorros relativistas.
 - **Supernovas por inestabilidad de pares**: estrellas de más de ~130 masas solares que se desintegran por completo, sin dejar resto. Se cree que eran posibles en las primeras estrellas (ver [[Primeras estrellas y reionización]]).
 
+## Casos reales
+
+- [[La Gran Atenuación de Betelgeuse (2019-2021)]]
+
 ## Referencias
 
 <!-- apa-refs:start -->

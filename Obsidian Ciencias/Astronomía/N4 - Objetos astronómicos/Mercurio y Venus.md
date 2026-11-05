@@ -47,6 +47,10 @@ Datos de las fichas técnicas de la NASA:
 - Venus muestra cómo un planeta parecido a la Tierra puede volverse inhabitable: una lección para el clima terrestre y para interpretar exoplanetas.
 - Mercurio enseña cómo se forman los planetas cerca de su estrella, un caso muy común entre los exoplanetas.
 
+## Casos reales
+
+- [[Volcán activo en Venus (2023)]]
+
 ## Referencias
 
 <!-- apa-refs:start -->

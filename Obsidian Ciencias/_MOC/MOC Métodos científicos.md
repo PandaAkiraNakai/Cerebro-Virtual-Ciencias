@@ -55,5 +55,11 @@ Ruta transversal sobre **cómo se sabe lo que se sabe**: las técnicas que conec
 24. [[Teoría de orbitales moleculares]] — espectroscopía y estructura.
 25. [[GOFLOW - corrientes oceánicas con IA]] — IA aplicada a observación remota.
 
+## Observar el universo (astronomía)
+
+- [[Espectroscopía]] · [[Fotometría y curvas de luz]] · [[Escalera de distancias cósmicas]] · [[Métodos de detección de exoplanetas]]
+- [[Telescopios ópticos]] · [[Radioastronomía e interferometría]] · [[Astronomía espacial]] · [[Grandes sondeos y ciencia de datos]]
+- [[MOC Observar el universo]] — ruta completa.
+
 ## Volver al índice
 - [[Índice]]

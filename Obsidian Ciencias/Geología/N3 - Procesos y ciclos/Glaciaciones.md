@@ -98,6 +98,10 @@ Tras el LGM, el hielo se retira. Eventos:
 - Próxima glaciación natural esperada en ~50 000 años (por parámetros orbitales).
 - **Influencia humana actual**: aumento de CO₂ podría suprimir la próxima glaciación y/o derretir casquetes. Ver [[Groenlandia deshielo hace 7000 años]].
 
+## Conexión con la astronomía
+
+- [[Ciclos de Milankovitch]] y [[Movimientos de la Tierra y la Luna]]: el ritmo astronómico de las glaciaciones.
+
 ## Enlaces
 
 - [[Meteorización y erosión]]

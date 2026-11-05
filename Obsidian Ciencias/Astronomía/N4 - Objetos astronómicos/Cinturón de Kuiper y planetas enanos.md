@@ -45,6 +45,10 @@ El 1 de enero de 2019, New Horizons pasó junto a **(486958) Arrokoth**, un obje
 
 El agrupamiento de las órbitas de los objetos más lejanos llevó a proponer un «Planeta Nueve» de unas 10 masas terrestres (Batygin & Brown, 2016). No se ha encontrado; el sondeo del Observatorio Rubin debería confirmarlo o descartarlo (ver [[Evolución de sistemas planetarios]]).
 
+## Casos reales
+
+- [[Arrokoth, un planetesimal intacto (2019)]]
+
 ## Referencias
 
 <!-- apa-refs:start -->

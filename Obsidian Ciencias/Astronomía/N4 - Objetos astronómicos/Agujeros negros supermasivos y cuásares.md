@@ -44,6 +44,12 @@ Ferrarese y Merritt (2000) encontraron una relación ajustada entre la masa del 
 - El cuásar más lejano conocido en 2021, J0313−1806, está a z = 7.64, cuando el universo tenía ~670 millones de años, y ya tenía un agujero negro de ~1 600 millones de masas solares (Wang et al., 2021).
 - Combinando el JWST y Chandra, se detectó en la galaxia **UHZ1** un agujero negro en rayos X a z ≈ 10, apenas ~470 millones de años después del Big Bang (Bogdán et al., 2023). Apoya la idea de que algunos nacieron ya grandes, por **colapso directo** de nubes de gas, y no solo a partir de restos estelares.
 
+## Casos reales
+
+- [[La sombra del agujero negro de la Vía Láctea (2022)]]
+- [[Neutrinos de la galaxia activa NGC 1068 (2022)]]
+- [[Fondo de ondas gravitacionales con púlsares (2023)]]
+
 ## Referencias
 
 <!-- apa-refs:start -->

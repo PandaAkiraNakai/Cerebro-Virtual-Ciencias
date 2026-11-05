@@ -77,6 +77,12 @@ Una **biofirma** es una señal observable que, con alta probabilidad, requiere v
 
 - [[Biofirmas y tecnofirmas]] · [[Astroquímica]] · [[Atmósferas de exoplanetas]]
 
+## Casos reales
+
+- [[Agua líquida en la corteza media de Marte (2024)]]
+- [[Fosfatos en el océano de Encélado (2023)]]
+- [[Muestras de Bennu con ingredientes de la vida (2025)]]
+
 ## Referencias
 
 <!-- apa-refs:start -->

@@ -38,6 +38,10 @@ Un objeto interestelar se reconoce porque su órbita es **hiperbólica**: viaja 
 - Su frecuencia indica cuánto material expulsan los sistemas planetarios al formarse.
 - El sondeo del Observatorio Rubin debería descubrir muchos más (ver [[Grandes sondeos y ciencia de datos]]). La misión *Comet Interceptor* (ESA) podría llegar a visitar uno.
 
+## Casos reales
+
+- [[3I-ATLAS, el tercer visitante interestelar (2025)]]
+
 ## Referencias
 
 <!-- apa-refs:start -->

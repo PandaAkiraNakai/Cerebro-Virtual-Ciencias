@@ -77,6 +77,15 @@ El paso siguiente es la **caracterización atmosférica**:
 
 - [[Atmósferas de exoplanetas]] · [[Biofirmas y tecnofirmas]]
 
+## Casos reales
+
+- [[Atmósfera secundaria en 55 Cancri e (2024)]]
+- [[Dióxido de carbono en WASP-39 b (2022)]]
+- [[El debate del DMS en K2-18 b (2023-2025)]]
+- [[El valle de radios de los exoplanetas (2017)]]
+- [[La señal blc1 no era extraterrestre (2021)]]
+- [[TRAPPIST-1 b, roca sin atmósfera densa (2023)]]
+
 ## Referencias
 
 <!-- apa-refs:start -->

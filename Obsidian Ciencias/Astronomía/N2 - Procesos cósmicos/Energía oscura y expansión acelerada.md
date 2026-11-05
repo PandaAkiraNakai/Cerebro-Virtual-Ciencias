@@ -47,6 +47,10 @@ La segunda entrega de datos de **DESI** (2025) midió las oscilaciones acústica
 - Si la energía oscura crece con el tiempo: **Gran Desgarro**.
 - Si se debilita, como insinúa DESI, la aceleración podría detenerse e incluso revertirse en un futuro muy lejano. Ver [[Big Bang y cosmología]].
 
+## Casos reales
+
+- [[DESI sugiere energía oscura variable (2025)]]
+
 ## Referencias
 
 <!-- apa-refs:start -->

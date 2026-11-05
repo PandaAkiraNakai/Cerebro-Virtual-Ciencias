@@ -47,6 +47,10 @@ La intuición evolucionó para escalas de vida corta. "Millones de años" no se 
 - Usar **referencias ancla** (Ej.: "el Cretácico terminó hace 66 Ma").
 - Visualizar **escalas logarítmicas**.
 
+## Conexión con la astronomía
+
+- [[Escala del universo]], [[Big Bang y cosmología]] y [[El destino del universo]]: el tiempo profundo a escala cósmica.
+
 ## Enlaces
 
 - [[Escala del tiempo geológico]]
